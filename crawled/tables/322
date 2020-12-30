@@ -1,0 +1,126 @@
+<table class="data">
+			<tbody><tr valign="top">
+				<td class="label"><label for="query">Search for</label></td>
+				<td class="value">
+																<input type="text" id="query" name="query" size="40" maxlength="255" value="" class="textField">
+										&nbsp;
+					<input type="submit" value="Search" class="button defaultButton">
+				</td>
+			</tr>
+							<tr valign="top">
+					<td class="label"><label for="searchJournal">Within</label></td>
+					<td class="value"><select name="searchJournal" id="searchJournal" class="selectMenu"><option label="All Journals" value="">All Journals</option>
+<option label="SAINS TANAH - Journal of Soil Science and Agroclimatology" value="234">SAINS TANAH - Journal of Soil Science and Agroclimatology</option>
+<option label="Livestock and Animal Research" value="364">Livestock and Animal Research</option>
+<option label="AgriHealth: Journal of Agri-food, Nutrition and Public Health" value="363">AgriHealth: Journal of Agri-food, Nutrition and Public Health</option>
+<option label="Journal of Global Environmental Dynamics" value="370">Journal of Global Environmental Dynamics</option>
+<option label="Jurnal Olahraga dan Prestasi" value="358">Jurnal Olahraga dan Prestasi</option>
+<option label="PHEDHERAL" value="357">PHEDHERAL</option>
+<option label="Prosiding Seminar Nasional Linguistik dan Sastra (SEMANTIKS)" value="356">Prosiding Seminar Nasional Linguistik dan Sastra (SEMANTIKS)</option>
+<option label="Matriks Teknik Sipil" value="353">Matriks Teknik Sipil</option>
+<option label="PRIMA: Journal of Community Empowering and Services" value="340">PRIMA: Journal of Community Empowering and Services</option>
+<option label="EQUILIBRIUM Journal of Chemical Enginering" value="336">EQUILIBRIUM Journal of Chemical Enginering</option>
+<option label="Mekanika: Majalah Ilmiah Mekanika" value="326">Mekanika: Majalah Ilmiah Mekanika</option>
+<option label="Verstek" value="304">Verstek</option>
+<option label="BELLI AC PACIS" value="298">BELLI AC PACIS</option>
+<option label="Ekosains" value="294">Ekosains</option>
+<option label="TEXFILE Jurnal Ilmiah Tekstil" value="292">TEXFILE Jurnal Ilmiah Tekstil</option>
+<option label="Indonesian Journal of Applied Statistics" value="290">Indonesian Journal of Applied Statistics</option>
+<option label="Social, Humanities, and Educational Studies (SHEs): Conference Series" value="286">Social, Humanities, and Educational Studies (SHEs): Conference Series</option>
+<option label="Teknodika" value="284">Teknodika</option>
+<option label="Basastra: Jurnal Bahasa, Sastra, dan Pengajarannya" value="280">Basastra: Jurnal Bahasa, Sastra, dan Pengajarannya</option>
+<option label="Jurnal Pendidikan Matematika dan Matematika SOLUSI" value="270">Jurnal Pendidikan Matematika dan Matematika SOLUSI</option>
+<option label="Jurnal Pendidikan Kimia" value="268">Jurnal Pendidikan Kimia</option>
+<option label="PKn Progresif: Jurnal Pemikiran dan Penelitian Kewarganegaraan" value="254">PKn Progresif: Jurnal Pemikiran dan Penelitian Kewarganegaraan</option>
+<option label="Early Childhood Education and Development Journal" value="252">Early Childhood Education and Development Journal</option>
+<option label="Jurnal Tania" value="250">Jurnal Tania</option>
+<option label="Journal of Informatics and Vocational Education" value="248">Journal of Informatics and Vocational Education</option>
+<option label="Jurnal Pustaka Ilmiah" value="236">Jurnal Pustaka Ilmiah</option>
+<option label="Smart Medical Journal" value="228">Smart Medical Journal</option>
+<option label="PLACENTUM: Jurnal Ilmiah Kesehatan dan Aplikasinya" value="224">PLACENTUM: Jurnal Ilmiah Kesehatan dan Aplikasinya</option>
+<option label="Proceeding of International Conference on Art, Language, and Culture" value="222">Proceeding of International Conference on Art, Language, and Culture</option>
+<option label="Jurnal Hukum dan Pembangunan Ekonomi" value="218">Jurnal Hukum dan Pembangunan Ekonomi</option>
+<option label="Jurnal Privat Law" value="216">Jurnal Privat Law</option>
+<option label="Jurnal Repertorium" value="214">Jurnal Repertorium</option>
+<option label="BISE: Jurnal Pendidikan Bisnis dan Ekonomi" value="212">BISE: Jurnal Pendidikan Bisnis dan Ekonomi</option>
+<option label="Jurnal Pendidikan Insan Mandiri" value="210">Jurnal Pendidikan Insan Mandiri</option>
+<option label="Agrotechnology Research Journal" value="204">Agrotechnology Research Journal</option>
+<option label="Indonesian Journal Of Civil Engineering Education" value="200">Indonesian Journal Of Civil Engineering Education</option>
+<option label="Agrosains : Jurnal Penelitian Agronomi" value="198">Agrosains : Jurnal Penelitian Agronomi</option>
+<option label="Caraka Tani: Journal of Sustainable Agriculture" value="196">Caraka Tani: Journal of Sustainable Agriculture</option>
+<option label="JPI (Jurnal Pendidikan Indonesia): Jurnal Ilmiah Pendidikan" value="190">JPI (Jurnal Pendidikan Indonesia): Jurnal Ilmiah Pendidikan</option>
+<option label="DWIJA CENDEKIA: Jurnal Riset Pedagogik" value="188">DWIJA CENDEKIA: Jurnal Riset Pedagogik</option>
+<option label="Jurnal Pendidikan Dasar" value="186">Jurnal Pendidikan Dasar</option>
+<option label="Didaktika Dwija Indria" value="184">Didaktika Dwija Indria</option>
+<option label="AGRITEXTS: Journal of Agricultural Extension" value="182">AGRITEXTS: Journal of Agricultural Extension</option>
+<option label="BESTUUR" value="180">BESTUUR</option>
+<option label="Journal of Mathematics and Mathematics Education" value="178">Journal of Mathematics and Mathematics Education</option>
+<option label="Kumara Cendekia" value="176">Kumara Cendekia</option>
+<option label="Jurnal Pembelajaran Matematika" value="174">Jurnal Pembelajaran Matematika</option>
+<option label="NEXUS" value="172">NEXUS</option>
+<option label="Jurnal Pendidikan Fisika (Online)" value="170">Jurnal Pendidikan Fisika (Online)</option>
+<option label="Jurnal Materi dan Pembelajaran Fisika" value="168">Jurnal Materi dan Pembelajaran Fisika</option>
+<option label="English Education" value="166">English Education</option>
+<option label="INKUIRI: Jurnal Pendidikan IPA" value="164">INKUIRI: Jurnal Pendidikan IPA</option>
+<option label="ELTINDO" value="162">ELTINDO</option>
+<option label="Jurnal Analisa Sosiologi" value="160">Jurnal Analisa Sosiologi</option>
+<option label="SEPA: Jurnal Sosial Ekonomi Pertanian dan Agribisnis" value="158">SEPA: Jurnal Sosial Ekonomi Pertanian dan Agribisnis</option>
+<option label="Southeast Asian Journal of Social and Political Issues" value="154">Southeast Asian Journal of Social and Political Issues</option>
+<option label="Jurnal Agrotek" value="152">Jurnal Agrotek</option>
+<option label="HISTORIKA" value="150">HISTORIKA</option>
+<option label="Jurnal Psikoedukasi dan Konseling" value="148">Jurnal Psikoedukasi dan Konseling</option>
+<option label="Performa: Media Ilmiah Teknik Industri" value="144">Performa: Media Ilmiah Teknik Industri</option>
+<option label="Desa-Kota" value="142">Desa-Kota</option>
+<option label="ARSITEKTURA" value="140">ARSITEKTURA</option>
+<option label="JKPK (Jurnal Kimia dan Pendidikan Kimia)" value="138">JKPK (Jurnal Kimia dan Pendidikan Kimia)</option>
+<option label="PAEDAGOGIA" value="136">PAEDAGOGIA</option>
+<option label="Haluan Sastra Budaya" value="106">Haluan Sastra Budaya</option>
+<option label="Media Pustaka" value="76">Media Pustaka</option>
+<option label="Yustisia Jurnal Hukum" value="38">Yustisia Jurnal Hukum</option>
+<option label="Fokus Manajerial" value="40">Fokus Manajerial</option>
+<option label="Region :  Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif" value="28">Region :  Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif</option>
+<option label="ALCHEMY Jurnal Penelitian Kimia" value="4">ALCHEMY Jurnal Penelitian Kimia</option>
+<option label="Bioedukasi: Jurnal Pendidikan Biologi" value="80">Bioedukasi: Jurnal Pendidikan Biologi</option>
+<option label="SEMAR (Jurnal Ilmu Pengetahuan, Teknologi, dan Seni bagi Masyarakat)" value="26">SEMAR (Jurnal Ilmu Pengetahuan, Teknologi, dan Seni bagi Masyarakat)</option>
+<option label="Jurnal Pendidikan Biologi" value="124">Jurnal Pendidikan Biologi</option>
+<option label="Proceeding Biology Education Conference: Biology, Science, Enviromental, and Learning" value="126">Proceeding Biology Education Conference: Biology, Science, Enviromental, and Learning</option>
+<option label="Jurnal Gizi Kesehatan" value="132">Jurnal Gizi Kesehatan</option>
+<option label="GeoEco" value="130">GeoEco</option>
+<option label="Jurnal Ilmiah Pendidikan Teknik dan Kejuruan" value="128">Jurnal Ilmiah Pendidikan Teknik dan Kejuruan</option>
+<option label="BIO-PEDAGOGI" value="122">BIO-PEDAGOGI</option>
+<option label="International Journal of Pedagogy and Teacher Education" value="116">International Journal of Pedagogy and Teacher Education</option>
+<option label="DILEMA" value="114">DILEMA</option>
+<option label="Journal of Architecture and Built Environment" value="112">Journal of Architecture and Built Environment</option>
+<option label="Jurnal Komunikasi Massa" value="108">Jurnal Komunikasi Massa</option>
+<option label="International Journal of Science and Applied Science: Conference Series" value="104">International Journal of Science and Applied Science: Conference Series</option>
+<option label="Sains Peternakan: Jurnal Penelitian Ilmu Peternakan" value="46">Sains Peternakan: Jurnal Penelitian Ilmu Peternakan</option>
+<option label="Journal of Rural and Development" value="22">Journal of Rural and Development</option>
+<option label="Jurnal Rehabilitasi dan Remediasi" value="74">Jurnal Rehabilitasi dan Remediasi</option>
+<option label="Jurnal Kewirausahaan dan Bisnis" value="24">Jurnal Kewirausahaan dan Bisnis</option>
+<option label="JPSCR: Journal of Pharmaceutical Science and Clinical Research" value="42">JPSCR: Journal of Pharmaceutical Science and Clinical Research</option>
+<option label="Jurnal Bisnis dan Manajemen (Journal of Business and Management)" value="52">Jurnal Bisnis dan Manajemen (Journal of Business and Management)</option>
+<option label="Indonesian Journal of Applied Informatics" value="82">Indonesian Journal of Applied Informatics</option>
+<option label="Sebelas Maret Business Review" value="72">Sebelas Maret Business Review</option>
+<option label="Jurnal Ilmu Ekonomi dan Pembangunan" value="32">Jurnal Ilmu Ekonomi dan Pembangunan</option>
+<option label="PRASASTI: Journal of Linguistics" value="8">PRASASTI: Journal of Linguistics</option>
+<option label="INDONESIAN JOURNAL OF APPLIED PHYSICS" value="7">INDONESIAN JOURNAL OF APPLIED PHYSICS</option>
+<option label="PROSIDING PRASASTI" value="6">PROSIDING PRASASTI</option>
+<option label="EKUILIBRIUM Journal of Chemical Engineering" value="92">EKUILIBRIUM Journal of Chemical Engineering</option>
+<option label="Spirit Publik: Jurnal Administrasi Publik" value="48">Spirit Publik: Jurnal Administrasi Publik</option>
+<option label="Proceeding of Chemistry Conferences" value="78">Proceeding of Chemistry Conferences</option>
+<option label="ITSMART: Jurnal Teknologi dan Informasi" value="10">ITSMART: Jurnal Teknologi dan Informasi</option>
+<option label="IJIE (Indonesian Journal of Informatics Education)" value="100">IJIE (Indonesian Journal of Informatics Education)</option>
+<option label="Jurnal Teknologi Hasil Pertanian" value="70">Jurnal Teknologi Hasil Pertanian</option>
+<option label="Jurnal Teknosains Pangan" value="68">Jurnal Teknosains Pangan</option>
+<option label="Prosiding SNFA (Seminar Nasional Fisika dan Aplikasinya)" value="86">Prosiding SNFA (Seminar Nasional Fisika dan Aplikasinya)</option>
+<option label="Proceeding of the International Conference on  Teacher Training and Education" value="96">Proceeding of the International Conference on  Teacher Training and Education</option>
+<option label="Journal of Physics: Theories and Applications" value="88">Journal of Physics: Theories and Applications</option>
+<option label="Dialektika Masyarakat: Jurnal Sosiologi" value="84">Dialektika Masyarakat: Jurnal Sosiologi</option>
+<option label="Jurnal CMES" value="62">Jurnal CMES</option>
+<option label="Cakra Wisata" value="16">Cakra Wisata</option>
+<option label="Jurnal Riset Rekayasa Sipil" value="20">Jurnal Riset Rekayasa Sipil</option>
+<option label="Journal of Applied Economics in Developing Countries" value="30">Journal of Applied Economics in Developing Countries</option>
+<option label="Journal of Electrical, Electronic, Information, and Communication Technology" value="44">Journal of Electrical, Electronic, Information, and Communication Technology</option>
+</select></td>
+				</tr>
+								</tbody></table></br>

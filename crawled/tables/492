@@ -1,0 +1,438 @@
+<table id="example" border="0" cellspacing="0" cellpadding="0">
+<thead>
+<tr>
+<th width="13%"><span style="color: #0000ff;"><strong>NIM</strong></span></th>
+<th width="25%"><span style="color: #0000ff;"><strong>NAMA</strong></span></th>
+<th width="35%"><span style="color: #0000ff;"><strong>PEMBIMBING AKADEMIK</strong></span></th>
+<th width="35%"><span style="color: #0000ff;"><strong>FACEBOOK</strong></span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>K4211001</td>
+<td>ANGGUN BUDI SATRIYA</td>
+<td>Drs. Edy Suryanto, M.Pd</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/anggun.budisatriya" target="_blank"><span style="color: #ff9900;">FB Anggun Budi Satriya</span></a></span></td>
+</tr>
+<tr>
+<td>K4211002</td>
+<td>ANGGUN PUTRI APRILIA</td>
+<td>Dra. Raheni Suhita, M.Hum</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/anggunputriaprilia" target="_blank"><span style="color: #ff9900;">FB Anggun Putri Aprilia</span></a></span></td>
+</tr>
+<tr>
+<td>K4211003</td>
+<td>ANTON KURNIAWAN</td>
+<td>Atikah Anindyarini, SS., M.Hum</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/juzt.anton" target="_blank"><span style="color: #ff9900;">FB Anton Kurniawan</span></a></span></td>
+</tr>
+<tr>
+<td>K4211004</td>
+<td>ARI SETYORINI</td>
+<td>Dr. Rr. E. Nugraheni Eko W, S.S., M.Hum</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/setyorinni.arri" target="_blank"><span style="color: #ff9900;">FB Ari Setyorini</span></a></span></td>
+</tr>
+<tr>
+<td>K4211005</td>
+<td>ARI SRIWANTO</td>
+<td>Dr. Andayani, M.Pd</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/arie.s.sawit" target="_blank"><span style="color: #ff9900;">FB Ari Sriwanto</span></a></span></td>
+</tr>
+<tr>
+<td>K4211006</td>
+<td>BAGUS WAHYU SETYAWAN</td>
+<td>Drs. Edy Suryanto, M.Pd</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/bagus.w.setyawan" target="_blank"><span style="color: #ff9900;">FB Bagus Wahyu Setyawan</span></a></span></td>
+</tr>
+<tr>
+<td>K4211007</td>
+<td>BETTY YULIANTI</td>
+<td>Dr. Budhi Setiawan, M.Pd.</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/bettybettul"><span style="color: #ff9900;">FB Betty Yulianti</span></a></span></td>
+</tr>
+<tr>
+<td>K4211008</td>
+<td>BINTI NUR LATIFAH</td>
+<td>Budi Waluyo, S.S. M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/binty.latifah" target="_blank"><span style="color: #ff9900;">FB Binti Nur Latifah</span></a></td>
+</tr>
+<tr>
+<td>K4211009</td>
+<td>CATUR ERNAWATI S</td>
+<td>Sri Hastuti, S.S., M.Pd.</td>
+<td><span style="color: #000000;">–</span></td>
+</tr>
+<tr>
+<td>K4211010</td>
+<td>CHRISTINA TITIS HD</td>
+<td>Budi Waluyo, S.S. M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/cthd.christinatitishaadaadeehh" target="_blank"><span style="color: #ff9900;">FB Christina Titis HD</span></a></td>
+</tr>
+<tr>
+<td>K4211011</td>
+<td>DESI ROSITA</td>
+<td>Dr. Kundharu Saddhono, S.S, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/desi.rosita.7" target="_blank"><span style="color: #ff9900;">FB Desi Rosita</span></a></td>
+</tr>
+<tr>
+<td>K4211012</td>
+<td>DEWI SETYANING TYAS</td>
+<td>Dr. Kundharu Saddhono, S.S, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/deui.dewii" target="_blank"><span style="color: #ff9900;">FB Dewi Setyaning Tyas</span></a></td>
+</tr>
+<tr>
+<td>K4211013</td>
+<td>DIARNY WIDYASTUTI</td>
+<td>Dr. Kundharu Saddhono, S.S, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/diarny.widyastuti" target="_blank"><span style="color: #ff9900;">FB Diarny Widyastuti</span></a></td>
+</tr>
+<tr>
+<td>K4211014</td>
+<td>DWI RATNA</td>
+<td>Drs. Edy Suryanto, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/dwi.ratna.900" target="_blank"><span style="color: #ff9900;">FB Dwi Ratna</span></a></td>
+</tr>
+<tr>
+<td>K4211015</td>
+<td>DWI SETYARINI</td>
+<td>Dr. Kundharu Saddhono, S.S, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/dwhie.tyarini" target="_blank"><span style="color: #ff9900;">FB Dwi Setyarini</span></a></td>
+</tr>
+<tr>
+<td>K4211016</td>
+<td>DYAH AYU MEILINDASARI</td>
+<td>Dr. Kundharu Saddhono, S.S, M.Hum</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/mei.linda.5" target="_blank"><span style="color: #ff9900;">FB Dyah Ayu Meilindasari</span></a></span></td>
+</tr>
+<tr>
+<td>K4211017</td>
+<td>EVI FATMALA K</td>
+<td>Dra. Raheni Suhita, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/evi.alirsyad" target="_blank"><span style="color: #ff9900;">FB Evi Fatmala</span></a></td>
+</tr>
+<tr>
+<td>K4211018</td>
+<td>EVI FERY ASTUTIK</td>
+<td>Dra. Raheni Suhita, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/evi.fery.3" target="_blank"><span style="color: #ff9900;">FB Evy Fery Astutik</span></a></td>
+</tr>
+<tr>
+<td>K4211019</td>
+<td>FITRIANA KARTIKA S</td>
+<td>Dr. Suyitno, M. Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/fitriana.kartikasari.3?ref=ts&amp;fref=ts" target="_blank"><span style="color: #ff9900;">FB Fitriana kartika S</span></a></td>
+</tr>
+<tr>
+<td>K4211020</td>
+<td>IWUNG YANZON KARISSA</td>
+<td>Budi Waluyo, S.S. M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/iwung.karissa" target="_blank"><span style="color: #ff9900;">FB Iwung Yanzon Karissa</span></a></td>
+</tr>
+<tr>
+<td>K4211021</td>
+<td>KARTIKA RAHMAT SARI</td>
+<td>Drs. Purwadi</td>
+<td><a title="klik" href="http://www.facebook.com/kartika.r.saridewi.7" target="_blank"><span style="color: #ff9900;">FB Kartika Rahmat Sari</span></a></td>
+</tr>
+<tr>
+<td>K4211022</td>
+<td>KUSMIRA DWI AYUANI</td>
+<td>Dr. Rr. E. Nugraheni Eko W, S.S., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/kusmira.dwiayuani" target="_blank"><span style="color: #ff9900;">FB Kusmira Dwi Ayuani</span></a></td>
+</tr>
+<tr>
+<td>K4211023</td>
+<td>LILI SUPARTINI</td>
+<td>Dr. Budhi Setiawan, M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/lyelyew" target="_blank"><span style="color: #ff9900;">FB Lili Supartini</span></a></td>
+</tr>
+<tr>
+<td>K4211024</td>
+<td>LILIANA WIGARINGTYAS</td>
+<td>Drs. Edy Suryanto, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/Liliana.wigaringtyas" target="_blank"><span style="color: #ff9900;">FB Liliana Wigaringtyas</span></a></td>
+</tr>
+<tr>
+<td>K4211025</td>
+<td>LULUT WAHYUNINGSIH</td>
+<td>Drs. Purwadi</td>
+<td><a title="klik" href="http://www.facebook.com/lulutwhyngsh" target="_blank"><span style="color: #ff9900;">FB Lulut Wahyuningsih</span></a></td>
+</tr>
+<tr>
+<td>K4211026</td>
+<td>MUFI NURLAILI</td>
+<td>Atikah Anindyarini, SS., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/cahaya.mutiara.796" target="_blank"><span style="color: #ff9900;">FB Mufi Nurlaili</span></a></td>
+</tr>
+<tr>
+<td>K4211027</td>
+<td>MUH. YUSUF BAHTIAR</td>
+<td>Dr. Rr. E. Nugraheni Eko W, S.S., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/profile.php?id=100000024729916" target="_blank"><span style="color: #ff9900;">FB Muh. Yusuf Bahtiar</span></a></td>
+</tr>
+<tr>
+<td>K4211028</td>
+<td>MUHAMMAD FADLI</td>
+<td>Drs. Edy Suryanto, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/fadli.n.jokam" target="_blank"><span style="color: #ff9900;">FB Muhammad Fadli</span></a></td>
+</tr>
+<tr>
+<td>K4211029</td>
+<td>NANDA ARIF WIJAYANTI</td>
+<td>Drs. Purwadi</td>
+<td><a title="klik" href="http://www.facebook.com/nanda.a.wijayanti" target="_blank"><span style="color: #ff9900;">FB Nanda Arif Wijayanti</span></a></td>
+</tr>
+<tr>
+<td>K4211030</td>
+<td>NIKEN ESTIROHMAWATI</td>
+<td>Atikah Anindyarini, SS., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/niken.e.r" target="_blank"><span style="color: #ff9900;">FB Niken Estirohmawati</span></a></td>
+</tr>
+<tr>
+<td>K4211031</td>
+<td>NIZAR RADITYA HERLAMBANG</td>
+<td>Budi Waluyo, S.S. M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/hellozarnizar" target="_blank"><span style="color: #ff9900;">FB Nizar Raditya Herlambang</span></a></td>
+</tr>
+<tr>
+<td>K4211032</td>
+<td>NOVITA DWI SAPUTRI</td>
+<td>Drs. Purwadi</td>
+<td><a title="klik" href="http://www.facebook.com/novita.d.saputri.5" target="_blank"><span style="color: #ff9900;">FB Novita Dwi Saputri</span></a></td>
+</tr>
+<tr>
+<td>K4211033</td>
+<td>NUR NOVITA SARI</td>
+<td>Dr. Muhammad Rohmadi, M. Hum.</td>
+<td><a title="klik" href="http://www.facebook.com/vieth.leengliejangelz" target="_blank"><span style="color: #ff9900;">FB Nur Novita Sari</span></a></td>
+</tr>
+<tr>
+<td>K4211034</td>
+<td>NURIANA MAWARDANI</td>
+<td>Dr. Suyitno, M. Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/amaey.djavaoey" target="_blank"><span style="color: #ff9900;">FB Nuriana Mawardani</span></a></td>
+</tr>
+<tr>
+<td>K4211035</td>
+<td>NURJANAH AYU PRATIWI</td>
+<td>Dr. Rr. E. Nugraheni Eko W, S.S., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/aiiu.pinnopinno" target="_blank"><span style="color: #ff9900;">FB Nurjanah Ayu Pratiwi</span></a></td>
+</tr>
+<tr>
+<td>K4211036</td>
+<td>NURJANNAH</td>
+<td>Dr. Muhammad Rohmadi, M. Hum.</td>
+<td><a title="klik" href="http://www.facebook.com/inung.nurjannah" target="_blank"><span style="color: #ff9900;">FB Nurjannah</span></a></td>
+</tr>
+<tr>
+<td>K4211037</td>
+<td>NURUSYIFAH FAUZIYAH</td>
+<td>Dr. Muhammad Rohmadi, M. Hum.</td>
+<td><a title="klik" href="http://www.facebook.com/nurusyifah.fauziyah" target="_blank"><span style="color: #ff9900;">FB Nurusyifah Fauziyah</span></a></td>
+</tr>
+<tr>
+<td>K4211038</td>
+<td>PARJI</td>
+<td>Atikah Anindyarini, SS., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/arebo.uns" target="_blank"><span style="color: #ff9900;">FB Parji</span></a></td>
+</tr>
+<tr>
+<td>K4211039</td>
+<td>PIPIT N</td>
+<td>Dra. Raheni Suhita, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/pipit.nopitasari.9" target="_blank"><span style="color: #ff9900;">FB Pipit N</span></a></td>
+</tr>
+<tr>
+<td>K4211040</td>
+<td>PRIMA VERONIKA</td>
+<td>Dra. Raheni Suhita, M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/prima.veronika" target="_blank"><span style="color: #ff9900;">FB Prima Veronika</span></a></td>
+</tr>
+<tr>
+<td>K4211042</td>
+<td>PUTRI KURNIA</td>
+<td>Dr. Muhammad Rohmadi, M. Hum.</td>
+<td><a title="klik" href="http://www.facebook.com/ciputpoepoet" target="_blank"><span style="color: #ff9900;">FB Putri Kurnia</span></a></td>
+</tr>
+<tr>
+<td>K4211043</td>
+<td>RATNA UTAMI</td>
+<td>Sri Hastuti, S.S., M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/nana.pussie" target="_blank"><span style="color: #ff9900;">FB Ratna Utami</span></a></td>
+</tr>
+<tr>
+<td>K4211044</td>
+<td>RIKY ZAKUB</td>
+<td>Drs. Edy Suryanto, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/rikie.zakup" target="_blank"><span style="color: #ff9900;">FB Riky Zakub</span></a></td>
+</tr>
+<tr>
+<td>K4211045</td>
+<td>RIZKI SAFUROH</td>
+<td>Dra. Sumarwati, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/rizki.chapuloch" target="_blank"><span style="color: #ff9900;">FB Rizki Safuroh</span></a></td>
+</tr>
+<tr>
+<td>K4211046</td>
+<td>RUDI PERMONO PUTRO</td>
+<td>Sri Hastuti, S.S., M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/roesdy.catrock" target="_blank"><span style="color: #ff9900;">FB Rudi Permono Putro</span></a></td>
+</tr>
+<tr>
+<td>K4211047</td>
+<td>SAYEKTI MUKTIYONO</td>
+<td>Dr. Andayani, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/mukti.lanosta" target="_blank"><span style="color: #ff9900;">FB Sayekti Muktiyono</span></a></td>
+</tr>
+<tr>
+<td>K4211048</td>
+<td>SHINTA TYAS P</td>
+<td>Drs. Slamet Mulyono, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/pratisthita.tyas.shinta" target="_blank"><span style="color: #ff9900;">FB Shinta Tyas P</span></a></td>
+</tr>
+<tr>
+<td>K4211049</td>
+<td>SHINTYA YULI RATNA SARI</td>
+<td>Drs. Purwadi</td>
+<td><a title="klik" href="http://www.facebook.com/chientya.ratnasariII" target="_blank"><span style="color: #ff9900;">FB Shintya Yuli Ratna Sari</span></a></td>
+</tr>
+<tr>
+<td>K4211050</td>
+<td>SITI NURJANAH</td>
+<td>Drs. Slamet Mulyono, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/cweety.luphly" target="_blank"><span style="color: #ff9900;">FB Siti Nurjanah</span></a></td>
+</tr>
+<tr>
+<td>K4211051</td>
+<td>SOFYAN ARIF CANDRA</td>
+<td>Dr. Suyitno, M. Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/SofyanSakti" target="_blank"><span style="color: #ff9900;">FB Sofyan Arif Candra</span></a></td>
+</tr>
+<tr>
+<td>K4211052</td>
+<td>SRI SULISTYORINI</td>
+<td>Drs. Slamet Mulyono, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/sulies.soechi" target="_blank"><span style="color: #ff9900;">FB Sri Sulistyorini</span></a></td>
+</tr>
+<tr>
+<td>K4211053</td>
+<td>SRI SUNARSI</td>
+<td>Dr. Suyitno, M. Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/srysun.ajha" target="_blank"><span style="color: #ff9900;">FB Sri Sunarsi</span></a></td>
+</tr>
+<tr>
+<td>K4211054</td>
+<td>SULISTIYA PUJI L</td>
+<td>Drs. Slamet Mulyono, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/yuffa.thianevada" target="_blank"><span style="color: #ff9900;">FB Sulistiya Puji L</span></a></td>
+</tr>
+<tr>
+<td>K4211055</td>
+<td>SUSANTI</td>
+<td>Drs. Slamet Mulyono, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/santy.cuchan.5" target="_blank"><span style="color: #ff9900;">FB Susanti</span></a></td>
+</tr>
+<tr>
+<td>K4211056</td>
+<td>SUSIANI INDRIAWATI</td>
+<td>Dr. Budhi Setiawan, M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/Yoon.Soo.Yun" target="_blank"><span style="color: #ff9900;">FB Susiani Indriawati</span></a></td>
+</tr>
+<tr>
+<td>K4211057</td>
+<td>SUTARTO DWI SUTRISNO</td>
+<td>Budi Waluyo, S.S. M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/ddwisutrisnochoky" target="_blank"><span style="color: #ff9900;">FB Sutarto Dwi Sutrisno</span></a></td>
+</tr>
+<tr>
+<td>K4211058</td>
+<td>TERI SRIWAGESANG</td>
+<td>Dra. Sumarwati, M.Pd</td>
+<td><span style="color: #ff9900;"><a title="klik" href="http://www.facebook.com/willesatery.sriwagesang" target="_blank"><span style="color: #ff9900;">FB Teri Sriwagesang</span></a></span></td>
+</tr>
+<tr>
+<td>K4211059</td>
+<td>TIAN SETYANTO</td>
+<td>Dra. Sumarwati, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/tiaan.setyanto" target="_blank"><span style="color: #ff9900;">FB Tian Setyanto</span></a></td>
+</tr>
+<tr>
+<td>K4211060</td>
+<td>TITIS MAYANGSARI</td>
+<td>Dr. Budhi Setiawan, M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/thitiz.pramudya" target="_blank"><span style="color: #ff9900;">FB Titis Mayangsari</span></a></td>
+</tr>
+<tr>
+<td>K4211061</td>
+<td>TRI SEPTIARINI</td>
+<td>Dr. Rr. E. Nugraheni Eko W, S.S., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/tseptiarini" target="_blank"><span style="color: #ff9900;">FB Tri Septiarini</span></a></td>
+</tr>
+<tr>
+<td>K4211062</td>
+<td>UDIN SAPUTRA</td>
+<td>Sri Hastuti, S.S., M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/udin.saputra.9809" target="_blank"><span style="color: #ff9900;">FB Udin Saputra</span></a></td>
+</tr>
+<tr>
+<td>K4211064</td>
+<td>VERINACELIA WINDY P</td>
+<td>Dr. Andayani, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/verinaceliawindyputranti.ii" target="_blank"><span style="color: #ff9900;">FB Verinacelia Windy P</span></a></td>
+</tr>
+<tr>
+<td>K4211065</td>
+<td>WAHYU SULISTIYA</td>
+<td>Dr. Suyitno, M. Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/wahyu.sulistiyaningsih" target="_blank"><span style="color: #ff9900;">FB Wahyu Sulistiya</span></a></td>
+</tr>
+<tr>
+<td>K4211066</td>
+<td>WINDA DWI LESTARI</td>
+<td>Sri Hastuti, S.S., M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/winda.dwi.39" target="_blank"><span style="color: #ff9900;">FB Winda Dwi Lestari</span></a></td>
+</tr>
+<tr>
+<td>K4211067</td>
+<td>YESSI ESTIFALIA</td>
+<td>Atikah Anindyarini, SS., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/falea.fitrayana" target="_blank"><span style="color: #ff9900;">FB Yessi Estifalia</span></a></td>
+</tr>
+<tr>
+<td>K4211068</td>
+<td>YEYEN KUSUMANINGRUM</td>
+<td>Dr. Budhi Setiawan, M.Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/emma.y.ningrum" target="_blank"><span style="color: #ff9900;">FB Yeyen Kusumaningrum</span></a></td>
+</tr>
+<tr>
+<td>K4211069</td>
+<td>YULI ANJARWANI</td>
+<td>Dr. Suyitno, M. Pd.</td>
+<td><a title="klik" href="http://www.facebook.com/yuli.anjar.16" target="_blank"><span style="color: #ff9900;">FB Yuli Anjarwani</span></a></td>
+</tr>
+<tr>
+<td>K4211070</td>
+<td>YULIANA RETNANINGSIH</td>
+<td>Dra. Sumarwati, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/Julie.ulii" target="_blank"><span style="color: #ff9900;">FB Yuliana Retnaningsih</span></a></td>
+</tr>
+<tr>
+<td>K4211071</td>
+<td>YUNIATI CHASANAH</td>
+<td>Dr. Andayani, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/yuniatichasanah" target="_blank"><span style="color: #ff9900;">FB Yuniati Chasanah</span></a></td>
+</tr>
+<tr>
+<td>K4211072</td>
+<td>YUSSHINTA DEAN P</td>
+<td>Atikah Anindyarini, SS., M.Hum</td>
+<td><a title="klik" href="http://www.facebook.com/zelda.dean" target="_blank"><span style="color: #ff9900;">FB Yushinta Dean P</span></a></td>
+</tr>
+<tr>
+<td>K4211073</td>
+<td>YUYUN NOVITASARI</td>
+<td>Dra. Sumarwati, M.Pd</td>
+<td><a title="klik" href="http://www.facebook.com/yuyun.novita1" target="_blank"><span style="color: #ff9900;">FB Yuyun Novitasari</span></a></td>
+</tr>
+</tbody>
+</table></br>

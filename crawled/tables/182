@@ -1,0 +1,196 @@
+<table width="900" height="517" border="0" align="center" cellpadding="0" cellspacing="0" bordercolor="#FFFFFF" class="box">
+  <tbody><tr>
+    <td width="1002" height="129" valign="middle"><table width="882" border="0" cellspacing="0" cellpadding="10">
+      <tbody><tr>
+        <td width="862" align="left" valign="top"><img src="images/logo.png" alt="" width="473" height="94"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" bgcolor="#8e075f"><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="center"><ul id="css3menu1" class="topmenu">
+	<li class="topfirst"><a href="index.php" title="BERANDA" style="width:107px;height:12px;line-height:12px;">Beranda</a></li>
+  <li class="topmenu"><a href="index.php?menu=agenda&amp;act=84327952638745923740572034757902374057293" title="Agenda FSSR" style="width:105px;height:12px;line-height:12px;"><span>Agenda </span></a>    </li>
+    <li class="topmenu"><a href="index.php?menu=galery&amp;act=84327952638745923740572034757902374057293" title="Gallery FSSR" style="width:102px;height:12px;line-height:12px;"><span>Gallery</span></a></li>
+  <li class="topmenu"><a href="#" title="Akademik FSSR" style="width:105px;height:12px;line-height:12px;"><span>Akademik</span></a>    </li>
+    <li class="topmenu"><a href="index.php?menu=journal&amp;act=84327952638745923740572034757902374057293" title="Journal FSSR" style="width:114px;height:12px;line-height:12px;"><span>Journal</span></a>    </li>
+    <li class="topmenu"><a href="index.php?menu=download&amp;act=84327952638745923740572034757902374057293" title="Download" style="width:110px;height:12px;line-height:12px;">Download</a></li>
+  <li class="topmenu"><a href="index.php?menu=kontak&amp;act=84327952638745923740572034757902374057293" title="Kontak" style="width:105px;height:12px;line-height:12px;">Kontak</a></li>
+  </ul>
+
+</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="images/header2.png" width="900" height="150"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="80" align="left" valign="top"><table width="900" height="21" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+      <tbody><tr>
+        <td align="left" valign="top"><table width="250" border="0" align="left" cellpadding="10" cellspacing="0">
+          <tbody><tr>
+            <td width="226"><table width="250" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="280"><div class="urbangreymenu">
+
+<h3 class="headerbar">Profil</h3>
+<ul>
+		<li>
+        <a href="?profil=10&amp;act=98792734971209374017203009955" title="Visi &amp; Misi">Visi &amp; Misi</a>
+        </li>
+        		<li>
+        <a href="?profil=15&amp;act=98792734971209374017203009955" title="Sejarah Jurusan Seni Rupa Murni">Sejarah Jurusan Seni Rupa Murni</a>
+        </li>
+        		<li>
+        <a href="?profil=11&amp;act=98792734971209374017203009955" title="Tujuan">Tujuan</a>
+        </li>
+        </ul>
+
+<h3 class="headerbar">Akademik</h3>
+<ul>
+    			<li><a href="?akademi=1&amp;act=98792734971209374017203009955" title="Akademik">Penerimaan Mahasiswa Baru</a></li>
+        		<li><a href="?akademi=6&amp;act=98792734971209374017203009955" title="Akademik">Kalendar Akademik UNS 2011/2012</a></li>
+        </ul>
+
+<h3 class="headerbar">Dosen</h3>
+<ul>
+                <li>
+            <a href="index.php?menu=dosen_profil&amp;act=98792734971209374017203009955" title="Dosen">Profil</a>
+        </li>
+        <li>
+            <a href="index.php?menu=dosen_pendidikan&amp;act=98792734971209374017203009955" title="Dosen">Pendidikan dan Pengajaran</a>
+        </li>
+        <li>
+            <a href="index.php?menu=dosen_pengabdian&amp;act=98792734971209374017203009955" title="Dosen">Penelitian dan Pengabdian</a>
+        </li>
+        <li>
+            <a href="index.php?menu=dosen_penunjang&amp;act=98792734971209374017203009955" title="Dosen">Penunjang Akademik dan Dosen
+</a>
+        </li>
+</ul>
+
+<h3 class="headerbar">Kemahasiswaan</h3>
+<ul>
+    			<li><a href="?mhs=1&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Badan Eksekutif Mahasiswa</a></li>
+        		<li><a href="?mhs=2&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Kegiatan Mahasiswa</a></li>
+        		<li><a href="?mhs=3&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Keringanan SPP &amp; BPI</a></li>
+        		<li><a href="?mhs=8&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Coba</a></li>
+        </ul>
+
+<h3 class="headerbar">Fasilitas</h3>
+<ul>
+				<li><a href="?fasilitas=1&amp;act=98792734971209374017203009955" title="Fasilitas">Perpustakaan</a></li>
+        		<li><a href="?fasilitas=2&amp;act=98792734971209374017203009955" title="Fasilitas">Mushola</a></li>
+        		<li><a href="?fasilitas=7&amp;act=98792734971209374017203009955" title="Fasilitas">Hotspot</a></li>
+        </ul>
+
+<h3 class="headerbar">Link Akademik</h3>
+<ul>
+		<li><a href="http://uns.ac.id" target="_blank" title="VISI">UNS</a></li>
+        		<li><a href="http://siakad.uns.ac.id" target="_blank" title="VISI">Siakad UNS</a></li>
+        		<li><a href="http://elearning.uns.ac.id" target="_blank" title="VISI">Elearning</a></li>
+        </ul>
+
+</div></td>
+  </tr>
+</tbody></table>
+
+</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody></table></td>
+        <td width="791" valign="top">
+          <table width="630" border="0" align="center" cellpadding="15" cellspacing="0">
+          <tbody><tr>
+            <td width="600"><p><img src="images/info.png" width="336" height="55"></p>
+              <table width="597" border="0" cellspacing="0" cellpadding="10">
+                <tbody><tr>
+                  <td width="328" align="center"><img src="images/Rektorat.jpg" width="328" height="223"></td>
+                  <td width="229" valign="top"><span class="style1">Selamat datang di Website resmi Program studi Seni Rupa Murni. Seni Rupa Murni Memiliki Tujuan   Menghasilkan lulusan berkemampuan akademik,kreatif, dan profesional dalam bidang kesenirupaan, mandiri, sehingga mampu menghadapi per-kembangan jaman.    Menghasilkan pemikiran dan penelitian khususnya dalm bidang keseni-rupaan yang berkualitas untuk pengembangan pendidikan, ilmu, pengetahuan, teknologi dan seni dalam rangka menjawab permasalahan yang bersifat lokal, nasional, maupun internasional.  </span></td>
+                </tr>
+                <tr>
+                  <td colspan="2" class="style1"> Menghasilkan karya-karya pengabdian kepada masyarakat yang ber-kualitas didasarkan pada penerapan IPTEK dan Seni serta pemberdayaan masyarakat khususnya dalam dinamika kesenirupaan. </td>
+                  </tr>
+              </tbody></table>              </td>
+          </tr>
+          <tr>
+            <td><div class="box_konten">
+              <table width="400" border="0" cellspacing="0" cellpadding="10">
+  
+  <tbody><tr>
+    <td align="left" valign="top"><table width="380" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="40">
+                <table width="380" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="top" width="534"><div class="judul_berita"><strong><a href="index.php?berita=20111204213822"></a><div id="judul"><a href="index.php?berita=20111204213822"><strong>Seminar Nasional            </strong></a></div></strong></div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="post_by">2012-02-01, by admin</div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="isi_berita"><p>Hari Rabu, 16 Maret 2011, bertempat di Ruang Seminar Gedung III Fakultas Sastra dan Seni Rupa diselenggarakan Seminar Nasional "Peran Galeri dalam ... <a href="index.php?berita=20111204213822">read more</a></p></div></td>
+          </tr>
+        </tbody></table> 
+                <table width="380" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="top" width="534"><div class="judul_berita"><strong><a href="index.php?berita=20111204214027"></a><div id="judul"><a href="index.php?berita=20111204214027"><strong>Wisuda Program Reguler periode Maret 2011            </strong></a></div></strong></div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="post_by">2012-02-01, by admin</div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="isi_berita"><p>Hari Kamis, 3 Maret 2011 bertempat di Ruang Seminar Gedung III Fakultas Sastra dan Seni Rupa melepas wisudawan-wisudawati periode Maret 2011 yang b... <a href="index.php?berita=20111204214027">read more</a></p></div></td>
+          </tr>
+        </tbody></table> 
+                <table width="380" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="top" width="534"><div class="judul_berita"><strong><a href="index.php?berita=20120206114609"></a><div id="judul"><a href="index.php?berita=20120206114609"><strong>Sondokoro Art Festival 2011            </strong></a></div></strong></div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="post_by">2012-02-06, by admin</div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="isi_berita">... <a href="index.php?berita=20120206114609">read more</a></div></td>
+          </tr>
+        </tbody></table> 
+                <table width="380" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td valign="top" width="534"><div class="judul_berita"><strong><a href="index.php?berita=20180124022108"></a><div id="judul"><a href="index.php?berita=20180124022108"><strong>test            </strong></a></div></strong></div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="post_by">2018-01-24, by admin</div></td>
+          </tr>
+          <tr>
+            <td valign="top"><div class="isi_berita"><p>test 1</p>... <a href="index.php?berita=20180124022108">read more</a></div></td>
+          </tr>
+        </tbody></table> 
+                       </td>
+        </tr>
+    </tbody></table>    </td>
+  </tr>
+</tbody></table>
+            </div></td>
+          </tr>
+        </tbody></table>
+          </td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td align="center"><div class="footer">
+      <table width="839" height="60" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+          <td height="60"> <strong>© 2018 - Program Studi Seni Rupa Murni<br>
+            Fakultas Seni Rupa dan Desain - Universitas Sebelas Maret Surakarta<br>
+            jl. Ir. Sutami, 36 A, Jebres, Surakarta </strong></td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody></table>
+    </div></td>
+  </tr>
+</tbody></table></br>

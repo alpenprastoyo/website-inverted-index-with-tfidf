@@ -1,0 +1,1888 @@
+<!DOCTYPE html><html lang="en-US"><head>    <meta charset="UTF-8">		            <meta name="keywords" content="">          	<meta name="description" content="">                <link rel="profile" href="http://gmpg.org/xfn/11">    <link rel="pingback" href="https://biologi.fkip.uns.ac.id/xmlrpc.php">        <link rel="icon" href="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-270x270.jpg" />
+			<link rel="shortcut icon" href="#">
+			<title>BUKU BESAR UJIAN SKRIPSI &#8211; ..: Pendidikan Biologi FKIP UNS :..</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="..: Pendidikan Biologi FKIP UNS :.. &raquo; Feed" href="https://biologi.fkip.uns.ac.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="..: Pendidikan Biologi FKIP UNS :.. &raquo; Comments Feed" href="https://biologi.fkip.uns.ac.id/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/biologi.fkip.uns.ac.id\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='font_Oxygen-css'  href='//fonts.googleapis.com/css?family=Oxygen%3Aregular&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font_Oxygen+Mono-css'  href='//fonts.googleapis.com/css?family=Oxygen+Mono%3Aregular&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font_Source+Serif+Pro-css'  href='//fonts.googleapis.com/css?family=Source+Serif+Pro&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/css/buttons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='media-views-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/css/media-views.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='imgareaselect-css'  href='https://biologi.fkip.uns.ac.id/wp-includes/js/imgareaselect/imgareaselect.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontsforwebstyle-css'  href='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/css/fontsforwebstyle.css?pver=7.5.1&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/css/start/jquery-ui-1.8.14.custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='colorpicker2-css'  href='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/css/colorpicker.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fsb-image-css'  href='https://biologi.fkip.uns.ac.id/wp-content/plugins/simple-full-screen-background-image/includes/fullscreen-image.css' type='text/css' media='all' />
+<link rel='stylesheet' id='iconmoon_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/include/assets/icon/css/iconmoon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='widget_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/widget.css' type='text/css' media='all' />
+<link rel='stylesheet' id='datepicker_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/jquery.datetimepicker.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/bootstrap-theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/prettyphoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/css/flexslider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme_style_css-css'  href='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/include/theme_styles.php' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-main-css'  href='https://biologi.fkip.uns.ac.id/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-custom-css'  href='https://biologi.fkip.uns.ac.id/wp-content/uploads/master-slider/custom.css' type='text/css' media='all' />
+<script type='text/javascript' id='utils-js-extra'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/","uid":"0","time":"1609309327","secure":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/utils.min.js' id='utils-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/plupload/moxie.min.js' id='moxiejs-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/plupload/plupload.min.js' id='plupload-js'></script>
+<!--[if lt IE 8]>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/json2.min.js' id='json2-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/ui/widget.min.js' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/ui/sortable.min.js' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/js/jquery.fcarousel.min.js' id='jquery-fcarousel-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/ui/draggable.min.js' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/jquery/ui/slider.min.js' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/js/colorpicker.js' id='colorpicker2-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/js/jquery.fontPlugin.js?pver=7.5.1&#038;ver=5.5.3' id='font-plugin-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/plugins/font/js/pluginscripts.js?pver=7.5.1&#038;ver=5.5.3' id='pluginscripts-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/scripts/bootstrap.min.js' id='bootstrap.min_script-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/scripts/counter.js' id='counter_script-js'></script>
+<link rel="https://api.w.org/" href="https://biologi.fkip.uns.ac.id/wp-json/" /><link rel="alternate" type="application/json" href="https://biologi.fkip.uns.ac.id/wp-json/wp/v2/pages/5645" /><link rel="canonical" href="https://biologi.fkip.uns.ac.id/buku-besar-ujian-skripsi/" />
+<link rel='shortlink' href='https://biologi.fkip.uns.ac.id/?p=5645' />
+<link rel="alternate" type="application/json+oembed" href="https://biologi.fkip.uns.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbiologi.fkip.uns.ac.id%2Fbuku-besar-ujian-skripsi%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://biologi.fkip.uns.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbiologi.fkip.uns.ac.id%2Fbuku-besar-ujian-skripsi%2F&#038;format=xml" />
+<style type="text/css">PICK AN ELEMENT NOW - or type CSS selector(advanced) {
+font-size: 30px !important;
+color: #444 !important;
+}
+</style><script>var ms_grabbing_curosr = 'https://biologi.fkip.uns.ac.id/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://biologi.fkip.uns.ac.id/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.6.4 - Responsive Touch Image Slider | avt.li/msf" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<script type="text/javascript">
+			var ajaxproxy = 'https://biologi.fkip.uns.ac.id/wp-admin/admin-ajax.php';
+			var fontBlogUrl = 'https://biologi.fkip.uns.ac.id';
+			var fontBlogName = '..: Pendidikan Biologi FKIP UNS :..';
+			var fontPluginVersion = '7.5.1';
+		</script>
+		<link rel="icon" href="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://biologi.fkip.uns.ac.id/wp-content/uploads/2011/12/cropped-logo-uns-270x270.jpg" />
+    </head>    <body class="page-template-default page page-id-5645  cbp-spmenu-push _masterslider _ms_version_3.6.4" style="background:url(http://biologi.fkip.uns.ac.id/wp-content/uploads/2017/03/green.png) no-repeat center top">		        <!-- Wrapper -->        <div class="wrapper wrapper_boxed">					
+		
+		 
+     
+        <!-- Header 1 Start -->
+        <header id="main-header">
+			 
+		 
+ 
+		 
+          <div class="container">
+            <div class="row">
+                      <div class="col-md-4">
+            <a href="https://biologi.fkip.uns.ac.id/" class="logo">
+            <img src="http://biologi.fkip.uns.ac.id/wp-content/uploads/2020/04/cover-web-prodi7.jpg" alt="..: Pendidikan Biologi FKIP UNS :.."></a>
+            </div>
+       
+                      <div class="col-md-8">
+                <div class="right-side">
+                  <nav class="top-nav">
+                                     </nav>
+                  <div class="header-search">
+                   
+<form method="get" action="https://biologi.fkip.uns.ac.id/" >
+                      <span>Search</span>
+           <input type="text" value="" name="s" id="s"   placeholder="Enter your search" />
+                      <label><input type="submit" value=""></label>
+                    </form>
+                    
+                  </div>
+                </div>
+              </div>
+              
+              <div class="col-md-12" >
+                    <div class="main-nav ">
+                        <nav class="navigation">
+                            <a class="cs-click-menu" href="#">
+                            	<i class="icon-align-justify"></i>
+                            </a>
+                            <ul id="menu-main-menu" class=""><li id="menu-item-3923" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-3923"><a href="http://biologi.fkip.uns.ac.id">HOME</a></li>
+<li id="menu-item-4443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4443"><a href="https://biologi.fkip.uns.ac.id/profil-2/">PROFIL</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-4690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4690"><a href="https://biologi.fkip.uns.ac.id/pengantar/">Pengantar</a></li>
+	<li id="menu-item-4482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4482"><a href="https://biologi.fkip.uns.ac.id/profil-2/profil/">VISI MISI</a></li>
+	<li id="menu-item-4475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4475"><a href="https://biologi.fkip.uns.ac.id/profil-2/staff/">STAFF DOSEN</a></li>
+	<li id="menu-item-4479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4479"><a href="https://biologi.fkip.uns.ac.id/aktivitas-dosen/penelitian-2/">PORTOFOLIO DOSEN</a></li>
+	<li id="menu-item-4478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4478"><a href="https://biologi.fkip.uns.ac.id/aktivitas-dosen/cv-dosen/">CV DOSEN</a></li>
+	<li id="menu-item-4477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4477"><a href="https://biologi.fkip.uns.ac.id/profil-2/struktur-organisasi-program-studi/">STRUKTUR ORGANISASI</a></li>
+	<li id="menu-item-4693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4693"><a href="https://biologi.fkip.uns.ac.id/fasilitas/">Fasilitas</a></li>
+	<li id="menu-item-4496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4496"><a href="https://biologi.fkip.uns.ac.id/profil-2/laboratorium/">LABORATORIUM</a></li>
+	<li id="menu-item-4699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4699"><a href="https://biologi.fkip.uns.ac.id/kompetensi-lulusan/">Kompetensi lulusan</a></li>
+	<li id="menu-item-4700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4700"><a href="https://biologi.fkip.uns.ac.id/lapangan-kerja-lulusan/">Lapangan Kerja Lulusan</a></li>
+	<li id="menu-item-5083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-5083"><a href="https://biologi.fkip.uns.ac.id/akreditasi/">AKREDITASI</a>
+	<ul class="sub-dropdown">
+		<li id="menu-item-5115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5115"><a href="https://biologi.fkip.uns.ac.id/periode-17-april-2003-sd-17-april-2008/">Periode : 17/4/2003 s.d 17/4/2008</a></li>
+		<li id="menu-item-5084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5084"><a href="https://biologi.fkip.uns.ac.id/akreditasi-14-maret-2009-s-d-14-maret-2014/">Periode: 14/3/2009 s.d 14/3/2014</a></li>
+		<li id="menu-item-4515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4515"><a href="https://biologi.fkip.uns.ac.id/profil-2/akreditasi/">Periode: 27/9/2014 s.d 26/9/2019</a></li>
+		<li id="menu-item-5301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5301"><a href="https://biologi.fkip.uns.ac.id/akreditasi-2019-sd-2024/">AKREDITASI 2019 sd 2024</a></li>
+		<li id="menu-item-5111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5111"><a href="https://biologi.fkip.uns.ac.id/universitas/">UNIVERSITAS</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4781"><a href="https://biologi.fkip.uns.ac.id/staff-program-studi/">STAFF PROGRAM STUDI</a></li>
+</ul>
+</li>
+<li id="menu-item-4444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4444"><a href="https://biologi.fkip.uns.ac.id/akademik/">AKADEMIK</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-4470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4470"><a href="https://biologi.fkip.uns.ac.id/akademik/1e-learning-p-bio/">E-LEARNING P BIO</a></li>
+	<li id="menu-item-4483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4483"><a href="https://biologi.fkip.uns.ac.id/akademik/kurikulum/">KURIKULUM</a></li>
+	<li id="menu-item-4484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4484"><a href="https://biologi.fkip.uns.ac.id/akademik/jadwal-kuliah/">JADWAL KULIAH</a>
+	<ul class="sub-dropdown">
+		<li id="menu-item-4503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4503"><a href="https://biologi.fkip.uns.ac.id/akademik/jadwal-kuliah/jadwal-kuliah-semester/">JADWAL KULIAH PER SEMESTER</a></li>
+		<li id="menu-item-4504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4504"><a href="https://biologi.fkip.uns.ac.id/akademik/jadwal-kuliah/jadwal-kuliah/">JADWAL KULIAH BERJALAN</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4448" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4448"><a href="https://biologi.fkip.uns.ac.id/perangkat-kuliah/">PERANGKAT</a>
+	<ul class="sub-dropdown">
+		<li id="menu-item-4464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4464"><a href="https://biologi.fkip.uns.ac.id/perangkat-kuliah/silabus/">Silabus / RPS</a>
+		<ul class="sub-dropdown">
+			<li id="menu-item-4465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4465"><a href="https://biologi.fkip.uns.ac.id/perangkat-kuliah/silabus/silabus-2014-1/">OCW</a></li>
+			<li id="menu-item-4466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4466"><a href="https://biologi.fkip.uns.ac.id/perangkat-kuliah/silabus/silabus-2014-2/">SIAKAD</a></li>
+		</ul>
+</li>
+		<li id="menu-item-4453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4453"><a href="https://biologi.fkip.uns.ac.id/perangkat-kuliah/kontrak-kuliah/">Kontrak Kuliah</a>
+		<ul class="sub-dropdown">
+			<li id="menu-item-4522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4522"><a href="https://biologi.fkip.uns.ac.id/format-kontrak-kuliah/">FORMAT KONTRAK KULIAH</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-4480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4480"><a href="https://biologi.fkip.uns.ac.id/akademik/seminar-dan-skripsi/">SEMINAR DAN SKRIPSI</a></li>
+	<li id="menu-item-4525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4525"><a href="https://biologi.fkip.uns.ac.id/kalender-akademik/">Kalender Akademik</a></li>
+	<li id="menu-item-4548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4548"><a href="https://biologi.fkip.uns.ac.id/legalisir/">Legalisir</a></li>
+	<li id="menu-item-4552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4552"><a href="https://biologi.fkip.uns.ac.id/beasiswa/">Beasiswa</a></li>
+</ul>
+</li>
+<li id="menu-item-5731" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-sub-dropdown menu-item-5731"><a href="https://biologi.fkip.uns.ac.id/skripsi/">SKRIPSI</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-5642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5642"><a href="https://biologi.fkip.uns.ac.id/penilaian-ujian-skripsi/">Penilaian Ujian Skripsi</a></li>
+	<li id="menu-item-5647" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5645 current_page_item menu-item-5647"><a href="https://biologi.fkip.uns.ac.id/buku-besar-ujian-skripsi/" aria-current="page">BUKU BESAR UJIAN SKRIPSI</a></li>
+	<li id="menu-item-5224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5224"><a href="https://biologi.fkip.uns.ac.id/akademik/seminar-dan-skripsi/pedoman-penulisan-skripsi/">PEDOMAN PENULISAN SKRIPSI</a></li>
+	<li id="menu-item-5679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5679"><a href="https://biologi.fkip.uns.ac.id/akademik/seminar-dan-skripsi/berkas-seminar/">BERKAS SEMINAR</a></li>
+	<li id="menu-item-4486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4486"><a href="https://biologi.fkip.uns.ac.id/akademik/seminar-dan-skripsi/seminar-mahasiswa/">SEMINAR MAHASISWA</a></li>
+	<li id="menu-item-4485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4485"><a href="https://biologi.fkip.uns.ac.id/akademik/seminar-dan-skripsi/skripsi/penelitian-mahasiswa/">AGENDA UJIAN SKRIPSI</a></li>
+	<li id="menu-item-5204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5204"><a href="https://biologi.fkip.uns.ac.id/form-verifikasi-persyaratan-ujian-skripsi/">FORM VERIFIKASI PERSYARATAN UJIAN SKRIPSI</a></li>
+</ul>
+</li>
+<li id="menu-item-4445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4445"><a href="https://biologi.fkip.uns.ac.id/jurnal-bioedukasi/">JURNAL ILMIAH</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-4488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4488"><a href="https://biologi.fkip.uns.ac.id/jurnal-bioedukasi/bioedukasi/">BIOEDUKASI</a></li>
+	<li id="menu-item-4489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4489"><a href="https://biologi.fkip.uns.ac.id/jurnal-bioedukasi/biopedagogi/">BIOPEDAGOGI</a></li>
+	<li id="menu-item-4491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4491"><a href="https://biologi.fkip.uns.ac.id/jurnal-bioedukasi/prosiding-semnas-bio/">PROSIDING SEMNAS BIO</a></li>
+</ul>
+</li>
+<li id="menu-item-4630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4630"><a href="https://biologi.fkip.uns.ac.id/galeri/">GALERI</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-4640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4640"><a href="https://biologi.fkip.uns.ac.id/foto/">FOTO</a></li>
+	<li id="menu-item-4446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4446"><a href="https://biologi.fkip.uns.ac.id/video/">VIDEO</a></li>
+</ul>
+</li>
+<li id="menu-item-4447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4447"><a href="https://biologi.fkip.uns.ac.id/data-alumni/">MAHASISWA</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-4502" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-sub-dropdown menu-item-4502"><a href="https://biologi.fkip.uns.ac.id/category/mahasiswa/">MAHASISWA</a>
+	<ul class="sub-dropdown">
+		<li id="menu-item-4498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4498"><a href="https://biologi.fkip.uns.ac.id/data-alumni/kemahasiswaan/">PRESTASI</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4492"><a href="https://biologi.fkip.uns.ac.id/data-alumni/wisudawan/">WISUDAWAN</a></li>
+	<li id="menu-item-4493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4493"><a href="https://biologi.fkip.uns.ac.id/data-alumni/data-lulusan/">DATA LULUSAN</a></li>
+	<li id="menu-item-4494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4494"><a href="https://biologi.fkip.uns.ac.id/data-alumni/ikatan-alumni/">IKATAN ALUMNI</a></li>
+	<li id="menu-item-4495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4495"><a href="https://biologi.fkip.uns.ac.id/data-alumni/alumni-legalisir/">MASA TUNGGU KERJA ALUMNI</a></li>
+	<li id="menu-item-4734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4734"><a href="https://biologi.fkip.uns.ac.id/organisasi-mahasiswa/">Organisasi Mahasiswa</a></li>
+</ul>
+</li>
+<li id="menu-item-4442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-sub-dropdown menu-item-4442"><a href="https://biologi.fkip.uns.ac.id/angket/">ANGKET</a>
+<ul class="sub-dropdown">
+	<li id="menu-item-5440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5440"><a href="https://biologi.fkip.uns.ac.id/kuesioner-untuk-alumni/">KUESIONER UNTUK ALUMNI</a></li>
+	<li id="menu-item-5449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5449"><a href="https://biologi.fkip.uns.ac.id/kuesioner-untuk-stakeholder/">KUESIONER UNTUK STAKEHOLDER</a></li>
+	<li id="menu-item-5521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5521"><a href="https://biologi.fkip.uns.ac.id/kuesioner-untuk-mahasiswa/">KUESIONER UNTUK MAHASISWA</a></li>
+	<li id="menu-item-5212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5212"><a href="https://biologi.fkip.uns.ac.id/angket-pemahaman-visi-misi/">ANGKET PEMAHAMAN VISI – MISI</a></li>
+	<li id="menu-item-4803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4803"><a href="https://biologi.fkip.uns.ac.id/data-alumni-2/">DATA ALUMNI</a></li>
+	<li id="menu-item-4473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4473"><a href="https://biologi.fkip.uns.ac.id/angket/kepuasan-pengguna-lulusan/">KEPUASAN PENGGUNA LULUSAN</a></li>
+	<li id="menu-item-4472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4472"><a href="https://biologi.fkip.uns.ac.id/angket/layanan-praktikum-laboratorium/">LAYANAN PRAKTIKUM LABORATORIUM</a></li>
+</ul>
+</li>
+<li id="menu-item-4730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4730"><a href="https://biologi.fkip.uns.ac.id/kontak/">KONTAK</a></li>
+<li id="menu-item-5144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5144"><a href="https://biologi.fkip.uns.ac.id/akreditasi-2/">AKREDITASI</a></li>
+</ul>                        </nav>
+                    </div>
+              </div>
+            </div>
+          </div>
+      
+              </header>
+                    <!-- Main Content Section -->            <main id="main-content">                <!-- Main Section -->                <div class="main-section"><div class="page-section">
+                        <!-- Container Start -->
+                            <div  class="container">
+                                <div class="row">
+                                    <div class="col-md-12 lightbox">
+<p class="has-text-align-center"><strong>BUKU BESAR UJIAN SKRIPSI PENDIDIKAN BIOLOGI FKIP UNS</strong></p>
+
+
+
+<figure><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSedhhYejNAXKXhgIGim62tH3u-CaPQfEm7sbArX9rNwHY92LA/viewform?embedded=true" width="720" height="2303"></iframe></figure>
+</div>
+							</div>
+						</div>
+                    </div>
+	</div>
+</main>
+<div class="clear"></div>
+
+
+
+
+<!-- Footer -->
+ 	
+     <footer>
+     
+        
+       <div class="newsletter-section">
+          <div class="container">
+            <div class="row">  
+             
+				                  
+				 
+				                                           
+			<script>
+				function cs_mailchimp_submit(theme_url,counter,admin_url){
+				
+				'use strict';
+				$ = jQuery;
+				//$('#btn_newsletter_'+counter).hide();
+				$('#process_'+counter).html('<div id="process_newsletter_'+counter+'"><i class="icon-refresh icon-spin" style="float:right;margin:12px 0px 0px 0px;"></i></div>');
+						$.ajax({
+							type:'POST', 
+							url: admin_url,
+							data:$('#mcform_'+counter).serialize()+'&action=cs_mailchimp', 
+							success: function(response) {
+							$('#mcform_'+counter).get(0).reset();
+							$('#newsletter_mess_'+counter).fadeIn(600);
+							$('#newsletter_mess_'+counter).html(response);
+							$('#btn_newsletter_'+counter).fadeIn(600);
+							$('#process_'+counter).html('');
+						}
+					});
+				}
+            </script>
+            
+            
+                <div id ="process_newsletter_1"  class="col-md-9">
+                	<div id="process_1" class="cs-show-msg"> </div>
+               		  <span class="newsletter-title">Subscribe Weekly Newsletter</span>     
+               		  <div id="newsletter_mess_1" style="display:none" class="cs-error-msg"></div> 
+                
+                
+                <form class="newsletter-from" action="javascript:cs_mailchimp_submit('https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme','1','https://biologi.fkip.uns.ac.id/wp-admin/admin-ajax.php')" id="mcform_1" method="post">
+                
+
+
+<i class="icon-envelope4"></i> 
+<input id="cs_list_id" type="hidden" name="cs_list_id" value="0" />
+<input type="text" id="mc_email"  name="mc_email" placeholder=" Enter Valid Email Address"   >
+
+<input type="submit" id="btn_newsletter_1"   value="Submit">
+
+
+
+
+                </form>
+                </div>  
+                                           
+                
+            </div>
+          </div>
+        </div>
+        
+        
+         
+        
+         
+		 
+		 			
+				 <div id="footer-widget" >
+				 <div class="container">
+					<div class="row">
+							
+							<aside class="widget col-md-3 widget_text"><div class="widget-section-title"><h4>Kontak</h4></div> <ul> <li><i class="icon-map-marker"></i> <p>Gedung D Lantai 2 FKIP UNS Jalan Ir. Sutami 36 A Kentingan, Surakarta.</p></li><li><i class="icon-phone6"></i> <p><span>Telephone</span>(0271) 669124 / 648939</p></li> <li><i class="icon-dribbble6"></i> <p><span>International</span> (0271) 648939</p></li><li><i class="icon-envelope4"></i> 		  			<p>						<span>email</span> 		  				<a href="mailto:biologi@fkip.uns.ac.id">biologi@fkip.uns.ac.id</a>					</p>				 </li></ul></aside><aside class="widget col-md-3 widget_text"><div class="widget-section-title"><h4>Lokasi</h4></div>			<div class="textwidget"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63280.529939830776!2d110.87026000000002!3d-7.5713680000000005!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa455eed07eb44a88!2sFakultas+Keguruan+Dan+Ilmu+Pendidikan!5e0!3m2!1sen!2sid!4v1449557904751" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+		</aside><aside class="widget col-md-3 widget_calendar"><div class="widget-section-title"><h4>Kalender</h4></div><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>December 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Sunday">S</th>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td>
+		<td class="pad" colspan="4">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://biologi.fkip.uns.ac.id/2020/10/">&laquo; Oct</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside><aside class="widget col-md-3 widget_links"><div class="widget-section-title"><h4>Blog Dosen dan Staff Prodi Biologi Fkip UNS</h4></div>
+	<ul class='xoxo blogroll'>
+<li><a href="http://baskoro.staff.fkip.uns.ac.id">Baskoro Adi P</a></li>
+<li><a href="http://www.baskoro1.blogspot.com" title="Statistik dan Penelitian Pembelajaran Biologi">Baskoro Adi Prayitno</a></li>
+<li><a href="http://bowo.staff.fkip.uns.ac.id" title="Strategi Pembelajaran Biologi">Bowo Sugiharto</a></li>
+<li><a href="http://www.bowobiologi.staff.uns.ac.id" title="Microteaching">Bowo Sugiharto (uns)</a></li>
+<li><a href="http://harlita.staff.fkip.uns.ac.id">Harlita</a></li>
+
+	</ul>
+</aside>
+  
+						  
+							  
+					 </div>
+				 </div>
+			</div>
+							   
+			         
+     
+     
+   
+    <div class="bottom-footer" >
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+					<div class="copyright">
+						<p>©2015 ICT Center FKIP UNS</p>	
+					</div>
+              </div>
+              <div class="col-md-6">
+                              		<span id="backtop"><i class="icon-arrow-up9"></i></span>
+                 	   
+                <div class="social-media"> 
+                          
+                    
+							                                    <h6> Follow us</h6>
+                                        <ul>
+                                    	          
+                      <li>
+                    	<a  
+                         style="color:#cccccc;" 
+                        class="icon-facebook2 "  data-original-title="Facebook" 
+                        href="https://www.facebook.com/" target="_blank">
+                        </a>
+                      </li>
+                                
+                      <li>
+                    	<a  
+                         style="color:#cccccc;" 
+                        class="icon-dribbble7 "  data-original-title="Dribbble" 
+                        href="https://dribbble.com/" target="_blank">
+                        </a>
+                      </li>
+                                
+                      <li>
+                    	<a  
+                         style="color:#cccccc;" 
+                        class="icon-twitter2 "  data-original-title="Twitter" 
+                        href="https://www.twitter.com/" target="_blank">
+                        </a>
+                      </li>
+                                
+                      <li>
+                    	<a  
+                         style="color:#cccccc;" 
+                        class="icon-behance2 "  data-original-title="Behance" 
+                        href="https://www.behance.net/" target="_blank">
+                        </a>
+                      </li>
+                      </ul>  
+                    
+                 
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    </footer> 
+    
+    
+    
+    
+
+
+<div class="clear"></div>
+</div>
+<!-- Wrapper End -->   
+<img src="https://biologi.fkip.uns.ac.id/wp-content/uploads/2017/03/drnew.jpg" id="fsb_image" alt=""/>
+		<script type="text/html" id="tmpl-media-frame">
+		<div class="media-frame-title" id="media-frame-title"></div>
+		<h2 class="media-frame-menu-heading">Actions</h2>
+		<button type="button" class="button button-link media-frame-menu-toggle" aria-expanded="false">
+			Menu			<span class="dashicons dashicons-arrow-down" aria-hidden="true"></span>
+		</button>
+		<div class="media-frame-menu"></div>
+		<div class="media-frame-tab-panel">
+			<div class="media-frame-router"></div>
+			<div class="media-frame-content"></div>
+		</div>
+		<h2 class="media-frame-actions-heading screen-reader-text">
+		Selected media actions		</h2>
+		<div class="media-frame-toolbar"></div>
+		<div class="media-frame-uploader"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-media-modal">
+		<div tabindex="0" class="media-modal wp-core-ui" role="dialog" aria-labelledby="media-frame-title">
+			<# if ( data.hasCloseButton ) { #>
+				<button type="button" class="media-modal-close"><span class="media-modal-icon"><span class="screen-reader-text">Close dialog</span></span></button>
+			<# } #>
+			<div class="media-modal-content" role="document"></div>
+		</div>
+		<div class="media-modal-backdrop"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-window">
+		<div class="uploader-window-content">
+			<div class="uploader-editor-title">Drop files to upload</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-editor">
+		<div class="uploader-editor-content">
+			<div class="uploader-editor-title">Drop files to upload</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-inline">
+		<# var messageClass = data.message ? 'has-upload-message' : 'no-upload-message'; #>
+		<# if ( data.canClose ) { #>
+		<button class="close dashicons dashicons-no"><span class="screen-reader-text">Close uploader</span></button>
+		<# } #>
+		<div class="uploader-inline-content {{ messageClass }}">
+		<# if ( data.message ) { #>
+			<h2 class="upload-message">{{ data.message }}</h2>
+		<# } #>
+					<div class="upload-ui">
+				<h2 class="upload-instructions drop-instructions">Drop files to upload</h2>
+				<p class="upload-instructions drop-instructions">or</p>
+				<button type="button" class="browser button button-hero">Select Files</button>
+			</div>
+
+			<div class="upload-inline-status"></div>
+
+			<div class="post-upload-ui">
+				
+				<p class="max-upload-size">
+				Maximum upload file size: 2 MB.				</p>
+
+				<# if ( data.suggestedWidth && data.suggestedHeight ) { #>
+					<p class="suggested-dimensions">
+						Suggested image dimensions: {{data.suggestedWidth}} by {{data.suggestedHeight}} pixels.					</p>
+				<# } #>
+
+							</div>
+				</div>
+	</script>
+
+		<script type="text/html" id="tmpl-media-library-view-switcher">
+		<a href="/buku-besar-ujian-skripsi/?mode=list" class="view-list">
+			<span class="screen-reader-text">List view</span>
+		</a>
+		<a href="/buku-besar-ujian-skripsi/?mode=grid" class="view-grid current" aria-current="page">
+			<span class="screen-reader-text">Grid view</span>
+		</a>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-status">
+		<h2>Uploading</h2>
+		<button type="button" class="button-link upload-dismiss-errors"><span class="screen-reader-text">Dismiss Errors</span></button>
+
+		<div class="media-progress-bar"><div></div></div>
+		<div class="upload-details">
+			<span class="upload-count">
+				<span class="upload-index"></span> / <span class="upload-total"></span>
+			</span>
+			<span class="upload-detail-separator">&ndash;</span>
+			<span class="upload-filename"></span>
+		</div>
+		<div class="upload-errors"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-uploader-status-error">
+		<span class="upload-error-filename">{{{ data.filename }}}</span>
+		<span class="upload-error-message">{{ data.message }}</span>
+	</script>
+
+		<script type="text/html" id="tmpl-edit-attachment-frame">
+		<div class="edit-media-header">
+			<button class="left dashicons"<# if ( ! data.hasPrevious ) { #> disabled<# } #>><span class="screen-reader-text">Edit previous media item</span></button>
+			<button class="right dashicons"<# if ( ! data.hasNext ) { #> disabled<# } #>><span class="screen-reader-text">Edit next media item</span></button>
+			<button type="button" class="media-modal-close"><span class="media-modal-icon"><span class="screen-reader-text">Close dialog</span></span></button>
+		</div>
+		<div class="media-frame-title"></div>
+		<div class="media-frame-content"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment-details-two-column">
+		<div class="attachment-media-view {{ data.orientation }}">
+			<h2 class="screen-reader-text">Attachment Preview</h2>
+			<div class="thumbnail thumbnail-{{ data.type }}">
+				<# if ( data.uploading ) { #>
+					<div class="media-progress-bar"><div></div></div>
+				<# } else if ( data.sizes && data.sizes.large ) { #>
+					<img class="details-image" src="{{ data.sizes.large.url }}" draggable="false" alt="" />
+				<# } else if ( data.sizes && data.sizes.full ) { #>
+					<img class="details-image" src="{{ data.sizes.full.url }}" draggable="false" alt="" />
+				<# } else if ( -1 === jQuery.inArray( data.type, [ 'audio', 'video' ] ) ) { #>
+					<img class="details-image icon" src="{{ data.icon }}" draggable="false" alt="" />
+				<# } #>
+
+				<# if ( 'audio' === data.type ) { #>
+				<div class="wp-media-wrapper">
+					<audio style="visibility: hidden" controls class="wp-audio-shortcode" width="100%" preload="none">
+						<source type="{{ data.mime }}" src="{{ data.url }}"/>
+					</audio>
+				</div>
+				<# } else if ( 'video' === data.type ) {
+					var w_rule = '';
+					if ( data.width ) {
+						w_rule = 'width: ' + data.width + 'px;';
+					} else if ( wp.media.view.settings.contentWidth ) {
+						w_rule = 'width: ' + wp.media.view.settings.contentWidth + 'px;';
+					}
+				#>
+				<div style="{{ w_rule }}" class="wp-media-wrapper wp-video">
+					<video controls="controls" class="wp-video-shortcode" preload="metadata"
+						<# if ( data.width ) { #>width="{{ data.width }}"<# } #>
+						<# if ( data.height ) { #>height="{{ data.height }}"<# } #>
+						<# if ( data.image && data.image.src !== data.icon ) { #>poster="{{ data.image.src }}"<# } #>>
+						<source type="{{ data.mime }}" src="{{ data.url }}"/>
+					</video>
+				</div>
+				<# } #>
+
+				<div class="attachment-actions">
+					<# if ( 'image' === data.type && ! data.uploading && data.sizes && data.can.save ) { #>
+					<button type="button" class="button edit-attachment">Edit Image</button>
+					<# } else if ( 'pdf' === data.subtype && data.sizes ) { #>
+					<p>Document Preview</p>
+					<# } #>
+				</div>
+			</div>
+		</div>
+		<div class="attachment-info">
+			<span class="settings-save-status" role="status">
+				<span class="spinner"></span>
+				<span class="saved">Saved.</span>
+			</span>
+			<div class="details">
+				<h2 class="screen-reader-text">Details</h2>
+				<div class="filename"><strong>File name:</strong> {{ data.filename }}</div>
+				<div class="filename"><strong>File type:</strong> {{ data.mime }}</div>
+				<div class="uploaded"><strong>Uploaded on:</strong> {{ data.dateFormatted }}</div>
+
+				<div class="file-size"><strong>File size:</strong> {{ data.filesizeHumanReadable }}</div>
+				<# if ( 'image' === data.type && ! data.uploading ) { #>
+					<# if ( data.width && data.height ) { #>
+						<div class="dimensions"><strong>Dimensions:</strong>
+							{{ data.width }} by {{ data.height }} pixels						</div>
+					<# } #>
+
+					<# if ( data.originalImageURL && data.originalImageName ) { #>
+						Original image:						<a href="{{ data.originalImageURL }}">{{data.originalImageName}}</a>
+					<# } #>
+				<# } #>
+
+				<# if ( data.fileLength && data.fileLengthHumanReadable ) { #>
+					<div class="file-length"><strong>Length:</strong>
+						<span aria-hidden="true">{{ data.fileLength }}</span>
+						<span class="screen-reader-text">{{ data.fileLengthHumanReadable }}</span>
+					</div>
+				<# } #>
+
+				<# if ( 'audio' === data.type && data.meta.bitrate ) { #>
+					<div class="bitrate">
+						<strong>Bitrate:</strong> {{ Math.round( data.meta.bitrate / 1000 ) }}kb/s
+						<# if ( data.meta.bitrate_mode ) { #>
+						{{ ' ' + data.meta.bitrate_mode.toUpperCase() }}
+						<# } #>
+					</div>
+				<# } #>
+
+				<div class="compat-meta">
+					<# if ( data.compat && data.compat.meta ) { #>
+						{{{ data.compat.meta }}}
+					<# } #>
+				</div>
+			</div>
+
+			<div class="settings">
+				<# var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly'; #>
+				<# if ( 'image' === data.type ) { #>
+					<span class="setting has-description" data-setting="alt">
+						<label for="attachment-details-two-column-alt-text" class="name">Alternative Text</label>
+						<input type="text" id="attachment-details-two-column-alt-text" value="{{ data.alt }}" aria-describedby="alt-text-description" {{ maybeReadOnly }} />
+					</span>
+					<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+				<# } #>
+								<span class="setting" data-setting="title">
+					<label for="attachment-details-two-column-title" class="name">Title</label>
+					<input type="text" id="attachment-details-two-column-title" value="{{ data.title }}" {{ maybeReadOnly }} />
+				</span>
+								<# if ( 'audio' === data.type ) { #>
+								<span class="setting" data-setting="artist">
+					<label for="attachment-details-two-column-artist" class="name">Artist</label>
+					<input type="text" id="attachment-details-two-column-artist" value="{{ data.artist || data.meta.artist || '' }}" />
+				</span>
+								<span class="setting" data-setting="album">
+					<label for="attachment-details-two-column-album" class="name">Album</label>
+					<input type="text" id="attachment-details-two-column-album" value="{{ data.album || data.meta.album || '' }}" />
+				</span>
+								<# } #>
+				<span class="setting" data-setting="caption">
+					<label for="attachment-details-two-column-caption" class="name">Caption</label>
+					<textarea id="attachment-details-two-column-caption" {{ maybeReadOnly }}>{{ data.caption }}</textarea>
+				</span>
+				<span class="setting" data-setting="description">
+					<label for="attachment-details-two-column-description" class="name">Description</label>
+					<textarea id="attachment-details-two-column-description" {{ maybeReadOnly }}>{{ data.description }}</textarea>
+				</span>
+				<span class="setting">
+					<span class="name">Uploaded By</span>
+					<span class="value">{{ data.authorName }}</span>
+				</span>
+				<# if ( data.uploadedToTitle ) { #>
+					<span class="setting">
+						<span class="name">Uploaded To</span>
+						<# if ( data.uploadedToLink ) { #>
+							<span class="value"><a href="{{ data.uploadedToLink }}">{{ data.uploadedToTitle }}</a></span>
+						<# } else { #>
+							<span class="value">{{ data.uploadedToTitle }}</span>
+						<# } #>
+					</span>
+				<# } #>
+				<span class="setting" data-setting="url">
+					<label for="attachment-details-two-column-copy-link" class="name">File URL:</label>
+					<input type="text" class="attachment-details-copy-link" id="attachment-details-two-column-copy-link" value="{{ data.url }}" readonly />
+					<span class="copy-to-clipboard-container">
+						<button type="button" class="button button-small copy-attachment-url" data-clipboard-target="#attachment-details-two-column-copy-link">Copy URL</button>
+						<span class="success hidden" aria-hidden="true">Copied!</span>
+					</span>
+				</span>
+				<div class="attachment-compat"></div>
+			</div>
+
+			<div class="actions">
+				<a class="view-attachment" href="{{ data.link }}">View attachment page</a>
+				<# if ( data.can.save ) { #> |
+					<a href="{{ data.editLink }}">Edit more details</a>
+				<# } #>
+				<# if ( ! data.uploading && data.can.remove ) { #> |
+											<button type="button" class="button-link delete-attachment">Delete permanently</button>
+									<# } #>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment">
+		<div class="attachment-preview js--select-attachment type-{{ data.type }} subtype-{{ data.subtype }} {{ data.orientation }}">
+			<div class="thumbnail">
+				<# if ( data.uploading ) { #>
+					<div class="media-progress-bar"><div style="width: {{ data.percent }}%"></div></div>
+				<# } else if ( 'image' === data.type && data.sizes ) { #>
+					<div class="centered">
+						<img src="{{ data.size.url }}" draggable="false" alt="" />
+					</div>
+				<# } else { #>
+					<div class="centered">
+						<# if ( data.image && data.image.src && data.image.src !== data.icon ) { #>
+							<img src="{{ data.image.src }}" class="thumbnail" draggable="false" alt="" />
+						<# } else if ( data.sizes && data.sizes.medium ) { #>
+							<img src="{{ data.sizes.medium.url }}" class="thumbnail" draggable="false" alt="" />
+						<# } else { #>
+							<img src="{{ data.icon }}" class="icon" draggable="false" alt="" />
+						<# } #>
+					</div>
+					<div class="filename">
+						<div>{{ data.filename }}</div>
+					</div>
+				<# } #>
+			</div>
+			<# if ( data.buttons.close ) { #>
+				<button type="button" class="button-link attachment-close media-modal-icon"><span class="screen-reader-text">Remove</span></button>
+			<# } #>
+		</div>
+		<# if ( data.buttons.check ) { #>
+			<button type="button" class="check" tabindex="-1"><span class="media-modal-icon"></span><span class="screen-reader-text">Deselect</span></button>
+		<# } #>
+		<#
+		var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly';
+		if ( data.describe ) {
+			if ( 'image' === data.type ) { #>
+				<input type="text" value="{{ data.caption }}" class="describe" data-setting="caption"
+					aria-label="Caption"
+					placeholder="Caption&hellip;" {{ maybeReadOnly }} />
+			<# } else { #>
+				<input type="text" value="{{ data.title }}" class="describe" data-setting="title"
+					<# if ( 'video' === data.type ) { #>
+						aria-label="Video title"
+						placeholder="Video title&hellip;"
+					<# } else if ( 'audio' === data.type ) { #>
+						aria-label="Audio title"
+						placeholder="Audio title&hellip;"
+					<# } else { #>
+						aria-label="Media title"
+						placeholder="Media title&hellip;"
+					<# } #> {{ maybeReadOnly }} />
+			<# }
+		} #>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment-details">
+		<h2>
+			Attachment Details			<span class="settings-save-status" role="status">
+				<span class="spinner"></span>
+				<span class="saved">Saved.</span>
+			</span>
+		</h2>
+		<div class="attachment-info">
+			<div class="thumbnail thumbnail-{{ data.type }}">
+				<# if ( data.uploading ) { #>
+					<div class="media-progress-bar"><div></div></div>
+				<# } else if ( 'image' === data.type && data.sizes ) { #>
+					<img src="{{ data.size.url }}" draggable="false" alt="" />
+				<# } else { #>
+					<img src="{{ data.icon }}" class="icon" draggable="false" alt="" />
+				<# } #>
+			</div>
+			<div class="details">
+				<div class="filename">{{ data.filename }}</div>
+				<div class="uploaded">{{ data.dateFormatted }}</div>
+
+				<div class="file-size">{{ data.filesizeHumanReadable }}</div>
+				<# if ( 'image' === data.type && ! data.uploading ) { #>
+					<# if ( data.width && data.height ) { #>
+						<div class="dimensions">
+							{{ data.width }} by {{ data.height }} pixels						</div>
+					<# } #>
+
+					<# if ( data.originalImageURL && data.originalImageName ) { #>
+						Original image:						<a href="{{ data.originalImageURL }}">{{data.originalImageName}}</a>
+					<# } #>
+
+					<# if ( data.can.save && data.sizes ) { #>
+						<a class="edit-attachment" href="{{ data.editLink }}&amp;image-editor" target="_blank">Edit Image</a>
+					<# } #>
+				<# } #>
+
+				<# if ( data.fileLength && data.fileLengthHumanReadable ) { #>
+					<div class="file-length">Length:						<span aria-hidden="true">{{ data.fileLength }}</span>
+						<span class="screen-reader-text">{{ data.fileLengthHumanReadable }}</span>
+					</div>
+				<# } #>
+
+				<# if ( ! data.uploading && data.can.remove ) { #>
+											<button type="button" class="button-link delete-attachment">Delete permanently</button>
+									<# } #>
+
+				<div class="compat-meta">
+					<# if ( data.compat && data.compat.meta ) { #>
+						{{{ data.compat.meta }}}
+					<# } #>
+				</div>
+			</div>
+		</div>
+		<# var maybeReadOnly = data.can.save || data.allowLocalEdits ? '' : 'readonly'; #>
+		<# if ( 'image' === data.type ) { #>
+			<span class="setting has-description" data-setting="alt">
+				<label for="attachment-details-alt-text" class="name">Alt Text</label>
+				<input type="text" id="attachment-details-alt-text" value="{{ data.alt }}" aria-describedby="alt-text-description" {{ maybeReadOnly }} />
+			</span>
+			<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+		<# } #>
+				<span class="setting" data-setting="title">
+			<label for="attachment-details-title" class="name">Title</label>
+			<input type="text" id="attachment-details-title" value="{{ data.title }}" {{ maybeReadOnly }} />
+		</span>
+				<# if ( 'audio' === data.type ) { #>
+				<span class="setting" data-setting="artist">
+			<label for="attachment-details-artist" class="name">Artist</label>
+			<input type="text" id="attachment-details-artist" value="{{ data.artist || data.meta.artist || '' }}" />
+		</span>
+				<span class="setting" data-setting="album">
+			<label for="attachment-details-album" class="name">Album</label>
+			<input type="text" id="attachment-details-album" value="{{ data.album || data.meta.album || '' }}" />
+		</span>
+				<# } #>
+		<span class="setting" data-setting="caption">
+			<label for="attachment-details-caption" class="name">Caption</label>
+			<textarea id="attachment-details-caption" {{ maybeReadOnly }}>{{ data.caption }}</textarea>
+		</span>
+		<span class="setting" data-setting="description">
+			<label for="attachment-details-description" class="name">Description</label>
+			<textarea id="attachment-details-description" {{ maybeReadOnly }}>{{ data.description }}</textarea>
+		</span>
+		<span class="setting" data-setting="url">
+			<label for="attachment-details-copy-link" class="name">File URL:</label>
+			<input type="text" class="attachment-details-copy-link" id="attachment-details-copy-link" value="{{ data.url }}" readonly />
+			<div class="copy-to-clipboard-container">
+				<button type="button" class="button button-small copy-attachment-url" data-clipboard-target="#attachment-details-copy-link">Copy URL</button>
+				<span class="success hidden" aria-hidden="true">Copied!</span>
+			</div>
+		</span>
+	</script>
+
+		<script type="text/html" id="tmpl-media-selection">
+		<div class="selection-info">
+			<span class="count"></span>
+			<# if ( data.editable ) { #>
+				<button type="button" class="button-link edit-selection">Edit Selection</button>
+			<# } #>
+			<# if ( data.clearable ) { #>
+				<button type="button" class="button-link clear-selection">Clear</button>
+			<# } #>
+		</div>
+		<div class="selection-view"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-attachment-display-settings">
+		<h2>Attachment Display Settings</h2>
+
+		<# if ( 'image' === data.type ) { #>
+			<span class="setting align">
+				<label for="attachment-display-settings-alignment" class="name">Alignment</label>
+				<select id="attachment-display-settings-alignment" class="alignment"
+					data-setting="align"
+					<# if ( data.userSettings ) { #>
+						data-user-setting="align"
+					<# } #>>
+
+					<option value="left">
+						Left					</option>
+					<option value="center">
+						Center					</option>
+					<option value="right">
+						Right					</option>
+					<option value="none" selected>
+						None					</option>
+				</select>
+			</span>
+		<# } #>
+
+		<span class="setting">
+			<label for="attachment-display-settings-link-to" class="name">
+				<# if ( data.model.canEmbed ) { #>
+					Embed or Link				<# } else { #>
+					Link To				<# } #>
+			</label>
+			<select id="attachment-display-settings-link-to" class="link-to"
+				data-setting="link"
+				<# if ( data.userSettings && ! data.model.canEmbed ) { #>
+					data-user-setting="urlbutton"
+				<# } #>>
+
+			<# if ( data.model.canEmbed ) { #>
+				<option value="embed" selected>
+					Embed Media Player				</option>
+				<option value="file">
+			<# } else { #>
+				<option value="none" selected>
+					None				</option>
+				<option value="file">
+			<# } #>
+				<# if ( data.model.canEmbed ) { #>
+					Link to Media File				<# } else { #>
+					Media File				<# } #>
+				</option>
+				<option value="post">
+				<# if ( data.model.canEmbed ) { #>
+					Link to Attachment Page				<# } else { #>
+					Attachment Page				<# } #>
+				</option>
+			<# if ( 'image' === data.type ) { #>
+				<option value="custom">
+					Custom URL				</option>
+			<# } #>
+			</select>
+		</span>
+		<span class="setting">
+			<label for="attachment-display-settings-link-to-custom" class="name">URL</label>
+			<input type="text" id="attachment-display-settings-link-to-custom" class="link-to-custom" data-setting="linkUrl" />
+		</span>
+
+		<# if ( 'undefined' !== typeof data.sizes ) { #>
+			<span class="setting">
+				<label for="attachment-display-settings-size" class="name">Size</label>
+				<select id="attachment-display-settings-size" class="size" name="size"
+					data-setting="size"
+					<# if ( data.userSettings ) { #>
+						data-user-setting="imgsize"
+					<# } #>>
+											<#
+						var size = data.sizes['thumbnail'];
+						if ( size ) { #>
+							<option value="thumbnail" >
+								Thumbnail &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['medium'];
+						if ( size ) { #>
+							<option value="medium" >
+								Medium &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['large'];
+						if ( size ) { #>
+							<option value="large" >
+								Large &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+											<#
+						var size = data.sizes['full'];
+						if ( size ) { #>
+							<option value="full"  selected='selected'>
+								Full Size &ndash; {{ size.width }} &times; {{ size.height }}
+							</option>
+						<# } #>
+									</select>
+			</span>
+		<# } #>
+	</script>
+
+		<script type="text/html" id="tmpl-gallery-settings">
+		<h2>Gallery Settings</h2>
+
+		<span class="setting">
+			<label for="gallery-settings-link-to" class="name">Link To</label>
+			<select id="gallery-settings-link-to" class="link-to"
+				data-setting="link"
+				<# if ( data.userSettings ) { #>
+					data-user-setting="urlbutton"
+				<# } #>>
+
+				<option value="post" <# if ( ! wp.media.galleryDefaults.link || 'post' === wp.media.galleryDefaults.link ) {
+					#>selected="selected"<# }
+				#>>
+					Attachment Page				</option>
+				<option value="file" <# if ( 'file' === wp.media.galleryDefaults.link ) { #>selected="selected"<# } #>>
+					Media File				</option>
+				<option value="none" <# if ( 'none' === wp.media.galleryDefaults.link ) { #>selected="selected"<# } #>>
+					None				</option>
+			</select>
+		</span>
+
+		<span class="setting">
+			<label for="gallery-settings-columns" class="name select-label-inline">Columns</label>
+			<select id="gallery-settings-columns" class="columns" name="columns"
+				data-setting="columns">
+									<option value="1" <#
+						if ( 1 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						1					</option>
+									<option value="2" <#
+						if ( 2 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						2					</option>
+									<option value="3" <#
+						if ( 3 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						3					</option>
+									<option value="4" <#
+						if ( 4 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						4					</option>
+									<option value="5" <#
+						if ( 5 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						5					</option>
+									<option value="6" <#
+						if ( 6 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						6					</option>
+									<option value="7" <#
+						if ( 7 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						7					</option>
+									<option value="8" <#
+						if ( 8 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						8					</option>
+									<option value="9" <#
+						if ( 9 == wp.media.galleryDefaults.columns ) { #>selected="selected"<# }
+					#>>
+						9					</option>
+							</select>
+		</span>
+
+		<span class="setting">
+			<input type="checkbox" id="gallery-settings-random-order" data-setting="_orderbyRandom" />
+			<label for="gallery-settings-random-order" class="checkbox-label-inline">Random Order</label>
+		</span>
+
+		<span class="setting size">
+			<label for="gallery-settings-size" class="name">Size</label>
+			<select id="gallery-settings-size" class="size" name="size"
+				data-setting="size"
+				<# if ( data.userSettings ) { #>
+					data-user-setting="imgsize"
+				<# } #>
+				>
+									<option value="thumbnail">
+						Thumbnail					</option>
+									<option value="medium">
+						Medium					</option>
+									<option value="large">
+						Large					</option>
+									<option value="full">
+						Full Size					</option>
+							</select>
+		</span>
+	</script>
+
+		<script type="text/html" id="tmpl-playlist-settings">
+		<h2>Playlist Settings</h2>
+
+		<# var emptyModel = _.isEmpty( data.model ),
+			isVideo = 'video' === data.controller.get('library').props.get('type'); #>
+
+		<span class="setting">
+			<input type="checkbox" id="playlist-settings-show-list" data-setting="tracklist" <# if ( emptyModel ) { #>
+				checked="checked"
+			<# } #> />
+			<label for="playlist-settings-show-list" class="checkbox-label-inline">
+				<# if ( isVideo ) { #>
+				Show Video List				<# } else { #>
+				Show Tracklist				<# } #>
+			</label>
+		</span>
+
+		<# if ( ! isVideo ) { #>
+		<span class="setting">
+			<input type="checkbox" id="playlist-settings-show-artist" data-setting="artists" <# if ( emptyModel ) { #>
+				checked="checked"
+			<# } #> />
+			<label for="playlist-settings-show-artist" class="checkbox-label-inline">
+				Show Artist Name in Tracklist			</label>
+		</span>
+		<# } #>
+
+		<span class="setting">
+			<input type="checkbox" id="playlist-settings-show-images" data-setting="images" <# if ( emptyModel ) { #>
+				checked="checked"
+			<# } #> />
+			<label for="playlist-settings-show-images" class="checkbox-label-inline">
+				Show Images			</label>
+		</span>
+	</script>
+
+		<script type="text/html" id="tmpl-embed-link-settings">
+		<span class="setting link-text">
+			<label for="embed-link-settings-link-text" class="name">Link Text</label>
+			<input type="text" id="embed-link-settings-link-text" class="alignment" data-setting="linkText" />
+		</span>
+		<div class="embed-container" style="display: none;">
+			<div class="embed-preview"></div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-embed-image-settings">
+		<div class="wp-clearfix">
+			<div class="thumbnail">
+				<img src="{{ data.model.url }}" draggable="false" alt="" />
+			</div>
+		</div>
+
+		<span class="setting alt-text has-description">
+			<label for="embed-image-settings-alt-text" class="name">Alternative Text</label>
+			<input type="text" id="embed-image-settings-alt-text" data-setting="alt" aria-describedby="alt-text-description" />
+		</span>
+		<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+
+					<span class="setting caption">
+				<label for="embed-image-settings-caption" class="name">Caption</label>
+				<textarea id="embed-image-settings-caption" data-setting="caption" />
+			</span>
+		
+		<fieldset class="setting-group">
+			<legend class="name">Align</legend>
+			<span class="setting align">
+				<span class="button-group button-large" data-setting="align">
+					<button class="button" value="left">
+						Left					</button>
+					<button class="button" value="center">
+						Center					</button>
+					<button class="button" value="right">
+						Right					</button>
+					<button class="button active" value="none">
+						None					</button>
+				</span>
+			</span>
+		</fieldset>
+
+		<fieldset class="setting-group">
+			<legend class="name">Link To</legend>
+			<span class="setting link-to">
+				<span class="button-group button-large" data-setting="link">
+					<button class="button" value="file">
+						Image URL					</button>
+					<button class="button" value="custom">
+						Custom URL					</button>
+					<button class="button active" value="none">
+						None					</button>
+				</span>
+			</span>
+			<span class="setting">
+				<label for="embed-image-settings-link-to-custom" class="name">URL</label>
+				<input type="text" id="embed-image-settings-link-to-custom" class="link-to-custom" data-setting="linkUrl" />
+			</span>
+		</fieldset>
+	</script>
+
+		<script type="text/html" id="tmpl-image-details">
+		<div class="media-embed">
+			<div class="embed-media-settings">
+				<div class="column-settings">
+					<span class="setting alt-text has-description">
+						<label for="image-details-alt-text" class="name">Alternative Text</label>
+						<input type="text" id="image-details-alt-text" data-setting="alt" value="{{ data.model.alt }}" aria-describedby="alt-text-description" />
+					</span>
+					<p class="description" id="alt-text-description"><a href="https://www.w3.org/WAI/tutorials/images/decision-tree" target="_blank" rel="noopener noreferrer">Describe the purpose of the image<span class="screen-reader-text"> (opens in a new tab)</span></a>. Leave empty if the image is purely decorative.</p>
+
+											<span class="setting caption">
+							<label for="image-details-caption" class="name">Caption</label>
+							<textarea id="image-details-caption" data-setting="caption">{{ data.model.caption }}</textarea>
+						</span>
+					
+					<h2>Display Settings</h2>
+					<fieldset class="setting-group">
+						<legend class="legend-inline">Align</legend>
+						<span class="setting align">
+							<span class="button-group button-large" data-setting="align">
+								<button class="button" value="left">
+									Left								</button>
+								<button class="button" value="center">
+									Center								</button>
+								<button class="button" value="right">
+									Right								</button>
+								<button class="button active" value="none">
+									None								</button>
+							</span>
+						</span>
+					</fieldset>
+
+					<# if ( data.attachment ) { #>
+						<# if ( 'undefined' !== typeof data.attachment.sizes ) { #>
+							<span class="setting size">
+								<label for="image-details-size" class="name">Size</label>
+								<select id="image-details-size" class="size" name="size"
+									data-setting="size"
+									<# if ( data.userSettings ) { #>
+										data-user-setting="imgsize"
+									<# } #>>
+																			<#
+										var size = data.sizes['thumbnail'];
+										if ( size ) { #>
+											<option value="thumbnail">
+												Thumbnail &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['medium'];
+										if ( size ) { #>
+											<option value="medium">
+												Medium &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['large'];
+										if ( size ) { #>
+											<option value="large">
+												Large &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																			<#
+										var size = data.sizes['full'];
+										if ( size ) { #>
+											<option value="full">
+												Full Size &ndash; {{ size.width }} &times; {{ size.height }}
+											</option>
+										<# } #>
+																		<option value="custom">
+										Custom Size									</option>
+								</select>
+							</span>
+						<# } #>
+							<div class="custom-size wp-clearfix<# if ( data.model.size !== 'custom' ) { #> hidden<# } #>">
+								<span class="custom-size-setting">
+									<label for="image-details-size-width">Width</label>
+									<input type="number" id="image-details-size-width" aria-describedby="image-size-desc" data-setting="customWidth" step="1" value="{{ data.model.customWidth }}" />
+								</span>
+								<span class="sep" aria-hidden="true">&times;</span>
+								<span class="custom-size-setting">
+									<label for="image-details-size-height">Height</label>
+									<input type="number" id="image-details-size-height" aria-describedby="image-size-desc" data-setting="customHeight" step="1" value="{{ data.model.customHeight }}" />
+								</span>
+								<p id="image-size-desc" class="description">Image size in pixels</p>
+							</div>
+					<# } #>
+
+					<span class="setting link-to">
+						<label for="image-details-link-to" class="name">Link To</label>
+						<select id="image-details-link-to" data-setting="link">
+						<# if ( data.attachment ) { #>
+							<option value="file">
+								Media File							</option>
+							<option value="post">
+								Attachment Page							</option>
+						<# } else { #>
+							<option value="file">
+								Image URL							</option>
+						<# } #>
+							<option value="custom">
+								Custom URL							</option>
+							<option value="none">
+								None							</option>
+						</select>
+					</span>
+					<span class="setting">
+						<label for="image-details-link-to-custom" class="name">URL</label>
+						<input type="text" id="image-details-link-to-custom" class="link-to-custom" data-setting="linkUrl" />
+					</span>
+
+					<div class="advanced-section">
+						<h2><button type="button" class="button-link advanced-toggle">Advanced Options</button></h2>
+						<div class="advanced-settings hidden">
+							<div class="advanced-image">
+								<span class="setting title-text">
+									<label for="image-details-title-attribute" class="name">Image Title Attribute</label>
+									<input type="text" id="image-details-title-attribute" data-setting="title" value="{{ data.model.title }}" />
+								</span>
+								<span class="setting extra-classes">
+									<label for="image-details-css-class" class="name">Image CSS Class</label>
+									<input type="text" id="image-details-css-class" data-setting="extraClasses" value="{{ data.model.extraClasses }}" />
+								</span>
+							</div>
+							<div class="advanced-link">
+								<span class="setting link-target">
+									<input type="checkbox" id="image-details-link-target" data-setting="linkTargetBlank" value="_blank" <# if ( data.model.linkTargetBlank ) { #>checked="checked"<# } #>>
+									<label for="image-details-link-target" class="checkbox-label">Open link in a new tab</label>
+								</span>
+								<span class="setting link-rel">
+									<label for="image-details-link-rel" class="name">Link Rel</label>
+									<input type="text" id="image-details-link-rel" data-setting="linkRel" value="{{ data.model.linkRel }}" />
+								</span>
+								<span class="setting link-class-name">
+									<label for="image-details-link-css-class" class="name">Link CSS Class</label>
+									<input type="text" id="image-details-link-css-class" data-setting="linkClassName" value="{{ data.model.linkClassName }}" />
+								</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="column-image">
+					<div class="image">
+						<img src="{{ data.model.url }}" draggable="false" alt="" />
+						<# if ( data.attachment && window.imageEdit ) { #>
+							<div class="actions">
+								<input type="button" class="edit-attachment button" value="Edit Original" />
+								<input type="button" class="replace-attachment button" value="Replace" />
+							</div>
+						<# } #>
+					</div>
+				</div>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-image-editor">
+		<div id="media-head-{{ data.id }}"></div>
+		<div id="image-editor-{{ data.id }}"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-audio-details">
+		<# var ext, html5types = {
+			mp3: wp.media.view.settings.embedMimes.mp3,
+			ogg: wp.media.view.settings.embedMimes.ogg
+		}; #>
+
+				<div class="media-embed media-embed-details">
+			<div class="embed-media-settings embed-audio-settings">
+				<audio style="visibility: hidden"
+	controls
+	class="wp-audio-shortcode"
+	width="{{ _.isUndefined( data.model.width ) ? 400 : data.model.width }}"
+	preload="{{ _.isUndefined( data.model.preload ) ? 'none' : data.model.preload }}"
+	<#
+		if ( ! _.isUndefined( data.model.autoplay ) && data.model.autoplay ) {
+		#> autoplay<#
+	}
+		if ( ! _.isUndefined( data.model.loop ) && data.model.loop ) {
+		#> loop<#
+	}
+	#>
+>
+	<# if ( ! _.isEmpty( data.model.src ) ) { #>
+	<source src="{{ data.model.src }}" type="{{ wp.media.view.settings.embedMimes[ data.model.src.split('.').pop() ] }}" />
+	<# } #>
+
+		<# if ( ! _.isEmpty( data.model.mp3 ) ) { #>
+	<source src="{{ data.model.mp3 }}" type="{{ wp.media.view.settings.embedMimes[ 'mp3' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.ogg ) ) { #>
+	<source src="{{ data.model.ogg }}" type="{{ wp.media.view.settings.embedMimes[ 'ogg' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.flac ) ) { #>
+	<source src="{{ data.model.flac }}" type="{{ wp.media.view.settings.embedMimes[ 'flac' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.m4a ) ) { #>
+	<source src="{{ data.model.m4a }}" type="{{ wp.media.view.settings.embedMimes[ 'm4a' ] }}" />
+	<# } #>
+			<# if ( ! _.isEmpty( data.model.wav ) ) { #>
+	<source src="{{ data.model.wav }}" type="{{ wp.media.view.settings.embedMimes[ 'wav' ] }}" />
+	<# } #>
+		</audio>
+	
+				<# if ( ! _.isEmpty( data.model.src ) ) {
+					ext = data.model.src.split('.').pop();
+					if ( html5types[ ext ] ) {
+						delete html5types[ ext ];
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-source" class="name">URL</label>
+					<input type="text" id="audio-details-source" readonly data-setting="src" value="{{ data.model.src }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.mp3 ) ) {
+					if ( ! _.isUndefined( html5types.mp3 ) ) {
+						delete html5types.mp3;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-mp3-source" class="name">MP3</label>
+					<input type="text" id="audio-details-mp3-source" readonly data-setting="mp3" value="{{ data.model.mp3 }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.ogg ) ) {
+					if ( ! _.isUndefined( html5types.ogg ) ) {
+						delete html5types.ogg;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-ogg-source" class="name">OGG</label>
+					<input type="text" id="audio-details-ogg-source" readonly data-setting="ogg" value="{{ data.model.ogg }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.flac ) ) {
+					if ( ! _.isUndefined( html5types.flac ) ) {
+						delete html5types.flac;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-flac-source" class="name">FLAC</label>
+					<input type="text" id="audio-details-flac-source" readonly data-setting="flac" value="{{ data.model.flac }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.m4a ) ) {
+					if ( ! _.isUndefined( html5types.m4a ) ) {
+						delete html5types.m4a;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-m4a-source" class="name">M4A</label>
+					<input type="text" id="audio-details-m4a-source" readonly data-setting="m4a" value="{{ data.model.m4a }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.wav ) ) {
+					if ( ! _.isUndefined( html5types.wav ) ) {
+						delete html5types.wav;
+					}
+				#>
+				<span class="setting">
+					<label for="audio-details-wav-source" class="name">WAV</label>
+					<input type="text" id="audio-details-wav-source" readonly data-setting="wav" value="{{ data.model.wav }}" />
+					<button type="button" class="button-link remove-setting">Remove audio source</button>
+				</span>
+				<# } #>
+				
+				<# if ( ! _.isEmpty( html5types ) ) { #>
+				<fieldset class="setting-group">
+					<legend class="name">Add alternate sources for maximum HTML5 playback</legend>
+					<span class="setting">
+						<span class="button-large">
+						<# _.each( html5types, function (mime, type) { #>
+							<button class="button add-media-source" data-mime="{{ mime }}">{{ type }}</button>
+						<# } ) #>
+						</span>
+					</span>
+				</fieldset>
+				<# } #>
+
+				<fieldset class="setting-group">
+					<legend class="name">Preload</legend>
+					<span class="setting preload">
+						<span class="button-group button-large" data-setting="preload">
+							<button class="button" value="auto">Auto</button>
+							<button class="button" value="metadata">Metadata</button>
+							<button class="button active" value="none">None</button>
+						</span>
+					</span>
+				</fieldset>
+
+				<span class="setting-group">
+					<span class="setting checkbox-setting autoplay">
+						<input type="checkbox" id="audio-details-autoplay" data-setting="autoplay" />
+						<label for="audio-details-autoplay" class="checkbox-label">Autoplay</label>
+					</span>
+
+					<span class="setting checkbox-setting">
+						<input type="checkbox" id="audio-details-loop" data-setting="loop" />
+						<label for="audio-details-loop" class="checkbox-label">Loop</label>
+					</span>
+				</span>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-video-details">
+		<# var ext, html5types = {
+			mp4: wp.media.view.settings.embedMimes.mp4,
+			ogv: wp.media.view.settings.embedMimes.ogv,
+			webm: wp.media.view.settings.embedMimes.webm
+		}; #>
+
+				<div class="media-embed media-embed-details">
+			<div class="embed-media-settings embed-video-settings">
+				<div class="wp-video-holder">
+				<#
+				var w = ! data.model.width || data.model.width > 640 ? 640 : data.model.width,
+					h = ! data.model.height ? 360 : data.model.height;
+
+				if ( data.model.width && w !== data.model.width ) {
+					h = Math.ceil( ( h * w ) / data.model.width );
+				}
+				#>
+
+				<#  var w_rule = '', classes = [],
+		w, h, settings = wp.media.view.settings,
+		isYouTube = isVimeo = false;
+
+	if ( ! _.isEmpty( data.model.src ) ) {
+		isYouTube = data.model.src.match(/youtube|youtu\.be/);
+		isVimeo = -1 !== data.model.src.indexOf('vimeo');
+	}
+
+	if ( settings.contentWidth && data.model.width >= settings.contentWidth ) {
+		w = settings.contentWidth;
+	} else {
+		w = data.model.width;
+	}
+
+	if ( w !== data.model.width ) {
+		h = Math.ceil( ( data.model.height * w ) / data.model.width );
+	} else {
+		h = data.model.height;
+	}
+
+	if ( w ) {
+		w_rule = 'width: ' + w + 'px; ';
+	}
+
+	if ( isYouTube ) {
+		classes.push( 'youtube-video' );
+	}
+
+	if ( isVimeo ) {
+		classes.push( 'vimeo-video' );
+	}
+
+#>
+<div style="{{ w_rule }}" class="wp-video">
+<video controls
+	class="wp-video-shortcode {{ classes.join( ' ' ) }}"
+	<# if ( w ) { #>width="{{ w }}"<# } #>
+	<# if ( h ) { #>height="{{ h }}"<# } #>
+			<#
+		if ( ! _.isUndefined( data.model.poster ) && data.model.poster ) {
+			#> poster="{{ data.model.poster }}"<#
+		} #>
+			preload			="{{ _.isUndefined( data.model.preload ) ? 'metadata' : data.model.preload }}"
+				<#
+		if ( ! _.isUndefined( data.model.autoplay ) && data.model.autoplay ) {
+		#> autoplay<#
+	}
+		if ( ! _.isUndefined( data.model.loop ) && data.model.loop ) {
+		#> loop<#
+	}
+	#>
+>
+	<# if ( ! _.isEmpty( data.model.src ) ) {
+		if ( isYouTube ) { #>
+		<source src="{{ data.model.src }}" type="video/youtube" />
+		<# } else if ( isVimeo ) { #>
+		<source src="{{ data.model.src }}" type="video/vimeo" />
+		<# } else { #>
+		<source src="{{ data.model.src }}" type="{{ settings.embedMimes[ data.model.src.split('.').pop() ] }}" />
+		<# }
+	} #>
+
+		<# if ( data.model.mp4 ) { #>
+	<source src="{{ data.model.mp4 }}" type="{{ settings.embedMimes[ 'mp4' ] }}" />
+	<# } #>
+		<# if ( data.model.m4v ) { #>
+	<source src="{{ data.model.m4v }}" type="{{ settings.embedMimes[ 'm4v' ] }}" />
+	<# } #>
+		<# if ( data.model.webm ) { #>
+	<source src="{{ data.model.webm }}" type="{{ settings.embedMimes[ 'webm' ] }}" />
+	<# } #>
+		<# if ( data.model.ogv ) { #>
+	<source src="{{ data.model.ogv }}" type="{{ settings.embedMimes[ 'ogv' ] }}" />
+	<# } #>
+		<# if ( data.model.flv ) { #>
+	<source src="{{ data.model.flv }}" type="{{ settings.embedMimes[ 'flv' ] }}" />
+	<# } #>
+		{{{ data.model.content }}}
+</video>
+</div>
+	
+				<# if ( ! _.isEmpty( data.model.src ) ) {
+					ext = data.model.src.split('.').pop();
+					if ( html5types[ ext ] ) {
+						delete html5types[ ext ];
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-source" class="name">URL</label>
+					<input type="text" id="video-details-source" readonly data-setting="src" value="{{ data.model.src }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.mp4 ) ) {
+					if ( ! _.isUndefined( html5types.mp4 ) ) {
+						delete html5types.mp4;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-mp4-source" class="name">MP4</label>
+					<input type="text" id="video-details-mp4-source" readonly data-setting="mp4" value="{{ data.model.mp4 }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.m4v ) ) {
+					if ( ! _.isUndefined( html5types.m4v ) ) {
+						delete html5types.m4v;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-m4v-source" class="name">M4V</label>
+					<input type="text" id="video-details-m4v-source" readonly data-setting="m4v" value="{{ data.model.m4v }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.webm ) ) {
+					if ( ! _.isUndefined( html5types.webm ) ) {
+						delete html5types.webm;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-webm-source" class="name">WEBM</label>
+					<input type="text" id="video-details-webm-source" readonly data-setting="webm" value="{{ data.model.webm }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.ogv ) ) {
+					if ( ! _.isUndefined( html5types.ogv ) ) {
+						delete html5types.ogv;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-ogv-source" class="name">OGV</label>
+					<input type="text" id="video-details-ogv-source" readonly data-setting="ogv" value="{{ data.model.ogv }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								<# if ( ! _.isEmpty( data.model.flv ) ) {
+					if ( ! _.isUndefined( html5types.flv ) ) {
+						delete html5types.flv;
+					}
+				#>
+				<span class="setting">
+					<label for="video-details-flv-source" class="name">FLV</label>
+					<input type="text" id="video-details-flv-source" readonly data-setting="flv" value="{{ data.model.flv }}" />
+					<button type="button" class="button-link remove-setting">Remove video source</button>
+				</span>
+				<# } #>
+								</div>
+
+				<# if ( ! _.isEmpty( html5types ) ) { #>
+				<fieldset class="setting-group">
+					<legend class="name">Add alternate sources for maximum HTML5 playback</legend>
+					<span class="setting">
+						<span class="button-large">
+						<# _.each( html5types, function (mime, type) { #>
+							<button class="button add-media-source" data-mime="{{ mime }}">{{ type }}</button>
+						<# } ) #>
+						</span>
+					</span>
+				</fieldset>
+				<# } #>
+
+				<# if ( ! _.isEmpty( data.model.poster ) ) { #>
+				<span class="setting">
+					<label for="video-details-poster-image" class="name">Poster Image</label>
+					<input type="text" id="video-details-poster-image" readonly data-setting="poster" value="{{ data.model.poster }}" />
+					<button type="button" class="button-link remove-setting">Remove poster image</button>
+				</span>
+				<# } #>
+
+				<fieldset class="setting-group">
+					<legend class="name">Preload</legend>
+					<span class="setting preload">
+						<span class="button-group button-large" data-setting="preload">
+							<button class="button" value="auto">Auto</button>
+							<button class="button" value="metadata">Metadata</button>
+							<button class="button active" value="none">None</button>
+						</span>
+					</span>
+				</fieldset>
+
+				<span class="setting-group">
+					<span class="setting checkbox-setting autoplay">
+						<input type="checkbox" id="video-details-autoplay" data-setting="autoplay" />
+						<label for="video-details-autoplay" class="checkbox-label">Autoplay</label>
+					</span>
+
+					<span class="setting checkbox-setting">
+						<input type="checkbox" id="video-details-loop" data-setting="loop" />
+						<label for="video-details-loop" class="checkbox-label">Loop</label>
+					</span>
+				</span>
+
+				<span class="setting" data-setting="content">
+					<#
+					var content = '';
+					if ( ! _.isEmpty( data.model.content ) ) {
+						var tracks = jQuery( data.model.content ).filter( 'track' );
+						_.each( tracks.toArray(), function( track, index ) {
+							content += track.outerHTML; #>
+						<label for="video-details-track-{{ index }}" class="name">Tracks (subtitles, captions, descriptions, chapters, or metadata)</label>
+						<input class="content-track" type="text" id="video-details-track-{{ index }}" aria-describedby="video-details-track-desc-{{ index }}" value="{{ track.outerHTML }}" />
+						<span class="description" id="video-details-track-desc-{{ index }}">
+						The srclang, label, and kind values can be edited to set the video track language and kind.						</span>
+						<button type="button" class="button-link remove-setting remove-track">Remove video track</button><br/>
+						<# } ); #>
+					<# } else { #>
+					<span class="name">Tracks (subtitles, captions, descriptions, chapters, or metadata)</span><br />
+					<em>There are no associated subtitles.</em>
+					<# } #>
+					<textarea class="hidden content-setting">{{ content }}</textarea>
+				</span>
+			</div>
+		</div>
+	</script>
+
+		<script type="text/html" id="tmpl-editor-gallery">
+		<# if ( data.attachments.length ) { #>
+			<div class="gallery gallery-columns-{{ data.columns }}">
+				<# _.each( data.attachments, function( attachment, index ) { #>
+					<dl class="gallery-item">
+						<dt class="gallery-icon">
+							<# if ( attachment.thumbnail ) { #>
+								<img src="{{ attachment.thumbnail.url }}" width="{{ attachment.thumbnail.width }}" height="{{ attachment.thumbnail.height }}" alt="{{ attachment.alt }}" />
+							<# } else { #>
+								<img src="{{ attachment.url }}" alt="{{ attachment.alt }}" />
+							<# } #>
+						</dt>
+						<# if ( attachment.caption ) { #>
+							<dd class="wp-caption-text gallery-caption">
+								{{{ data.verifyHTML( attachment.caption ) }}}
+							</dd>
+						<# } #>
+					</dl>
+					<# if ( index % data.columns === data.columns - 1 ) { #>
+						<br style="clear: both;">
+					<# } #>
+				<# } ); #>
+			</div>
+		<# } else { #>
+			<div class="wpview-error">
+				<div class="dashicons dashicons-format-gallery"></div><p>No items found.</p>
+			</div>
+		<# } #>
+	</script>
+
+		<script type="text/html" id="tmpl-crop-content">
+		<img class="crop-image" src="{{ data.url }}" alt="Image crop area preview. Requires mouse interaction.">
+		<div class="upload-errors"></div>
+	</script>
+
+		<script type="text/html" id="tmpl-site-icon-preview">
+		<h2>Preview</h2>
+		<strong aria-hidden="true">As a browser icon</strong>
+		<div class="favicon-preview">
+			<img src="https://biologi.fkip.uns.ac.id/wp-admin/images/browser.png" class="browser-preview" width="182" height="" alt="" />
+
+			<div class="favicon">
+				<img id="preview-favicon" src="{{ data.url }}" alt="Preview as a browser icon"/>
+			</div>
+			<span class="browser-title" aria-hidden="true"><# print( '..: Pendidikan Biologi FKIP UNS :..' ) #></span>
+		</div>
+
+		<strong aria-hidden="true">As an app icon</strong>
+		<div class="app-icon-preview">
+			<img id="preview-app-icon" src="{{ data.url }}" alt="Preview as an app icon"/>
+		</div>
+	</script>
+
+	<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/shortcode.min.js' id='shortcode-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/backbone.min.js' id='backbone-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/wp-backbone.min.js' id='wp-backbone-js'></script>
+<script type='text/javascript' id='media-models-js-extra'>
+/* <![CDATA[ */
+var _wpMediaModelsL10n = {"settings":{"ajaxurl":"\/wp-admin\/admin-ajax.php","post":{"id":0}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/media-models.min.js' id='media-models-js'></script>
+<script type='text/javascript' id='wp-plupload-js-extra'>
+/* <![CDATA[ */
+var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload 1 file.","http_error":"Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.","http_error_image":"Post-processing of the image failed likely because the server is busy or does not have enough resources. Uploading a smaller image may help. Suggested maximum size is 2500 pixels.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File canceled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\u2026","deleted":"moved to the Trash.","error_uploading":"\u201c%s\u201d has failed to upload.","unsupported_image":"This image cannot be displayed in a web browser. For best results convert it to JPEG before uploading."};
+var _wpPluploadSettings = {"defaults":{"file_data_name":"async-upload","url":"\/wp-admin\/async-upload.php","filters":{"max_file_size":"2097152b","mime_types":[{"extensions":"jpg,jpeg,jpe,gif,png,bmp,tiff,tif,ico,heic,asf,asx,wmv,wmx,wm,avi,divx,flv,mov,qt,mpeg,mpg,mpe,mp4,m4v,ogv,webm,mkv,3gp,3gpp,3g2,3gp2,txt,asc,c,cc,h,srt,csv,tsv,ics,rtx,css,vtt,dfxp,mp3,m4a,m4b,aac,ra,ram,wav,ogg,oga,flac,mid,midi,wma,wax,mka,rtf,pdf,class,tar,zip,gz,gzip,rar,7z,psd,xcf,doc,pot,pps,ppt,wri,xla,xls,xlt,xlw,mdb,mpp,docx,docm,dotx,dotm,xlsx,xlsm,xlsb,xltx,xltm,xlam,pptx,pptm,ppsx,ppsm,potx,potm,ppam,sldx,sldm,onetoc,onetoc2,onetmp,onepkg,oxps,xps,odt,odp,ods,odg,odc,odb,odf,wp,wpd,key,numbers,pages,woff,ttf,svg,eot"}]},"heic_upload_error":true,"multipart_params":{"action":"upload-attachment","_wpnonce":"a33e54c7c0"}},"browser":{"mobile":false,"supported":true},"limitExceeded":false};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/plupload/wp-plupload.min.js' id='wp-plupload-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/mediaelement/mediaelement-and-player.min.js' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/mediaelement/mediaelement-migrate.min.js' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/mediaelement/wp-mediaelement.min.js' id='wp-mediaelement-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/biologi.fkip.uns.ac.id\/wp-json\/","nonce":"5b5a584a3c","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/api-request.min.js' id='wp-api-request-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://biologi.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/dist/dom-ready.min.js' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/dist/a11y.min.js' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/clipboard.min.js' id='clipboard-js'></script>
+<script type='text/javascript' id='media-views-js-extra'>
+/* <![CDATA[ */
+var _wpMediaViewsL10n = {"mediaFrameDefaultTitle":"Media","url":"URL","addMedia":"Add media","search":"Search","select":"Select","cancel":"Cancel","update":"Update","replace":"Replace","remove":"Remove","back":"Back","selected":"%d selected","dragInfo":"Drag and drop to reorder media files.","uploadFilesTitle":"Upload files","uploadImagesTitle":"Upload images","mediaLibraryTitle":"Media Library","insertMediaTitle":"Add media","createNewGallery":"Create a new gallery","createNewPlaylist":"Create a new playlist","createNewVideoPlaylist":"Create a new video playlist","returnToLibrary":"\u2190 Return to library","allMediaItems":"All media items","allDates":"All dates","noItemsFound":"No items found.","insertIntoPost":"Insert into post","unattached":"Unattached","mine":"Mine","trash":"Trash","uploadedToThisPost":"Uploaded to this post","warnDelete":"You are about to permanently delete this item from your site.\nThis action cannot be undone.\n 'Cancel' to stop, 'OK' to delete.","warnBulkDelete":"You are about to permanently delete these items from your site.\nThis action cannot be undone.\n 'Cancel' to stop, 'OK' to delete.","warnBulkTrash":"You are about to trash these items.\n  'Cancel' to stop, 'OK' to delete.","bulkSelect":"Bulk select","trashSelected":"Move to Trash","restoreSelected":"Restore from Trash","deletePermanently":"Delete permanently","apply":"Apply","filterByDate":"Filter by date","filterByType":"Filter by type","searchLabel":"Search","searchMediaLabel":"Search media","searchMediaPlaceholder":"Search media items...","mediaFound":"Number of media items found: %d","mediaFoundHasMoreResults":"Number of media items displayed: %d. Scroll the page for more results.","noMedia":"No media items found.","noMediaTryNewSearch":"No media items found. Try a different search.","attachmentDetails":"Attachment details","insertFromUrlTitle":"Insert from URL","setFeaturedImageTitle":"Featured image","setFeaturedImage":"Set featured image","createGalleryTitle":"Create gallery","editGalleryTitle":"Edit gallery","cancelGalleryTitle":"\u2190 Cancel gallery","insertGallery":"Insert gallery","updateGallery":"Update gallery","addToGallery":"Add to gallery","addToGalleryTitle":"Add to gallery","reverseOrder":"Reverse order","imageDetailsTitle":"Image details","imageReplaceTitle":"Replace image","imageDetailsCancel":"Cancel edit","editImage":"Edit image","chooseImage":"Choose image","selectAndCrop":"Select and crop","skipCropping":"Skip cropping","cropImage":"Crop image","cropYourImage":"Crop your image","cropping":"Cropping\u2026","suggestedDimensions":"Suggested image dimensions: %1$s by %2$s pixels.","cropError":"There has been an error cropping your image.","audioDetailsTitle":"Audio details","audioReplaceTitle":"Replace audio","audioAddSourceTitle":"Add audio source","audioDetailsCancel":"Cancel edit","videoDetailsTitle":"Video details","videoReplaceTitle":"Replace video","videoAddSourceTitle":"Add video source","videoDetailsCancel":"Cancel edit","videoSelectPosterImageTitle":"Select poster image","videoAddTrackTitle":"Add subtitles","playlistDragInfo":"Drag and drop to reorder tracks.","createPlaylistTitle":"Create audio playlist","editPlaylistTitle":"Edit audio playlist","cancelPlaylistTitle":"\u2190 Cancel audio playlist","insertPlaylist":"Insert audio playlist","updatePlaylist":"Update audio playlist","addToPlaylist":"Add to audio playlist","addToPlaylistTitle":"Add to Audio Playlist","videoPlaylistDragInfo":"Drag and drop to reorder videos.","createVideoPlaylistTitle":"Create video playlist","editVideoPlaylistTitle":"Edit video playlist","cancelVideoPlaylistTitle":"\u2190 Cancel video playlist","insertVideoPlaylist":"Insert video playlist","updateVideoPlaylist":"Update video playlist","addToVideoPlaylist":"Add to video playlist","addToVideoPlaylistTitle":"Add to video Playlist","filterAttachments":"Filter media","attachmentsList":"Media list","settings":{"tabs":[],"tabUrl":"https:\/\/biologi.fkip.uns.ac.id\/wp-admin\/media-upload.php?chromeless=1","mimeTypes":{"image":"Images","audio":"Audio","video":"Video","application\/msword,application\/vnd.openxmlformats-officedocument.wordprocessingml.document,application\/vnd.ms-word.document.macroEnabled.12,application\/vnd.ms-word.template.macroEnabled.12,application\/vnd.oasis.opendocument.text,application\/vnd.apple.pages,application\/pdf,application\/vnd.ms-xpsdocument,application\/oxps,application\/rtf,application\/wordperfect,application\/octet-stream":"Documents","application\/vnd.apple.numbers,application\/vnd.oasis.opendocument.spreadsheet,application\/vnd.ms-excel,application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet,application\/vnd.ms-excel.sheet.macroEnabled.12,application\/vnd.ms-excel.sheet.binary.macroEnabled.12":"Spreadsheets","application\/x-gzip,application\/rar,application\/x-tar,application\/zip,application\/x-7z-compressed":"Archives"},"captions":true,"nonce":{"sendToEditor":"fcd9e8ef18"},"post":{"id":0},"defaultProps":{"link":"file","align":"","size":""},"attachmentCounts":{"audio":1,"video":1},"oEmbedProxyUrl":"https:\/\/biologi.fkip.uns.ac.id\/wp-json\/oembed\/1.0\/proxy","embedExts":["mp3","ogg","flac","m4a","wav","mp4","m4v","webm","ogv","flv"],"embedMimes":{"mp3":"audio\/mpeg","ogg":"audio\/ogg","flac":"audio\/flac","m4a":"audio\/mpeg","wav":"audio\/wav","mp4":"video\/mp4","m4v":"video\/mp4","webm":"video\/webm","ogv":"video\/ogg","flv":"video\/x-flv"},"contentWidth":null,"months":[{"year":"2020","month":"10","text":"October 2020"},{"year":"2020","month":"9","text":"September 2020"},{"year":"2020","month":"8","text":"August 2020"},{"year":"2020","month":"7","text":"July 2020"},{"year":"2020","month":"6","text":"June 2020"},{"year":"2020","month":"5","text":"May 2020"},{"year":"2020","month":"4","text":"April 2020"},{"year":"2020","month":"3","text":"March 2020"},{"year":"2020","month":"2","text":"February 2020"},{"year":"2020","month":"1","text":"January 2020"},{"year":"2019","month":"12","text":"December 2019"},{"year":"2019","month":"11","text":"November 2019"},{"year":"2019","month":"10","text":"October 2019"},{"year":"2019","month":"9","text":"September 2019"},{"year":"2019","month":"8","text":"August 2019"},{"year":"2019","month":"7","text":"July 2019"},{"year":"2019","month":"6","text":"June 2019"},{"year":"2019","month":"2","text":"February 2019"},{"year":"2019","month":"1","text":"January 2019"},{"year":"2018","month":"12","text":"December 2018"},{"year":"2018","month":"11","text":"November 2018"},{"year":"2018","month":"9","text":"September 2018"},{"year":"2018","month":"8","text":"August 2018"},{"year":"2018","month":"7","text":"July 2018"},{"year":"2018","month":"3","text":"March 2018"},{"year":"2018","month":"2","text":"February 2018"},{"year":"2017","month":"9","text":"September 2017"},{"year":"2017","month":"8","text":"August 2017"},{"year":"2017","month":"7","text":"July 2017"},{"year":"2017","month":"6","text":"June 2017"},{"year":"2017","month":"4","text":"April 2017"},{"year":"2017","month":"3","text":"March 2017"},{"year":"2017","month":"2","text":"February 2017"},{"year":"2017","month":"1","text":"January 2017"},{"year":"2016","month":"12","text":"December 2016"},{"year":"2016","month":"10","text":"October 2016"},{"year":"2016","month":"9","text":"September 2016"},{"year":"2016","month":"8","text":"August 2016"},{"year":"2016","month":"7","text":"July 2016"},{"year":"2016","month":"6","text":"June 2016"},{"year":"2016","month":"5","text":"May 2016"},{"year":"2016","month":"4","text":"April 2016"},{"year":"2016","month":"2","text":"February 2016"},{"year":"2015","month":"10","text":"October 2015"},{"year":"2015","month":"9","text":"September 2015"},{"year":"2015","month":"8","text":"August 2015"},{"year":"2015","month":"7","text":"July 2015"},{"year":"2015","month":"5","text":"May 2015"},{"year":"2015","month":"4","text":"April 2015"},{"year":"2015","month":"3","text":"March 2015"},{"year":"2015","month":"2","text":"February 2015"},{"year":"2015","month":"1","text":"January 2015"},{"year":"2014","month":"12","text":"December 2014"},{"year":"2014","month":"11","text":"November 2014"},{"year":"2014","month":"10","text":"October 2014"},{"year":"2014","month":"9","text":"September 2014"},{"year":"2014","month":"8","text":"August 2014"},{"year":"2014","month":"7","text":"July 2014"},{"year":"2014","month":"6","text":"June 2014"},{"year":"2014","month":"4","text":"April 2014"},{"year":"2014","month":"3","text":"March 2014"},{"year":"2014","month":"2","text":"February 2014"},{"year":"2014","month":"1","text":"January 2014"},{"year":"2013","month":"10","text":"October 2013"},{"year":"2013","month":"9","text":"September 2013"},{"year":"2013","month":"8","text":"August 2013"},{"year":"2013","month":"7","text":"July 2013"},{"year":"2013","month":"5","text":"May 2013"},{"year":"2013","month":"4","text":"April 2013"},{"year":"2013","month":"3","text":"March 2013"},{"year":"2013","month":"2","text":"February 2013"},{"year":"2013","month":"1","text":"January 2013"},{"year":"2012","month":"12","text":"December 2012"},{"year":"2012","month":"11","text":"November 2012"},{"year":"2012","month":"10","text":"October 2012"},{"year":"2012","month":"9","text":"September 2012"},{"year":"2012","month":"8","text":"August 2012"},{"year":"2012","month":"7","text":"July 2012"},{"year":"2012","month":"6","text":"June 2012"},{"year":"2012","month":"5","text":"May 2012"},{"year":"2012","month":"4","text":"April 2012"},{"year":"2012","month":"3","text":"March 2012"},{"year":"2012","month":"2","text":"February 2012"},{"year":"2011","month":"12","text":"December 2011"},{"year":"2011","month":"11","text":"November 2011"},{"year":"2011","month":"9","text":"September 2011"},{"year":"2011","month":"8","text":"August 2011"},{"year":"2011","month":"7","text":"July 2011"},{"year":"2011","month":"6","text":"June 2011"},{"year":"2011","month":"3","text":"March 2011"},{"year":"2011","month":"2","text":"February 2011"},{"year":"2011","month":"1","text":"January 2011"},{"year":"2010","month":"12","text":"December 2010"},{"year":"2010","month":"5","text":"May 2010"},{"year":"2010","month":"3","text":"March 2010"},{"year":"2009","month":"2","text":"February 2009"}],"mediaTrash":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' id='media-views-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/media-views.min.js' id='media-views-js'></script>
+<script type='text/javascript' id='media-editor-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/media-editor.min.js' id='media-editor-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/media-audiovideo.min.js' id='media-audiovideo-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/plugins/cs-framework/assets/js/cs_frame_functions.js' id='cs_frame_functions_js-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/scripts/jquery.prettyphoto.js' id='prettyPhoto_js-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/scripts/functions.js' id='functions_js-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/assets/scripts/responsive-calendar.js' id='responsive-calendar_js-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-content/themes/uoc-theme/include/assets/scripts/cs_functions.js' id='cs_functions_script-js'></script>
+<script type='text/javascript' src='https://biologi.fkip.uns.ac.id/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+</body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: biologi.fkip.uns.ac.id @ 2020-12-30 06:22:08 by W3 Total Cache
+-->

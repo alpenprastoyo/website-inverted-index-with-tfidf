@@ -1,0 +1,373 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>About the Journal</title>
+        <meta name="description" content="Agrotechnology Research Journal" />
+        <meta name="keywords" content="agrotechnology research journal;  agrotechresj;  universitas sebelas maret; Perkumpulan Agroteknologi/Agroekoteknologi Indonesia; Agriculture; Agrotechnology; Technology and management of Plant Production; Plant Breeding; Land Management Technology; Plant Protection Technology; teknologi dan manajemen produksi tanaman;  pemuliaan tanaman; teknologi pengolaan lahan; teknologi perlindungan tanaman" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/204/journalFavicon_en_US.png" type="image/png" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/leftSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/bothSidebars.css" type="text/css" /> -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                                                                                        
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/public/journals/204/journalStyleSheet.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/pln/css/pln.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                            
+                            
+	<link rel="alternate" type="application/atom+xml" title="Agrotechnology Research Journal (atom+xml)" href="https://jurnal.uns.ac.id/arj/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="Agrotechnology Research Journal (rdf+xml)" href="https://jurnal.uns.ac.id/arj/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="Agrotechnology Research Journal (rss+xml)" href="https://jurnal.uns.ac.id/arj/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+                        </head>
+                        <body id="pkp-about-aboutTheJournal">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/arj/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/arj/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/204/pageHeaderTitleImage_en_US.jpg" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/arj/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/arj/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/arj/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/arj/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/arj/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/arj/statistics" target="_parent">Statistics</a></li>
+
+                                                                                    <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/arj/about/contact">Contact</a></li>
+                                                                                                                    
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/arj/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/arj/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/arj/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/arj/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/arj/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/arj/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/arj/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/arj/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/arj/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/arj/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                        <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/arj/about/contact">Contact</a></li>
+                                                                                                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/arj/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                            <p>2655-7924 (Print)</p>
+                                                                                                                                                                                                                                                        <p>2614-7416 (Online)</p>
+                                                                                                                    </div>
+                                                                                                        <div class="block custom" id="customblock-Search-Box">
+	<div style="position: absolute; top: -17px; white-space: nowrap; z-index: 1; right: 6.7%;"><form id="simpleSearchForm" action="https://jurnal.uns.ac.id/arj/search/search"><label for="simpleQuery"><input id="simpleQuery" class="textField" type="text" name="simpleQuery" value="" size="17" maxlength="255" /> </label><label style="display: none;" for="searchField"> <select id="searchField" class="selectMenu" name="searchField" size="1"> <option label="All" value="query">All</option> <option label="Authors" value="authors">Authors</option> <option label="Title" value="title">Title</option> <option label="Abstract" value="abstract">Abstract</option> <option label="Index terms" value="indexTerms">Index terms</option> <option label="Full Text" value="galleyFullText">Full Text</option> </select></label> <input class="sbs" style="line-height: 16.5px; margin: -13px;" type="submit" value="Search" /></form></div>
+</div>	<div class="block custom" id="customblock-Online-Submission">
+	<p><span style="font-size: small; color: white;"><strong><a class="hvr-shutter-out-vertical linkSubmit" style="color: white;" href="/arj/about/submissions#onlineSubmissions">SUBMIT MANUSCRIPT</a></strong></span></p>
+</div>	<div class="block custom" id="customblock-For-Author">
+	<div style="box-shadow: 0 0 1.5px;">
+<div><button class="dropMenu" type="button">Information for Author</button>
+<div class="cntnt"><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; border-bottom: 1px solid; border-top: 1px solid; font-size: 10px;" href="/arj/about/submissions#authorGuidelines">AUTHOR GUIDELINES</a><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; border-bottom: 1px solid; font-size: 10px;" href="/arj/about/editorialPolicies#custom-2">AUTHOR FEES</a><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; border-bottom: 1px solid; font-size: 10px;" href="https://drive.google.com/file/d/1hfc0KCP-6Vd370FtWJJCJ-oOKxNJzt7o/view?usp=sharing" target="_blank">TEMPLATE FOR MANUSCRIPT<em class="fa fa-external-link" style="font-size: 10px; margin: -9px; color: #008fd7;"></em></a> <a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; font-size: 10px;" href="https://drive.google.com/file/d/1o6iyL8fEqyKxnFCrP1_8WLn1Ogd-vBw6/view?usp=sharing" target="_blank">COPYRIGHT TRANSFER AGREEMENT<em class="fa fa-external-link" style="font-size: 10px; margin: -9px; color: #008fd7;"></em></a></div>
+<script type="text/javascript">// <![CDATA[
+var coll = document.getElementsByClassName("dropMenu");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("actv");
+    var cntnt = this.nextElementSibling;
+    if (cntnt.style.maxHeight){
+      cntnt.style.maxHeight = null;
+    } else {
+      cntnt.style.maxHeight = cntnt.scrollHeight + "px";
+    } 
+  });
+}
+// ]]></script>
+</div>
+</div>
+</div>	<div class="block custom" id="customblock-Side-Bar">
+	<div style="box-shadow: 0 0 2px; margin-bottom: 10px;">
+<p style="background-color: #003866; color: white; padding: 3px; margin-bottom: 0px; text-indent: 3px; border-bottom: 1px solid white;"><span style="font-size: small;">People and Policies</span></p>
+<a class="hvr-fade" style="color: white; padding: 3px; border-bottom: 1px solid; font-size: 10px; text-indent: 12px;" href="/arj/about/editorialTeam">EDITORIAL TEAM BOARD</a><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; border-bottom: 1px solid; font-size: 10px;" href="/arj/about/displayMembership/322">REVIEWERS ACKNOWLEDGEMENT</a><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; border-bottom: 1px solid; font-size: 10px;" href="/arj/about/editorialPolicies">EDITORIAL POLICIES</a><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; border-bottom: 1px solid; font-size: 10px;" href="/arj/about/editorialPolicies#focusAndScope">FOCUS AND SCOPE</a><a class="hvr-fade" style="color: white; text-indent: 12px; padding: 3px; font-size: 10px;" href="/arj/about/editorialPolicies#custom-0">PUBLICATION ETHICS</a></div>
+<hr style="border-bottom: 2px solid navy; border-top: 2px double navy; border-radius: 3px;" />
+</div>	
+
+
+                                                </div>
+                                                                                                                                        <div id="leftSidebar" class="slide" role="complementary">
+                                                    <div class="block custom" id="customblock-Certificate">
+	<div><span class="blockTitle" style="margin-bottom: 2px;">Certificate of Accreditation</span><a title="akreditasi" href="/arj/announcement/view/222" target="_self"><img style="max-width: 100%; margin-bottom: 8px;" src="/public/site/images/hdlfdl/26147416_221.png" alt="" /></a></div>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/arj/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block custom" id="customblock-Need-Register">
+	<hr style="color: #8c8b8b;" />
+<p style="margin: 0px;"><span style="font-size: x-small;"><em><span style="text-align: center;">Need an User Account? (for author/reader)</span></em></span></p>
+<p style="margin: 0px 0px 10px 0px;"><span style="font-size: x-small;"><span style="text-align: center;"></span><a class="action" style="text-align: center;" href="/arj/user/register" target="_self">Go to Registration</a></span></p>
+</div>	<div class="block custom" id="customblock-Citation">
+	<hr style="border-top: 3px solid #003866; border-bottom: 3px double #003866;" />
+<p><strong>Cited By <br /></strong></p>
+<p style="text-align: right;"><img style="max-width: 100%;" src="/public/site/images/hdlfdl/CitationStatARJ.png" alt="" /><span style="font-size: x-small;"><em>Last updated 12-11-2020</em></span></p>
+<p style="text-align: right; margin-top: -19px; white-space: nowrap;"><span style="font-size: x-small;"><em><a title="Google Scholar" href="https://scholar.google.co.id/citations?hl=en&amp;user=zVhnsmkAAAAJ&amp;view_op=list_works" target="_blank">see details &gt;</a><br /></em></span></p>
+<hr style="border-top: 3px double #003866; border-bottom: 3px solid #003866;" />
+</div>	
+                                                </div>
+                                                                                    
+
+                                                                                    <div id="main" role="main" tabindex="-1">
+                                            
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/arj/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/arj/about/index" class="current">About the Journal</a></div>
+
+                                                        <h2>About the Journal</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+<div id="aboutPeople" class="block pseudoMenu">
+<h3>People</h3>
+<ul>
+			<li><a href="https://jurnal.uns.ac.id/arj/about/contact">Contact</a></li>
+		<li><a href="https://jurnal.uns.ac.id/arj/about/editorialTeam">Editorial Team</a></li>
+						<li><a href="https://jurnal.uns.ac.id/arj/about/displayMembership/322">Peer-Reviewers</a></li>
+				
+</ul>
+</div>
+<div id="aboutPolicies" class="block pseudoMenu">
+<h3>Policies</h3>
+<ul>
+	<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#focusAndScope">Focus and Scope</a></li>	<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#sectionPolicies">Section Policies</a></li>
+	<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#peerReviewProcess">Peer Review Process</a></li>	<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#publicationFrequency">Publication Frequency</a></li>	<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#openAccessPolicy">Open Access Policy</a></li>						<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#custom-0">Publication Ethics</a></li>			<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#custom-1">Author Fees</a></li>			<li><a href="https://jurnal.uns.ac.id/arj/about/editorialPolicies#custom-2">Screening for Plagiarism Policy</a></li>		
+</ul>
+</div>
+<div id="aboutSubmissions" class="block pseudoMenu">
+<h3>Submissions</h3>
+<ul>
+	<li><a href="https://jurnal.uns.ac.id/arj/about/submissions#onlineSubmissions">Online Submissions</a></li>	<li><a href="https://jurnal.uns.ac.id/arj/about/submissions#authorGuidelines">Author Guidelines</a></li>	<li><a href="https://jurnal.uns.ac.id/arj/about/submissions#copyrightNotice">Copyright Notice</a></li>			
+</ul>
+</div>
+<div id="aboutOther" class="block pseudoMenu">
+<h3>Other</h3>
+<ul>
+	<li><a href="https://jurnal.uns.ac.id/arj/about/journalSponsorship">Journal Sponsorship</a></li>		<li><a href="https://jurnal.uns.ac.id/arj/about/siteMap">Site Map</a></li>
+	<li><a href="https://jurnal.uns.ac.id/arj/about/aboutThisPublishingSystem">About this Publishing System</a></li>
+		
+</ul>
+</div>
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p><div><div style="font-size: 10px; position: relative; top: 9px; z-index: 1; right: 4%;"><p style="line-height: 13px; font-size: 9px;" align="left"><img style="max-width: 55px;" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" alt="Creative Commons License" /><br />Unless where otherwise noted, content on this site is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License<em class="fa fa-external-link" style="margin-left: 3px;"></em></a><br /><em class="fa fa-copyright"></em> 2017-2020 Perkumpulan Agroteknologi/Agroekoteknologi Indonesia</p></div><div style="position: relative; left: 437px; font-size: 9px; line-height: 11px; top: -43px;"><div style="display: flex; flex-direction: column;"><div style="padding-bottom: 10px;">website and custom theme by <a href="https://uns.ac.id/" target="_blank">Universitas Sebelas Maret<em class="fa fa-external-link" style="margin-left: 3px;"></em></a><br />OJS 2.4.7.1 by <a href="https://pkp.sfu.ca/" target="_blank">Public Knowledge Project<em class="fa fa-external-link" style="margin-left: 3px;"></em></a><br />some site-theme Customization by <a href="javascript:openRTWindow('https://jurnal.uns.ac.id/arj/about/editorialTeamBio/257484')">HFadli S.</a></div><div style="max-width: 108px; background: white; padding: 3px 3px; border: 4px double darkblue; z-index: 1;"><a style="opacity: 1;" onmouseover="this.style.opacity='0.5'" onmouseout="this.style.opacity= '1'" href="https://statcounter.com/p11561943/summary/?guest=1" target="_blank"><img style="max-width: 100%;" src="/public/site/images/hdlfdl/stcounter.png" alt="stcounter" border="0" /></a></div><div style="display: none;"><!-- Default Statcounter code for Agrotechnology Research
+Journal https://jurnal.uns.ac.id/arj --><script type="text/javascript">// <![CDATA[
+var sc_project=11561943; 
+var sc_invisible=0; 
+var sc_security="32a1c47c"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+// ]]></script><noscript>div class="statcounter" style="display: none;"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a title="Web Analytics" href="https://statcounter.com/" target="_blank"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;img class="statcounter" src="https://c.statcounter.com/11561943/0/32a1c47c/0/" alt="Web Analytics"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/div&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</noscript><!-- End of Statcounter Code --></div></div></div><div style="position: relative; top: -164px; right: 95%;"><table><tbody><tr><td id="logo-pagi" style="text-align: center; color: white; font-size: 11px;">Published By<br /><img style="max-width: 65px;" src="/public/site/images/hdlfdl/Pagi-fix-1.png" alt="Pagi-fix-1" border="0" /></td><td id="logo-uns" style="text-align: left; color: white; font-size: 11px;">in Collaboration With<br /><img style="max-width: 157px; margin-top: -3px; margin-left: -23px;" src="/plugins/themes/unsbaru/img/logouns.png" alt="Pagi-fix-1" border="0" /></td></tr></tbody></table></div></div></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

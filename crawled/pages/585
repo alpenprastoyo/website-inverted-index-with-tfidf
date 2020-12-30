@@ -1,0 +1,360 @@
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="colorlib">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Duta GreenCampus</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="../css/linearicons.css">
+			<link rel="stylesheet" href="../css/font-awesome.min.css">
+			<link rel="stylesheet" href="../css/bootstrap.css">
+			<link rel="stylesheet" href="../css/magnific-popup.css">
+			<link rel="stylesheet" href="../css/nice-select.css">							
+			<link rel="stylesheet" href="../css/animate.min.css">
+			<link rel="stylesheet" href="../css/owl.carousel.css">			
+			<link rel="stylesheet" href="../css/jquery-ui.css">			
+			<link rel="stylesheet" href="../css/main.css">
+
+<!-- <link rel="stylesheet" href="../sosialisasi/css/bootstrap.min.css"> -->
+
+<!-- <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css"> -->
+
+<!-- <link rel="stylesheet" href="../sosialisasi/css/bootstrap-image-gallery.min.css"> -->
+
+<!-- <link rel="stylesheet" href="../sosialisasi/css/bootstrap-image-gallery.css"> -->
+
+<!-- <link rel="stylesheet" href="../sosialisasi/css/demo.css"> -->
+			
+
+
+		</head>
+		<body>	
+		  <header id="header" id="home">
+	  		<div class="header-top">
+	  			<div class="container">
+		  		<marquee ><h3 style="color: #ffff;">Selamat Datang Mahasiswa Baru Peserta PKKMB UNS 2019</h3></marquee>
+			  		<div class="row">
+			  			<div class="col-lg-6 col-sm-6 col-8 header-top-left no-padding">
+			  				<ul>
+								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://twitter.com/11MaretUniv"><i class="fa fa-twitter"></i></a></li>
+								
+			  				</ul>			
+			  			</div>
+			  			<div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">
+			  				<a href="#"><span class="lnr lnr-phone-handset"></span> <span class="text">Telp./ Faks. 0271 654920, 646994 ext 388</span></a>
+			  				<a href="#"><span class="lnr lnr-envelope"></span> <span class="text">Email: pplhuns@gmail.com</span></a>			
+			  			</div>
+			  		</div>			  					
+	  			</div>
+			</div>
+		    <div class="container main-menu">
+		    	<div class="row align-items-center justify-content-between d-flex">
+			      <div id="logo">
+			        <a href="index.php"><img src="img/logo2.png" width="250px" alt="" title="" /></a>
+			      </div>
+			      <nav id="nav-menu-container">
+				  <ul class="nav-menu">
+                <li><a href="https://greencampus.uns.ac.id/lomba/index.php">Home</a></li>
+							<li><a href="https://greencampus.uns.ac.id/lomba/sosialisasi/index.php">Sosialisasi</a></li>
+							<li><a href="https://greencampus.uns.ac.id/lomba/pohonharapan.php">Pohon Harapan</a></li>
+							<li><a href="https://greencampus.uns.ac.id/lomba/ramah_lingkungan/index.php">Ramah Lingkungan</a></li>
+<!-- 							<li><a href="http://greencampus.uns.ac.id/lomba/ide_kreatif/index.php">Ide Kreatif</a></li> -->
+							<li><a href="https://greencampus.uns.ac.id/lomba/karsa/">Karsa Cipta Lingkungan</a></li>
+							<li><a href="https://greencampus.uns.ac.id/lomba/ide_kreatif/">Penerapan Teknologi Tepat Guna Sederhana</a></li>
+							<li><a href="https://greencampus.uns.ac.id/lomba/tertulis/">Gagasan Tertulis</a></li>
+							<li><a href="https://greencampus.uns.ac.id/lomba/search_nim.php"><span class="fa fa-search">Cari NIM</a></li>
+<!-- 							<li><a href="http://greencampus.uns.ac.id/">Home</a></li>
+ -->							<!-- <li><a href="http://greencampus.uns.ac.id/lomba/unduh_presentasi.php">Unduh Presentasi</a></li> -->
+							
+							<!-- <li><a href="http://greencampus.uns.ac.id/lomba/home_duta/index.php">Aktivitas Duta</a></li> -->
+<!-- 							<li><a href="http://greencampus.uns.ac.id/lomba/search_nim.php"><span class="fa fa-search">Cari NIM</a></li>
+ -->						
+                
+              </ul>
+			      </nav><!-- #nav-menu-container -->		    		
+		    	</div>
+		    </div>
+		  </header><!-- #header -->
+			  
+
+
+			<!-- start banner Area -->
+			<section class="banner-area relative about-banner" id="home">	
+				<div class="overlay overlay-bg"></div>
+				<div class="container">				
+					<div class="row d-flex align-items-center justify-content-center">
+						<div class="about-content col-lg-12">
+							<h1 class="text-white">
+								Gagasan Tertulis				
+							</h1>	
+							<!-- <p class="text-white link-nav">Pengenalan Kehidupan Kampus bagi Mahasiswa Baru (PKKMB) di Universitas Sebelas Maret pada tahun 2018 ini, terdapat salah satu program dalam rangka pemberian informasi akademik dan kegiatan kemahasiswaan untuk mempersiapkan mahasiswa baru dalam kehidupan kampus yang terjadi percepatan adaptasi dengan lingkungan kampusnya. Harapannya dengan sosialisasi yang menyampaikan pemahaman tentang edukasi Green Campus UNS, akan mampu menumbuhkan inovasi dan menciptakan karya-karya yang memberikan mindset mengajak warga kampus khususnya untuk bagaimana berpikir, berbicara, dan berbuat ke arah Kampus Hijau yang Ramah Lingkungan. Attitude untuk mengajak inilah yang kemudian diimplemantasikan dalam karya kratifitas mahasiswa baru membuat sticker/ poster bertemakan Green Campus UNS.</p> -->
+						</div>	
+					</div>
+				</div>
+			</section>
+		
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+<section>
+	<div class="container">
+		
+	</div>
+
+</section>
+
+
+
+		<section class="feature-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
+                    		<div class="ibox float-e-margins">
+                    		<br>
+		                        <div class="ibox-title">
+		                        <!-- 	<form method="get" action="/search" id="search">
+										<input id='search-box' name="q" type="text" placeholder="Search..." />
+									</form> -->
+		                        </div>
+		                        <div>
+		                        	<br>
+		                        </div>
+                        <div class="ibox-content">
+
+                            <table class="table table-hover">
+                                <thead>
+                                <tr>
+                                    <th>No</th>
+                                    <th>Nim</th>
+                                    <th>Nama</th>
+                                    <th>Judul</th>
+                             <!--        <th>Aksi</th> -->
+                                </tr>
+                                </thead>
+                                <tbody>
+                                	                                <tr>
+                                    <td>1</td>
+                                    <td>M0417016</td>
+                                    <td>Diah Ajeng Kusherwati</td>
+                                    <td>“PESPA” Konsep Pemisahan Sampah pada Penampungan Pertama dan Pengelolaannya di Universitas Sebelas Maret sebagai Pendukung Program Green Campus</td>
+                                  <!--   <td><a target="_blank" href="uploads/M0417016.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>2</td>
+                                    <td>H0718149</td>
+                                    <td>Tagam </td>
+                                    <td>MENINGKATKAN KESADARAN SELURUH CIVITAS AKADEMIK UNIVERSITAS SEBELAS MARET (uns) MENGGUNAKAN APLIKASI TRASH FINGERPRINT DETECT DENGAN SISTEM VERIVIKASI DAN SCANNER</td>
+                                  <!--   <td><a target="_blank" href="uploads/H0718149.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>3</td>
+                                    <td>I8719024</td>
+                                    <td>Raihan Harun Arrasyid</td>
+                                    <td>Semar Mlampah</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719024.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>4</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>Semar Mlampah</td>
+                                  <!--   <td><a target="_blank" href="uploads/.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>5</td>
+                                    <td>I8719018</td>
+                                    <td>Mayang Putri Susanto</td>
+                                    <td>RFID ON CAR Untuk Pengurangan Penggunaan  Kendaraan Pribadi Dalam Kampus</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719018.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>6</td>
+                                    <td>I0618027</td>
+                                    <td>Mohammad Abram Maulana </td>
+                                    <td>Pengelolaan "SMART" (Sepeda Sebelas Maret) Guna Mendukung Green Campus Dengan Konsep Transportasi Berkelanjutan</td>
+                                  <!--   <td><a target="_blank" href="uploads/I0618027.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>7</td>
+                                    <td>I8719028</td>
+                                    <td>Yusuf Faisal Ardhi Kurniawan</td>
+                                    <td>INTRANSMART (POINT TRANSPORTASI SEBELAS MARET)</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719028.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>8</td>
+                                    <td>I8719011</td>
+                                    <td>Fadhil Gifari</td>
+                                    <td>"Semar Mbonceng" Transportasi Mudah di UNS</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719011.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>9</td>
+                                    <td>I0116092</td>
+                                    <td>Niko Patty</td>
+                                    <td>OPTIMALISASI BUS KAMPUS DAN PENGADAAN E-SCOOTER SERTA BIKE SHARING DITUNJANG DENGAN APLIKASI BERBASIS ANDROID SEBAGAI UPAYA PENGURANGAN EMISI KENDARAAN PRIBADI UNTUK PENINGKATAN KUALITAS UDARA UNS</td>
+                                  <!--   <td><a target="_blank" href="uploads/I0116092.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>10</td>
+                                    <td>I8719010</td>
+                                    <td>Erik Lintang Wardani</td>
+                                    <td>SAWI GC (SAMPAH WIFI GREEN CAMPUS) MERUBAH SAMPAH PLASTIK MENJADI KUOTA INTERNET</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719010.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>11</td>
+                                    <td>M0416029</td>
+                                    <td>Mellani Dwi Jayanti</td>
+                                    <td>SEMAR-SIPAHING (Sebelas Maret-Sistem Pengelolaan Air Hujan Jinjing): Inovasi Penghasil Air Bersih dari Air Hujan Berbasis Limbah Plastik Guna Mendukung UNS Menuju Green Campuss</td>
+                                  <!--   <td><a target="_blank" href="uploads/M0416029.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>12</td>
+                                    <td>I8719025</td>
+                                    <td>Shifa Fauzia Quthrunnada</td>
+                                    <td>TES ARIT (TEMPAT SAMPAH MENJERIT) SOLUSI PENGELOLAAN SAMPAH TERARAH</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719025.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>13</td>
+                                    <td>I8719023</td>
+                                    <td>Rafika Hasni Perdana</td>
+                                    <td>PLTGO(Pembangkit listrik tenaga gerak dan olahraga)</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719023.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>14</td>
+                                    <td>D0117086</td>
+                                    <td>Riki Purwanto</td>
+                                    <td>UGC: APLIKASI 3 IN 1 BERBASIS SMARTPHONE DALAM MEWUJUDKAN UNS SEBAGAI GREEN CAMPUS YANG BERKELANJUTAN</td>
+                                  <!--   <td><a target="_blank" href="uploads/D0117086.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>15</td>
+                                    <td>D0418048</td>
+                                    <td>Roqsunnisa Dienda Arnauly Siregar</td>
+                                    <td>SEMAR ENFORTRESS (Sebelas Maret Environment Fortress) sebagai Platfrom dan Fasilitator Berbasis Pendidikan Lingkungan Hidup</td>
+                                  <!--   <td><a target="_blank" href="uploads/D0418048.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>16</td>
+                                    <td>I0618032</td>
+                                    <td>Mutiana Ayu Cindy Purwanti</td>
+                                    <td>" JAHIT MANIK UNS " SEBUAH KONSEP PENGEMBANGAN JALUR HIJAU DAN TAMAN DI FAKULTAS TEKNIK UNS GUNA MENDUKUNG PROGRAM GREEN CAMPUS</td>
+                                  <!--   <td><a target="_blank" href="uploads/I0618032.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>												
+					</div>
+				</div>	
+			</section>
+			
+			
+
+			<!-- start footer Area -->		
+			<footer class="footer-area section-gap">
+				<div class="container">
+					<div class="row">
+						
+					</div>
+					<div class="footer-bottom row align-items-center justify-content-between">
+						<p class="footer-text m-0 col-lg-6 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Universitas Sebelas Maret | UNS GREEN CAMPUS
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+						<div class="col-lg-6 col-sm-12 footer-social">
+							<a href="https://twitter.com/11MaretUniv"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+					
+						</div>
+					</div>						
+				</div>
+			</footer>	
+			<!-- End footer Area -->	
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<!-- Bootstrap JS is not required, but included for the responsive demo navigation and button states -->
+
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+
+<script src="../js/bootstrap-image-gallery.js"></script>
+
+			<script src="../js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+			<script src="../js/vendor/bootstrap.min.js"></script>			
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="../js/easing.min.js"></script>			
+			<script src="../js/hoverIntent.js"></script>
+			<script src="../js/superfish.min.js"></script>	
+			<script src="../js/jquery.ajaxchimp.min.js"></script>
+			<script src="../js/jquery.magnific-popup.min.js"></script>	
+    		<script src="../js/jquery.tabs.min.js"></script>						
+			<script src="../js/jquery.nice-select.min.js"></script>	
+			<script src="../js/owl.carousel.min.js"></script>									
+			<script src="../js/mail-script.js"></script>	
+			<script src="../js/main.js"></script>	
+		</body>
+	</html>

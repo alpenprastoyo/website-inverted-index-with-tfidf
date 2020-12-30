@@ -1,0 +1,16 @@
+<table class="table table-striped table-success" style="margin-bottom: 0rem;">
+                              <tbody>
+                                <tr>
+                                  <td><i class="icofont-ui-calendar"></i></td>
+                                  <td><h5 class="mb-1">Ghent University Master Day</h5></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-clock-time"></i></td>
+                                  <td><p> 08 Des 2020 s/d 08 Des 2020</p></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-location-pin"></i></td>
+                                  <td><small>The International Training Centre of Ghent University would like to call on y </small></td>
+                                </tr>
+                              </tbody>
+                            </table></br>

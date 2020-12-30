@@ -1,0 +1,26 @@
+<table id="simpleSearchInput">
+			<tbody><tr>
+				<td>
+													<label for="simpleQuery">Cari <br>
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField"></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Lingkup Pencarian
+				<br>
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="Semua" value="query">Semua</option>
+<option label="Penulis" value="authors">Penulis</option>
+<option label="Judul" value="title">Judul</option>
+<option label="Sari" value="abstract">Sari</option>
+<option label="Indeks" value="indexTerms">Indeks</option>
+<option label="Teks Lengkap" value="galleyFullText">Teks Lengkap</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Cari" class="button"></td>
+			</tr>
+		</tbody></table></br>

@@ -1,0 +1,1052 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Karya Ilmiah Pendidikan UNS</title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="https://karyaku.uns.ac.id/Logo_UNS.jpeg" />
+    
+</head>
+<body>
+
+<div class="container-scroller">
+<!-- partial:partials/_navbar.html -->
+ <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="navbar-brand-wrapper d-flex justify-content-center">
+        <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">  
+        <a class="navbar-brand brand-logo" href="https://karyaku.uns.ac.id"><p>Karya Ilmiah Pendidikan</p></a>
+        <a class="navbar-brand brand-logo-mini" href="https://karyaku.uns.ac.id"><img src="https://karyaku.uns.ac.id/Logo_UNS.jpeg" alt="logo"/></a>
+          <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="mdi mdi-sort-variant"></span>
+          </button>
+        </div>  
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+      <!-- search -->
+      <ul class="navbar-nav mr-lg-4 w-100">
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                  
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+              </form>
+            </div>
+          </li>
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+              
+                <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+              </form>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <!-- message -->
+          <!-- <li class="nav-item dropdown mr-4">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="mdi mdi-bell mx-0"></i>
+              <span class="count"></span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-success">
+                    <i class="mdi mdi-information mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Application Error</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Just now
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-warning">
+                    <i class="mdi mdi-settings mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Settings</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Private message
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-info">
+                    <i class="mdi mdi-account-box mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">New user registration</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    2 days ago
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li> -->
+         
+                    
+                        
+                  	
+          		
+                    <li class="nav-item nav-profile dropdown">
+               <!-- <a class="btn btn-inverse-primary" href="https://karyaku.uns.ac.id/karyaku-login"> Login </a> -->
+              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
+              <!-- <img src="https://karyaku.uns.ac.id/profil.jpg" alt="profile"/> -->
+              <span class="nav-profile-name">Login</span>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/login-karyaku">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login Karyaku
+                </a>
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/karyaku-old/sso/saml-login.php">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login SSO
+                </a> 
+              
+              </div>
+          </li>
+                  </ul>
+  	<button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="modal" data-target="#exampleModal1">
+          <span class="mdi mdi-magnify"></span>
+        </button>
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+          <span class="mdi mdi-menu"></span>
+        </button>
+      </div>
+    </nav>
+
+
+ <!-- Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Pencarian</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+          </form>
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+            
+            <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+          </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>    
+ <!-- partial -->
+ <div class="container-fluid page-body-wrapper">
+    <!-- partial:partials/_sidebar.html -->
+      <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+                           
+                                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#sidebar13" aria-expanded="false" aria-controls="ui-basic">
+                      <i class="mdi mdi-account menu-icon"></i>
+                      <span class="menu-title">Data Dosen</span>
+                      <i class="menu-arrow"></i>
+                    </a>
+                    <div class="collapse" id="sidebar13">
+                      <ul class="nav flex-column sub-menu">
+                                                                        <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/guru-besar">Guru Besar</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/doktor">Doktor</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/magister">Magister</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/spesialis">Spesialis</a></li>
+                                                                      </ul>
+                    </div>
+                  </li>
+                
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/pohon-harapan">
+                          <i class="mdi mdi-pine-tree menu-icon"></i>
+                          <span class="menu-title">Pohon Harapan</span>
+                        </a>
+                      </li>
+               
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/bantuan">
+                          <i class="mdi mdi-help-circle-outline menu-icon"></i>
+                          <span class="menu-title">Bantuan</span>
+                        </a>
+                      </li>
+               
+                
+                    
+         
+        
+        
+        </ul>
+      </nav>
+      <!-- partial -->
+    <div class="main-panel">
+    
+        <div class="content-wrapper">
+         
+          <div class="row">
+          <div class="col-md-12 stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <!-- <p class="card-title">Home Karyaku</p> -->
+                  <p class="card-description">
+                                              </p>
+                    <div class="row align-items-start">
+                        <div class="col-md-6 row">
+                           <div class="col-md-12 row justify-content-center">
+                                <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/kn3bjxhavQ2rk64abENlSqaaEI_QVBp3.jpeg" class="rounded-circle col-md-3" style="width: 100px;height:100px;" alt="image"/>
+                                <p class="col-md-auto align-self-center mt-3">Prof. Dr. I Gusti Ayu Ketut Rachmi Handayani, S.H., M.M.</p>
+                           </div>
+                                                   
+                           <div class="col-md-12 table-responsive mt-3">
+                          
+                           <table class="table table-striped">
+                            <tbody>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    NIP
+                                </td>
+                                <td>
+                                    197210082005012001
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Jabatan Fungsional
+                                </td>
+                                <td>
+                                    Guru Besar
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Fakultas
+                                </td>
+                                <td>
+                                    Fakultas Hukum
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Program Studi
+                                </td>
+                                <td>
+                                    Hukum Administrasi Negara
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Tempat/Tanggal Lahir
+                                </td>
+                                <td>
+                                    JAKARTA / 1972-10-08
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Web Blog
+                                </td>
+                                <td>
+                                    <a href="https://civitas.uns.ac.id">https://civitas.uns.ac.id</a>
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Bidang Keahlian
+                                </td>
+                                <td>
+                                    Administrasi Negara
+                                </td>
+                                </tr>
+                            </tbody>
+                            </table>
+                           </div>
+
+                            <div class="col-md-12">
+                                <hr />
+                            </div>
+
+                                                        
+                           <div class="col-md-12 mt-3">
+                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav1" aria-selected="true" aria-controls="#nav1">
+                                        Pendidikan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav2" aria-selected="false" aria-controls="#nav2">
+                                            Jabatan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav3" aria-selected="false" aria-controls="#nav3">
+                                            Penghargaan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav4" aria-selected="false" aria-controls="#nav4">
+                                            Organisasi
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav1" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Riwayat Pendidikan</p>
+                                        <ol>
+                                                                                                                                            <li class="font-weight-bold small">S.H. Ilmu Hukum , Universitas Sebelas Maret , 1995</li>
+                                                                                                <li class="font-weight-bold small">M.M Manajemen , University of Leeds, UK , 1997</li>
+                                                                                                <li class="font-weight-bold small">Dr Ilmu Hukum (Hukum Lingkungan) , Universitas Gadjah Mada , 2004</li>
+                                                                                                                                                                                        <li class="font-weight-bold small">S3 HUKUM , Universitas Gadjah Mada Tanggal Ijasah 2004-07-26</li>
+                                                                                            <li class="font-weight-bold small">S2 MANAJEMEN , Universitas Gadjah Mada Tanggal Ijasah 1997-05-19</li>
+                                                                                            <li class="font-weight-bold small">S1 HUKUM , Universitas Sebelas Maret Tanggal Ijasah 1995-05-20</li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav2" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                        <p class="mt-3 text-center">Riwayat Jabatan Fungsional</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Guru Besar ( GURU BESAR MADYA/GB-850 ) SK : 49538/A2.3/KP/2016 TMT SK 2016-05-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MADYA/LEKTOR-300 ) SK : 2821/H27/KP/2007 TMT SK 2007-10-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor Kepala ( LEKTOR/LEKTOR KEPALA-400 ) SK : 54365/A4.3/KP/2012 TMT SK 2012-07-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MUDA/LEKTOR-200 ) SK : 8880/H27/KP/2007 TMT SK 2007-10-01</li>
+                                                                                            <li class="font-weight-bold small">Asisten Ahli ( ASISTEN AHLI/AA-150 ) SK : 6045 A/J27/KP/2006 TMT SK 2006-08-01</li>
+                                                                                      
+                                        </ol> 
+                                                                                    <p class="mt-3 text-center">Riwayat Jabatan Kelola</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Dekan ( Dekan Fakultas Hukum ) SK : 504/UN27/HK/2019 TGL 2019-05-09 s.d 2023-05-09</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Bagian ( Ketua Bagian Hukum Administrasi Negara FH ) SK : 813/UN27/KP/2015 TGL 2015-07-01 s.d 2019-06-30</li>
+                                                                                            
+                                            </ol> 
+                                                                                                                            <p class="mt-3 text-center">Riwayat Jabatan Lain</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Ketua Bagian Hukum Administrasi Negara , Fakultas Hukum UNS 2015-2019</li>
+                                                                                                    <li class="font-weight-bold small">Sekretaris Perencanaan dan Pengembangan Universitas Sebelas Maret , UNS 2015-2016</li>
+                                                                                                    <li class="font-weight-bold small">Wakil Ketua Pengelola Jurnal Terakreditasi Fakultas Hukum UNS Yustisia , Fakultas Hukum UNS 2012-2015</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Pengelola Jurnal Hukum Administrasi Negara Bestuur  , Fakultas Hukum UNS 2011-sekarang</li>
+                                                                                                    <li class="font-weight-bold small">Pembantu Dekan II , Fakultas Hukum UNS 2011-2015</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Tim Penilai Angka Kredit FH UNS , Fakultas Hukum UNS 2011-2015</li>
+                                                                                                    <li class="font-weight-bold small">Sekretaris Tim Penjaminan Mutu S2 S3 Ilmu Hukum UNS , UNS 2011-2015</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Jurusan Hukum Administrasi Negara  , Fakultas Hukum UNS 2008-2011</li>
+                                                                                                    <li class="font-weight-bold small">Sekretaris Pengelola Jurnal Terakreditasi Fakultas Hukum UNS , Fakultas Hukum UNS 2007-2012</li>
+                                                                                                    <li class="font-weight-bold small">Sekretaris Program Magister Ilmu Lingkungan Program Pascasarjana UNS , Pascasarjana UNS 2006-2008</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Unit Kerjasama Dalam Negeri Universitas Sebelas Maret , UNS 2005-2006</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Unit Kerjasama FH UNS , Fakultas Hukum UNS 2004-2005</li>
+                                                                                                    <li class="font-weight-bold small">Direktur Pascasarjana  UNISRI , UNISRI 2003-2004</li>
+                                                                                                    <li class="font-weight-bold small">Ketua LPPM UNISRI , UNISRI 2001-2003</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Tim Pembinaan Pegawai FH UNS, , Fakultas Hukum UNS  2011-2015</li>
+                                                                                            
+                                            </ol> 
+                                                                            </div>
+                                    <div class="tab-pane fade" id="nav3" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Penghargaan</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2016 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2015 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2014 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2013 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2012 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Peneliti Berprestasi Tingkat Nasional dari DIRJEN DIKTI KEMENDIKNAS RI , 2011 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Kaprodi Beprestasi (Piagam No. 3755/UN27/TU/2011) dari Rektor UNS , 2011 ( Lokal ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2011 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Guru PKN Terbaik Tingkat SD, SLTP dan SLTA dan sederajat (sebagai Sekretaris Tim Juri), MKRI dari Kemendikbud dan Kemenag RI , 2011 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Juri Tingkat Nasional Lomba Debat Konstitusi antar Perguruan Tinggi Se Indonesia dari Ketua Mahkamah Konstitusi RI , 2010 ( Nasional ) </li>
+                                                                                            <li class="font-weight-bold small">Kaprodi Berprestasi Peringkat III (Piagam No. 3296/H27/TU/2010) dari Rektor UNS , 2010 ( Lokal ) </li>
+                                                                                            <li class="font-weight-bold small">Dosen Berprestasi Tingkat Universitas (Piagam No. 6411/H27/PP/2008) dari Rektor UNS , 2009 ( Lokal ) </li>
+                                                                                            <li class="font-weight-bold small">Dosen Berprestasi Tingkat Universitas (Universitas Slamet Riyadi Surakarta) dari Rektor UNISRI , 2001 ( Lokal ) </li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav4" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Organisasi</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Bendahara dari Asosiasi Pengajar HAN HTN tingkat Nasional (Pusat) , 2015-sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota dari European Association For Internatioal Education , 2011-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari Academic Council On The Un System , 2011-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Bendahara/Anggota Utama dari Ikatan Ahli Lingkungan Hidup Indonesia , 2009- Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota dari Asian Society Of International Law , 2007-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari Perhimpunan Pembina Hukum Lingkungan , 2004-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari KIPPAS Komisi Independen Perlindungan Perempuan dan Anak Surakarta  , 2003-2007</li>
+                                                                                            <li class="font-weight-bold small">Tim Pakar  dari HIMPELA Himpunan Peduli Lawu Karanganyar  , 2002-sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota dari Keluarga Alumni Gadjah Mada , 1997-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari Keluarga Penerima Beasiswa Supersemar , 1992-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota dari Academic Cooperation Associaton ,  2011-Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Bendahara/Anggota Utama dari  Ikatan  Ahli Lingkungan Hidup Indonesia ,  2009- Sekarang</li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari Perhumas Solo , </li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari Kasemar , </li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari KMA PBS UNS , </li>
+                                                                                            <li class="font-weight-bold small">Anggota  dari Kagama , </li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                </div>
+                           </div>
+                           
+                            <!-- tambah content di col1 -->
+                        </div> <!-- ini col1 -->
+
+                        <div class="col-md-6">
+                                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav11" aria-selected="true" aria-controls="#nav11">
+                                            Karya Ilmiah
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav22" aria-selected="false" aria-controls="#nav22">
+                                            Publikasi Essai
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav33" aria-selected="false" aria-controls="#nav33">
+                                            Publikasi Jurnal
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav44" aria-selected="false" aria-controls="#nav44">
+                                            Publikasi Buku
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav55" aria-selected="false" aria-controls="#nav55">
+                                            Penelitian
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav66" aria-selected="false" aria-controls="#nav66">
+                                            Pengabdian
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav11" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Karya Ilmiah</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Lomba Debat Konstitusi Tingkat Regional dan Nasional,penyelenggara Mahkamah Konstitusi RI, Juri Regional dan Tingkat Nasional  , 2016
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Workshop Metode Penelitian Hukum Program Pascasarja UNISRI  , 2016
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Workshop International Journal Publication Program Doktor UNISULA  , 2016
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Workshop International Journal Publication Program Pascasarjana UNISRI  , 2015
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Workshop International Journal Publication Program Pascasarjana UNIDA Jakarta  Jakarta, 2015
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Kuala Lumpur International Business Economics and Law Conference 5  Kuala Lumpur Malaysia, 2015
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Business Ethics in ASEAN Economic Comunity 2015, The Perspective of Economics, Law and Public Policy, UNISRI  , 2015
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Kuala Lumpur International Business Economics and Law Conference 5  Kuala Lumpur Malaysia, 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Kuala Lumpur International Business Economics and Law Conference 4  Kuala Lumpur Malaysia, 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Peserta Training Library Research Faculty of Law Utrecht, Utrecht Netherlands  Utrecht Netherlands, 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara International Seminar on Human Right Law and Development in Developing Countries, Universitas Sebelas Maret, ASEAN, DAAD German Colaboration  , 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara International Conference on Commerce Law and Social Sciences  Bangkok Thailand, 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Lomba Debat Konstitusi Tingkat Regional dan Nasional, Mahkamah Konstitusi RI, Juri Regional dan Tingkat Nasional  , 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Nasional: National and International Journal Publication, penyelenggara Fakultas Hukum Universitas Negeri Lampung  , 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Nasional National and International Journal Publication, Program Doktor Ilmu Hukum UNISULA SEMARANG  , 2014
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Workshop International Journal Publication Program Doktor Ilmu Hukum UNISULA  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Clinic Intenational Journal Publication, Program Doktor Ilmu Hukum UNDIP  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Metode Penelitian Ilmu Hukum, Fakultas Hukum Universitas JAMBI  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Insiasi Perda PDAS, BPDAS KAHAYAN PALANGKARAYA  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Inisiasi Perda PDAS, Kemenhut RI  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Inisiasi Perda PDAS, BPDAS Solo  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Inisiasi Perda PDAS, BPDAS Kendari  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Presenter pada Kuala Lumpur International Business, Economics and Law Conference (Protecting Environmental through Business, Economics and Law) December Malaysia 2013, KLIBEL Malaysia, Pembicara  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Presenter pada Kuala Lumpur International Business, Economics and Law Conference (Business, Economics and Law For World Peace) April Malaysia 2013, KLIBEL Malaysia, Pembicara  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara ICON LBG Conference, UBL, Mastricht University, IIUM  , 2013
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Presenter pada  International Conference on Greenpreunership (UNIKA Soegiyopranoto dan United Nations), UNIKA Soegiopranoto, Pembicara  , 2012
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Presenter pada  The  6th International Conference on International Law and Trade Conference  2012 Greece Athens Yunani, IIATL GREECE ATHENS, ATHENA, YUNANI, Pembicara  , 2012
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Presenter pada Kuala Lumpur International Business, Economics and Law Conference (The Role of Business and law Towards Global Economic Crisis),  KLIBEL, Malaysia, Pembicara  , 2012
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Presenter pada  International Seminar Challenge of The Constitutional Court To Reinforce Democracy and Human Rights: Between Political Pressure and Good Justice System Development, Penyelenggara Thammasat University Thailand, Hans Seidel Foundation German, Mahkamah Konstitusi RI dan Faculty of Law Sebelas Maret University, UNS, MKRI, THAMMASAT UNIVERSITY, Pembicara  , 2011
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Pelatihan Legal Drafting bagi Anggota Dewan Se SUBOSUKOWONOSRATEN, diselenggarakan oleh FH UNS,  Sahid Raya Solo, 2005
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Seminar Nasional Pembubaran Partai Politik di Indonesia, Kerjasama Mahkamah Konstitusi dengan Pusat Studi Konstitusi dan HAM UNS  , 2005
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Pelatihan Alternatif Dispute Resolution Pusat Penelitian Lingkungan Hidup UNS  UNS, 2005
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                    </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav22" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Essai</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Influence Factor The Setting Regulation of Sustainable Watershed Ecosystem in Indonesia, IJBEL Vol. 4, 2014 , 2014<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hukum Penataan Ruang Di Indonesia Dalam Teori dan Praktek, No. ISBN: 978-602-7561-40-3, Edisi 1 Tahun Terbit 2013, 2013 <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Regional Policy Formulation Model Buid In Order To Making Green Governace, 2012<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Teori dan Praktek Legal Drafting  Peraturan Daerah. No. ISBN: 978-602-7561-37-3, Edisi 1, 2012 <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Alternatif Penyelesaian Sengketa Perkebunan Dalam Teori dan Praktek. No. ISBN: 978-0 602-7561-30-0, Edisi 1, 2012<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Citra Kota Solo(Menyambut Pelantikan Walikota Solo 2005,Agustus, 2005<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pentingnya Kualitas Pelayanan (Service Satisfaction), dalam memenuhi kepuasan masyarakat (Society Satisfaction), Efisiensi, Agustus, 2005<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Membumikan Radio sebagai Media Alternatif,Transformasi, 2005<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Permasalahan Lingkungan dan Good Governance, Joglo, 2003<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kewenangan Pemerintah Kabupaten/Kota dalam Rangka Pengelolaan Hutan (Telaah Atas Ketentuan Pasal 3 Ayat 2 PP No. 34 Tahun 2002), Wacana Hukum, 2002<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peran Penegak Hukum Lingkungan dalam penanganan Kasus-kasus Sengketa Lingkungan di Era Otonomi daerah, Wacana Hukum,, 2001<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav33" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Jurnal</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Setting of Plantation Land Area Limitation Based on Social Function Principles of Land Cultivation Rights to Realize Social Welfare-Promoting Plantation, Jurnal Fakultas Hukum Universitas Jenderal Soedirman, P - ISSN 1419-0797, E - ISSN 2407-6562, hal. 1-7, Vol. 17, No. 1 January , Jurnal FH UNSOED  , 2017<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Green Development Rights For Optimizing Urban Area And Coastal Areas In Indonesia (Consitency Of The State Of The Doctrine Of The Right To Control The State), Mahkamah Konstitusi Republik Indonesia, ( The Constitutional Court of The Republic of Indonesia), p-ISSN: 2460-0016 e-ISSN: 2548-3870, Volume 2 Number 1, hal. 57-76  , 2016<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Implications of Regional Extension Policy in Indonesia: A Legal Perspective,  South East  Asia Journal of Contemporary Business Economics and Law  Vol 7 , 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Guarantee Access To Information of Climate Change On Water Resources Based On National Plan For Climate Change Adaptation In Indonesia, International Journal of Business Economics and Law  Vo. 7 , 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Formulasi Legislative Drafting yang Ideal dalam Rangka Mewujudkan Negara Hukum yang Demokratis dan Menjunjung Nilai-Nilai Lingkungan, Jurnal Hukum IUS QUIA IUSTUM  FH UII terakreditasi  Vol 22 No 3: Juli, 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hak Menguasai Negara Dalam Pengelolaan Sumber Daya Air Sebagai Perwujudan Doktrin Negara Hukum Kesejahteraan, Jurnal Fakultas Hukum Universitas Diponegoro Semarang (UNDIP), Akreditasi B Nomor 56/DIKTI/Kep/2012 ISSN : 2086-2695 EISSN : 2527-4716, Vol. 44 No. 2, hal. 130-139  , 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Reconstruction Policy Of Public Service Provision Based On Passenger Terminal Expediency Values, Journal KLIBEL J-GATE, ISSN 2289-1552, Vol. 8, Issue 4 (Dec.), hal.161-167  , 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Legal Politics Of Water Resources Regulations In Indonesia, Journal Klibel J-Gate, ISSN 2289-1552, Vol. 8, Issue 4 (Dec.), hal. 155-160   , 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Variation of Environmental Awareness Among The Student In Government High Schools In Solo City Indonesia. International Journal of Applied Environmental, International Journal of Applied Environmental  Vol 9 No. 8, 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Influence Factor The Setting Regulation of Sustainable Watershed Ecosystem in Indonesia,  IJBEL Vol. 4 , 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kedaulatan Sumber Daya Alam di Indonesia sebagai Aktualisasi Nilai-Nilai Pancasila, Jurnal Fakultas Hukum UNS Yustisia terakreditasi  Vol 3 , 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Corruption Case Analysis in Indonesia (Administrative Law Perspective), International Journal of Business Management and Social Sciences Vol. IV Issue 4 (1) December , 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Variation of Environmental Awareness among the Student in Government High Schools in Solo City Indonesia, International Journal of Applied Environmental Sciences 1 No. 5;  Page 2701-2719, 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Strengthening Functions of Local Institutional  Representatives
+
+, South East Asia Journal of Contemporary Business and Law  Vol.2, Issue 3,. June, ISSN 2289-1560 , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Embodying Green Constitution by Applying Good Governance Principle for Maintaining Sustainable Environment
+, Law Policy and Globalization, ISSN 2224-3240(paper), ISSN 224-3259(online), Vol II   , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                                Local Policy Construction In Implementing Green Governance Principle, public policy and administration research, ISSN 224-5731(paper), ISSN 2225-0971(online), Vol.3., No.3  , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Legal Drafting local regulation in Local parlianment
+, Inter. Journal of business, economics and law. Vol. 2, issue 3 (june) 2013, ISSN 2289-1552
+  , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Urgensi Perda Pengelolaan Daerah Aliran Sungai Bengawan Solo Dalam Rangka Penguatan Fungsi Lingkungan Hidup dan Good Governance,  Jurnal Hukum IUS QUIA IUSTUM FH UII terakreditasi  Vol. 20  No. 2 , jumlah halaman 23, 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pembentukan Peraturan Daerah Berbasis Lingkungan Dalam Rangka Mewujudkan Praktik-Praktik Good Governance Di Daerah, YUSTISIA, Edisi No. 85, Bulan Januari-April 2013, Penerbit Fakultas Hukum UNS, halaman  64-71  , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Korupsi Pengadaan Barang/Jasa Pemerintah: Realitas Antagonis Dalam Perwujudan Prinsip Clean Governance, Masalah-Masalah Hukum, No. 1, Edisi Januari 2013, Penerbit Fakultas Hukum UNDIP,  halaman 6-12  , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Konservasi Kawasan DAS Solo Hulu Dalam Rangka Sustainable Development (Perspektif Hukum Administrasi Negara), BestuuR, No. 2 Vol. II, Edisi Pebruari Penerbit FH UNS, Halaman  26-31  , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               The Influence of Structure, Substance and Culture to The Forest Law Enforcement in Indonesia, International Journal of Business Economics and Law, Vol. 1, Edisi December 2012, Penerbit KLIBEL,  halaman 104-107  , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Urgensi Penataan Regulasi Delapan DAS Prioritas Dalam Rangka Tertib Hukum Administrasi DAS Terpadu di Indonesia. , Jurnal Masalah-Masalah Hukum FH UNDIP Jilid 42   Nomor 3, jumlah halaman 8, 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Urgensi Perlindungan Anak di Indonesia (Kajian Perspektif Hukum), BestuuR, Vol. II, Edisi Pebruari, Penerbit Fakultas Hukum, Halaman 5-15   , 2013<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               The Influence of Structure, Substance and culture to the Forest Law Enforcement in Indonesia, International Journal of business, economics and law Vol: 1 tahun 2012 ISSN 2289-1552  , 2012<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Faktor-Faktor Yang Berpengaruh Terhadap Penegakkan Hukum Kehutanan di Indonesia. Nama Jurnal: , halaman  7-13, 2012, EKOSAINS, Penerbit Program Studi S2 Ilmu Lingkungan Program Pascasarjana UNS Vol. 4, Edisi Juli Nomor. 2 , 2012<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Implementation of Verdict of The Constitutional Court of The Republic of Indonesia Against Judicial Review Act No. 7 of 2004 on Water Resources in The Ex Region Surakarta Indonesia, Journal of Law Policy and Globalization, Penerbit International Institute for Science Technology &amp; Education  Vol. 6 , 2012<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Implementasi Permendagri Nomor 47 Tahun 2012 Tentang Pedoman Penyusunan Peraturan Daerah Tentang Rencana Tata Ruang Wilayah Provinsi dan Kabupaten/Kota, Journal of Rural and Development Vol. III, Edisi Agustus Penerbit LPPM UNS Nomor 2 , 2012<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Analisis Yuridis Eksisitensi Kelembagaan PDAM Kota Surakarta Dalam rangka Mewujudkan Good Coorporate Governance Menuju Millenium Development Goals(MDGs), Res Publica Vol.1 No.1, 2007<sup>Jurnal</sup>
+                                                <a target="_blank" href="https://si.uns.ac.id/profil/uploadpublikas/respublica/2007/Analisis Yuridis Eksisitensi Kelembagaan PDAM Kota Surakarta Dalam rangka Mewujudkan Good Coorporate Governance Menuju Millenium Development Goals(MDGs).pdf">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Krisis Air, Illegal Logging Dan Penegakan Hukum Lingkungan Di Indonesia
+, Yustisia  No.69, 2006<sup>Jurnal</sup>
+                                                <a target="_blank" href="https://si.uns.ac.id/profil/uploadpublikasi/yustisia/2006/Krisis Air, Illegal Logging Dan Penegakan Hukum Lingkungan Di Indonesia.pdf">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                                Hak Perlindungan Hukum Bagi Anak Korban Kekerasan, Hukum  , 2005<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Konservasi Kawasan DAS Solo Hulu di Atas waduk Gadjah Mungkur (Tinjauan Yuridis tugas Pemkob Wonogiri) ditulis bersama Prof. Dr. Koesnadi H, SH., ML;Prof. Dr. Sugeng Istanto, SH dan prof. Dr. Ida Bagoes Mantra  , Ilmu Hukum Universitas Muhammadiyah  , 2004<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Konservasi Kawasan DAS Solo HULU di Atas waduk Gadjah Mungkur (Tinjauan Yuridis Tugas Penkab Wonogiri) ditulis bersama Prof. Dr. Koesnadi H, SH.,ML; Prof. Dr. Sugeng Istanto, SH dan Prof. Dr. Ida Bagoes Mantra. , Ilmu Hukum UMS  , 2004<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Upaya Penegakan Hukum Lingkungan Dalam Rangka Antisipasi Dampak Climate Change Di Indonesia
+, Ipso Jure Vol.3 , 0000<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Analisis Yuridis Eksisitensi Kelembagaan PDAM Kota Surakarta Dalam rangka Mewujudkan Good Coorporate Governance Menuju Millenium Development Goals (MDGs),   , 0000<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav44" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Buku</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hukum Penataan Ruang Di Indonesia Dalam Teori dan Praktek, Program Buku Teks LPP UNS, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Teori dan Praktek Legal Drafting Peraturan Daerah., Penerbit Cakra Books, 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Alternatif Penyelesaian Sengketa Perkebunan Dalam Teori dan Praktek Edisi 1, Penerbit Universitas Sebelas Maret Press,  2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav55" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Penelitian</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               The Local Wisdomin Environmental Conservation: Case Study Of Environmental Education Based on Indigenous And Local Knowledge- &amp;quot;Lubuk Larangan &amp;quot;In The District of Bungo, Jambi Province, dana PNBP, Anggota , 2017
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Rekonstruksi Regulasi Pewilayahan Iklim Sebagai Upaya Akselerasi Adaptasi Dan Mitigasi Perubahan Iklim Serta Perdagangan Karbon (Carbon Trade) Di Jabodetabek, 2016
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Konstruksi Regulasi Rencana Pengelolaan Das Terpadu (Rpdast) Dalam Rangka Pemenuhan Jaminan Akses Informasi Perubahan Iklim Berbasis National Plan For Climate Chage Adaptation, 2016
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Peraturan Walikota Tentang Insentif Disinsentif Benda Cagar Budaya Kota Surakarta, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Analisis Putusan Mkri Atas Perkara Nomor 85/Puu-Xii/2013 Perihal Pengujian Uu No. 7 Tahun 2014 Tentang Sumber Daya Air (Kajian Perspektif Hukum Konstitusi), 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Konstruksi Regulasi Rencana Pengelolaan Das Terpadu (Rpdast) Dalam Rangka Pemenuhan Jaminan Akses Informasi Perubahan Iklim Berbasis National Plan For Climate Chage Adaptation, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Evaluasi Perda Pengelolaan Sampah Kota Surakarta, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Evaluasi Perda Lambang Daerah Kota Surakarta, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Konstruksi Legal Drafting Perda Pengelolaan Das Terpadu Dalam Rangka Good Governance And Green Development Planning, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Evaluasi Perda Kerjasama Daerah Kota Surakarta Dan Kabupaten Sragen, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Penyelesaian Hunian Liar yang Humanis (Studi Kebijakan Pemerintah Kota Surakarta tentang Relokasi Warga Bantaran Sungai Bengawan Solo), 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Formulasi Produk Hukum Daerah Berbasis Green Legislation Dalam Rangka Pengembangan Good Governance and Clean Governance di Daerah, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Naskah Akademik NA Pengelolaan DAS Jawa Tengah Jawa Timur, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Konstruksi Legal Drafting Perda Pengelolaan DAS Terpadu Dalam Rangka Good Governance and Green Development Planning, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Evaluasi Perda Adminduk Kota Surakarta, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Rekonstruksi Legal Drafting Regulasi Delapan DAS Prioritas Di JABODETABEK Dalam Rangka Pengembangan Praktik-Praktik Tata Kelola DAS Terpadu Menuju Green Governance. Nomor 299/SP2H/PL/Dit.Litabmas/VII/2013 tanggal kontrak: 15 Juli 2013, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Problema dan Strategi Kebijakan Penganan Tindak Pidana Perbankan (Studi Kasus Bank Century), 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Formulasi Legal Drafting Perda Berbasis Green Legislation Dalam Rangka Pengembangan Praktik-Praktik Tata Kelola Pemerintahan Yang Baik Di Daerah (No. Kontrak: 365/SP2H/PL/Dit Litabmas/IV/2011 tanggal 14 April 2012, 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Formulasi Legal Drafting Peraturan Daerah (PERDA) Berbasis Green Legislation Dalam Rangka Pengembangan Praktik-Praktik Tata Kelola Pemerintahan Yang Baik Di Daerah, 2011
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Kajian Evaluasi Perda Lh Kota Surakarta Dan Kabupaten Sukoharjo, Bagian Hukum Pemkot Surakarta, Pemkab Sukoharjo, 2014Legal Drafting Perda Dalam Rangka Menghasilkan Perda Berbasis Gender dan Anak, 2011
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Formulasi Legal Drafting Peraturan Daerah (PERDA) Berbasis Green Legislation Dalam Rangka Pengembangan Praktik-Praktik Tata Kelola Pemerintahan Yang Baik di Daerah, 2011
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav66" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Pengabdian</p>
+                                        <ol>
+                                                                                </ol> 
+                                    </div>
+
+                                </div>
+                            <!--  -->
+                        </div>
+                    </div>
+
+                <!-- card -->
+                </div>
+              </div>
+            </div>
+          </div>  <!-- row -->
+                                      </div>    <!-- content-wrapper ends -->
+
+         
+
+<footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="" target="_blank">Dokumentasi Karya Ilmiah Pendidik Universitas Sebelas Maret</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">email: karyailmiah@mail.uns.ac.id<i class="mdi mdi-heart text-danger"></i></span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- plugins:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/chart.js/Chart.min.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+  <!-- End plugin js for this page-->
+  <!-- inject:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/off-canvas.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/hoverable-collapse.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/templateku.js"></script>
+  <!-- endinject -->
+  <!-- Custom js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dashboard.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/data-table.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dataTables.bootstrap4.js"></script>
+  <!-- End custom js for this page-->
+    
+   <script>
+
+ </script>
+</body>
+
+</html>

@@ -1,0 +1,803 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Vol 4, No 2 (2020)</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/340/journalFavicon_en_US.gif" type="image/gif" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/leftSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/bothSidebars.css" type="text/css" /> -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+	<link rel="alternate" type="application/atom+xml" title="PRIMA: Journal of Community Empowering and Services (atom+xml)" href="https://jurnal.uns.ac.id/prima/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="PRIMA: Journal of Community Empowering and Services (rdf+xml)" href="https://jurnal.uns.ac.id/prima/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="PRIMA: Journal of Community Empowering and Services (rss+xml)" href="https://jurnal.uns.ac.id/prima/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/prima/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/prima/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/340/pageHeaderTitleImage_en_US.png" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/prima/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/prima/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/prima/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/prima/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/prima/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/prima/statistics" target="_parent">Statistics</a></li>
+
+                                                                                    <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/prima/about/editorialTeam">Editorial Team</a></li>
+                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/prima/pages/view/ethics">Publication Ethics</a></li>
+                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/prima/pages/view/indexing">Abstracting &amp; Indexing</a></li>
+                                                            
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/prima/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/prima/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/prima/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/prima/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/prima/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/prima/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/prima/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/prima/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/prima/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/prima/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                        <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/prima/about/editorialTeam">Editorial Team</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/prima/pages/view/ethics">Publication Ethics</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/prima/pages/view/indexing">Abstracting &amp; Indexing</a></li>
+                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/prima/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                                                                                        <p>2579-5074 (Online)</p>
+                                                                                                                    </div>
+                                                                                                        <div class="block custom" id="customblock-akreditasi">
+	<p><a href="https://drive.google.com/file/d/1pZt_1yt-YalHiD-7B8oExBkXFO256BwP/view?usp=sharing" target="_blank"><img src="data:image/jpeg;base64,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" alt="" /></a></p>
+</div>	<div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/prima/help/view/user/topic/000004')">Journal Help</a>
+</div><div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block custom" id="customblock-counter">
+	<p><a href="https://statcounter.com/p12129415/?guest=1" target="_blank"><img src="data:image/png;base64,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" alt="" /></a></p>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/prima/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/prima/notification">View</a></li>
+			<li><a href="https://jurnal.uns.ac.id/prima/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/prima/information/readers">For Readers</a></li>		<li><a href="https://jurnal.uns.ac.id/prima/information/authors">For Authors</a></li>		<li><a href="https://jurnal.uns.ac.id/prima/information/librarians">For Librarians</a></li>	</ul>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/prima/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/prima/issue/archive">By Issue</a></li>
+		<li><a href="https://jurnal.uns.ac.id/prima/search/authors">By Author</a></li>
+		<li><a href="https://jurnal.uns.ac.id/prima/search/titles">By Title</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Other Journals</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>			</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=Azolla"><span style="font-size: 75%;">Azolla</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=Cymbopogon%20nardus"><span style="font-size: 75%;">Cymbopogon nardus</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=Jenawi"><span style="font-size: 75%;">Jenawi</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=Pepper%20yellow%20leaf%20curl%20virus"><span style="font-size: 75%;">Pepper yellow leaf curl virus</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=aphid"><span style="font-size: 75%;">aphid</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=bebercocok%20tanam"><span style="font-size: 75%;">bebercocok tanam</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=bibit%20pisang"><span style="font-size: 75%;">bibit pisang</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=botol%20plastik"><span style="font-size: 75%;">botol plastik</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=coast"><span style="font-size: 75%;">coast</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=domestic%20waste"><span style="font-size: 75%;">domestic waste</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=farmer"><span style="font-size: 125%;">farmer</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=fishermen"><span style="font-size: 75%;">fishermen</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=kultur%20jaringan"><span style="font-size: 75%;">kultur jaringan</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=minyak%20serai%20wangi"><span style="font-size: 75%;">minyak serai wangi</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=pakan%20substitusi%20lele"><span style="font-size: 75%;">pakan substitusi lele</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=peserta%20didik"><span style="font-size: 75%;">peserta didik</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=pollution"><span style="font-size: 75%;">pollution</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=pupuk%20organik"><span style="font-size: 125%;">pupuk organik</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=rak%20plastik"><span style="font-size: 75%;">rak plastik</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=ternak%20lele"><span style="font-size: 75%;">ternak lele</span></a>
+			<a href="https://jurnal.uns.ac.id/prima/search?subject=tular%20serangga"><span style="font-size: 75%;">tular serangga</span></a>
+	</div>
+                                                </div>
+                                                                                                                                        <div id="leftSidebar" class="slide" role="complementary">
+                                                    <div class="block custom" id="customblock-quick-menu">
+	<p style="text-align: left;"><span style="font-size: medium;"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;">INFORMATION FOR AUTHOR</span></strong></span></p>
+<ul>
+<li><span style="font-size: small;"><a href="/prima/about/submissions#onlineSubmissions" target="_self"><span style="font-family: tahoma, arial, helvetica, sans-serif;">Submit Manuscript</span></a></span></li>
+<li><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><a href="/prima/about/submissions#authorGuidelines" target="_self">Author Guidelines</a></span></li>
+<li><a href="/prima/about/editorialPolicies#focusAndScope" target="_self"><span style="font-size: small;">Focus &amp; Scope</span></a></li>
+<li><span style="font-size: small;"><a href="https://drive.google.com/file/d/1eWo7YvaZp2hKy3cS6mWAXrmWcg0yxCVB/view?usp=sharing" target="_self"><span style="font-family: tahoma, arial, helvetica, sans-serif;">Template For Manuscript</span></a></span></li>
+<li><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><a href="/prima/about/submissions#authorFees" target="_self">Author Fees</a></span></li>
+</ul>
+<p><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">&nbsp;</span></p>
+<p><span style="font-size: medium;"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;">PEOPLE AND POLICIES</span></strong></span></p>
+<ul>
+<li><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><a href="/prima/about/displayMembership/905" target="_self">Peer Reviewers</a></span></li>
+<li><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><a href="/prima/about/editorialPolicies#peerReviewProcess" target="_self">Peer Review Process</a></span></li>
+<li><a href="/prima/about/submissions#copyrightNotice" target="_self"><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;">Copyright Notice</span></a></li>
+<li><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: small;"><a href="/prima/about/editorialPolicies#custom-1" target="_self">Screening for Plagiarism</a><br /></span></li>
+<li><span style="font-size: small; font-family: tahoma, arial, helvetica, sans-serif;"><a href="/prima/about/editorialPolicies#custom-2" target="_self">Waiver Policy</a></span></li>
+</ul>
+<p><span style="font-size: small;">&nbsp;</span></p>
+</div>	
+<div class="block custom" id="customblock-template">
+	<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><strong>MANUSCRIPT TEMPLATE</strong></span></p>
+<p><a href="https://drive.google.com/file/d/1eWo7YvaZp2hKy3cS6mWAXrmWcg0yxCVB/view?usp=sharing" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAA/CAMAAABQITOJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3REYxMjM1M0IyMzExRTVCRDY2ODg4MDRFNzVBQzkwIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3REYxMjM2M0IyMzExRTVCRDY2ODg4MDRFNzVBQzkwIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTdERjEyMzMzQjIzMTFFNUJENjY4ODgwNEU3NUFDOTAiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTdERjEyMzQzQjIzMTFFNUJENjY4ODgwNEU3NUFDOTAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6+Yak1AAADAFBMVEUagfuCq9yJvv3V4/Pe5/KNwP3s7vGUtNt/uPzE1eldmeCswNktg+qr0f75+vvg7v6btdPh5uzx9Pm92/4Wgv9zp+QzhunD0uVUktwWhv9Rk+I5kvy2xtk1iOshgvXI0dxLkeM9iuV4otIoifuCuv0cgfaUrs3k6vLh6fLt8fXz9fhalNnT3Oh6q+UVfvxundX2+PnZ4uy61POFqdIagv5xsf2Ks+RapPzo8v8xjv3i7/4qhfGhuNQxg+Vzn9MVgP/b6/7N4vpjmNbf7f5hmt11s/319vipvdUkf+xKjd0qiv35+v0ngu7O2OTK1OFDl/z6/P/3+v32+fwXgP5Nnfwkhv28z+aItusdg/omiPpBid9Gl/np7O/R5v/X4u86kfnO3O2dtM9DjuYWgPw0i+++0OioxOVnoeemutKWuOBCmP1xsfvJ4/85h+NVoPnK2etjl9WNrdNHl/ctiPQVfvtzsv3Q5f6Sw/2hy/0xjvt6tv3B3f5srvxToPw0j/wlh/tEmPzv9v/5/P/J4f4WhP8Whf9FmPyx1P5jqfzu9f8ihfsWf/vr9P97tv2Eu/1SoPwVgf/8/f5SoP6nyPB6t/+FvP1tr/3s9P6cut4Wgv3b7P9/uf0yjfsXhf9Sof1ZpP55sPEYhP9YmeZVkNZdpPhEjOBNme96tvxAi+Vso+Y0jffE3/6gvN2dyf2Jp8w1kPypy/KQteFtp+uXv++dveRlrf+qz/pwsf95tvxSn/54t/+kzf12ru8Wgf7i7fv3+v97t/1HmfxhnOIbhPuJr93n6u1moei11fvR5fzc4OWhv+LD0ODq8Pgmiv+Zv+3o7vVVofwmhvZemd9Zo/zn7PFbpPs9lPwtivovjPuyyeWzzOlJle6PuOqsx+hOm/evy+3B1vD6/P2Auv0Vf/xFmP1Fmf1Di+BCjONuoN1Hj+UXh/9tr/xooONooud5s/htouFvpebK4f3P3OtyoNikutZSoP1coO7r8Pbv8fPe5ewmhvkmhvogiP9Wm+4viPD///8+d5vxAAABAHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AU/cHJQAABhhJREFUeNrkmXd8FEUUxw8SRKQcxs3BBYgQLoSaArFESgAxQARCkCYi0oVIZ2ZvYdnbPdgzJxgJYAEBC/beu2dF7KLYe4k1dsWujG9m7+Le3h65jQm3fnx/ZO9N2f1mZt6b3846iM3N8R8ALG/fdUfRKjMrKlpuA8D861Q1F5lbTWhk8gFnqaU3PsWb2Q2liHv+g6QDfqEOilP3cHdHx9DcvskG3DEnJU7dOd0LU24PfDY9yYCr0OlxAasf6n1V7RX5yQbk4wLOGUqe7uJ+cJNtATdcTEiHgdt22xdwKFze//PxBbYGJC3VzGdtDUiGBG5JsTVg/j5u9iu2DRJqz73n7pNvR8BTUsM/fxtcO8R+gBO6cfsjv8ceuPwd2wGSHmrp1u/XgS1aNCy9Jnu+7QBLvlbVsPAqLkY199gOkExo37VTxN5AJyV600rksQThRZUNBARbG7HzEgcUELYIKDQcsM4usDug1RHkJVi6dKol5KcMXh4FoUhQkIyQ5IQKZxBaSHxjATZHVVYARYQULCPFD4BOBgglUMT7EAoqyAd8MvJhwOUbADjzhRYx9uKGibGFdyzdZA7ol+lD/Qry6gHpzPugiCgQFhKSwPUAq1XAmT9PDaHELDT1r6WmgJXs6YRHsg7QRxggcwU/olNPfd4iYOcx7lF9vlwTYxfGFq0ZMSqQ2doMUKDjxB6vA8R6QKf2LxCMKq0Bpg50L0tNOAB75qmZM0wBWSqEmY4PyAYUqgVrgOnuPu2s5IjhtV+ZAMLc+lkCkYBApEvNCEhklp55ZBFwr8thTT6PzR5jFsUSUkTAAjgvUpwCigX0QhkRZKuAw3JdlgaQkGtrYgE9NICpaaFMLQYQVh81n0XAdTVnjIfLAxOljRs3bl4yILwcO5/50yX37emsJZWcAUs2Q1WOVnVaDCBmESJijP3aToGxF/N+LDKHLk4e04c6oYVTxE4eOy0Aok7jWVrWRIz7wDzw2vULUVmjculUV7ea665GqNo9txXr8Qky3NOjrb8mUjMAuBYuLZDUFuzWjjtdTxAyi5vUDLzdstqDkMO6BTK2tG27JUPt9ivtcTYyDB9deIcA8Bjm9h6tLiTln3Ltmbe/cHEaeYab1os6vRZzW00ABewh5FAArtH8Y0NnkYt+L+zJnF/WTz2BbOf6aVXz77rbBLCpBasRsDkM5bmTHNoqPn69AwDR+VG3sAOg7DhRD7i68QANYpqP0eJNAojDUsJrWauKMVK3SQAFDDpPwli0K6DuwSCgkUxHkupo2QOewsNEKlRuS5EtpU5a+8LjXtcrEcDcBgVJGBD22yBmQhX2NIoBZLJf09Z1YlonrTGUi7peiaSZbZBm/qhLMwB4eCicZt66/8l6AEWWs3kZ/iLYgr1UYUmoMqytMUgd2u4faU2ctELXq/5E3a6jehs9A9G+BLQudKWRO7nRJey1fhq3sB5AjxaUXhQk9PFshUGNqO2FIBad0dJaA9T1Ohjgy0eB9R+xc+CR7AykJXgLXw/cTMh0V2Bff6g6IuCaXg9gJJxhiKIBg6xREInR0loD1PVKQCy89CY9IPyOY2JB3ZMG3uSV7mJatXIy6/HxwQAhlqkJBkCFNVLY64hOWkcA63qZAeYyuXXTa0pZWVnFiiHad5wPR+4qqyjbtaCceQVZKyoqVmQVhOVWblxAb5iERnEUIEvPMNMGaa0B6nqZCVbUxaJgnV0TF9Dvo7kEsyiOBpQFKqa9BmmtAep6mQDmtMkeZ4mvb+ao+GmG90V0tWGKZVqMjdJaA9T1Mntp+rZ2uCXAvNrHTErFiEj2hnW1B/Iu09QgnymoB7MWmpiOSGtoJkb1MgOckRnI25swXq8sLvsHqwpBtHC4ZPLiPjIz0CZve0L20Y+DA9mDyCEGJB2uLuYSPPrgit+ebF1j+bHw705YT+4w5ZrVBquauOHRKmPhvVPmlSf1CLiBx2/JAbRwgPk/AyyK+8W9wWfUjQt4PTc2oZbNuG+SA7gs8Hkim29BF651cgCPPlXNqIpJIAZ75DKXu2tJcgDJu2243HozcnF1RipJEiAZl/7qcfXYpVcuT9IX7b8FGABsXAVZjG2CuwAAAABJRU5ErkJggg==" alt="" /></a></p>
+</div>	<div class="block custom" id="customblock-citation">
+	<p style="text-align: left;"><span style="font-size: medium;"><strong><span style="font-family: tahoma, arial, helvetica, sans-serif;">INDEXING&nbsp;</span></strong></span></p>
+<p><a href="https://scholar.google.co.id/citations?hl=en&amp;authuser=7&amp;user=K7tO9dQAAAAJ" target="_blank"><img src="/public/site/images/admin/GS1.png" alt="" /></a></p>
+<p><a href="http://sinta2.ristekdikti.go.id/journals/detail?id=6054" target="_blank"><img src="/public/site/images/admin/SINTA51.png" alt="" /></a></p>
+<p><a href="http://garuda.ristekdikti.go.id/journal/view/16844" target="_blank"><img src="/public/site/images/admin/GARUDA1.png" alt="" /></a></p>
+<p><a href="https://onesearch.id/Search/Results?filter[]=repoId:IOS13287" target="_blank"><img src="/public/site/images/admin/ONESEARCH1.png" alt="" /></a></p>
+</div>	<div class="block custom" id="customblock-tools">
+	<p style="text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><strong>TOOLS</strong></span></p>
+<p style="text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><strong>&nbsp;&nbsp;<a href="https://www.mendeley.com/" target="_blank"><img src="/public/site/images/admin/mendeley_logo1.png" alt="" /></a></strong></span></p>
+<p style="text-align: left;"><a href="https://endnote.com/" target="_blank"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><strong><img src="/public/site/images/admin/endnote.jpg" alt="" /></strong></span></a></p>
+<p style="text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><strong><img src="/public/site/images/admin/grammarly_logo.png" alt="" /></strong></span></p>
+<p style="text-align: left;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: medium;"><strong><img src="/public/site/images/admin/turnitin_logo.png" alt="" /></strong></span></p>
+</div>	
+                                                </div>
+                                                                                    
+
+                                                                                    <div id="main" role="main" tabindex="-1">
+                                            
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/prima/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/prima/issue/archive" class="hierarchyLink">Archives</a> &#47;
+			<a href="https://jurnal.uns.ac.id/prima/issue/view/3200" class="current">Vol 4, No 2 (2020)</a></div>
+
+                                                        <h2>Vol 4, No 2 (2020)</h2>
+
+                                                                                                                                                                <h3>December</h3>
+                                                    
+                                                    <div id="content" >
+
+													DOI: <a id="pub-id::doi" href="https://doi.org/10.20961/prima.v4i2">https://doi.org/10.20961/prima.v4i2</a>			<br />
+			<br />
+			
+	<div id="issueDescription" class="block"></div>
+		<h3 class="issue">Table of Contents</h3>
+	<h4 class="tocSectionTitle">Articles</h4>
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/39797">Pemanfaatan Minyak Serai Sebagai Bahan Aktif Nanovirusida  untuk Pengendalian Penyakit Kuning pada Cabai</a>
+					</div>
+		<div class="tocAuthors">
+												Dwiwiyati Nurul Septariani,									Hadiwiyono Hadiwiyono,									Puji Harsono,									Munti&#039;ah Mawar									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.39797">https://dx.doi.org/10.20961/prima.v4i2.39797</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/39797/29075" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			51-58
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/44369">Sosialisasi dan Penyuluhan Budidaya Pisang dengan Bibit Hasil Kultur Jaringan di Desa Lempong, Kecamatan Jenawi, Kabupaten Karanganyar</a>
+					</div>
+		<div class="tocAuthors">
+												Samanhudi Samanhudi,									Hery Widijanto,									Ahmad Yunus									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.44369">https://dx.doi.org/10.20961/prima.v4i2.44369</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/44369/29076" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			59-63
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/41402">Urban Farming: Teknologi Vertikultur Limbah Plastik untuk Mewujudkan  Sekolah Dasar Berbasis Green School</a>
+					</div>
+		<div class="tocAuthors">
+												Aditya Dyah Utami,									Mukti Ahmad Nur Cahya,									Olivia Elfatma,									Koko Setiawan									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.41402">https://dx.doi.org/10.20961/prima.v4i2.41402</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/41402/29106" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			64-69
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/41442">Perbaikan Produksi dan Kualitas Buah Kakao Melalui Peningkatan Kompetensi Petani di Desa Sepe Kecamatan Lage Kabupaten Poso</a>
+					</div>
+		<div class="tocAuthors">
+												Andri Amaliel Managanta									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.41442">https://dx.doi.org/10.20961/prima.v4i2.41442</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/41442/29096" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			70-77
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/42053">Pengolahan Gulma Invasif Enceng Gondok Menjadi Pupuk Organik Layak Pasar Sebagai Solusi Masalah Rawa Pening</a>
+					</div>
+		<div class="tocAuthors">
+												Mercy Bientri Yunindanova,									Supriyono Supriyono,									Bayu Setya Hertanto									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.42053">https://dx.doi.org/10.20961/prima.v4i2.42053</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/42053/29093" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			78-87
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/42573">Sinkronisasi Estrus Sapi Peranakan Ongole di Kelompok Tani Sri Mulyo</a>
+					</div>
+		<div class="tocAuthors">
+												Sigit Prastowo,									Sunarto Sunarto,									Lutojo Lutojo,									Nuzul Widyas,									Adi Ratriyanto									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.42573">https://dx.doi.org/10.20961/prima.v4i2.42573</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/42573/29095" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			88-94
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/43327">Pengelolaan Pekarangan Melalui Hatinya PKK untuk Ketahanan Pangan dalam Menghadapi Pandemi Covid-19</a>
+					</div>
+		<div class="tocAuthors">
+												Agus Nugroho Setiawan,									Septi Nur Wijayanti									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.43327">https://dx.doi.org/10.20961/prima.v4i2.43327</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/43327/29103" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			95-101
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/42574">Peningkatan Kapasitas Tata Laksana Kesehatan Ternak Sapi Potong  di Pelemrejo, Andong, Boyolali</a>
+					</div>
+		<div class="tocAuthors">
+												Dian Meididewi Nuraini,									Sunarto Sunarto,									Nuzul Widyas,									Ahmad Pramono,									Sigit Prastowo									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.42574">https://dx.doi.org/10.20961/prima.v4i2.42574</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/42574/29098" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			102-108
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/44013">Pemanfaatan Limbah Ekstraksi Indigofera tinctoria L. sebagai Pupuk Organik pada Usaha Batik Pewarna Alami di Sukoharjo</a>
+					</div>
+		<div class="tocAuthors">
+												Maria Theresia Sri Budiastuti,									Bambang Pujiasmanto,									Trijono Djoko Sulistyo,									Aprilia Ike Nurmalasari,									Desy Setyaningrum									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.44013">https://dx.doi.org/10.20961/prima.v4i2.44013</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/44013/29104" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			109-119
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/prima/article/view/37946">Penyuluhan Budidaya Lele dan Azolla untuk Warga Pengajian MTA Banjarsari, Surakarta</a>
+					</div>
+		<div class="tocAuthors">
+												Sudadi Sudadi,									Suryono Suryono									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.37946">https://dx.doi.org/10.20961/prima.v4i2.37946</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/37946/29127" class="file">PDF (Bahasa Indonesia)</a>
+																		</div>
+		<div class="tocPages">
+			120-124
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+<div class="separator"></div>
+<h4 class="tocSectionTitle">Editorial Pages</h4>
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							Front Matter
+					</div>
+		<div class="tocAuthors">
+												Suryono Suryono									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/prima.v4i2.46442">https://dx.doi.org/10.20961/prima.v4i2.46442</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/prima/article/view/46442/29124" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			i-iv
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p><script type="text/javascript">// <![CDATA[
+var sc_project=12129415; 
+var sc_invisible=0; 
+var sc_security="f19731cc"; 
+var sc_https=1; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+// ]]></script><noscript>&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;div class="statcounter"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;a title="Web Analytics" href="https://statcounter.com/" target="_blank"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;img class="statcounter" src="https://c.statcounter.com/12129415/0/f19731cc/0/" alt="Web Analytics"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/a&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/div&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</noscript><a href="https://statcounter.com/p12129415/?guest=1" target="_blank">View My Stats</a> <br /><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a><br />This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

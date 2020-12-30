@@ -14,7 +14,7 @@ THREAD_NUMBER = 3
 # The queue module implements multi-producer, multi-consumer queues. It is especially useful in threaded programming
 # when information must be exchanged safely between multiple threads.
 queue = Queue()
-counter = 100
+counter = 1500
 Crawler(FOLDER, HOMEPAGE, DOMAIN_NAME)
 
 

@@ -1,0 +1,956 @@
+<!doctype html>
+<html lang="id-ID" class="no-js">
+<head> 
+<meta charset="UTF-8" />  
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="alternate" type="application/rss+xml" title="Pendidikan Bahasa Jawa RSS Feed" href="https://jawa.fkip.uns.ac.id/feed/" />
+<link rel="alternate" type="application/atom+xml" title="Pendidikan Bahasa Jawa Atom Feed" href="https://jawa.fkip.uns.ac.id/feed/atom/" />
+<link rel="pingback" href="https://jawa.fkip.uns.ac.id/xmlrpc.php" />
+<title>Pendidikan Bahasa Jawa &#8211; PENDIDIKAN BAHASA JAWA FKIP UNS</title>
+<meta name='robots' content='noindex,nofollow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Pendidikan Bahasa Jawa &raquo; Feed" href="https://jawa.fkip.uns.ac.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pendidikan Bahasa Jawa &raquo; Umpan Komentar" href="https://jawa.fkip.uns.ac.id/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jawa.fkip.uns.ac.id\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://jawa.fkip.uns.ac.id/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/normalize.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-framework-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/rt-css-framework.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fontello-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/fontello/css/fontello.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jackbox-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/lightbox/css/jackbox.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-all-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-owl-carousel-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flex-slider-css-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/flexslider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='progression-player-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/video_player/progression-player.css' type='text/css' media='all' />
+<link rel='stylesheet' id='progression-skin-minimal-light-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/video_player/skin-minimal-light.css' type='text/css' media='all' />
+<link rel='stylesheet' id='isotope-css-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/isotope.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-colortip-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/colortip-1.0-jquery.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/animate.css' type='text/css' media='all' />
+<!--[if IE 7]>
+<link rel='stylesheet' id='theme-ie7-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/ie7.css' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='theme-ltie9-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/before_ie9.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='theme-skin-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/css/orange-style.css' type='text/css' media='all' />
+<style id='theme-skin-inline-css' type='text/css'>
+#navigation_bar > ul > li > a{font-family:'PT Sans Narrow',sans-serif;font-weight:normal !important}.flex-caption,.pricing_table .table_wrap ul > li.caption,.pricing_table .table_wrap.highlight ul > li.caption,.banner p,.sidebar .featured_article_title,.footer_widgets_row .featured_article_title,.latest-news a.title,h1,h2,h3,h4,h5{font-family:'PT Sans Narrow',sans-serif;font-weight:normal !important}body,#navigation_bar > ul > li > a span,.product_info h5,.product_item_holder h5,#slogan_text{font-family:'PT Sans',sans-serif;font-weight:400 !important}.testimonial .text,blockquote p{font-family:'PT Serif',sans-serif;font-weight:normal !important}#row-471166-1{padding-top:20px}#row-471166-1{padding-bottom:20px}@media only screen and (max-width:767px){#row-471166-1{padding-left:0px;padding-right:0px}}.row #content-box-471166-175789 .heading_icon{color:#ffffff !important}.row #content-box-471166-175789 .heading_icon{background-color:#ffd700}.row #content-box-471166-175789 .heading_icon{border-color:#ffd700}#content-box-471166-175789 .pin:after{color:#ffd700;border-color:#ffd700}.row #content-box-471166-13892 .heading_icon{color:#ffd700 !important}.row #content-box-471166-13892 .heading_icon{border-color:#ffd700}#content-box-471166-13892 .pin:after{color:#ffd700;border-color:#ffd700}.row #content-box-471166-25371 .heading_icon{color:#ffd700 !important}.row #content-box-471166-25371 .heading_icon{border-color:#ffd700}#content-box-471166-25371 .pin:after{color:#ffd700;border-color:#ffd700}.row #content-box-471166-49791 .heading_icon{color:#ffd700 !important}.row #content-box-471166-49791 .heading_icon{border-color:#ffd700}#content-box-471166-49791 .pin:after{color:#ffd700;border-color:#ffd700}#row-471166-2{padding-top:30px}#row-471166-2{padding-bottom:30px}@media only screen and (max-width:767px){#row-471166-2{padding-left:0px;padding-right:0px}}#row-471166-149190{padding-top:40px}#row-471166-149190{padding-bottom:20px}@media only screen and (max-width:767px){#row-471166-149190{padding-left:0px;padding-right:0px}}#space-471166-54098{height:20px}#space-471166-163852{height:10px}#space-471166-136947{height:10px}#map-471166-77114{height:300px}@media only screen and (min-width:960px){.header-design2 .default_position #navigation_bar > ul > li > a{line-height:80px}.header-design2 #logo img{max-height:60px}.header-design2  #logo h1,.header-design2  #logo h1 a{padding:0;line-height:60px}.header-design2 .section_logo > section{display:table;height:60px}.header-design2 #logo > a{display:table-cell;vertical-align:middle}}
+</style>
+<link rel='stylesheet' id='menu-css'  href='//fonts.googleapis.com/css?family=PT+Sans+Narrow&#038;subset=latin%2Clatin-ext&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='body-css'  href='//fonts.googleapis.com/css?family=PT+Sans%3A400%2C400italic&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='serif-css'  href='//fonts.googleapis.com/css?family=PT+Serif&#038;ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/modernizr.min.js' id='modernizr-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://jawa.fkip.uns.ac.id/wp-json/" /><link rel="alternate" type="application/json" href="https://jawa.fkip.uns.ac.id/wp-json/wp/v2/pages/1908" /><link rel="canonical" href="https://jawa.fkip.uns.ac.id/" />
+<link rel='shortlink' href='https://jawa.fkip.uns.ac.id/' />
+<link rel="alternate" type="application/json+oembed" href="https://jawa.fkip.uns.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjawa.fkip.uns.ac.id%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jawa.fkip.uns.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjawa.fkip.uns.ac.id%2F&#038;format=xml" />
+<!--[if lt IE 9]><script src="https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/html5shiv.js"></script><![endif]--><!--[if gte IE 9]> <style type="text/css"> .gradient { filter: none; } </style> <![endif]--><link rel="icon" href="https://jawa.fkip.uns.ac.id/wp-content/uploads/2019/12/cropped-warna-4-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jawa.fkip.uns.ac.id/wp-content/uploads/2019/12/cropped-warna-4-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://jawa.fkip.uns.ac.id/wp-content/uploads/2019/12/cropped-warna-4-180x180.png" />
+<meta name="msapplication-TileImage" content="https://jawa.fkip.uns.ac.id/wp-content/uploads/2019/12/cropped-warna-4-270x270.png" />
+</head>
+<body class="home page-template-default page page-id-1908  responsive menu-style-one templateid_471166 template-builder wide rt_content_animations header-default">
+
+			<script type="text/javascript">
+			/* <![CDATA[ */ 
+				document.getElementsByTagName("html")[0].className.replace(/\no-js\b/, "js");
+				window.onerror=function(){				
+					document.getElementById("rt_loading").removeAttribute("class");
+				}			 	
+			/* ]]> */	
+			</script> 
+		
+<!-- background wrapper -->
+<div id="container">   
+
+
+	<!-- mobile actions -->
+	<section id="mobile_bar" class="clearfix">
+		<div class="mobile_menu_control icon-menu"></div>
+		<div class="top_bar_control icon-cog"></div>    
+	</section>
+	<!-- / end section #mobile_bar -->    
+
+		<!-- top bar -->
+	<section id="top_bar" class="clearfix">
+		<div class="top_bar_container">    
+
+
+					<ul id="top_navigation" class="top_links">
+
+						<!--  top links -->
+												    				  			<!-- / end ul .top_links --> 
+			  			          
+
+
+							 
+
+													<li><form action="https://jawa.fkip.uns.ac.id//" method="get" id="top_search_form"><span class="icon-search"></span><span><input type="text" class="search_text showtextback" size="1" name="s" id="top_search_field" placeholder="Search" /></span></form></li>
+						
+
+						
+						
+					</ul>
+
+
+					
+
+		</div><!-- / end div .top_bar_container -->    
+	</section><!-- / end section #top_bar -->    
+	    
+
+
+		<!-- header -->
+	<header id="header"> 
+
+		<!-- header contents -->
+		<section id="header_contents" class="clearfix">
+				 
+				<section class="section_widget first three"></section><!-- end section .section_widget -->
+			<section class="section_logo logo_center three">			 
+				<!-- logo -->
+				<section id="logo">			 
+					 <h1 class="logo"><a href="https://jawa.fkip.uns.ac.id" title="Pendidikan Bahasa Jawa">Pendidikan Bahasa Jawa</a></h1> 
+				</section><!-- end section #logo -->
+			</section><!-- end section #logo -->	
+			<section class="section_widget second three">
+			<section id="slogan_text" class="right_side ">
+				 
+			</section></section><!-- end section .section_widget -->
+		</section><!-- end section #header_contents -->  	
+
+
+		<!-- navigation -->   
+		<div class="nav_shadow sticky"><div class="nav_border"> 
+
+			<nav id="navigation_bar" class="navigation  with_search"><ul id="navigation" class="menu"><li id='menu-item-1910'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-1908 current_page_item top-level-0" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/">Beranda</a> </li>
+<li id='menu-item-1929'  class="menu-item menu-item-type-post_type menu-item-object-page top-level-1" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/postingan/">Berita</a> </li>
+<li id='menu-item-1911'  class="menu-item menu-item-type-post_type menu-item-object-page top-level-2" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/profil/">Profil</a> </li>
+<li id='menu-item-1912'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-3" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/akademik/">Akademik</a> 
+<ul class="sub-menu">
+<li id='menu-item-1913'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/cara-registrasi-online/">Cara Registrasi Online</a> </li>
+<li id='menu-item-1914'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-dosen/">Daftar Dosen</a> </li>
+<li id='menu-item-1915'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-mahasiswa/">Daftar Mahasiswa</a> 
+	<ul class="sub-menu">
+<li id='menu-item-1916'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-mahasiswa/angkatan-2011/">Angkatan 2011</a> </li>
+<li id='menu-item-1917'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-mahasiswa/angkatan-2012/">Angkatan 2012</a> </li>
+<li id='menu-item-1918'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-mahasiswa/angkatan-2013/">Angkatan 2013</a> </li>
+<li id='menu-item-1919'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-mahasiswa/angkatan-2014/">Angkatan 2014</a> </li>
+	</ul>
+</li>
+<li id='menu-item-1920'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/daftar-mata-kuliah/">Daftar Mata Kuliah</a> </li>
+<li id='menu-item-1921'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu"><a  href="https://jawa.fkip.uns.ac.id/akademik/dosen/">Dosen</a> 
+	<ul class="sub-menu">
+<li id='menu-item-1922'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/dosen/pak-joko/">Djoko Sulaksono, S.Pd.,M.Pd</a> </li>
+<li id='menu-item-1923'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/dosen/bu-rita/">Favorita Kurwidaria, S.S, M.Hum</a> </li>
+<li id='menu-item-1924'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/dosen/bu-ken/">Kenfitria Diah Wijayanti, S.S.,M.Hum.</a> </li>
+<li id='menu-item-1925'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/dosen/pak-rahmat/">Rahmat, S.S., M.A.</a> </li>
+	</ul>
+</li>
+<li id='menu-item-1926'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/kalender-perkuliahan/">Kalender Perkuliahan</a> </li>
+<li id='menu-item-1927'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/akademik/pengurus-program-studi/">Pengurus Program Studi</a> </li>
+</ul>
+</li>
+<li id='menu-item-1928'  class="menu-item menu-item-type-post_type menu-item-object-page top-level-4" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/galeri/">Galeri</a> </li>
+<li id='menu-item-1930'  class="menu-item menu-item-type-post_type menu-item-object-page top-level-5" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/758-2/">Prestasi</a> </li>
+<li id='menu-item-1931'  class="menu-item menu-item-type-post_type menu-item-object-page top-level-6" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/data-mahasiswa-prodi/">Data Mahasiswa</a> </li>
+<li id='menu-item-1932'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-7" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/kontak/">Kontak</a> 
+<ul class="sub-menu">
+<li id='menu-item-1933'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/kontak/fb-prodi-pendidikan-bahasa-jawa/">FB Prodi Pendidikan Bahasa Jawa</a> </li>
+<li id='menu-item-1934'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/kontak/fanspage-wibawa/">Fanspage Wibawa</a> </li>
+<li id='menu-item-1935'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/kontak/facebook-wibawa/">Facebook Wibawa</a> </li>
+<li id='menu-item-1936'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/kontak/twitter-wibawa/">Twitter Wibawa</a> </li>
+<li id='menu-item-1937'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/kontak/blog-wibawa/">Blog Wibawa</a> </li>
+<li id='menu-item-1939'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/link-uns/uns/">UNS</a> </li>
+<li id='menu-item-1940'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/link-uns/fkip-uns/">FKIP UNS</a> </li>
+</ul>
+</li>
+<li id='menu-item-1948'  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children hasSubMenu top-level-8" data-column-size='0'><a  href="https://jawa.fkip.uns.ac.id/alumni/">Alumni</a> 
+<ul class="sub-menu">
+<li id='menu-item-1949'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/alumni/form-alumni/">Form Alumni</a> </li>
+<li id='menu-item-1950'  class="menu-item menu-item-type-post_type menu-item-object-page"><a  href="https://jawa.fkip.uns.ac.id/alumni/form-id-card-alumni/">Form ID Card Alumni</a> </li>
+</ul>
+</li>
+</ul>
+					<!-- search -->
+					<div class="search-bar">
+						<form action="https://jawa.fkip.uns.ac.id/" method="get" class="showtextback" id="menu_search">
+							<fieldset>							
+								<input type="text" class="search_text showtextback" name="s" id="menu_search_field" value="Search" />		
+								<div class="icon-search-1"></div>					
+							</fieldset>
+													</form>
+					</div>
+					<!-- / search-->
+				 
+
+			</nav>
+		</div></div>
+		<!-- / navigation  --> 
+
+	</header><!-- end tag #header --> 	
+
+
+
+		<!-- content holder --> 
+		<div class="content_holder">
+
+		<section class="top_content header-471166 clearfix">
+				<div class="flex-container">
+					<div class="flexslider" id="slider-571359">
+						<ul class="slides"><li class="stretch" data-sliderminheight="400px" data-flexfirstslide="true"><div class="slide_data"><img src="https://jawa.fkip.uns.ac.id/wp-content/uploads/2020/08/slider-3-vc-1200x400.png" alt="" title="" />
+ <div class="flex-caption left"><div class="caption-holder"><div class="caption-one" >PROGRAM STUDI PENDIDIKAN BAHASA JAWA</div>
+  <div class="caption-text" >Program Studi Pendidikan Bahasa Jawa terletak di kampus pusat Jl Ir. Sutami No. 36 A Kentingan Jebres Surakarta
+Ruang Dosen terletak di Gedung A FKIP
+Ruang Perkuliahan terletan di gedung E dan Kampus Ngoresan</div>
+</div></div>
+</div></li>
+<li class="stretch"  ><div class="slide_data"><img src="https://jawa.fkip.uns.ac.id/wp-content/uploads/2020/08/slider-2-vc-1200x400.png" alt="" title="" />
+ <div class="flex-caption left"><div class="caption-holder"><div class="caption-one" >Fakultas Keguruan dan Ilmu Pendidikan</div>
+  <div class="caption-text" >Program Studi Pendidikan Bahasa Jawa merupakan salah bagian dari Fakultas Keguruan dan Ilmu Pendidikan.</div>
+</div></div>
+</div></li>
+<li class="stretch"  ><div class="slide_data"><img src="https://jawa.fkip.uns.ac.id/wp-content/uploads/2020/08/slider-3-vc-1200x400.png" alt="" title="" />
+ <div class="flex-caption left"><div class="caption-holder"><div class="caption-one" >Universitas Sebelas Maret</div>
+  <div class="caption-text" >Program Studi Pendidikan Bahasa Jawa FKIP berdiri sejak 23 November 2010</div>
+</div></div>
+</div></li>
+<li class="stretch"  ><div class="slide_data"><img src="https://jawa.fkip.uns.ac.id/wp-content/uploads/2020/08/13ecb5f0-979c-41b0-a327-b31dc2ddc61f-vc-720x400.jpg" alt="" title="" />
+ <div class="flex-caption left"><div class="caption-holder"><div class="caption-one" >Webinar Nasional</div>
+  <div class="caption-text" >Unggah-ungguh Pasrawungan salebetipun Medhia Daring</div>
+</div></div>
+</div></li></ul>						
+					</div>
+					<div class="flex-nav-container"></div>
+				</div> 
+			
+				<script type="text/javascript">
+				 /* <![CDATA[ */ 
+					// Flex Slider and Helper Functions
+					jQuery(window).load(function() {
+						jQuery("#slider-571359").flexslider({
+							animation: "slide",
+							controlsContainer: "#slider-571359 .flex-nav-container",
+							slideshow: true, 
+							slideshowSpeed:8*1000,
+							smoothHeight: true,
+							directionNav: true,
+							controlNav:false, 
+							prevText: "<span class=\"icon-left-open\"></span>", 
+							nextText: "<span class=\"icon-right-open\"></span>",
+							start: function( slider ) {
+        						slider.parents(".flex-container:eq(0)").removeAttr("style");
+        						jQuery.waypoints('refresh');
+      						},
+      						after: function(){
+      							jQuery.waypoints('refresh');
+      						},  
+						});
+					});  
+				/* ]]> */	
+				</script>
+			</section>		
+			<div class="content_second_background">
+				<div class="content_area clearfix"> 
+		
+
+													 
+	<div id="row-471166-1" class="content_block_background template_builder "> 
+			<section class="content_block clearfix"><section id="row-471166-1-content" class="content full  clearfix"><div class="row clearfix"><article id="content-box-471166-175789" class="featured" data-rt-animate="animate" data-rt-animation-type="fadeInDown" data-rt-animation-group="single"><div class="caption title_centered "><span class="big_rounded_icon pin centered centered embedded heading_icon animated icon-globe-1 loaded" ></span> </div><div class="space margin-b10"></div><h3 style="text-align: center;"><strong>"Menjadi program studi pusat pengembang ilmu dan teknologi di bidang pendidikan Bahasa Jawa </strong><strong>yang bereputasi internasional dan unggul dalam inovasi pembelajaran </strong><strong>dengan berlandaskan pada nilai-nilai luhur budaya nasional"</strong></h3></article></div><div class="row clearfix"><div class="box three "><article id="content-box-471166-13892" class="featured" data-rt-animate="animate" data-rt-animation-type="fadeInDown" data-rt-animation-group="single"><span class="big_rounded_icon centered centered after heading_icon animated icon-book-open loaded" ></span><div class="space margin-b10"></div> <div class="caption title_centered "><h3 class="featured_article_title ">Satu</h3></div><div class="space margin-b10"></div><h4 style="text-align: center;">Menyelenggarakan pendidikan yang inovatif dalam bidang pendidikan bahasa Jawa berdasarkan perkembangan mutakhir pendidikan bahasa Jawa.</h4></article></div><div class="box three "><article id="content-box-471166-25371" class="featured" data-rt-animate="animate" data-rt-animation-type="fadeInDown" data-rt-animation-group="single"><span class="big_rounded_icon centered centered after heading_icon animated icon-lightbulb loaded" ></span><div class="space margin-b10"></div> <div class="caption title_centered "><h3 class="featured_article_title ">Dua</h3></div><div class="space margin-b10"></div><h4 style="text-align: center;">Melaksanakan penelitian untukmenghasilkan temuan baru dalam bidang pendidikan bahasa Jawa</h4></article></div><div class="box three "><article id="content-box-471166-49791" class="featured" data-rt-animate="animate" data-rt-animation-type="fadeInDown" data-rt-animation-group="single"><span class="big_rounded_icon centered centered after heading_icon animated icon-users loaded" ></span><div class="space margin-b10"></div> <div class="caption title_centered "><h3 class="featured_article_title ">Tiga</h3></div><div class="space margin-b10"></div><h4 style="text-align: center;">Melaksanakan kegiatan pengabdian kepada masyarakat yang berupa pengembangan dan pelestarian bidang pendidikan bahasa Jawa.</h4></article></div></div></section></section></div><div id="row-471166-2" class="content_block_background template_builder row-style-2"> 
+			<section class="content_block clearfix"><section id="row-471166-2-content" class="content full  clearfix"><div class="row clearfix"><div class="row clearfix"><div id="testimonial-carousel-471166-155252" class="carousel-holder clearfix  without_heading " data-rt-animate="animate" data-rt-animation-type="fadeIn" data-rt-animation-group="single"><section class="carousel_items clearfix"><div class="owl-carousel"></div></section></div></div>
+		<script type="text/javascript">
+		 /* <![CDATA[ */ 
+			// run carousel
+				jQuery(document).ready(function() { 
+					 jQuery("#testimonial-carousel-471166-155252").rt_start_carousels(1,"");
+				}); 
+		/* ]]> */	
+		</script>
+	</div></section></section></div><div id="row-471166-149190" class="content_block_background template_builder "> 
+			<section class="content_block clearfix"><section id="row-471166-149190-content" class="content full  clearfix"><div class="row clearfix"><div class="box three "><div class="title_line margin-b20"><h3 class="featured_article_title" data-rt-animate="animate" data-rt-animation-type="fade" data-rt-animation-group="single"><span class="icon-star heading_icon"></span> Tujuan Program Studi Pendidikan Bahasa Jawa FKIP UNS</h3></div><section id="text-box-471166-319345" class="text_box" data-rt-animate="animate" data-rt-animation-type="fadeIn" data-rt-animation-group="single"><p>Program Studi Pendidikan Bahasa Jawa memiliki tujuan sebagai berikut :</p></section><div id="space-471166-54098" class="clearfix" style="height:20px"></div><div data-rt-animation-group="group" class="rt-toggle "><ol><li data-rt-animate="animate" data-rt-animation-type="fadeInDown">
+<div class="toggle-head">
+<div class="toggle-number"><span class="icon-edit"></span></div>
+<div class="toggle-title">Pendidik yang Profesional</div>
+</div>
+<div class="toggle-content fluid">
+<p>Menghasilkan sarjana Pendidikan Bahasa Jawa yang beriman dan bertakwa kepada Tuhan Yang Maha Esa, berbudi luhur, cerdas, terampil dan siap menjadi pendidik profesional yang berwawasan global</p>
+</div>
+</li>
+<li data-rt-animate="animate" data-rt-animation-type="fadeInDown">
+<div class="toggle-head">
+<div class="toggle-number"><span class="icon-beaker"></span></div>
+<div class="toggle-title">Mempunyai Kompetensi</div>
+</div>
+<div class="toggle-content fluid">
+<p>Menghasilkan inovasi baru di bidang pendidikan bahasa Jawa sebagai landasan untuk memecahkan masalah dalam masyarakat dan untuk membangun kehidupan yang lebih baik;</p>
+</div>
+</li>
+<li data-rt-animate="animate" data-rt-animation-type="fadeInDown">
+<div class="toggle-head">
+<div class="toggle-number"><span class="icon-ambulance"></span></div>
+<div class="toggle-title">Menyelesaikan Masalah</div>
+</div>
+<div class="toggle-content fluid">
+<p>Menghasilkan inovasi baru di bidang pendidikan bahasa Jawa sebagai landasan untuk memecahkan masalah dalam masyarakat dan untuk membangun kehidupan yang lebih baik;</p>
+</div>
+</li>
+<li data-rt-animate="animate" data-rt-animation-type="fadeInDown">
+<div class="toggle-head">
+<div class="toggle-number"><span class="icon-users"></span></div>
+<div class="toggle-title">Menjalin Kerjasama</div>
+</div>
+<div class="toggle-content fluid">
+<p>Menghasilkan karya-karya pengabdian kepada masyarakat dalam bidang pendidikan, pelatihan yang berkaitan dengan bidang bahasa dan sastra Jawa;</p>
+</div>
+</li>
+</ol></div></div><div class="box two-three "><div class="row clearfix"><div class="title_line margin-b20"><h3 class="featured_article_title" data-rt-animate="animate" data-rt-animation-type="fade" data-rt-animation-group="single"><span class="icon-doc-alt heading_icon"></span> BERITA</h3></div><div id="blog-carousel-471166-134887" class="carousel-holder clearfix plain_carousel_holder with_heading " data-rt-animation-group="single" data-rt-animation-type="fadeIn" data-rt-animate="animate"><section class="latest-news carousel_items clearfix"><div class="owl-carousel"><div class="item">
+ 
+	
+
+<div class="meta">
+	<span class="date">November 10, 2020</span>
+	</div>
+ 
+<a href="https://jawa.fkip.uns.ac.id/posting/pelatihan-berbahasa-jawa-yang-baik-dan-benar-di-media-sosial-dan-dalam-kehidupan-sehari-hari-sebagai-salah-satu-cara-meningkatkan-tata-krama-dan-budi-pekerti-di-kalangan-generasi-muda-di-kabupaten-kar/" class="title" rel="bookmark">Pelatihan Berbahasa Jawa yang Baik dan Benar di Media Sosial dan Dalam Kehidupan Sehari-hari sebagai Salah Satu Cara Meningkatkan Tata Krama dan Budi Pekerti di Kalangan Generasi Muda di Kabupaten Karanganyar</a>
+ 
+
+
+
+	Tim Pengabdian pada Masyarakat Universitas Sebelas Maret, pada tanggal 27 Agustus 2020 mengadakan acara pelatihan berbahasa Jawa yang baik dan benar di media sosial dan di dalam ke ..</div>
+<div class="item">
+ 
+	
+
+<div class="meta">
+	<span class="date">Agustus 5, 2020</span>
+	</div>
+ 
+<a href="https://jawa.fkip.uns.ac.id/posting/tujuan-pendidikan-bahasa-jawa/" class="title" rel="bookmark">Tujuan Pendidikan Bahasa Jawa</a>
+ 
+
+
+
+	Tujuan Pendidikan Bahasa Jawa Tujuan Pendidikan Bahasa Jawa adalah:1. Menghasilkan sarjana Pendidikan Bahasa Jawa yang beriman dan bertakwa kepada Tuhan yang Maha Esa, berbudi luhu ..</div>
+<div class="item">
+ 
+	
+
+<div class="meta">
+	<span class="date">Agustus 5, 2020</span>
+	</div>
+ 
+<a href="https://jawa.fkip.uns.ac.id/posting/misi-pendidikan-bahasa-jawa/" class="title" rel="bookmark">Misi Pendidikan Bahasa Jawa</a>
+ 
+
+
+
+	Misi Pendidikan Bahasa Jawa Misi Pendidikan Bahasa Jawa adalah: 1. Menyelenggarakan pendidikan yang inovatif dalam bidang pendidikan Bahasa Jawa berdasarkan perkembangan mutakhir P ..</div>
+<div class="item">
+ 
+	
+
+<div class="meta">
+	<span class="date">Agustus 5, 2020</span>
+	</div>
+ 
+<a href="https://jawa.fkip.uns.ac.id/posting/visi-pendidikan-bahasa-jawa/" class="title" rel="bookmark">Visi Pendidikan Bahasa Jawa</a>
+ 
+
+
+
+	VISI PENDIDIKAN BAHASA JAWA Menjadi program studi pusat pengembang ilmu dan teknologi di bidang Pendidikan Bahasa Jawa  yang bereputasi internasional dan unggul dalam inovasi pembe ..</div>
+</div></section></div></div>
+		<script type="text/javascript">
+		 /* <![CDATA[ */ 
+			// run carousel
+				jQuery(document).ready(function() { 
+					 jQuery("#blog-carousel-471166-134887").rt_start_carousels(1,"plain_carousel");
+				}); 
+		/* ]]> */	
+		</script>
+	</div></div><div class="row clearfix"><div class="title_line margin-b20"><h3 class="featured_article_title" data-rt-animate="animate" data-rt-animation-type="fade" data-rt-animation-group="single"><span class="icon-th heading_icon"></span> BERITA LAINNYA</h3></div></div><div class="row clearfix"><div class="row"><div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1960">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/pelatihan-berbahasa-jawa-yang-baik-dan-benar-di-media-sosial-dan-dalam-kehidupan-sehari-hari-sebagai-salah-satu-cara-meningkatkan-tata-krama-dan-budi-pekerti-di-kalangan-generasi-muda-di-kabupaten-kar/" rel="bookmark">Pelatihan Berbahasa Jawa yang Baik dan Benar di Media Sosial dan Dalam Kehidupan Sehari-hari sebagai Salah Satu Cara Meningkatkan Tata Krama dan Budi Pekerti di Kalangan Generasi Muda di Kabupaten Karanganyar</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Pelatihan Berbahasa Jawa yang Baik dan Benar di Media Sosial dan Dalam Kehidupan Sehari-hari sebagai Salah Satu Cara Meningkatkan Tata Krama dan Budi Pekerti di Kalangan Generasi Muda di Kabupaten Karanganyar">
+			<meta itemprop="datePublished" content="10/11/2020">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/pelatihan-berbahasa-jawa-yang-baik-dan-benar-di-media-sosial-dan-dalam-kehidupan-sehari-hari-sebagai-salah-satu-cara-meningkatkan-tata-krama-dan-budi-pekerti-di-kalangan-generasi-muda-di-kabupaten-kar/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>Tim Pengabdian pada Masyarakat Universitas Sebelas Maret, pada tanggal 27 Agustus 2020 mengadakan acara pelatihan berbahasa Jawa yang baik dan benar di media sosial dan di dalam kehidupan sehari-hari. Kegiatan ini dilaksanakan di Dusun Bekon Desa Kaliwuluh, Kecamatan Kebakkramat Kabupaten Karanganyar, dengan sasaran anggota pemuda dan karang taruna. Pelatihan bahasa Jawa krama&nbsp;di kalangan para pemuda [&hellip;]</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+<div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1900">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/tujuan-pendidikan-bahasa-jawa/" rel="bookmark">Tujuan Pendidikan Bahasa Jawa</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Tujuan Pendidikan Bahasa Jawa">
+			<meta itemprop="datePublished" content="05/08/2020">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/tujuan-pendidikan-bahasa-jawa/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>Tujuan Pendidikan Bahasa Jawa Tujuan Pendidikan Bahasa Jawa adalah:1. Menghasilkan sarjana Pendidikan Bahasa Jawa yang beriman dan bertakwa kepada Tuhan yang Maha Esa, berbudi luhur, cerdas, terampil dan siap menjadi pendidik profesional yang berwawasan global.2. Menghasilkan inovasi baru di bidang bahasa Jawa sebagai landasan untuk memecahkan masalah dalam masyarakat dan untuk membangun kehidupan yang lebih [&hellip;]</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+<div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1897">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/misi-pendidikan-bahasa-jawa/" rel="bookmark">Misi Pendidikan Bahasa Jawa</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Misi Pendidikan Bahasa Jawa">
+			<meta itemprop="datePublished" content="05/08/2020">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/misi-pendidikan-bahasa-jawa/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>Misi Pendidikan Bahasa Jawa Misi Pendidikan Bahasa Jawa adalah: 1. Menyelenggarakan pendidikan yang inovatif dalam bidang pendidikan Bahasa Jawa berdasarkan perkembangan mutakhir Pendidikan Bahasa Jawa;2. Melaksanakan penelitian untuk menghasilkan temuan baru dalam bidang pendidikan Bahasa Jawa;3. Melaksanakan kegiatan pengabdian kepada masyarakat yang berupa pengembangan dan pelestarian di bidang pendidikan Bahasa Jawa.</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+<div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1884">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/visi-pendidikan-bahasa-jawa/" rel="bookmark">Visi Pendidikan Bahasa Jawa</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Visi Pendidikan Bahasa Jawa">
+			<meta itemprop="datePublished" content="05/08/2020">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/visi-pendidikan-bahasa-jawa/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>VISI PENDIDIKAN BAHASA JAWA Menjadi program studi pusat pengembang ilmu dan teknologi di bidang Pendidikan Bahasa Jawa  yang bereputasi internasional dan unggul dalam inovasi pembelajaran dengan berlandaskan pada nilai-nilai luhur budaya nasional.</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+</div><div class="row"><div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1849">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/sambutan-kaprodi-pendidikan-bahasa-jawa-kepada-mahasiswa-baru-2015/" rel="bookmark">Sambutan Kaprodi Pendidikan Bahasa Jawa kepada Mahasiswa Baru 2015</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Sambutan Kaprodi Pendidikan Bahasa Jawa kepada Mahasiswa Baru 2015">
+			<meta itemprop="datePublished" content="24/08/2015">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/sambutan-kaprodi-pendidikan-bahasa-jawa-kepada-mahasiswa-baru-2015/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+<div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1846">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/daftar-nama-mahasiswa-program-studi-pendidikan-bahasa-jawa-angkatan-tahun-2015/" rel="bookmark">DAFTAR NAMA MAHASISWA PROGRAM STUDI PENDIDIKAN BAHASA JAWA ANGKATAN TAHUN 2015</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="DAFTAR NAMA MAHASISWA PROGRAM STUDI PENDIDIKAN BAHASA JAWA ANGKATAN TAHUN 2015">
+			<meta itemprop="datePublished" content="24/08/2015">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/daftar-nama-mahasiswa-program-studi-pendidikan-bahasa-jawa-angkatan-tahun-2015/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>&nbsp; No NIM Nama Kelas 1 K4215001 AHMAD DWI ROMADHONI A 2 K4215002 AJENG VIRDIAETA Y A 3 K4215004 AKBARUDIN ARIS JAYA A 4 K4215006 ANISA SUSILOWATI A A 5 K4215007 ANISAUL HASANAH A 6 K4215009 APRISKA ALVIO DIONIN A 7 K4215013 ARVIAN KRESNA ADHI A 8 K4215017 BRILLIANI DYAH S A 9 K4215018 CAHYO [&hellip;]</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+<div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1808">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/open-recruitment-hmp-wibawa/" rel="bookmark">Open Recruitment HMP WIBAWA</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Open Recruitment HMP WIBAWA">
+			<meta itemprop="datePublished" content="17/09/2014">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/open-recruitment-hmp-wibawa/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>Himpunan Mahasiswa Prodi Pendidikan Bahasa Jawa (WIBAWA) dengan bangga memberikan kesempatan kepada seluruh mahasiswa angkatan 2013 untuk bergabung menjadi keluarga besar HMP WIBAWA. adapun syaratnya adalah sebagai berikut : 1. Memiliki kemauan untuk berorganisasi 2. Bersedia bekerja dalam tim 3. Sehat jasmani dan Rohani Adapun alur pendaftaran adalah sebagai berikut : 1. Mengunduh formulir pendaftara. Formulir [&hellip;]</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+<div class="box four small_box">
+ 
+
+<!-- blog box-->
+<article class="blog_list loop" id="post-1782">
+
+	
+
+	<section class="article_section with_icon">
+		
+		<div class="blog-head-line clearfix">    
+
+			<div class="post-title-holder">
+
+				<!-- blog headline-->
+				<h2 class="icon-pencil"><a href="https://jawa.fkip.uns.ac.id/posting/kegiatan-ekstra-seni-pbj/" rel="bookmark">Kegiatan Ekstra Seni PBJ</a></h2> 
+				<!-- / blog headline--> 
+ 
+						<!-- meta data -->
+		<div class="post_data">
+			
+					 			
+						<!-- user -->                                     
+			<span class="icon-user user margin-right20 vcard author"><span class="fn"><a href="https://jawa.fkip.uns.ac.id/posting/author/admin/" title="Pos-pos oleh admin" rel="author">admin</a></span></span>
+							
+						<!-- categories -->
+			<span class="icon-flow-cascade categories"><a href="https://jawa.fkip.uns.ac.id/posting/category/other/" rel="category tag">Lain</a></span>
+						
+			
+		</div><!-- / end div  .post_data -->
+	
+			<meta itemprop="name" content="Kegiatan Ekstra Seni PBJ">
+			<meta itemprop="datePublished" content="26/08/2014">
+			<meta itemprop="url" content="https://jawa.fkip.uns.ac.id/posting/kegiatan-ekstra-seni-pbj/">
+			<meta itemprop="image" content="">
+			<meta itemprop="author" content="admin">
+		
+			</div><!-- / end div  .post-title-holder -->
+			
+		</div><!-- / end div  .blog-head-line -->  
+
+
+		
+
+		<p>Sugeng Rawuh Para Kadang Wibawa 2014!Yang berminat belajar tentang berbagai ekstra seni di Prodi Pendidikan Bahasa Jawa, bisa join dengan menghubungi CP di bawah ini:Javapella: Novita (085853917139)Javakustik: Pandu (085724435023) / Ganang (08984356695)Pulpen Ijo: Febri (085725033555) Jawabeksan: Lindha (081567790353) Seni Peran: Dian Marsela (085649126001) / Sekar (089635142847)</p>
+
+	</section> 
+
+</article> 
+<!-- / blog box--></div>
+</div></div></section></section></div>
+							
+	
+				</div><!-- / end div .content_area -->  
+
+				<div class="content_footer footer_widgets_holder footer-471166"><section class="footer_widgets clearfix footer-widgets-471166 clearfix"><div id="space-471166-163852" class="clearfix" style="height:10px"></div><div class="row clearfix">
+				<div id="banner-471166-1146006" class="banner   clearfix" data-rt-animate="animate" data-rt-animation-type="fadeIn" data-rt-animation-group="single" >
+				
+			<a id="" href="https://siakad.uns.ac.id" target="_blank" title="Siakad" class="button_ default big icon-chrome margin-t15 alignright" data-rt-animate="animate" data-rt-animation-type="bounceIn" data-rt-animation-group="single" >Siakad</a>
+		
+					<div class="featured_text withbutton big_button ">
+						<p class=" icon">SIAKAD
+<small>Sistem Informasi Akademik (Siakad) UNS merupakan sistem untuk memberikan kemudahan kepada pengguna dalam kegiatan administrasi akademik kampus secara online.</small></p>
+					</div>				
+				</div>
+			</div><div id="space-471166-136947" class="clearfix" style="height:10px"></div><div class="row clearfix"></div><div class="row clearfix footer_widgets_row"><div id="footer-column-1" class="box four"><div class="box one footer clearfix widget widget_text">			<div class="textwidget"><center><embed src=http://flash-clocks.com/free-flash-clocks-blog-topics/free-flash-clock-152.swf width=200 height=80 wmode=transparent type=application/x-shockwave-flash></embed></center></div>
+		</div><div class="box one footer clearfix widget widget_text">			<div class="textwidget"><a class="twitter-timeline" href="https://twitter.com/Wibawa_UNS" data-widget-id="360406504601432064">Tweet oleh @Wibawa_UNS</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+		</div><div class="box one footer clearfix widget widget_text">			<div class="textwidget"><center><img src="http://mahesajenar.com/scripts/hijriah.php?tz=7&type=img&text=333300&bg=00ffff&border=CC0099" alt="" />
+
+<script language="javascript">
+
+function signs() {
+var start = 1901, birthyear = document.zodiac.year.value, date=document.zodiac.date.value, month=document.zodiac.month.selectedIndex;
+
+with (document.zodiac.sign){
+
+if (month == 1 && date >=20 || month == 2 && date <=18) {value = "Aquarius";}
+if (month == 1 && date > 31) {value = "Huh?";}
+if (month == 2 && date >=19 || month == 3 && date <=20) {value = "Pisces";}
+if (month == 2 && date > 29) {value = "Say what?";}
+if (month == 3 && date >=21 || month == 4 && date <=19) {value = "Aries";}
+if (month == 3 && date > 31) {value = "OK. Whatever.";}
+if (month == 4 && date >=20 || month == 5 && date <=20) {value = "Taurus";}
+if (month == 4 && date > 30) {value = "I'm soooo sorry!";}
+if (month == 5 && date >=21 || month == 6 && date <=21) {value = "Gemini";}
+if (month == 5 && date > 31) {value = "Umm ... no.";}
+if (month == 6 && date >=22 || month == 7 && date <=22) {value = "Cancer";}
+if (month == 6 && date > 30) {value = "Sorry.";}
+if (month == 7 && date >=23 || month == 8 && date <=22) {value = "Leo";}
+if (month == 7 && date > 31) {value = "Excuse me?";}
+if (month == 8 && date >=23 || month == 9 && date <=22) {value = "Virgo";}
+if (month == 8 && date > 31) {value = "Yeah. Right.";}
+if (month == 9 && date >=23 || month == 10 && date <=22) {value = "Libra";}
+if (month == 9 && date > 30) {value = "Try Again.";}
+if (month == 10 && date >=23 || month == 11 && date <=21) {value = "Scorpio";}
+if (month == 10 && date > 31) {value = "Forget it!";}
+if (month == 11 && date >=22 || month == 12 && date <=21) {value = "Sagittarius";}
+if (month == 11 && date > 30) {value = "Invalid Date";}
+if (month == 12 && date >=22 || month == 1 && date <=19) {value = "Capricorn";}
+if (month == 12 && date > 31) {value = "No way!";}
+}
+x = (start - birthyear) % 12
+with (document.zodiac.csign){
+if (x == 1 || x == -11) {value = "Tikus";}
+if (x == 0) {value = "Ox";}
+if (x == 11 || x == -1) {value = "Macan";}
+if (x == 10 || x == -2) {value = "Kelinci";}
+if (x == 9 || x == -3) {value = "Naga";}
+if (x == 8 || x == -4) {value = "Ular";}
+if (x == 7 || x == -5) {value = "Kuda";}
+if (x == 6 || x == -6) {value = "Kambing";}
+if (x == 5 || x == -7) {value = "Monyet";}
+if (x == 4 || x == -8) {value = "Ayam";}
+if (x == 3 || x == -9) {value = "Anjing";}
+if (x == 2 || x == -10) {value = "Babi";}
+
+}
+}
+</script>
+<style type="text/css">
+.gh {border:1px solid #0066FF;}
+.gh td{border:1px solid #0066FF;}
+</style>
+<form name="zodiac">
+<table cellpadding="5" class="gh" align="center">
+<tr>
+<td width="55"><b>Taun</b></td>
+<td width="155"><input type="text" size="10" name="year" onClick=value=""></div></td>
+<tr>
+<td><b>Sasi</b></td>
+<td><select name="month">
+<option value="x">Milih Sasi</option>
+<option value="1">Januari</option>
+<option value="2">Februari</option>
+<option value="3">Maret</option>
+<option value="4">April</option>
+<option value="5">Mei</option>
+<option value="6">Juni</option>
+<option value="7">Juli</option>
+<option value="8">Augustus</option>
+<option value="9">September</option>
+<option value="10">Oktober</option>
+<option value="11">November</option>
+<option value="12">Desember</option>
+</select></td>
+</tr>
+<tr>
+<td><b>Tanggal</b></td>
+<td><input type="text" name="date" size="3" onClick=value=""></td>
+</tr>
+<tr>
+<td colspan="2"><div align="center">
+<input type="button" value="Klik Nggo Ndelok Hasile" onClick="signs()">
+</div></td>
+</tr>
+<tr>
+<td><b>Zodiak: </b></td>
+<td><input type="text" name="sign" size="12" value="" align="right"></td></tr>
+<tr>
+<td><b>Shio:</b></td>
+<td><input type="text" name="csign" size="12"></td>
+</tr>
+</table>
+</form>
+</center></div>
+		</div></div><div id="footer-column-2" class="box four"></div><div id="footer-column-3" class="box four"></div><div id="footer-column-4" class="box four"></div></div></section></div>
+
+	        </div><!-- / end div .content_second_background -->  
+	    </div><!-- / end div .content_holder -->  
+	</div><!-- end div #container --> 
+
+    <!-- footer -->
+    <footer id="footer">
+     
+        <!-- footer info -->
+        <div class="footer_info">       
+                
+            <!-- left side -->
+            <div class="part1">
+
+					<!-- footer nav -->
+										    			  			<!-- / end ul .footer_links -->
+		  			
+					<!-- copyright text -->
+					<div class="copyright">Copyright &copy; 2014 Company Name, Inc.
+					</div><!-- / end div .copyright -->	            
+                
+            </div><!-- / end div .part1 -->
+            
+			<!-- social media icons -->				
+			<!-- / end ul .social_media_icons -->
+
+        </div><!-- / end div .footer_info -->
+            
+    </footer>
+    <!-- / footer -->
+
+
+  
+
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/jquery.easing.1.3.js' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/jquery.tools.min.js' id='jquery-tools-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/waypoints.min.js' id='waypoints-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/video_player/mediaelement-and-player.min.js' id='mediaelement-and-player-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/lightbox/js/jackbox-packed.min.js' id='jackbox-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/colortip-1.0-jquery.js' id='colortip-js-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/jquery.flexslider.js' id='flex-slider-js'></script>
+<script type='text/javascript' id='rt-theme-scripts-js-extra'>
+/* <![CDATA[ */
+var rt_theme_params = {"ajax_url":"https:\/\/jawa.fkip.uns.ac.id\/wp-admin\/admin-ajax.php","rttheme_template_dir":"https:\/\/jawa.fkip.uns.ac.id\/wp-content\/themes\/rttheme18","sticky_logo":"on","content_animations":"on","page_loading":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/script.js' id='rt-theme-scripts-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://jawa.fkip.uns.ac.id/wp-content/themes/rttheme18/js/owl.carousel.min.js' id='jquery-owl-carousel-js'></script>
+</body>
+</html>

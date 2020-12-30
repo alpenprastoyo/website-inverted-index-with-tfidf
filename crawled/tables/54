@@ -1,0 +1,26 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S-2 <a href="https://pasca.uns.ac.id/s2ilmufisika" target="_blank" rel="noopener noreferrer">Ilmu Fisika</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>S-2 <a href="https://pasca.uns.ac.id/s2biosain" target="_blank" rel="noopener noreferrer">Biosains</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>3</td>
+<td>S-2 <a href="https://pasca.uns.ac.id/s2kimia" target="_blank" rel="noopener noreferrer">Kimia</a></td>
+<td>B</td>
+</tr>
+</tbody>
+</table></br>

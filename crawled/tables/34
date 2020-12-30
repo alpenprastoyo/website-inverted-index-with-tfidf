@@ -1,0 +1,34 @@
+<table width="100%" border="0" cellspacing="3">
+													<tbody><tr>
+														<td>Pengguna</td>
+														<td><input type="text" id="txt1" name="txt1" maxlength="35" width="80%" placeholder="Nama Pengguna"></td>
+													</tr>
+													<tr>
+														<td>Kata Sandi</td>
+														<td><input type="password" id="txt2" name="txt2" maxlength="30" width="80%" placeholder="Kata Sandi"></td>
+													</tr>
+													<tr>
+														<td>&nbsp;</td>
+														<td>&nbsp;</td>
+													</tr>
+                                                    <tr>
+														<td>&nbsp;</td>
+														<td><img id="siimage" style="border: 1px solid #000; margin-right: 15px" src="include/securimage_show.php?sid=3587e8f2bc80b26453ec346e07890d3d" alt="CAPTCHA Image" align="left"><a tabindex="-1" style="border-style: none;" href="#" title="Refresh Image" onclick="document.getElementById('siimage').src = 'include/securimage_show.php?sid=' + Math.random(); this.blur(); return false"><img src="images/refresh.png" alt="Reload Image" width="20" height="20" onclick="this.blur()" align="bottom" border="0"></a>
+                                                        </td>
+													</tr>
+                                                    <tr>
+														<td>Kode</td>
+														<td><input type="text" id="txt3" name="txt3" maxlength="6" width="80%"></td>
+													</tr>
+													<tr>
+														<td>
+															<input type="hidden" id="option" name="option" value="Login">
+															<input type="hidden" id="task" name="task" value="login">
+															<input type="hidden" id="txt4" name="txt4" value="">
+															<input type="hidden" id="count" name="count" value="4">
+														</td>
+														<td>
+															<input type="submit" class="art-button" value="Masuk">
+														</td>
+													</tr>
+												</tbody></table></br>

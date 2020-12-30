@@ -1,0 +1,82 @@
+<table class="table table-hover table-striped">
+    <tbody><tr>
+        <th>No</th>
+        <th>Fakultas</th>
+        <th>Jumlah Dokumen</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Fak. KIP</td>
+        <td>16204</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Fak. Ekonomi dan Bisnis</td>
+        <td>11098</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Pascasarjana</td>
+        <td>10645</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Fak. ISIP</td>
+        <td>7556</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Fak. Teknik</td>
+        <td>5794</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Fak. Kedokteran</td>
+        <td>5579</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Fak. Sastra dan Seni Rupa</td>
+        <td>4722</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Fak. Hukum</td>
+        <td>4009</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Fak. MIPA</td>
+        <td>3859</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Fak. Pertanian</td>
+        <td>3736</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Fak. Ilmu Budaya</td>
+        <td>1529</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Fak. Seni Rupa dan Desain</td>
+        <td>745</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Staf</td>
+        <td>58</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Non UNS</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Fak. Keolahragaan</td>
+        <td></td>
+    </tr>
+</tbody></table></br>

@@ -1,0 +1,91 @@
+<table class="table" style="width: 90%; margin: 0px auto; padding: 10px;">
+			<tbody><tr>
+				<td width="30%">Nama <sup><font color="red">*)</font></sup></td><td width="2%"> : </td>
+				<td><input type="text" name="nama" class="form-control" value="" required="required"></td>
+			</tr> 
+			<tr>
+				<td>NIM <sup><font color="red">*)</font></sup></td><td> : </td>
+				<td><input type="text" name="nim" class="form-control" value="" required="required"></td>
+			</tr> 
+			<tr>
+				<td>Jenjang <sup><font color="red">*)</font></sup></td><td> : </td>
+				<td>
+					<select name="jenjang" class="form-control" required="">
+						<option value="S1">S1</option>
+					</select>
+				</td>
+			</tr> 
+			<tr>
+				<td>Fakultas <sup><font color="red">*)</font></sup></td><td> : </td>
+				<td>
+					<select name="fakultas" class="form-control" required="">
+						<option value="Fakultas Keguruan dan Ilmu Pendidikan">Fakultas Keguruan dan Ilmu Pendidikan</option>
+					</select>
+				</td>
+			</tr> 
+			<tr>
+				<td>Jurusan <sup><font color="red">*)</font></sup></td><td> : </td>
+				<td>
+					<select name="jurusan" class="form-control" required="">
+						<option value="Ilmu Pendidikan">Ilmu Pendidikan</option>
+					</select>
+			</td></tr> 
+			<tr>
+				<td>Program Studi <sup><font color="red">*)</font></sup></td><td> : </td>
+				<td>
+					<select name="prodi" class="form-control" required="">
+						<option value="">== Pilih Prodi ==</option>
+						<option value="Pendidikan Teknologi Informasi dan Komunikasi">Pendidikan Teknologi Informasi dan Komunikasi</option>
+						<option value="Pendidikan Teknik Mesin">Pendidikan Teknik Mesin</option>
+						<option value="Pendidikan Teknik Bangunan">Pendidikan Teknik Bangunan</option>
+					</select>
+				</td>
+			</tr> 
+			<tr>
+				<td>Alamat Rumah</td><td> : </td>
+				<td><textarea name="alamat" class="form-control" required="required"></textarea></td>
+			</tr> 
+			<tr>
+				<td>Email</td>
+				<td> : </td><td><input type="text" name="email" class="form-control" required="required" value=""></td>
+			</tr> 
+			<tr>
+				<td>No HP</td>
+				<td> : </td><td><input type="text" name="hp" class="form-control" required="required" value=""></td>
+			</tr> 
+			<tr>
+				<td colspan="3">
+					telah menyumbang buku untuk Ruang Baca Kampus UNS V Pabelan dengan :
+				</td>
+			</tr> 
+			<tr>
+				<td>Judul Buku</td>
+				<td> : </td><td><textarea name="judul" class="form-control" required="required"></textarea></td>
+			</tr> 
+			<tr>
+				<td>Pengarang</td>
+				<td> : </td><td><input type="text" name="pengarang" class="form-control" value="" required="required"></td>
+			</tr> 
+			<tr>
+				<td>Penerbit</td>
+				<td> : </td><td><input type="text" name="penerbit" class="form-control" value="" required="required"></td>
+			</tr> 
+			<tr>
+				<td>Tahun Terbit</td>
+				<td> : </td><td><input type="text" name="tahun_terbit" class="form-control" style="width: 100px;" value="" required="required"></td>
+			</tr> 
+			<tr>
+				<td>Kota Terbit</td>
+				<td> : </td><td><input type="text" name="kota_terbit" class="form-control" value="" required="required"></td>
+			</tr> 
+			<tr>
+				<td>Jumlah</td>
+				<td> : </td><td><input type="text" name="jumlah" class="form-control" style="width: 100px; float: left; margin-right: 20px;" value="" required="required"> eksemplar.</td>
+			</tr> 
+			<tr>
+				<td colspan="3" align="right">
+					<input type="submit" class="btn btn-primary" value="Simpan">
+					<input type="button" class="btn btn-default" onclick="goBack()" value="Batal">
+				</td>
+			</tr>
+		</tbody></table></br>

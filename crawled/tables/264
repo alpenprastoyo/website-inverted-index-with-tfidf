@@ -1,0 +1,304 @@
+<table id="tablepress-6" class="tablepress tablepress-id-6">
+<thead>
+<tr class="row-1 odd">
+	<th class="column-1">Jabatan</th><th class="column-2">Kualifikasi</th><th class="column-3">Jumlah Formasi</th>
+</tr>
+</thead>
+<tbody class="row-hover">
+<tr class="row-2 even">
+	<td class="column-1">Perawat Umum</td><td class="column-2">D3 Keperawatan / S1 Profesi Keperawatan (NERS)</td><td class="column-3">30</td>
+</tr>
+<tr class="row-3 odd">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-4 even">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-5 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat BLS/BTCLS</td><td class="column-3"></td>
+</tr>
+<tr class="row-6 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-7 odd">
+	<td class="column-1">Perawat Bedah</td><td class="column-2">D3 Keperawatan / S1 Profesi Keperawatan (NERS)</td><td class="column-3">2</td>
+</tr>
+<tr class="row-8 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-9 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-10 even">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat BLS/BTCLS</td><td class="column-3"></td>
+</tr>
+<tr class="row-11 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat Pelatihan Bedah</td><td class="column-3"></td>
+</tr>
+<tr class="row-12 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-13 odd">
+	<td class="column-1">Perawat Anestesi</td><td class="column-2">D3 Keperawatan / S1 Profesi Keperawatan (NERS)</td><td class="column-3">2</td>
+</tr>
+<tr class="row-14 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-15 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-16 even">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat BLS/BTCLS</td><td class="column-3"></td>
+</tr>
+<tr class="row-17 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat Pelatihan Anestesi</td><td class="column-3"></td>
+</tr>
+<tr class="row-18 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-19 odd">
+	<td class="column-1">Perawat Intensif-ICU</td><td class="column-2">D3 Keperawatan / S1 Profesi Keperawatan (NERS)</td><td class="column-3">15</td>
+</tr>
+<tr class="row-20 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-21 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-22 even">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat BTCLS</td><td class="column-3"></td>
+</tr>
+<tr class="row-23 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat Pelatihan Intensif</td><td class="column-3"></td>
+</tr>
+<tr class="row-24 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-25 odd">
+	<td class="column-1">Perawat Intensif<br>
+-HCU&nbsp;Neo</td><td class="column-2">D3 Keperawatan / S1 Profesi Keperawatan (NERS)</td><td class="column-3">4</td>
+</tr>
+<tr class="row-26 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-27 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-28 even">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat BLS/BTCLS</td><td class="column-3"></td>
+</tr>
+<tr class="row-29 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-30 even">
+	<td class="column-1">Bidan</td><td class="column-2">D3 Kebidanan</td><td class="column-3">1</td>
+</tr>
+<tr class="row-31 odd">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-32 even">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-33 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki sertifikat Asuhan Persalinan Normal (APN) yang masih berlaku</td><td class="column-3"></td>
+</tr>
+<tr class="row-34 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-35 odd">
+	<td class="column-1">Fisioterapis</td><td class="column-2">D3 Fisioterapis</td><td class="column-3">1</td>
+</tr>
+<tr class="row-36 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-37 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-38 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-39 odd">
+	<td class="column-1">Okupasi Terapis</td><td class="column-2">D3 Okupasi Terapi</td><td class="column-3">1</td>
+</tr>
+<tr class="row-40 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-41 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-42 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-43 odd">
+	<td class="column-1">Perekam Medis</td><td class="column-2">D3 Rekam Medis dan Informasi Kesehatan</td><td class="column-3">12</td>
+</tr>
+<tr class="row-44 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-45 odd">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-46 even">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-47 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-48 even">
+	<td class="column-1">Apoteker (FARKLIN)</td><td class="column-2">S1 Profesi Apoteker</td><td class="column-3">1</td>
+</tr>
+<tr class="row-49 odd">
+	<td class="column-1"></td><td class="column-2">S2 Farmasi Klinik</td><td class="column-3"></td>
+</tr>
+<tr class="row-50 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-51 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-52 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-53 odd">
+	<td class="column-1">Apoteker</td><td class="column-2">S1 Profesi Apoteker</td><td class="column-3">11</td>
+</tr>
+<tr class="row-54 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-55 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-56 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-57 odd">
+	<td class="column-1">Asisten Apoteker</td><td class="column-2">D3/S1 Farmasi</td><td class="column-3">30</td>
+</tr>
+<tr class="row-58 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-59 odd">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-60 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-61 odd">
+	<td class="column-1">Pengadministrasi<br>
+Gudang Farmasi</td><td class="column-2">S1 Farmasi</td><td class="column-3">1</td>
+</tr>
+<tr class="row-62 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-63 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-64 even">
+	<td class="column-1">Teknisi Elektromedis</td><td class="column-2">D3 Teknisi Elektromedis</td><td class="column-3">1</td>
+</tr>
+<tr class="row-65 odd">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-66 even">
+	<td class="column-1"></td><td class="column-2">Memiliki STR aktif minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-67 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun di Rumah Sakit</td><td class="column-3"></td>
+</tr>
+<tr class="row-68 even">
+	<td class="column-1">Pengadministrasi&nbsp;<br>
+Pengadaan</td><td class="column-2">D3 Teknik Sipil, S1 Ekonomi</td><td class="column-3">2</td>
+</tr>
+<tr class="row-69 odd">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-70 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-71 odd">
+	<td class="column-1">Pengadministrasi <br>
+Hukum</td><td class="column-2">S1 Ilmu Hukum/Hukum</td><td class="column-3">1</td>
+</tr>
+<tr class="row-72 even">
+	<td class="column-1"></td><td class="column-2">Lulusan Prodi dan Institusi Pendidikan terakreditasi minimal B</td><td class="column-3"></td>
+</tr>
+<tr class="row-73 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-74 even">
+	<td class="column-1">Pengadministrasi&nbsp;<br>
+Persuratan</td><td class="column-2">SMA/SMK/SMF Sederajat</td><td class="column-3">6</td>
+</tr>
+<tr class="row-75 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman kerja minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-76 even">
+	<td class="column-1">Pengemudi</td><td class="column-2">SMA/SMK Sederajat</td><td class="column-3">1</td>
+</tr>
+<tr class="row-77 odd">
+	<td class="column-1"></td><td class="column-2">Pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-78 even">
+	<td class="column-1"></td><td class="column-2">Memiliki SIM B</td><td class="column-3"></td>
+</tr>
+<tr class="row-79 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-80 even">
+	<td class="column-1">Pramu Bakti<br>
+(Asisten&nbsp;Perawat)</td><td class="column-2">SMK Keperawatan</td><td class="column-3">5</td>
+</tr>
+<tr class="row-81 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-82 even">
+	<td class="column-1">Pramu Bakti<br>
+(Listrik)</td><td class="column-2">SMK Listrik</td><td class="column-3">1</td>
+</tr>
+<tr class="row-83 odd">
+	<td class="column-1"></td><td class="column-2">Pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-84 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-85 odd">
+	<td class="column-1">Pramu Bakti<br>
+(CSSD)</td><td class="column-2">SMA/SMK Sederajat</td><td class="column-3">2</td>
+</tr>
+<tr class="row-86 even">
+	<td class="column-1"></td><td class="column-2">Pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-87 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-88 even">
+	<td class="column-1">Binatu Rumah Sakit</td><td class="column-2">SMA/SMK Sederajat</td><td class="column-3">1</td>
+</tr>
+<tr class="row-89 odd">
+	<td class="column-1"></td><td class="column-2">Pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-90 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-91 odd">
+	<td class="column-1">Pranata Jamuan<br>
+(Pramu Saji)</td><td class="column-2">SMA/SMK Sederajat</td><td class="column-3">1</td>
+</tr>
+<tr class="row-92 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-93 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+<tr class="row-94 even">
+	<td class="column-1">Pranata Jamuan<br>
+(Pemasak)</td><td class="column-2">SMK Boga</td><td class="column-3">1</td>
+</tr>
+<tr class="row-95 odd">
+	<td class="column-1"></td><td class="column-2">Diutamakan pria</td><td class="column-3"></td>
+</tr>
+<tr class="row-96 even">
+	<td class="column-1"></td><td class="column-2">Diutamakan memiliki pengalaman minimal 1 tahun</td><td class="column-3"></td>
+</tr>
+</tbody>
+</table></br>

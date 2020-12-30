@@ -1,0 +1,502 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Vol 3, No 2 (2019)</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/336/journalFavicon_en_US.ico" type="image/x-icon" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/leftSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/bothSidebars.css" type="text/css" /> -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                            
+                            
+	<link rel="alternate" type="application/atom+xml" title="EQUILIBRIUM Journal of Chemical Enginering (atom+xml)" href="https://jurnal.uns.ac.id/equilibrium/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="EQUILIBRIUM Journal of Chemical Enginering (rdf+xml)" href="https://jurnal.uns.ac.id/equilibrium/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="EQUILIBRIUM Journal of Chemical Enginering (rss+xml)" href="https://jurnal.uns.ac.id/equilibrium/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/equilibrium/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/equilibrium/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/336/pageHeaderTitleImage_en_US.jpg" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/equilibrium/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/equilibrium/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/equilibrium/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/equilibrium/issue/archive">Archives</a></li>
+                        
+                                            <li><a href="https://jurnal.uns.ac.id/equilibrium/statistics" target="_parent">Statistics</a></li>
+
+                                                                                
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/equilibrium/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/equilibrium/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/equilibrium/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/equilibrium/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/equilibrium/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/equilibrium/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/equilibrium/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="submitButton"><a href="https://jurnal.uns.ac.id/equilibrium/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/equilibrium/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/equilibrium/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                                                                                        <p>2622-3430 (Online)</p>
+                                                                                                                    </div>
+                                                                                                        <div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/equilibrium/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block custom" id="customblock-Tools-Right-Block">
+	<div id="leftmenu">
+<div id="customblock-Template" class="pkp_block block_custom">
+<div class="content">
+<p style="border: 1px solid #eceff5; background: black; color: white; padding: 10px; margin: 0px; text-align: left; line-height: 23px; font-size: 16px;">Tools</p>
+<p style="border: solid 0px #eceff5; background: white; padding: 15px; margin: 0; text-align: justify; line-height: 23px; color: white; font-size: 18px;"><a style="color: #113241; text-align: start; font-size: 14px;" title="Download Template" href="https://www.turnitin.com/" rel="noopener" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cf.shopee.co.id/file/045f17e291933110e0415bd8ed25aab7" alt="pasang" width="40%" height="40%" border="0" /></a></p>
+<p style="border: solid 0px #eceff5; background: white; padding: 15px; margin: 0; text-align: justify; line-height: 23px; color: white; font-size: 18px;"><a style="color: #113241; text-align: start; font-size: 14px;" title="Download Template" href="https://www.mendeley.com" rel="noopener" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cuvillier.de/sites/wp-content/uploads/mendelay-tool-cuvillier-verlag-2017.jpg" alt="pasang" width="40%" height="40%" border="0" /></a></p>
+<p style="border: solid 0px #eceff5; background: white; padding: 15px; margin: 0; text-align: justify; line-height: 23px; color: white; font-size: 18px;"><a style="color: #113241; text-align: start; font-size: 14px;" title="Download Template" href="https://www.grammarly.com/" rel="noopener" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://ojs.unsiq.ac.id/public/site/images/astina/logo-grammarly-11.png" alt="pasang" width="60%" height="60%" border="0" /></a></p>
+</div>
+</div>
+</div>
+</div>	 <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/equilibrium/notification">View</a></li>
+			<li><a href="https://jurnal.uns.ac.id/equilibrium/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+                                                </div>
+                                                                                                                                        <div id="leftSidebar" class="slide" role="complementary">
+                                                    <div class="block custom" id="customblock-Menu-Side-Bar">
+	<p style="border: 1px solid #eceff5; background: #019934; color: white; padding: 15px; margin: 0px; text-align: center; line-height: 23px; font-size: 18px;"><strong>ADDITIONAL MENU</strong></p>
+<div class="pkp_structure_sidebar left">
+<div id="customblock-menu" class="pkp_block block_custom">
+<div class="content">
+<div class="content">
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Author-Gudelines" target="_self">Author Guidelines</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Focus-Scope">Focus and Scope</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Publication%20Ethics" target="_self">Publication Ethics</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Peer%20Review%20Policy" target="_self">Peer Review Policy</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Publisher" target="_self">Publisher</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Copyright%20Notice" target="_self">Copyright Notice</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/about/editorialTeam" target="_self">Editorial Team</a></p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;">Reviewer</p>
+<p style="padding: 10px; border-bottom: 1px solid #aaa; background: #9DCA33; color: black;"><a href="/equilibrium/pages/view/Contact-Us" target="_self">Contact Us</a></p>
+</div>
+</div>
+</div>
+<div id="leftmenu">
+<div id="customblock-Template" class="pkp_block block_custom">
+<div class="content">
+<p style="border: 1px solid #eceff5; background: #019934; color: white; padding: 15px; margin: 0px; text-align: center; line-height: 23px; font-size: 18px;"><strong>TEMPLATE</strong></p>
+<p style="border: solid 1px #eceff5; background: #9DCA33; padding: 15px; margin: 0; text-align: justify; line-height: 23px; color: white; font-size: 18px;"><a style="color: #113241; text-align: start; font-size: 14px;" title="Download Template" href="https://drive.google.com/file/d/1H6CrU7jvwMNY9DVPacEib7ZXC_OFiCJt/view?usp=sharing" rel="noopener" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://i.picasion.com/pic85/dbd09c2646c2b371f45e0f1113760f55.gif" alt="pasang" width="100" height="100" border="0" /></a></p>
+</div>
+</div>
+</div>
+</div>
+<p style="border: 1px solid #eceff5; background: #019934; color: white; padding: 15px; margin: 0px; text-align: center; line-height: 23px; font-size: 18px;"><strong>FLAG COUNTER</strong></p>
+<p style="border: solid 1px #eceff5; background: #9DCA33; padding: 15px; margin: 0; text-align: center; line-height: 23px; color: white; font-size: 18px;"><a href="http://info.flagcounter.com/Wfos" target="_blank"><img src="http://s07.flagcounter.com/count2/Wfos/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Free counters!" border="0" /></a></p>
+<p style="border: 1px solid #eceff5; background: #019934; color: white; padding: 15px; margin: 0px; text-align: center; line-height: 23px; font-size: 18px;"><strong>STAT COUNTER</strong></p>
+<p style="border: solid 1px #eceff5; background: #9DCA33; padding: 15px; margin: 0; text-align: center; line-height: 23px; color: white; font-size: 18px;">&nbsp; <a title="site stats" href="https://statcounter.com/" target="_blank"><img src="https://c.statcounter.com/11191929/0/07651adf/0/" alt="Web Analytics" /></a></p>
+</div>	
+                                                </div>
+                                                                                    
+
+                                                                                    <div id="main" role="main" tabindex="-1">
+                                            
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/equilibrium/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/equilibrium/issue/archive" class="hierarchyLink">Archives</a> &#47;
+			<a href="https://jurnal.uns.ac.id/equilibrium/issue/view/3215" class="current">Vol 3, No 2 (2019)</a></div>
+
+                                                        <h2>Vol 3, No 2 (2019)</h2>
+
+                                                                                                                                                                <h3>Volume 3 No 2 December 2019</h3>
+                                                    
+                                                    <div id="content" >
+
+																							DOI: <a id="pub-id::doi" href="https://doi.org/10.20961/equilibrium.v3i2">https://doi.org/10.20961/equilibrium.v3i2</a>			<br />
+			<br />
+			
+	<div id="issueDescription" class="block"></div>
+		<h3 class="issue">Table of Contents</h3>
+	<h4 class="tocSectionTitle">Articles</h4>
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/equilibrium/article/view/42624">KOMPOSIT ZnO-CuO HASIL SINTESIS DENGAN METODE ELEKTROKIMIA SEBAGAI KATALIS FOTODEGRADASI METHYL ORANGE</a>
+					</div>
+		<div class="tocAuthors">
+												Adrian Nur,									Anis Yuliana Kusumaningrum,									Danang Bayu Prananda,									Tutut Ayu Kinasih									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/equilibrium.v3i2.42624">https://dx.doi.org/10.20961/equilibrium.v3i2.42624</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/equilibrium/article/view/42624/29398" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/equilibrium/article/view/43106">Spons dari Tepung Glukomanan dengan Penambahan Charcoal</a>
+					</div>
+		<div class="tocAuthors">
+												Novita Novita,									Nur Rahtiwi Anjarni,									Fadilah Fadilah									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/equilibrium.v3i2.43106">https://dx.doi.org/10.20961/equilibrium.v3i2.43106</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/equilibrium/article/view/43106/29399" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/equilibrium/article/view/42788">Review: Hidrolisis Lignoselulosa dari Agricultural Waste Sebagai Optimasi Produksi Fermentable Sugar</a>
+					</div>
+		<div class="tocAuthors">
+												Sutini Sutini,									Yohanita Restu Widihastuty,									Aida Nur Ramadhani									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/equilibrium.v3i2.42788">https://dx.doi.org/10.20961/equilibrium.v3i2.42788</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/equilibrium/article/view/42788/29400" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/equilibrium/article/view/42833">Review : Metode Sintesis Katoda LiFePO4 Baterai Lithium-Ion</a>
+					</div>
+		<div class="tocAuthors">
+												Moch Khabibul Adi Rachmanto,									Liliana Triatmajaning Wibowo,									Tika Paramitha									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/equilibrium.v3i2.42833">https://dx.doi.org/10.20961/equilibrium.v3i2.42833</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/equilibrium/article/view/42833/29401" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/equilibrium/article/view/43098">Lilin Aromaterapi dari Minyak Atsiri Kulit Jeruk Manis (Citrus sinensis)</a>
+					</div>
+		<div class="tocAuthors">
+												Defe Lestari,									Eva Vidayanti,									Arif Jumari									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/equilibrium.v3i2.43098">https://dx.doi.org/10.20961/equilibrium.v3i2.43098</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/equilibrium/article/view/43098/29402" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

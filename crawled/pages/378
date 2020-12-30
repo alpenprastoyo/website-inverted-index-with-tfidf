@@ -1,0 +1,1341 @@
+<!DOCTYPE html> <html lang="en-US"><head>
+	    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://lppmp.uns.ac.id/xmlrpc.php">
+    
+<title>L P P M P &#8211; Universitas Sebelas Maret</title>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1575119358883{background-color: #ededed !important;}.vc_custom_1584085629987{background-image: url(https://lppmp.uns.ac.id/wp-content/uploads/2019/11/bg-themes3.png?id=4737) !important;}.vc_custom_1583221833206{background-color: #f2f2f2 !important;}.vc_custom_1575991085830{background-image: url(https://lppmp.uns.ac.id/wp-content/uploads/2019/11/bg-themes3.png?id=4737) !important;}.vc_custom_1574994096339{background-color: #ededed !important;border-radius: 2px !important;}.vc_custom_1574994730768{border-radius: 2px !important;}.vc_custom_1580376046858{border-radius: 5px !important;}.vc_custom_1580376046858{border-radius: 5px !important;}</style><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="L P P M P &raquo; Feed" href="https://lppmp.uns.ac.id/index.php/feed/" />
+<link rel="alternate" type="text/calendar" title="L P P M P &raquo; iCal Feed" href="https://lppmp.uns.ac.id/index.php/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lppmp.uns.ac.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='touchcarousel-frontend-css-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/touchcarousel/touchcarousel/touchcarousel.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='touchcarousel-skin-three-d-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/touchcarousel/touchcarousel/three-d-skin/three-d-skin.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-event-aggregator-front-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/wp-event-aggregator/assets/css/wp-event-aggregator.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='university-hub-font-awesome-css'  href='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/third-party/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='university-hub-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%2C900%2C300italic%2C400italic%2C500italic%2C700italic%2C900italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-sidr-css'  href='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/third-party/sidr/css/jquery.sidr.dark.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='university-hub-style-css'  href='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/style.css?ver=5.3.6' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-featherlight-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/wp-featherlight/css/wp-featherlight.min.css?ver=1.3.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/touchcarousel/touchcarousel/jquery.touchcarousel.min.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='https://lppmp.uns.ac.id/index.php/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lppmp.uns.ac.id/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lppmp.uns.ac.id/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.6" />
+<link rel="canonical" href="https://lppmp.uns.ac.id/" />
+<link rel='shortlink' href='https://lppmp.uns.ac.id/' />
+<link rel="alternate" type="application/json+oembed" href="https://lppmp.uns.ac.id/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flppmp.uns.ac.id%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lppmp.uns.ac.id/index.php/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flppmp.uns.ac.id%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://lppmp.uns.ac.id"><link rel="https://theeventscalendar.com/" href="https://lppmp.uns.ac.id/index.php/wp-json/tribe/events/v1/" /><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+		<style type="text/css">
+		.touchcarousel.tc-layout-4 .touchcarousel-item {
+	width: 170px;
+	min-height: 170px;
+	margin-right: 5px;
+	position: relative;
+	overflow: hidden;
+	background: #ebf3f3;
+
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item p {
+	margin: 0;
+	padding: 0;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item a.tc-state {
+	display: block;
+	width: 170px;
+	min-height: 170px;
+	position: relative;
+	text-decoration: none;
+	color: #3e4245;
+	
+	-webkit-transition: color 0.2s ease-out; 
+    -moz-transition: color 0.2s ease-out;  
+    -ms-transition: color 0.2s ease-out; 
+    -o-transition: color 0.2s ease-out; 
+    transition: color 0.2s ease-out;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item img {
+	max-width: none;
+	border: 0;
+	margin: 0;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item img, 
+.touchcarousel.tc-layout-4 .touchcarousel-item h4,
+.touchcarousel.tc-layout-4 .touchcarousel-item span {
+	position: relative;
+	margin: 0;
+	padding: 0;	
+	border: 0;			
+}
+.touchcarousel.tc-layout-4 .tc-block {
+	margin: 0 4px 3px 8px
+}
+
+.touchcarousel.tc-layout-4 .touchcarousel-item h4 {
+	font-size: 14px;
+	line-height: 1.4em;
+	padding: 0;
+	text-decoration: none;
+	font-family: 'Helvetica Neue', Arial, serif;
+	
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item a.tc-state:hover {
+	color: #13937a;
+}
+.touchcarousel.tc-layout-4 .touchcarousel-item span {
+	font-size: 12px;
+	color: #666;
+}
+
+		</style>
+		<link rel="icon" href="https://lppmp.uns.ac.id/wp-content/uploads/2019/01/cropped-lppmp64-3-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://lppmp.uns.ac.id/wp-content/uploads/2019/01/cropped-lppmp64-3-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://lppmp.uns.ac.id/wp-content/uploads/2019/01/cropped-lppmp64-3-180x180.png" />
+<meta name="msapplication-TileImage" content="https://lppmp.uns.ac.id/wp-content/uploads/2019/01/cropped-lppmp64-3-270x270.png" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body class="home page-template-default page page-id-3643 wp-embed-responsive tribe-no-js wp-featherlight-captions group-blog global-layout-no-sidebar slider-disabled wpb-js-composer js-comp-ver-6.0.5 vc_responsive">
+
+	    <div id="page" class="hfeed site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>		<div class="mobile-nav-wrap">
+		<a id="mobile-trigger" href="#mob-menu"><i class="fa fa-bars"></i></a>
+		<div id="mob-menu">
+			<ul id="menu-menu-aktif" class="menu"><li id="menu-item-2703" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2703"><a href="http://lppmp.uns.ac.id/" aria-current="page">Home</a></li>
+<li id="menu-item-3902" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3902"><a href="https://lppmp.uns.ac.id/index.php/sample-page/">Tentang LPPMP</a>
+<ul class="sub-menu">
+	<li id="menu-item-2680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2680"><a href="https://lppmp.uns.ac.id/index.php/sample-page/">Profil</a></li>
+	<li id="menu-item-2686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2686"><a href="https://lppmp.uns.ac.id/index.php/staff/">Struktur Organisasi</a></li>
+	<li id="menu-item-3256" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3256"><a href="https://lppmp.uns.ac.id/index.php/pimpinan/">Pimpinan Lembaga</a></li>
+	<li id="menu-item-3951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3951"><a href="https://lppmp.uns.ac.id/index.php/kepala-pusat/">Kepala Pusat Pengembangan</a></li>
+	<li id="menu-item-3273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3273"><a href="https://lppmp.uns.ac.id/index.php/staff-2/">Tenaga Kependidikan</a></li>
+</ul>
+</li>
+<li id="menu-item-2681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2681"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/">Pusat Pengembangan</a>
+<ul class="sub-menu">
+	<li id="menu-item-2682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2682"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/pppmku/">PPPMKU</a></li>
+	<li id="menu-item-2685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2685"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/pptiup/">PPTIuP</a></li>
+	<li id="menu-item-2683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2683"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/ppkjm/">PPSMM</a></li>
+	<li id="menu-item-2684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2684"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/ppsp/">PPSP</a></li>
+</ul>
+</li>
+<li id="menu-item-2687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2687"><a href="https://lppmp.uns.ac.id/index.php/layanan/">Layanan</a></li>
+<li id="menu-item-2694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2694"><a href="https://lppmp.uns.ac.id/index.php/peraturan/">Peraturan</a>
+<ul class="sub-menu">
+	<li id="menu-item-2691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2691"><a href="https://lppmp.uns.ac.id/index.php/download/sk-rektor/">SK Rektor</a></li>
+</ul>
+</li>
+<li id="menu-item-2688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a href="https://lppmp.uns.ac.id/index.php/download/">Download</a></li>
+<li id="menu-item-5366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5366"><a href="https://lppmp.uns.ac.id/index.php/kontak/">Kontak</a></li>
+</ul>		</div><!-- #mob-menu -->
+					<a id="mobile-trigger2" href="#mob-menu2"><i class="fa fa-bars"></i></a>
+			<div id="mob-menu2">
+				<ul id="menu-hub-atas-kanan" class="menu"><li id="menu-item-4334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4334"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita Terkini</a></li>
+<li id="menu-item-5084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5084"><a href="https://lppmp.uns.ac.id/index.php/events/category/lppmp-event/">Agenda</a>
+<ul class="sub-menu">
+	<li id="menu-item-5091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5091"><a href="https://lppmp.uns.ac.id/index.php/lppmp-uns-timeline/">Timeline Schedule</a></li>
+</ul>
+</li>
+<li id="menu-item-4237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4237"><a href="https://lppmp.uns.ac.id/index.php/category/pengumuman/">Pengumuman</a></li>
+<li id="menu-item-4238" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4238"><a href="https://lppmp.uns.ac.id/" aria-current="page">Direktori</a>
+<ul class="sub-menu">
+	<li id="menu-item-4335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4335"><a href="https://siakad.uns.ac.id/">S I A K A D</a></li>
+	<li id="menu-item-4336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4336"><a href="http://lppmp.uns.ac.id/sipadu">S I P A D U</a></li>
+	<li id="menu-item-4337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4337"><a href="https://lppmp.uns.ac.id/informasi/">Informasi@lppmp.tv</a></li>
+	<li id="menu-item-4359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4359"><a href="https://spada.uns.ac.id/">S p a d a &#8211; UNS</a></li>
+	<li id="menu-item-5085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5085"><a href="https://akreditasi.uns.ac.id/">Sistem Informasi Akreditasi &#8211; UNS</a></li>
+</ul>
+</li>
+<li id="menu-item-4358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4358"><a href="https://uns.ac.id/id/">U N S</a></li>
+</ul>			</div><!-- #mob-menu2 -->
+
+				</div> <!-- .mobile-nav-wrap -->
+		
+    		<div id="tophead">
+			<div class="container">
+									<div class="top-news">
+						<span class="top-news-title">
+												Pengumuman :						</span>
+								<div id="news-ticker">
+			<div class="news-ticker-inner-wrap">
+									<div class="list">
+						<a href="https://lppmp.uns.ac.id/index.php/2020/03/16/surat-edaran-no-1480-un-27-hk-2020-tentang-covid-19-di-lingkungan-uns/">Surat Edaran No. 1480 / UN 27 / HK / 2020 , Tentang Covid 19 di Lingkungan UNS</a>
+					</div>
+									<div class="list">
+						<a href="https://lppmp.uns.ac.id/index.php/2020/03/03/agenda-kegiatan-lppmp-bulan-maret-2020/">Agenda Kegiatan LPPMP bulan Maret 2020</a>
+					</div>
+									<div class="list">
+						<a href="https://lppmp.uns.ac.id/index.php/2020/01/24/agenda-kegiatan-lppmp-bulan-januari-pebruari-2020/">Agenda Kegiatan LPPMP bulan Januari-Pebruari 2020</a>
+					</div>
+							</div> <!-- .news-ticker-inner-wrap -->
+		</div><!-- #news-ticker -->
+							</div> <!-- #top-news -->
+				
+				
+									<div id="top-nav">
+						<nav class="top-navigation"><ul id="menu-hub-atas-kanan-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4334"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita Terkini</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5084"><a href="https://lppmp.uns.ac.id/index.php/events/category/lppmp-event/">Agenda</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5091"><a href="https://lppmp.uns.ac.id/index.php/lppmp-uns-timeline/">Timeline Schedule</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4237"><a href="https://lppmp.uns.ac.id/index.php/category/pengumuman/">Pengumuman</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4238"><a href="https://lppmp.uns.ac.id/" aria-current="page">Direktori</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4335"><a href="https://siakad.uns.ac.id/">S I A K A D</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4336"><a href="http://lppmp.uns.ac.id/sipadu">S I P A D U</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4337"><a href="https://lppmp.uns.ac.id/informasi/">Informasi@lppmp.tv</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4359"><a href="https://spada.uns.ac.id/">S p a d a &#8211; UNS</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5085"><a href="https://akreditasi.uns.ac.id/">Sistem Informasi Akreditasi &#8211; UNS</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4358"><a href="https://uns.ac.id/id/">U N S</a></li>
+</ul></nav>					</div> <!-- #top-nav -->
+							</div> <!-- .container -->
+		</div><!--  #tophead -->
+		<header id="masthead" class="site-header" role="banner"><div class="container">			    <div class="site-branding">
+
+			
+													<div id="site-identity">
+																		<h1 class="site-title"><a href="https://lppmp.uns.ac.id/" rel="home">L P P M P</a></h1>
+																						<p class="site-description">Universitas Sebelas Maret</p>
+									</div><!-- #site-identity -->
+				    </div><!-- .site-branding -->
+	    		<div id="quick-contact">
+							<ul>
+											<li class="quick-call-info">
+							<a class="quick-call" href="tel:0271663485">0271-663485</a>
+							<a  class="quick-email" href="mailto:lppmp@mail.uns.ac.id">l&#112;pmp&#064;m&#097;i&#108;.u&#110;&#115;.&#097;c&#046;&#105;d</a>
+						</li>
+																<li class="quick-address-info">
+						<span class="main-address">Jalan Ir. Sutami Nomor 36A</span>
+						<span class="sub-address">Kentingan SURAKARTA 57126</span>
+						</li>
+									</ul>
+					</div><!-- #quick-contact -->
+
+	    <div id="main-nav">
+	        <nav id="site-navigation" class="main-navigation" role="navigation">
+	            <div class="wrap-menu-content">
+					<div class="menu-menu-aktif-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-2703"><a href="http://lppmp.uns.ac.id/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3902"><a href="https://lppmp.uns.ac.id/index.php/sample-page/">Tentang LPPMP</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2680"><a href="https://lppmp.uns.ac.id/index.php/sample-page/">Profil</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2686"><a href="https://lppmp.uns.ac.id/index.php/staff/">Struktur Organisasi</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3256"><a href="https://lppmp.uns.ac.id/index.php/pimpinan/">Pimpinan Lembaga</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3951"><a href="https://lppmp.uns.ac.id/index.php/kepala-pusat/">Kepala Pusat Pengembangan</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3273"><a href="https://lppmp.uns.ac.id/index.php/staff-2/">Tenaga Kependidikan</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2681"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/">Pusat Pengembangan</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2682"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/pppmku/">PPPMKU</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2685"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/pptiup/">PPTIuP</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2683"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/ppkjm/">PPSMM</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2684"><a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/ppsp/">PPSP</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2687"><a href="https://lppmp.uns.ac.id/index.php/layanan/">Layanan</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2694"><a href="https://lppmp.uns.ac.id/index.php/peraturan/">Peraturan</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2691"><a href="https://lppmp.uns.ac.id/index.php/download/sk-rektor/">SK Rektor</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2688"><a href="https://lppmp.uns.ac.id/index.php/download/">Download</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5366"><a href="https://lppmp.uns.ac.id/index.php/kontak/">Kontak</a></li>
+</ul></div>	            </div><!-- .menu-content -->
+	        </nav><!-- #site-navigation -->
+	        	        		        <div class="header-search-box">
+		        	<div class="search-box-wrap">
+	<form role="search" method="get" class="search-form" action="https://lppmp.uns.ac.id/">
+		<label>
+		<span class="screen-reader-text">Search for:</span>
+			<input class="search-field" placeholder="Search &hellip;" value="" name="s" type="search">
+		</label>
+		<input class="search-submit" value="&#xf002;" type="submit">
+	</form><!-- .search-form -->
+</div><!-- .search-box-wrap -->
+		        </div>
+        		    </div> <!-- #main-nav -->
+	        </div><!-- .container --></header><!-- #masthead -->
+	<div id="front-page-home-sections" class="widget-area"><!--jssor-slider-begin 27.5.0,3,full-width-slider.slider--><script src="/wp-content/uploads/jssor-slider/jssor.com/script/jssor.slider-27.5.0.min.js"></script><script>
+wp_jssor_3_slider_init = function() {
+
+var wp_jssor_3_options = {$AutoPlay:1,$SlideDuration:800,$SlideEasing:$Jease$.$OutQuint,$ArrowNavigatorOptions:{$Class:$JssorArrowNavigator$},$BulletNavigatorOptions:{$Class:$JssorBulletNavigator$}};
+
+var containerElement = document.getElementById("wp_jssor_3");
+containerElement.removeAttribute("id");
+wp_jssor_3_slider = new $JssorSlider$(containerElement, wp_jssor_3_options);
+
+/*responsive code begin*/
+var MAX_WIDTH = 3000;
+
+function ScaleSlider() {
+    var containerElement = wp_jssor_3_slider.$Elmt.parentNode;
+    var containerWidth = containerElement.clientWidth;
+
+    if (containerWidth) {
+
+        var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+
+        wp_jssor_3_slider.$ScaleWidth(expectedWidth);
+    }
+    else {
+        window.setTimeout(ScaleSlider, 30);
+    }
+}
+
+ScaleSlider();
+
+$Jssor$.$AddEvent(window, "load", ScaleSlider);
+$Jssor$.$AddEvent(window, "resize", ScaleSlider);
+$Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+/*responsive code end*/
+};
+</script><style>
+/* jssor slider loading skin spin css */
+.jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.jssorb032 {position:absolute;}
+.jssorb032 .i {position:absolute;cursor:pointer;}
+.jssorb032 .i .b {fill:#fff;fill-opacity:0.7;stroke:#000;stroke-width:1200;stroke-miterlimit:10;stroke-opacity:0.25;}
+.jssorb032 .i:hover .b {fill:#000;fill-opacity:.6;stroke:#fff;stroke-opacity:.35;}
+.jssorb032 .iav .b {fill:#000;fill-opacity:1;stroke:#fff;stroke-opacity:.35;}
+.jssorb032 .i.idn {opacity:.3;}
+.jssora051 {display:block;position:absolute;cursor:pointer;}
+.jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+.jssora051:hover {opacity:.8;}
+.jssora051.jssora051dn {opacity:.5;}
+.jssora051.jssora051ds {opacity:.3;pointer-events:none;}</style><div><div id="wp_jssor_3" class="wp_jssor_3" style="position:relative;margin:0 auto;top:0px;left:0px;width:1200px;height:400px;overflow:hidden;visibility:hidden;"><!-- Loading Screen -->
+<div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;">
+    <img src="/wp-content/uploads/jssor-slider/jssor.com/theme/svg/loading/static-svg/spin.svg" style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;"></div><div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1200px;height:400px;overflow:hidden;"><div data-fillmode="0"><img data-u="image" src="/wp-content/uploads/2020/02/e7085c76-aa36-4b36-8e2b-c8af25deb29b.jpg"></div><div data-fillmode="0"><img data-u="image" src="/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10.jpeg"></div><div data-fillmode="0"><img data-u="image" src="/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-23-at-14.16.12-1.jpeg"></div><div data-fillmode="0"><img data-u="image" src="/wp-content/uploads/2020/01/jsorsample.jpeg"></div></div><!-- Bullet Navigator -->
+<div data-u="navigator" class="jssorb032" style="position: absolute;bottom: 12px;right: 12px;" data-autocenter="1" data-scale="0.5" data-scale-right="0.75" data-scale-bottom="0.75">
+    <div data-u="prototype" class="i" style="width: 16px;height: 16px;">
+        <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;"><circle class="b" cx="8000" cy="8000" r="5800"></circle></svg></div>
+</div><!-- Arrow Navigator -->
+<div data-u="arrowleft" class="jssora051" style="left: 25px;top: 0px;width: 65px;height: 65px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75" data-scale-top="0.75">
+    <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;"><polyline class="a" points="11040,1920 4960,8000 11040,14080 "></polyline></svg></div>
+<div data-u="arrowright" class="jssora051" style="right: 25px;top: 0px;width: 65px;height: 65px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75" data-scale-top="0.75">
+    <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;"><polyline class="a" points="4960,1920 11040,8000 4960,14080 "></polyline></svg></div></div></div><script>wp_jssor_3_slider_init();</script><!--jssor-slider-end-->
+<div id="university-hub-call-to-action" class="home-section-call-to-action">
+	
+	<div class="container">
+
+		<div class="cta-content">
+			<h2 class="section-title">Tentang LPPMP</h2>
+			<div class="cta-content-text">
+				<p>Lembaga Pengembangan dan Penjaminan Mutu Pendidikan (LPPMP) secara resmi terbentuk sesuai dengan terbitnya Peraturan Menteri Pendidikan dan Kebudayaan RI Nomor 82 Tahun 2014 tentang Organisasi dan Tata Kerja Universitas Sebelas Maret pada tanggal 20 Agustus 2014 .</p>
+			</div><!-- .cta-content-text -->
+		</div><!-- .cta-content -->
+		<div class="cta-buttons">
+			<a href="https://lppmp.uns.ac.id/index.php/sample-page/" class="button cta-btn cta-btn-primary">Read More</a>
+			<a href="https://lppmp.uns.ac.id/index.php/pusat-pengembangan/" class="button cta-btn cta-btn-secondary">Learn More</a>
+		</div><!-- .cta-buttons -->
+	</div> <!-- .container -->
+</div><!-- .home-section-call-to-action -->
+
+<div id="latest-news" class="home-section-latest-news">
+	<div class="container">
+<br>
+<br>
+		<h2 class="section-title">Berita Terkini</h2>
+		
+					<div class="inner-wrapper latest-news-wrapper latest-news-col-3 latest-news-layout-1">
+									<div class="latest-news-item">
+						<div class="latest-news-inner-wrapper">
+							<div class="latest-news-thumb">
+																	<a href="https://lppmp.uns.ac.id/index.php/2020/11/09/pelatihan-pekerti-aa-poltekkes-isi-dan-d3-upw/"><img width="400" height="255" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-400x255.jpg" class="aligncenter wp-post-image" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-150x150@2x.jpg 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-380x242.jpg 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-400x255.jpg 400w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-500x319.jpg 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-300x191@2x.jpg 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-660x420.jpg 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-380x242@2x.jpg 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-768x489.jpg 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b-400x255@2x.jpg 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/11/n2b.jpg 857w" sizes="(max-width: 380px) 95vw,(max-width: 500px) 125vw,(max-width: 660px) 165vw,(max-width: 800px) 200vw,400px" /></a>
+																<div class="read-more-button">
+									<a class="more" href="https://lppmp.uns.ac.id/index.php/2020/11/09/pelatihan-pekerti-aa-poltekkes-isi-dan-d3-upw/">Learn More</a>
+								</div>
+							</div><!-- .latest-news-thumb -->
+							<div class="latest-news-text-wrap">
+								<h3 class="latest-news-title">
+									<a href="https://lppmp.uns.ac.id/index.php/2020/11/09/pelatihan-pekerti-aa-poltekkes-isi-dan-d3-upw/">Pelatihan Pekerti AA Poltekkes, ISI dan D3 UPW</a>
+								</h3><!-- .latest-news-title -->
+								<div class="latest-news-meta">
+									<span class="posted-on"><a href="https://lppmp.uns.ac.id/index.php/2020/11/09/pelatihan-pekerti-aa-poltekkes-isi-dan-d3-upw/">9 Nov 2020</a></span>
+									<span class="cat-links"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita</a></span>																	</div><!-- .latest-news-meta -->
+															</div><!-- .latest-news-text-wrap -->
+						</div> <!-- .latest-news-inner-wrap -->
+					</div><!-- .latest-news-item -->
+									<div class="latest-news-item">
+						<div class="latest-news-inner-wrapper">
+							<div class="latest-news-thumb">
+																	<a href="https://lppmp.uns.ac.id/index.php/2020/10/05/pembukaan-pelatihan-pekerti-aa-dosen-politeknik-negeri-semarang/"><img width="400" height="248" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-400x248.jpeg" class="aligncenter wp-post-image" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-150x150@2x.jpeg 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-380x236.jpeg 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-400x248.jpeg 400w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-500x310.jpeg 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-300x186@2x.jpeg 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-660x409.jpeg 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-380x236@2x.jpeg 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-768x476.jpeg 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2-400x248@2x.jpeg 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/10/crop2.jpeg 921w" sizes="(max-width: 380px) 95vw,(max-width: 500px) 125vw,(max-width: 660px) 165vw,(max-width: 800px) 200vw,400px" /></a>
+																<div class="read-more-button">
+									<a class="more" href="https://lppmp.uns.ac.id/index.php/2020/10/05/pembukaan-pelatihan-pekerti-aa-dosen-politeknik-negeri-semarang/">Learn More</a>
+								</div>
+							</div><!-- .latest-news-thumb -->
+							<div class="latest-news-text-wrap">
+								<h3 class="latest-news-title">
+									<a href="https://lppmp.uns.ac.id/index.php/2020/10/05/pembukaan-pelatihan-pekerti-aa-dosen-politeknik-negeri-semarang/">Pembukaan Pelatihan Pekerti AA dosen Politeknik Negeri Semarang</a>
+								</h3><!-- .latest-news-title -->
+								<div class="latest-news-meta">
+									<span class="posted-on"><a href="https://lppmp.uns.ac.id/index.php/2020/10/05/pembukaan-pelatihan-pekerti-aa-dosen-politeknik-negeri-semarang/">5 Oct 2020</a></span>
+									<span class="cat-links"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita</a></span>																	</div><!-- .latest-news-meta -->
+															</div><!-- .latest-news-text-wrap -->
+						</div> <!-- .latest-news-inner-wrap -->
+					</div><!-- .latest-news-item -->
+									<div class="latest-news-item">
+						<div class="latest-news-inner-wrapper">
+							<div class="latest-news-thumb">
+																	<a href="https://lppmp.uns.ac.id/index.php/2020/08/06/webinar-pelatihan-penulisan-bahan-ajar-berbasis-hasil-penelitian/"><img width="400" height="244" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-400x244.png" class="aligncenter wp-post-image" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-150x150@2x.png 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-380x232.png 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-400x244.png 400w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-500x305.png 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-300x183@2x.png 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-660x402.png 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-380x232@2x.png 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-768x468.png 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-400x244@2x.png 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-500x305@2x.png 1000w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-1024x624.png 1024w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-660x402@2x.png 1320w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar-768x468@2x.png 1536w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/penulisanbahanajar.png 1587w" sizes="(max-width: 380px) 95vw,(max-width: 500px) 125vw,(max-width: 660px) 165vw,(max-width: 800px) 200vw,400px" /></a>
+																<div class="read-more-button">
+									<a class="more" href="https://lppmp.uns.ac.id/index.php/2020/08/06/webinar-pelatihan-penulisan-bahan-ajar-berbasis-hasil-penelitian/">Learn More</a>
+								</div>
+							</div><!-- .latest-news-thumb -->
+							<div class="latest-news-text-wrap">
+								<h3 class="latest-news-title">
+									<a href="https://lppmp.uns.ac.id/index.php/2020/08/06/webinar-pelatihan-penulisan-bahan-ajar-berbasis-hasil-penelitian/">Webinar Pelatihan Penulisan Bahan Ajar Berbasis Hasil Penelitian</a>
+								</h3><!-- .latest-news-title -->
+								<div class="latest-news-meta">
+									<span class="posted-on"><a href="https://lppmp.uns.ac.id/index.php/2020/08/06/webinar-pelatihan-penulisan-bahan-ajar-berbasis-hasil-penelitian/">6 Aug 2020</a></span>
+									<span class="cat-links"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita</a></span>																	</div><!-- .latest-news-meta -->
+															</div><!-- .latest-news-text-wrap -->
+						</div> <!-- .latest-news-inner-wrap -->
+					</div><!-- .latest-news-item -->
+									<div class="latest-news-item">
+						<div class="latest-news-inner-wrapper">
+							<div class="latest-news-thumb">
+																	<a href="https://lppmp.uns.ac.id/index.php/2020/08/04/webinar-sosialisasi-tentang-panduan-pengembangan-kurikulum-perguruan-tinggi-dan-implementasi-merdeka-belajar-dan-kampus-merdeka-di-uns/"><img width="400" height="225" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-400x225.png" class="aligncenter wp-post-image" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-150x150@2x.png 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-380x214.png 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-400x225.png 400w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-500x281.png 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-300x169@2x.png 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-660x371.png 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-380x214@2x.png 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-768x432.png 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-400x225@2x.png 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-500x281@2x.png 1000w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-1024x576.png 1024w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2-660x371@2x.png 1320w, https://lppmp.uns.ac.id/wp-content/uploads/2020/08/KMMB2.png 1366w" sizes="(max-width: 380px) 95vw,(max-width: 500px) 125vw,(max-width: 660px) 165vw,(max-width: 800px) 200vw,400px" /></a>
+																<div class="read-more-button">
+									<a class="more" href="https://lppmp.uns.ac.id/index.php/2020/08/04/webinar-sosialisasi-tentang-panduan-pengembangan-kurikulum-perguruan-tinggi-dan-implementasi-merdeka-belajar-dan-kampus-merdeka-di-uns/">Learn More</a>
+								</div>
+							</div><!-- .latest-news-thumb -->
+							<div class="latest-news-text-wrap">
+								<h3 class="latest-news-title">
+									<a href="https://lppmp.uns.ac.id/index.php/2020/08/04/webinar-sosialisasi-tentang-panduan-pengembangan-kurikulum-perguruan-tinggi-dan-implementasi-merdeka-belajar-dan-kampus-merdeka-di-uns/">Webinar &#8220;Sosialisasi tentang Panduan Pengembangan Kurikulum Perguruan Tinggi, dan Implementasi Merdeka Belajar dan Kampus Merdeka di UNS&#8221;</a>
+								</h3><!-- .latest-news-title -->
+								<div class="latest-news-meta">
+									<span class="posted-on"><a href="https://lppmp.uns.ac.id/index.php/2020/08/04/webinar-sosialisasi-tentang-panduan-pengembangan-kurikulum-perguruan-tinggi-dan-implementasi-merdeka-belajar-dan-kampus-merdeka-di-uns/">4 Aug 2020</a></span>
+									<span class="cat-links"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita</a></span>																	</div><!-- .latest-news-meta -->
+															</div><!-- .latest-news-text-wrap -->
+						</div> <!-- .latest-news-inner-wrap -->
+					</div><!-- .latest-news-item -->
+									<div class="latest-news-item">
+						<div class="latest-news-inner-wrapper">
+							<div class="latest-news-thumb">
+																	<a href="https://lppmp.uns.ac.id/index.php/2020/07/01/webinari-sosialisasi-bkd-lkd-uns/"><img width="400" height="225" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-400x225.jpeg" class="aligncenter wp-post-image" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-150x150@2x.jpeg 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-380x214.jpeg 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-400x225.jpeg 400w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-500x281.jpeg 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-300x169@2x.jpeg 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-660x371.jpeg 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-380x214@2x.jpeg 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-768x432.jpeg 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-400x225@2x.jpeg 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-500x281@2x.jpeg 1000w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-1024x576.jpeg 1024w, https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15.jpeg 1280w" sizes="(max-width: 380px) 95vw,(max-width: 500px) 125vw,(max-width: 660px) 165vw,(max-width: 800px) 200vw,400px" /></a>
+																<div class="read-more-button">
+									<a class="more" href="https://lppmp.uns.ac.id/index.php/2020/07/01/webinari-sosialisasi-bkd-lkd-uns/">Learn More</a>
+								</div>
+							</div><!-- .latest-news-thumb -->
+							<div class="latest-news-text-wrap">
+								<h3 class="latest-news-title">
+									<a href="https://lppmp.uns.ac.id/index.php/2020/07/01/webinari-sosialisasi-bkd-lkd-uns/">Webinar Sosialisasi BKD LKD UNS</a>
+								</h3><!-- .latest-news-title -->
+								<div class="latest-news-meta">
+									<span class="posted-on"><a href="https://lppmp.uns.ac.id/index.php/2020/07/01/webinari-sosialisasi-bkd-lkd-uns/">1 Jul 2020</a></span>
+									<span class="cat-links"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita</a></span>																	</div><!-- .latest-news-meta -->
+															</div><!-- .latest-news-text-wrap -->
+						</div> <!-- .latest-news-inner-wrap -->
+					</div><!-- .latest-news-item -->
+									<div class="latest-news-item">
+						<div class="latest-news-inner-wrapper">
+							<div class="latest-news-thumb">
+																	<a href="https://lppmp.uns.ac.id/index.php/2020/06/08/sosialisasi-kampus-merdeka-dan-merdeka-belajar/"><img width="400" height="225" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-400x225.jpeg" class="aligncenter wp-post-image" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-150x150@2x.jpeg 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-380x214.jpeg 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-400x225.jpeg 400w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-500x281.jpeg 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-300x169@2x.jpeg 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-660x371.jpeg 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-380x214@2x.jpeg 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-768x432.jpeg 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-400x225@2x.jpeg 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-500x281@2x.jpeg 1000w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-1024x576.jpeg 1024w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10.jpeg 1280w" sizes="(max-width: 380px) 95vw,(max-width: 500px) 125vw,(max-width: 660px) 165vw,(max-width: 800px) 200vw,400px" /></a>
+																<div class="read-more-button">
+									<a class="more" href="https://lppmp.uns.ac.id/index.php/2020/06/08/sosialisasi-kampus-merdeka-dan-merdeka-belajar/">Learn More</a>
+								</div>
+							</div><!-- .latest-news-thumb -->
+							<div class="latest-news-text-wrap">
+								<h3 class="latest-news-title">
+									<a href="https://lppmp.uns.ac.id/index.php/2020/06/08/sosialisasi-kampus-merdeka-dan-merdeka-belajar/">Sosialisasi Kampus Merdeka dan Merdeka Belajar</a>
+								</h3><!-- .latest-news-title -->
+								<div class="latest-news-meta">
+									<span class="posted-on"><a href="https://lppmp.uns.ac.id/index.php/2020/06/08/sosialisasi-kampus-merdeka-dan-merdeka-belajar/">8 Jun 2020</a></span>
+									<span class="cat-links"><a href="https://lppmp.uns.ac.id/index.php/category/berita/">Berita</a></span>																	</div><!-- .latest-news-meta -->
+															</div><!-- .latest-news-text-wrap -->
+						</div> <!-- .latest-news-inner-wrap -->
+					</div><!-- .latest-news-item -->
+							</div><!-- .latest-news-wrapper -->
+			
+			</div><!-- .container -->
+</div><!-- .home-section-team -->
+</div><!-- #front-page-home-sections --><div id="content" class="site-content"><div class="container"><div class="inner-wrapper">    
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			
+				
+<article id="post-3643" class="post-3643 page type-page status-publish hentry">
+
+	<header class="entry-header">
+			</header><!-- .entry-header -->
+
+    	<div class="entry-content-wrapper">
+		<div class="entry-content">
+			<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-1 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_left vc_sep_color_orange vc_separator-has-text" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left"><div class="vc_icon_element-inner vc_icon_element-color-orange vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey" ><span class="vc_icon_element-icon vc-material vc-material-apps" ></span></div></div><h4>Kegiatan Visitasi Akreditasi</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div id="touchcarousel-1" class="touchcarousel three-d tc-layout-4" style="width:520px;  height:170px; ">
+	<ul class="touchcarousel-container">
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2020/01/03/visitasi-akreditasi-prodi-d4-kebidanan-sarjana-terapan-fakultas-kedokteran-universitas-sebelas-maret/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2020/01/d4bidan-1-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi D4 Kebidanan Fak Kedokteran</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/30/visitasi-akreditasi-prodi-d3-teknik-informatika-fakultas-fmipa/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-02-at-14.20.12-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi D3 Teknik Informatika</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/23/visitasi-akreditasi-prodi-s1-teknik-mesin-fakultas-teknik/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-02-at-13.09.18-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S1 Teknik Mesin</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/22/visitasi-akreditasi-prodi-s1-pendidikan-biologi-fakultas-keguruan-dan-ilmu-pendidikan/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-08-22-at-15.07.17-1-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S1 Pendidikan Biologi</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/15/visitasi-akreditasi-prodi-s2-teknik-sipil-fakultas-teknik-uns/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-08-15-at-08.47.36-e1568131624973-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi akreditasi Prodi S2 Teknik Sipil</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/13/visitasi-akreditasi-prodi-s2-ilmu-tanah-universitas-sebelas-maret/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-08-13-at-08.18.14-1-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S2 Ilmu Tanah</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/09/visitasi-akreditasi-prodi-s2-ppkn-pascasarjana-uns/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-08-09-at-08.28.59-1-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi akreditasi Prodi S2 PPKn</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/09/visitasi-akreditasi-prodi-s1-fisika-fakultas-mipa-universitas-sebelas-maret/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-08-09-at-08.25.19-e1568949808294-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S1 Fisika</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/05/visitasi-akreditasi-prodi-s3-ilmu-kedokteran-pascasarjana-universitas-sebelas-maret/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-08-08-at-10.40.03-2-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S3 Ilmu Kedokteran</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/08/02/visitasi-akreditasi-prodi-s3-ilmu-teknik-sipil/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/08/s3-sipil4-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S3 Ilmu Teknik Sipil</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/07/25/visitasi-akreditasi-s1-ilmu-teknologi-pangan/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/07/fp123-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi S1 Ilmu Teknologi Pangan</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/07/16/visitasi-akreditasi-s1-ekonomi-pembangunan/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/07/WhatsApp-Image-2019-07-16-at-14.29.45-1-170x120.jpeg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi S1 Ekonomi Pembangunan</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/07/16/visitasi-prodi-d2-tehnologi-hasil-pertanian-kabupaten-madiun/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/07/D2-THP-K-Kab-Madiun1-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Prodi D2-THP Madiun</h4>	
+	</div>
+</a>		</li>
+		<li class="touchcarousel-item">
+<a class="tc-state" href="https://lppmp.uns.ac.id/index.php/2019/07/09/visitasi-akreditasi-prodi-s1-pendidikan-kimia/">
+	<img src="https://lppmp.uns.ac.id/wp-content/uploads/2019/07/DSC0191-170x120.jpg" width="170" height="120" />
+	<div class="tc-block">
+		<h4>Visitasi Akreditasi Prodi S1 Pendidikan Kimia</h4>	
+	</div>
+</a>		</li>
+	</ul>
+</div><script type="text/javascript">
+jQuery(document).ready(function($) {$("#touchcarousel-1").touchCarousel({"snapToItems":true,"pagingNavControls":true,"itemsPerMove":1,"loopItems":true,"directionNav":true,"directionNavAutoHide":false,"autoplay":true,"autoplayDelay":3000,"autoplayStopAtAction":true,"keyboardNav":false,"dragUsingMouse":true,"transitionSpeed":400,"itemFallbackWidth":300,"scrollbar":true,"scrollbarAutoHide":true,"scrollbarTheme":"light"});});
+</script>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_left vc_sep_color_green vc_separator-has-text" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left"><div class="vc_icon_element-inner vc_icon_element-color-green vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey" ><span class="vc_icon_element-icon vc-material vc-material-apps" ></span></div></div><h4>Download Sertifikat Akreditasi</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<div class='white' style='background:#fafafa; border:solid 1px #f0f0f0; border-radius:5px; padding:8px 8px 8px 8px;'>
+<div id='sample_slider' class='owl-carousel sa_owl_theme owl-pagination-true autohide-arrows' data-slider-id='sample_slider' style='visibility:hidden;'>
+<div id='sample_slider_slide01' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#f4cccc; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://spmb.uns.ac.id/portofolio-riwayat/jenjang?jenjang=d' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3085 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-diploma-150x150.jpg" alt="" width="150" height="150" /></p></div>
+<div id='sample_slider_slide02' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#d9ead3; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://spmb.uns.ac.id/portofolio-riwayat/jenjang?jenjang=s1' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3090 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-sarjana-150x150.jpg" alt="" width="150" height="150" /></p></div>
+<div id='sample_slider_slide03' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#fce5cd; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://spmb.uns.ac.id/portofolio-riwayat/jenjang?jenjang=pr' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3089 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-profesi-150x150.jpg" alt="" width="150" height="150" /></p></div>
+<div id='sample_slider_slide04' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#d0e0e3; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://uns.ac.id/id/informasi-akademik/akreditasi-internasional' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3087 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-INTERNASIONAL-150x150.jpg" alt="" width="150" height="150" /></p></div>
+<div id='sample_slider_slide05' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#fff2cc; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://spmb.uns.ac.id/portofolio-riwayat/jenjang?jenjang=sp1' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3091 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-spesialis-150x150.jpg" alt="" width="150" height="150" /></p></div>
+<div id='sample_slider_slide06' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#cfe2f3; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://spmb.uns.ac.id/portofolio-riwayat/jenjang?jenjang=s2-s3' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3088 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-magister-150x150.jpg" alt="" width="150" height="150" /></p></div>
+<div id='sample_slider_slide07' class='sa_hover_container' style='padding:5% 5%; margin:0px 0%; background-color:#d9d2e9; '><div class='sa_hover_buttons' style='top:50%; left:50%; margin-top:-20px; margin-left:-20px;'><a class='sa_slide_link_icon' href='https://spmb.uns.ac.id/portofolio-riwayat/jenjang?jenjang=s2-s3' target='_blank'></a></div>
+<p style="text-align: center;"><img class="aligncenter wp-image-3086 size-thumbnail" src="http://lppmp.uns.ac.id/wp-content/uploads/2019/05/akreditasi-doktor-150x150.jpg" alt="" width="150" height="150" /></p></div>
+</div>
+</div>
+<script type='text/javascript'>
+	jQuery(document).ready(function() {
+		jQuery('#sample_slider').owlCarousel({
+			responsive:{
+				0:{ items:1 },
+				480:{ items:1 },
+				768:{ items:1 },
+				980:{ items:1 },
+				1200:{ items:4 },
+				1500:{ items:4 }
+			},
+			autoplay : true,
+			autoplayTimeout : 4000,
+			autoplayHoverPause : true,
+			smartSpeed : 300,
+			fluidSpeed : 300,
+			autoplaySpeed : 300,
+			navSpeed : 300,
+			dotsSpeed : 300,
+			loop : true,
+			nav : true,
+			navText : ['',''],
+			dots : true,
+			responsiveRefreshRate : 200,
+			slideBy : 1,
+			mergeFit : true,
+			autoHeight : false,
+			mouseDrag : true,
+			touchDrag : true
+		});
+		jQuery('#sample_slider').css('visibility', 'visible');
+		sa_resize_sample_slider();
+		window.addEventListener('resize', sa_resize_sample_slider);
+		function sa_resize_sample_slider() {
+			var min_height = '10';
+			var win_width = jQuery(window).width();
+			var slider_width = jQuery('#sample_slider').width();
+			if (win_width < 480) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 768) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 980) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 1200) {
+				var slide_width = slider_width / 1;
+			} else if (win_width < 1500) {
+				var slide_width = slider_width / 4;
+			} else {
+				var slide_width = slider_width / 4;
+			}
+			slide_width = Math.round(slide_width);
+			var slide_height = '0';
+			if (min_height == 'aspect43') {
+				slide_height = (slide_width / 4) * 3;				slide_height = Math.round(slide_height);
+			} else if (min_height == 'aspect169') {
+				slide_height = (slide_width / 16) * 9;				slide_height = Math.round(slide_height);
+			} else {
+				slide_height = (slide_width / 100) * min_height;				slide_height = Math.round(slide_height);
+			}
+			jQuery('#sample_slider .owl-item .sa_hover_container').css('min-height', slide_height+'px');
+		}
+	});
+</script>
+
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div data-vc-parallax="1.5" class="vc_row wpb_row vc_row-fluid vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_left vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_left vc_sep_color_blue vc_separator-has-text" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left"><div class="vc_icon_element-inner vc_icon_element-color-blue vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey" ><span class="vc_icon_element-icon vc-material vc-material-apps" ></span></div></div><h4>LPPMP Media</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="vc-hoverbox-wrapper  vc_custom_1580376046858 vc-hoverbox-shape--rounded vc-hoverbox-align--center vc-hoverbox-direction--default vc-hoverbox-width--90"  ontouchstart="">
+  <div class="vc-hoverbox">
+    <div class="vc-hoverbox-inner">
+      <div class="vc-hoverbox-block vc-hoverbox-front" style="background-image: url(https://lppmp.uns.ac.id/wp-content/uploads/2020/01/rps-logo-1.jpg);">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-front-inner">
+            <h2 style="text-align: center;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading" >Format RPS Terbaru Januari 2020</h2>
+        </div>
+      </div>
+      <div class="vc-hoverbox-block vc-hoverbox-back" style="background-color: #5aa1e3;">
+        <div class="vc-hoverbox-block-inner vc-hoverbox-back-inner">
+            <h2 style="text-align: center;font-family:Abril Fatface;font-weight:400;font-style:normal" class="vc_custom_heading" ><a href="https://lppmp.uns.ac.id/wp-content/uploads/2020/01/Form-RPS-yang-baru-2020.docx" title="Format RPS Terbaru Januari 2020">Download</a></h2>
+            <p><strong><span style="color: #ccffff;">Format RPS Terbaru Januari 2020</span></strong></p>
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_center vc_sep_color_grey" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div  class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<aside id="media_gallery-3" class="widget widget_media_gallery"><div id='gallery-1' class='gallery galleryid-3643 gallery-columns-6 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/07/WhatsApp-Image-2020-07-01-at-15.39.15-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/06/WhatsApp-Image-2020-06-25-at-06.50.10-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2.jpg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-150x150.jpg 150w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-150x150@2x.jpg 300w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-380x380.jpg 380w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-500x500.jpg 500w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-300x300@2x.jpg 600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-660x660.jpg 660w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-380x380@2x.jpg 760w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-768x768.jpg 768w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-800x800.jpg 800w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-500x500@2x.jpg 1000w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-1024x1024.jpg 1024w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-660x660@2x.jpg 1320w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-768x768@2x.jpg 1536w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-800x800@2x.jpg 1600w, https://lppmp.uns.ac.id/wp-content/uploads/2020/06/Webinar-Pak-Hassan-fix2-1024x1024@2x.jpg 2048w" sizes="(max-width: 380px) 253.33333333333vw,(max-width: 500px) 333.33333333333vw,(max-width: 660px) 440vw,(max-width: 800px) 533.33333333333vw,150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-13-at-20.26.13.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-13-at-20.26.13-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-13-at-15.07.38.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-13-at-15.07.38-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-11-at-12.07.40.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-11-at-12.07.40-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-06-at-08.13.38.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/03/WhatsApp-Image-2020-03-06-at-08.13.38-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/02/featured-2702.png'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/02/featured-2702-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/02/ws-assesor1.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/02/ws-assesor1-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/02/lkps-led.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/02/lkps-led-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/02/e7085c76-aa36-4b36-8e2b-c8af25deb29b.jpg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/02/e7085c76-aa36-4b36-8e2b-c8af25deb29b-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/01/bersama-1.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/01/bersama-1-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-13-at-23.08.54-e1578972519434.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2020/01/WhatsApp-Image-2020-01-13-at-23.08.54-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-11-at-10.19.15.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-11-at-10.19.15-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-02-at-14.16.16.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-02-at-14.16.16-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-28-at-19.39.33.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-28-at-19.39.33-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-27-at-02.19.30.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-27-at-02.19.30-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-10.09.11.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-10.09.11-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-10.09.11-65x65.jpeg 65w, https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-25-at-10.09.11-150x150.jpeg 150w" sizes="(max-width: 380px) 253.33333333333vw,(max-width: 500px) 333.33333333333vw,(max-width: 660px) 440vw,(max-width: 800px) 533.33333333333vw,150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/11/pekerti18nop2019.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/pekerti18nop2019-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/pekerti18nop2019-65x65.jpeg 65w, https://lppmp.uns.ac.id/wp-content/uploads/2019/11/pekerti18nop2019-150x150.jpeg 150w" sizes="(max-width: 380px) 253.33333333333vw,(max-width: 500px) 333.33333333333vw,(max-width: 660px) 440vw,(max-width: 800px) 533.33333333333vw,150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-05-at-09.49.50-1.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-05-at-09.49.50-1-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-05-at-09.49.50-1-65x65.jpeg 65w, https://lppmp.uns.ac.id/wp-content/uploads/2019/11/WhatsApp-Image-2019-11-05-at-09.49.50-1-150x150.jpeg 150w" sizes="(max-width: 380px) 253.33333333333vw,(max-width: 500px) 333.33333333333vw,(max-width: 660px) 440vw,(max-width: 800px) 533.33333333333vw,150px" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-23-at-14.16.12.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-23-at-14.16.12-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-22-at-09.47.52.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-22-at-09.47.52-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-21-at-11.25.48.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-21-at-11.25.48-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2018/12/WhatsApp-Image-2019-10-17-at-15.37.18.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2018/12/WhatsApp-Image-2019-10-17-at-15.37.18-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-09.51.20-2.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/10/WhatsApp-Image-2019-10-04-at-09.51.20-2-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-12-at-12.11.27-1-e1568680995770.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-12-at-12.11.27-1-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-23-at-09.31.18.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-23-at-09.31.18-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/05/WhatsApp-Image-2019-05-29-at-12.27.26-1.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/05/WhatsApp-Image-2019-05-29-at-12.27.26-1-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-02-at-14.20.12.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-02-at-14.20.12-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://lppmp.uns.ac.id/wp-content/uploads/2019/09/family-gathering-lppmp-010.jpeg'><img width="150" height="150" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/family-gathering-lppmp-010-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure>
+		</div>
+</aside>
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_center vc_sep_color_pink" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left"><div class="vc_icon_element-inner vc_icon_element-color-pink vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey" ><span class="vc_icon_element-icon vc-material vc-material-arrow_drop_down" ></span></div></div><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div  class="vc_wp_posts wpb_content_element">		<div class="widget widget_recent_entries">		<h2 class="widgettitle">Arsip Berita</h2>		<ul>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/11/09/pelatihan-pekerti-aa-poltekkes-isi-dan-d3-upw/">Pelatihan Pekerti AA Poltekkes, ISI dan D3 UPW</a>
+											<span class="post-date">November 9, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/10/05/pembukaan-pelatihan-pekerti-aa-dosen-politeknik-negeri-semarang/">Pembukaan Pelatihan Pekerti AA dosen Politeknik Negeri Semarang</a>
+											<span class="post-date">October 5, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/08/06/webinar-pelatihan-penulisan-bahan-ajar-berbasis-hasil-penelitian/">Webinar Pelatihan Penulisan Bahan Ajar Berbasis Hasil Penelitian</a>
+											<span class="post-date">August 6, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/08/04/webinar-sosialisasi-tentang-panduan-pengembangan-kurikulum-perguruan-tinggi-dan-implementasi-merdeka-belajar-dan-kampus-merdeka-di-uns/">Webinar &#8220;Sosialisasi tentang Panduan Pengembangan Kurikulum Perguruan Tinggi, dan Implementasi Merdeka Belajar dan Kampus Merdeka di UNS&#8221;</a>
+											<span class="post-date">August 4, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/07/01/webinari-sosialisasi-bkd-lkd-uns/">Webinar Sosialisasi BKD LKD UNS</a>
+											<span class="post-date">July 1, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/06/08/sosialisasi-kampus-merdeka-dan-merdeka-belajar/">Sosialisasi Kampus Merdeka dan Merdeka Belajar</a>
+											<span class="post-date">June 8, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/06/02/webinar-nasional-penjabaran-dan-implementasi-nilai-nilai-pancasila-di-era-pandemi-covid-19/">Penjabaran dan Implementasi Nilai-Nilai Pancasila Era Pandemi Covid 19</a>
+											<span class="post-date">June 2, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/03/16/surat-edaran-no-1480-un-27-hk-2020-tentang-covid-19-di-lingkungan-uns/">Surat Edaran No. 1480 / UN 27 / HK / 2020 , Tentang Covid 19 di Lingkungan UNS</a>
+											<span class="post-date">March 16, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/03/03/agenda-kegiatan-lppmp-bulan-maret-2020/">Agenda Kegiatan LPPMP bulan Maret 2020</a>
+											<span class="post-date">March 3, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/03/02/materi-lokakarya-nasional-standarisasi-pelatihan-peningkatan-kompetensi-pedagogi/">Materi  &#8220;Standarisasi Pelatihan Peningkatan Kompetensi Pedagogi&#8221;</a>
+											<span class="post-date">March 2, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/02/27/workshop-kreatifitas-dan-inovasi-rekonstruksi-rps-mku/">Workshop Kreatifitas dan Inovasi Rekonstruksi RPS MKU</a>
+											<span class="post-date">February 27, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/02/18/validasi-rps-semester-feb-jul-2020/">Validasi RPS Semester Februari-Juli 2020</a>
+											<span class="post-date">February 18, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/02/12/kegiatan-sosialisasi-petunjuk-validasi-data-pengajaran-semester-2018-genap-feb-juli-2019/">Sosialisasi &#038; Petunjuk Validasi Data Pengajaran (Feb-Juli 2019)</a>
+											<span class="post-date">February 12, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/02/10/penyamaan-persep-asesor-serdos-semester-1/">Penyamaan Persepsi Asesor Serdos Semester 1</a>
+											<span class="post-date">February 10, 2020</span>
+									</li>
+											<li>
+					<a href="https://lppmp.uns.ac.id/index.php/2020/02/07/materi-pelatihan-pendampingan-penyusunan-lkps-dan-led/">Materi &#8220;Pelatihan Pendampingan Penyusunan LKPS dan LED&#8221;</a>
+											<span class="post-date">February 7, 2020</span>
+									</li>
+					</ul>
+		</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_border_width_3 vc_sep_pos_align_center vc_sep_color_pink" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><div class="vc_icon_element vc_icon_element-outer vc_icon_element-align-left"><div class="vc_icon_element-inner vc_icon_element-color-pink vc_icon_element-size-md vc_icon_element-style- vc_icon_element-background-color-grey" ><span class="vc_icon_element-icon vc-material vc-material-arrow_drop_down" ></span></div></div><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div>
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://lppmp.uns.ac.id/index.php/events/category/lppmp-event/" target="_self" class="vc_single_image-wrapper vc_box_shadow_3d  vc_box_border_grey"><img class="vc_single_image-img " src="https://lppmp.uns.ac.id/wp-content/uploads/2020/02/agenda-lppmp-uns1-395x275.jpg" width="395" height="275" alt="Click to View Agenda Kegiatan LPPMP - UNS" title="Click to View Agenda Kegiatan LPPMP - UNS" /></a>
+		</figure>
+	</div>
+<div  class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<aside id="tribe-mini-calendar-5" class="widget tribe_mini_calendar_widget">
+<!-- Removing this wrapper class will break the calendar JavaScript, please avoid and extend as needed -->
+
+<div class="tribe-mini-calendar-wrapper">
+
+	<!-- Grid -->
+	
+<div class="tribe-mini-calendar-grid-wrapper">
+	<table class="tribe-mini-calendar"  data-count="5" data-eventDate="2020-12-01" data-tax-query="" data-nonce="830919616a">
+				<thead class="tribe-mini-calendar-nav">
+		<tr>
+			<td colspan="7">
+				<div>
+					<a class="tribe-mini-calendar-nav-link prev-month" href="#" data-month="2020-11-01" title="November"><span>&laquo;</span></a>					<span id="tribe-mini-calendar-month-0">December 2020</span>
+					<a class="tribe-mini-calendar-nav-link next-month" href="#" data-month="2021-01-01" title="January"><span>&raquo;</span></a>					<img id="ajax-loading-mini" src="https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="loading..." />
+				</div>
+			</td>
+		</tr>
+						<tr>
+							<th class="tribe-mini-calendar-dayofweek">M</th>
+							<th class="tribe-mini-calendar-dayofweek">T</th>
+							<th class="tribe-mini-calendar-dayofweek">W</th>
+							<th class="tribe-mini-calendar-dayofweek">T</th>
+							<th class="tribe-mini-calendar-dayofweek">F</th>
+							<th class="tribe-mini-calendar-dayofweek">S</th>
+							<th class="tribe-mini-calendar-dayofweek">S</th>
+			
+		</tr>
+		</thead>
+
+		<tbody>
+
+		<tr>
+									<td class="tribe-events-othermonth tribe-events-past mobile-trigger tribe-event-day-30">
+				
+
+
+	<div id="daynum-30-0">
+		<span class="tribe-mini-calendar-no-event">30</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-01">
+				
+
+
+	<div id="daynum-1-0">
+		<span class="tribe-mini-calendar-no-event">1</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-02">
+				
+
+
+	<div id="daynum-2-0">
+		<span class="tribe-mini-calendar-no-event">2</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-03">
+				
+
+
+	<div id="daynum-3-0">
+		<span class="tribe-mini-calendar-no-event">3</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-04 tribe-events-right">
+				
+
+
+	<div id="daynum-4-0">
+		<span class="tribe-mini-calendar-no-event">4</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-05 tribe-events-right">
+				
+
+
+	<div id="daynum-5-0">
+		<span class="tribe-mini-calendar-no-event">5</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-06 tribe-events-right">
+				
+
+
+	<div id="daynum-6-0">
+		<span class="tribe-mini-calendar-no-event">6</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-07">
+				
+
+
+	<div id="daynum-7-0">
+		<span class="tribe-mini-calendar-no-event">7</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-08">
+				
+
+
+	<div id="daynum-8-0">
+		<span class="tribe-mini-calendar-no-event">8</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-09">
+				
+
+
+	<div id="daynum-9-0">
+		<span class="tribe-mini-calendar-no-event">9</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-10">
+				
+
+
+	<div id="daynum-10-0">
+		<span class="tribe-mini-calendar-no-event">10</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-11 tribe-events-right">
+				
+
+
+	<div id="daynum-11-0">
+		<span class="tribe-mini-calendar-no-event">11</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-12 tribe-events-right">
+				
+
+
+	<div id="daynum-12-0">
+		<span class="tribe-mini-calendar-no-event">12</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-13 tribe-events-right">
+				
+
+
+	<div id="daynum-13-0">
+		<span class="tribe-mini-calendar-no-event">13</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-14">
+				
+
+
+	<div id="daynum-14-0">
+		<span class="tribe-mini-calendar-no-event">14</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-15">
+				
+
+
+	<div id="daynum-15-0">
+		<span class="tribe-mini-calendar-no-event">15</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-16">
+				
+
+
+	<div id="daynum-16-0">
+		<span class="tribe-mini-calendar-no-event">16</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-17">
+				
+
+
+	<div id="daynum-17-0">
+		<span class="tribe-mini-calendar-no-event">17</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-18 tribe-events-right">
+				
+
+
+	<div id="daynum-18-0">
+		<span class="tribe-mini-calendar-no-event">18</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-19 tribe-events-right">
+				
+
+
+	<div id="daynum-19-0">
+		<span class="tribe-mini-calendar-no-event">19</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-20 tribe-events-right">
+				
+
+
+	<div id="daynum-20-0">
+		<span class="tribe-mini-calendar-no-event">20</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-21">
+				
+
+
+	<div id="daynum-21-0">
+		<span class="tribe-mini-calendar-no-event">21</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-22">
+				
+
+
+	<div id="daynum-22-0">
+		<span class="tribe-mini-calendar-no-event">22</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-23">
+				
+
+
+	<div id="daynum-23-0">
+		<span class="tribe-mini-calendar-no-event">23</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-24">
+				
+
+
+	<div id="daynum-24-0">
+		<span class="tribe-mini-calendar-no-event">24</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-25 tribe-events-right">
+				
+
+
+	<div id="daynum-25-0">
+		<span class="tribe-mini-calendar-no-event">25</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-26 tribe-events-right">
+				
+
+
+	<div id="daynum-26-0">
+		<span class="tribe-mini-calendar-no-event">26</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-27 tribe-events-right">
+				
+
+
+	<div id="daynum-27-0">
+		<span class="tribe-mini-calendar-no-event">27</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-28">
+				
+
+
+	<div id="daynum-28-0">
+		<span class="tribe-mini-calendar-no-event">28</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-29">
+				
+
+
+	<div id="daynum-29-0">
+		<span class="tribe-mini-calendar-no-event">29</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-present mobile-trigger tribe-event-day-30">
+				
+
+
+	<div id="daynum-30-1">
+		<span class="tribe-mini-calendar-no-event">30</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-31">
+				
+
+
+	<div id="daynum-31-0">
+		<span class="tribe-mini-calendar-no-event">31</span>	</div>
+
+			</td>
+									<td class="tribe-events-othermonth tribe-events-future mobile-trigger tribe-event-day-01 tribe-events-right">
+				
+
+
+	<div id="daynum-1-1">
+		<span class="tribe-mini-calendar-no-event">1</span>	</div>
+
+			</td>
+									<td class="tribe-events-othermonth tribe-events-future mobile-trigger tribe-event-day-02 tribe-events-right">
+				
+
+
+	<div id="daynum-2-1">
+		<span class="tribe-mini-calendar-no-event">2</span>	</div>
+
+			</td>
+									<td class="tribe-events-othermonth tribe-events-future mobile-trigger tribe-event-day-03 tribe-events-right">
+				
+
+
+	<div id="daynum-3-1">
+		<span class="tribe-mini-calendar-no-event">3</span>	</div>
+
+			</td>
+					</tr>
+		</tbody>
+			</table>
+</div> <!-- .tribe-mini-calendar-grid-wrapper -->
+
+	<!-- List -->
+	
+<div class="tribe-mini-calendar-list-wrapper">
+	<div class="tribe-events-loop">
+
+		
+	</div><!-- .tribe-events-loop -->
+</div> <!-- .tribe-mini-calendar-list-wrapper -->
+
+</div>
+</aside>
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1584085629987 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_shadow vc_sep_border_width_3 vc_sep_pos_align_center vc_sep_color_white vc_separator-has-text" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><h4>Agenda Kegiatan LPPMP</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="vtcore timeline-main-wrapper timeline-skin timeline-simple" data-align="center" data-layout="horizontal" data-timeline="wrapper"><div class="vtcore timeline-bar" data-timeline="bar"></div><ul class="vtcore timeline clearfix" data-timeline="element"><li class="vtcore timeline-items" data-timeline="items" data-direction="center" data-type="major"><div class="vtcore timeline-major"><div class="vtcore timeline-major-wrapper">01 Januari 2020</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="top" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">12-13</span><span class="vtcore timeline-month">Maret</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-left"></i></span></div><h2 class="vtcore timeline-title">Benchmarking Tentang Internasionalisasi Akreditasi</h2><div class="vtcore timeline-content">Kantor Penjaminan Mutu 
+(Unair, ITS)
+</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="bottom" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">17</span><span class="vtcore timeline-month">Maret</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Koordinasi Akreditasi Program Studi Internasional (ASIIN) </h2><div class="vtcore timeline-content">Ruang Teleconference LPPMP UNS</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="top" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">27</span><span class="vtcore timeline-month">Maret</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-left"></i></span></div><h2 class="vtcore timeline-title">Penyusunan video model pembelajaran MKU berbasi Elearning</h2><div class="vtcore timeline-content">UNS - Inn , 08.30 wib - selesai</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="bottom" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">03</span><span class="vtcore timeline-month">Juni</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Webinar Nasional “Penjabaran dan Implementasi Nilai-Nilai Pancasila di Era Pandemi Covid 19”</h2><div class="vtcore timeline-content"></div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="top" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">08</span><span class="vtcore timeline-month">juni</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Sosialisasi Kampus Merdeka dan Merdeka Belajar</h2><div class="vtcore timeline-content">ZOOM Metting</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="bottom" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">01</span><span class="vtcore timeline-month">Juli</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Webinari Sosialisasi BKD LKD UNS</h2><div class="vtcore timeline-content">Zoom Metting</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="top" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">04</span><span class="vtcore timeline-month">Agustus</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Webinar “Sosialisasi tentang Panduan Pengembangan Kurikulum Perguruan Tinggi, dan Implementasi Merdeka Belajar dan Kampus Merdeka di UNS”</h2><div class="vtcore timeline-content">Zoom Metting</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="bottom" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">06</span><span class="vtcore timeline-month">Agustus</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Webinar Pelatihan Penulisan Bahan Ajar Berbasis Hasil Penelitian</h2><div class="vtcore timeline-content">Zoom Metting</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="top" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">05</span><span class="vtcore timeline-month">Oktober</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Pelatihan Pekerti AA dosen Politeknik Negeri Semarang</h2><div class="vtcore timeline-content">UNS Inn</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="bottom" data-type="event"><div class="vtcore timeline-events" data-timeline-content="normal"><time class="vtcore timeline-time clearfix"><span class="vtcore timeline-date">09</span><span class="vtcore timeline-month">Nopember</span><span class="vtcore timeline-year">2020</span></time><div class="vtcore faplus clearfix timeline-icon fa" data-timeline="icon"><span class="vtcore fa faplus-shape-circle"><i class="vtcore fa fa-angle-right"></i></span></div><h2 class="vtcore timeline-title">Pelatihan Pekerti AA Poltekkes, ISI dan D3 UPW</h2><div class="vtcore timeline-content">UNS Inn</div></div></li><li class="vtcore timeline-items" data-timeline="items" data-direction="center" data-type="end"><div class="vtcore timeline-end"><div class="vtcore timeline-end-wrapper">31 Desember 2020</div></div></li></ul></div></div></div></div></div>
+					</div><!-- .entry-content -->
+	</div><!-- .entry-content-wrapper -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+
+</div><!-- .inner-wrapper --></div><!-- .container --></div><!-- #content -->
+	<div  id="footer-widgets" ><div class="container"><div class="inner-wrapper"><div class="footer-active-4 footer-widget-area"><aside id="media_image-2" class="widget widget_media_image"><a href="https://siakad.uns.ac.id/"><img width="300" height="176" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-siakad-300x176.jpe" class="image wp-image-3840  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-siakad-300x176.jpe 300w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-siakad-400x235.jpe 400w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-siakad.jpe 653w" sizes="(max-width: 380px) 126.66666666667vw,(max-width: 500px) 166.66666666667vw,(max-width: 660px) 220vw,(max-width: 800px) 266.66666666667vw,300px" /></a></aside></div><!-- .footer-widget-area --><div class="footer-active-4 footer-widget-area"><aside id="media_image-4" class="widget widget_media_image"><a href="https://remunerasi.uns.ac.id/"><img width="300" height="177" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-remunerasi-300x177.jpe" class="image wp-image-3842  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-remunerasi-300x177.jpe 300w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-remunerasi-400x235.jpe 400w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-remunerasi.jpe 654w" sizes="(max-width: 380px) 126.66666666667vw,(max-width: 500px) 166.66666666667vw,(max-width: 660px) 220vw,(max-width: 800px) 266.66666666667vw,300px" /></a></aside></div><!-- .footer-widget-area --><div class="footer-active-4 footer-widget-area"><aside id="media_image-9" class="widget widget_media_image"><a href="https://simpeg.uns.ac.id/"><img width="300" height="176" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-simpeg-300x176.jpe" class="image wp-image-3841  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-simpeg-300x176.jpe 300w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-simpeg-400x234.jpe 400w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-simpeg.jpe 654w" sizes="(max-width: 380px) 126.66666666667vw,(max-width: 500px) 166.66666666667vw,(max-width: 660px) 220vw,(max-width: 800px) 266.66666666667vw,300px" /></a></aside></div><!-- .footer-widget-area --><div class="footer-active-4 footer-widget-area"><aside id="media_image-5" class="widget widget_media_image"><a href="https://iris1103.uns.ac.id/"><img width="300" height="176" src="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-pengabdian-300x176.jpg" class="image wp-image-3843  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-pengabdian-300x176.jpg 300w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-pengabdian-400x235.jpg 400w, https://lppmp.uns.ac.id/wp-content/uploads/2019/09/banner-pengabdian.jpg 654w" sizes="(max-width: 380px) 126.66666666667vw,(max-width: 500px) 166.66666666667vw,(max-width: 660px) 220vw,(max-width: 800px) 266.66666666667vw,300px" /></a></aside></div><!-- .footer-widget-area --></div><!-- .inner-wrapper --></div><!-- .container --></div><footer id="colophon" class="site-footer" role="contentinfo"><div class="container">    
+		<div class="colophon-inner">
+
+		    
+		    			    <div class="colophon-column">
+			    	<div class="copyright">
+			    		© 2018 - 2020  LPPMP Universitas Sebelas Maret 			    	</div><!-- .copyright -->
+			    </div><!-- .colophon-column -->
+		    
+		    
+		    			    <div class="colophon-column">
+			    	<div class="site-info">
+			    		University Hub by <a target="_blank" rel="designer" href="https://wenthemes.com/">WEN Themes</a>			    	</div><!-- .site-info -->
+			    </div><!-- .colophon-column -->
+		    
+		</div><!-- .colophon-inner -->
+
+	    	</div><!-- .container --></footer><!-- #colophon -->
+</div><!-- #page --><a href="#page" class="scrollup" id="btn-scrollup"><i class="fa fa-angle-up"></i></a>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='vc_material-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/js_composer/assets/css/lib/vc-material/vc_material.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel_css-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.css?ver=2.2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_theme_css-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/slide-anything/owl-carousel/sa-owl-theme.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_animate_css-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/slide-anything/owl-carousel/animate.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_google_fonts_abril_fatfaceregular-css'  href='https://fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&#038;ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='widget-calendar-pro-style-css'  href='https://lppmp.uns.ac.id/wp-content/plugins/events-calendar-pro/src/resources/css/widget-theme.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-custom-scrollbar-css-css'  href='//lppmp.uns.ac.id/wp-content/plugins/victheme_core/vtcore/assets/jquery-custom-scrollbar/css/jquery.custom-scrollbar.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='timeline-front-css-css'  href='//lppmp.uns.ac.id/wp-content/plugins/victheme_timeline/assets/timeline-front/css/timeline-front.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='timeline-skins-css-css'  href='//lppmp.uns.ac.id/wp-content/plugins/victheme_timeline/assets/timeline-skins/css/timeline-skins.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-min-css-css'  href='//lppmp.uns.ac.id/wp-content/plugins/victheme_core/vtcore/assets/font-awesome/css/font-awesome.min.css?ver=5.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-plus-css-css'  href='//lppmp.uns.ac.id/wp-content/plugins/victheme_core/vtcore/assets/font-awesome/css/fontawesome-plus.css?ver=5.3.6' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#main-nav","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/js/skip-link-focus-fix.min.js?ver=20130115'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/third-party/cycle2/js/jquery.cycle2.min.js?ver=2.1.6'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/third-party/sidr/js/jquery.sidr.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/third-party/ticker/jquery.easy-ticker.min.js?ver=2.0'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/themes/university-hub222/js/custom.min.js?ver=1.0.2'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/wp-featherlight/js/wpFeatherlight.pkgd.min.js?ver=1.3.0'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-includes/js/wp-embed.min.js?ver=5.3.6'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.5'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.min.js?ver=2.2.1'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=6.0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TribeMiniCalendar = {"ajaxurl":"https:\/\/lppmp.uns.ac.id\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/events-calendar-pro/src/resources/js/widget-calendar.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/vendor/jquery-resize/jquery.ba-resize.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/vendor/jquery-placeholder/jquery.placeholder.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/common/vendor/momentjs/moment.min.js?ver=4.10.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tribe_js_config = {"permalink_settings":"\/index.php\/%year%\/%monthnum%\/%day%\/%postname%\/","events_post_type":"tribe_events","events_base":"https:\/\/lppmp.uns.ac.id\/index.php\/events\/","update_urls":{"shortcode":{"list":true,"month":true,"day":true}},"debug":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events.min.js?ver=4.9.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var TribeCalendar = {"ajaxurl":"https:\/\/lppmp.uns.ac.id\/wp-admin\/admin-ajax.php","post_type":"tribe_events"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/src/resources/js/tribe-events-ajax-calendar.min.js?ver=4.9.14'></script>
+<script type='text/javascript' src='//lppmp.uns.ac.id/wp-content/plugins/victheme_core/vtcore/assets/jquery-custom-scrollbar/js/jquery.custom-scrollbar.js?ver=5.3.6'></script>
+<script type='text/javascript' src='//lppmp.uns.ac.id/wp-content/plugins/victheme_timeline/assets/timeline-front/js/timeline-front.js?ver=5.3.6'></script>
+</body>
+</html>

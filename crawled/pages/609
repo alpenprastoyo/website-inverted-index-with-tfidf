@@ -1,0 +1,801 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Karya Ilmiah Pendidikan UNS</title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="https://karyaku.uns.ac.id/Logo_UNS.jpeg" />
+    
+</head>
+<body>
+
+<div class="container-scroller">
+<!-- partial:partials/_navbar.html -->
+ <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="navbar-brand-wrapper d-flex justify-content-center">
+        <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">  
+        <a class="navbar-brand brand-logo" href="https://karyaku.uns.ac.id"><p>Karya Ilmiah Pendidikan</p></a>
+        <a class="navbar-brand brand-logo-mini" href="https://karyaku.uns.ac.id"><img src="https://karyaku.uns.ac.id/Logo_UNS.jpeg" alt="logo"/></a>
+          <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="mdi mdi-sort-variant"></span>
+          </button>
+        </div>  
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+      <!-- search -->
+      <ul class="navbar-nav mr-lg-4 w-100">
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                  
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+              </form>
+            </div>
+          </li>
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+              
+                <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+              </form>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <!-- message -->
+          <!-- <li class="nav-item dropdown mr-4">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="mdi mdi-bell mx-0"></i>
+              <span class="count"></span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-success">
+                    <i class="mdi mdi-information mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Application Error</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Just now
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-warning">
+                    <i class="mdi mdi-settings mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Settings</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Private message
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-info">
+                    <i class="mdi mdi-account-box mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">New user registration</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    2 days ago
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li> -->
+         
+                    
+                        
+                  	
+          		
+                    <li class="nav-item nav-profile dropdown">
+               <!-- <a class="btn btn-inverse-primary" href="https://karyaku.uns.ac.id/karyaku-login"> Login </a> -->
+              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
+              <!-- <img src="https://karyaku.uns.ac.id/profil.jpg" alt="profile"/> -->
+              <span class="nav-profile-name">Login</span>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/login-karyaku">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login Karyaku
+                </a>
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/karyaku-old/sso/saml-login.php">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login SSO
+                </a> 
+              
+              </div>
+          </li>
+                  </ul>
+  	<button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="modal" data-target="#exampleModal1">
+          <span class="mdi mdi-magnify"></span>
+        </button>
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+          <span class="mdi mdi-menu"></span>
+        </button>
+      </div>
+    </nav>
+
+
+ <!-- Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Pencarian</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+          </form>
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+            
+            <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+          </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>    
+ <!-- partial -->
+ <div class="container-fluid page-body-wrapper">
+    <!-- partial:partials/_sidebar.html -->
+      <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+                           
+                                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#sidebar13" aria-expanded="false" aria-controls="ui-basic">
+                      <i class="mdi mdi-account menu-icon"></i>
+                      <span class="menu-title">Data Dosen</span>
+                      <i class="menu-arrow"></i>
+                    </a>
+                    <div class="collapse" id="sidebar13">
+                      <ul class="nav flex-column sub-menu">
+                                                                        <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/guru-besar">Guru Besar</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/doktor">Doktor</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/magister">Magister</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/spesialis">Spesialis</a></li>
+                                                                      </ul>
+                    </div>
+                  </li>
+                
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/pohon-harapan">
+                          <i class="mdi mdi-pine-tree menu-icon"></i>
+                          <span class="menu-title">Pohon Harapan</span>
+                        </a>
+                      </li>
+               
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/bantuan">
+                          <i class="mdi mdi-help-circle-outline menu-icon"></i>
+                          <span class="menu-title">Bantuan</span>
+                        </a>
+                      </li>
+               
+                
+                    
+         
+        
+        
+        </ul>
+      </nav>
+      <!-- partial -->
+    <div class="main-panel">
+    
+        <div class="content-wrapper">
+         
+          <div class="row">
+          <div class="col-md-12 stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <!-- <p class="card-title">Home Karyaku</p> -->
+                  <p class="card-description">
+                                              </p>
+                    <div class="row align-items-start">
+                        <div class="col-md-6 row">
+                           <div class="col-md-12 row justify-content-center">
+                                <img src="https://simpeg.uns.ac.id/uploads/foto/2019/06/bqWy0qtuf8pyOQpfOq3gHmX6vpjwZJhz.jpg" class="rounded-circle col-md-3" style="width: 100px;height:100px;" alt="image"/>
+                                <p class="col-md-auto align-self-center mt-3">Prof. Dr. ARIS SUDIYANTO, dr., Sp.KJ(K).</p>
+                           </div>
+                                                   
+                           <div class="col-md-12 table-responsive mt-3">
+                          
+                           <table class="table table-striped">
+                            <tbody>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    NIP
+                                </td>
+                                <td>
+                                    195001311976031001
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Jabatan Fungsional
+                                </td>
+                                <td>
+                                    Guru Besar
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Fakultas
+                                </td>
+                                <td>
+                                    Fakultas Kedokteran
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Program Studi
+                                </td>
+                                <td>
+                                    PPDS Ilmu Pendidikan Jiwa (Psikiatri)
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Tempat/Tanggal Lahir
+                                </td>
+                                <td>
+                                    PURWOREJO / 1950-01-31
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Web Blog
+                                </td>
+                                <td>
+                                    <a href="https://civitas.uns.ac.id">https://civitas.uns.ac.id</a>
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Bidang Keahlian
+                                </td>
+                                <td>
+                                    Ilmu Kedokteran Jiwa
+                                </td>
+                                </tr>
+                            </tbody>
+                            </table>
+                           </div>
+
+                            <div class="col-md-12">
+                                <hr />
+                            </div>
+
+                                                        
+                           <div class="col-md-12 mt-3">
+                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav1" aria-selected="true" aria-controls="#nav1">
+                                        Pendidikan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav2" aria-selected="false" aria-controls="#nav2">
+                                            Jabatan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav3" aria-selected="false" aria-controls="#nav3">
+                                            Penghargaan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav4" aria-selected="false" aria-controls="#nav4">
+                                            Organisasi
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav1" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Riwayat Pendidikan</p>
+                                        <ol>
+                                                                                                                                            <li class="font-weight-bold small">dr Kedokteran Umum , Universitas Gadjah Mada , 1975</li>
+                                                                                                <li class="font-weight-bold small">Sp.KJ Kedokteran Jiwa , Universitas Gadjah Mada , 1988</li>
+                                                                                                <li class="font-weight-bold small">Doktor Kesehatan Program Studi Ilmu  , Universitas Gadjah Mada , 1998</li>
+                                                                                                                                                                                        <li class="font-weight-bold small">S3 ILMU KEDOKTERAN , Universitas Gadjah Mada Tanggal Ijasah 1998-12-05</li>
+                                                                                            <li class="font-weight-bold small">Sp-1 PSIKIATRI , Universitas Gadjah Mada Tanggal Ijasah 1988-04-12</li>
+                                                                                            <li class="font-weight-bold small">S1 KEDOKTERAN , Universitas Gadjah Mada Tanggal Ijasah 1975-11-21</li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav2" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                        <p class="mt-3 text-center">Riwayat Jabatan Fungsional</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Guru Besar ( GURU BESAR MADYA/GB-850 ) SK : 8694/A2.7/KP/2003 TMT SK 2003-02-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor Kepala ( LEKTOR KEPALA MADYA/LK-550 ) SK : 25310/A2.III.I/KP/2001 TMT SK 2001-01-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor Kepala ( LEKTOR/LEKTOR KEPALA-400 ) SK : 78914/A2.IV.I/C/1988 TMT SK 1988-04-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MADYA/LEKTOR-300 ) SK : 5533/PT40/G/1983 TMT SK 1983-04-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MUDA/LEKTOR-200 ) SK : 5722/G/1981 TMT SK 1981-04-01</li>
+                                                                                            <li class="font-weight-bold small">Asisten Ahli ( ASISTEN AHLI/AA-150 ) SK : 697/PT40/KP/C/1979 TMT SK 1978-10-01</li>
+                                                                                            <li class="font-weight-bold small">Asisten Ahli ( ASISTEN AHLI MADYA/AA-100 ) SK : 489/P3/501/1977 TMT SK 1977-04-01</li>
+                                                                                      
+                                        </ol> 
+                                                                                    <p class="mt-3 text-center">Riwayat Jabatan Kelola</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Studi Spesialis/PPDS ( Kepala Program Studi PPDS Psikiatri ) SK : 5132/UN27/KP/2019 TGL 2019-05-29 s.d 2020-08-31</li>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Studi Spesialis/PPDS ( Kepala Program Studi PPDS Psikiatri ) SK : 5776/un27/kp/2015 TGL 2015-01-05 s.d 2019-12-31</li>
+                                                                                                    <li class="font-weight-bold small">KETUA PROGRAM STUDI ( KETUA PROGRAM ) SK : 5776/UN27/LP/2015 TGL 2015-06-18 s.d 2015-06-18</li>
+                                                                                                    <li class="font-weight-bold small">KETUA PROGRAM STUDI ( KETUA PROGRAM ) SK : 296A/UN27/KP/2011 TGL 2011-06-16 s.d 2016-06-16</li>
+                                                                                            
+                                            </ol> 
+                                                                                                                            <p class="mt-3 text-center">Riwayat Jabatan Lain</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Plt. Kepala  , Program Studi PPDS Psikiatri (Ilmu Kedokteran Jiwa) FK UNS 2015</li>
+                                                                                                    <li class="font-weight-bold small">Sekretaris  , Senat Universitas 2003-Nopember 2011</li>
+                                                                                                    <li class="font-weight-bold small">Asisten Direktur I  , Program Pascasarjana UNS Surakarta  1999-sekarang</li>
+                                                                                                    <li class="font-weight-bold small">Staf Pengajar  , Diklat RSJ Pusat Surakarta,  1998</li>
+                                                                                                    <li class="font-weight-bold small">Staf Pengajar  , Ilmu Kedokteran Jiwa FK UNS Surakarta 1982</li>
+                                                                                                    <li class="font-weight-bold small">Kepala  , Bagian Ilmu Kesehatan Masyarakat FK UNS Surakarta  1980-1982</li>
+                                                                                                    <li class="font-weight-bold small">Pembantu Dekan II  , FK UNS Surakarta  1977-1980</li>
+                                                                                                    <li class="font-weight-bold small">Staf Pengajar ,  Ilmu Kesehatan Masyarakat FK UNS Surakarta 1975-1982</li>
+                                                                                                    <li class="font-weight-bold small">Ketua  , Prodi Psikiatri </li>
+                                                                                                    <li class="font-weight-bold small">Kepala  , Pusat Studi Pemberdayaan Keluarga (Pusdidaga) LPPM-UNS </li>
+                                                                                            
+                                            </ol> 
+                                                                            </div>
+                                    <div class="tab-pane fade" id="nav3" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Penghargaan</p>
+                                        <ol>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav4" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Organisasi</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Pengurus  dari IDI Cabang Surakarta. , </li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                </div>
+                           </div>
+                           
+                            <!-- tambah content di col1 -->
+                        </div> <!-- ini col1 -->
+
+                        <div class="col-md-6">
+                                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav11" aria-selected="true" aria-controls="#nav11">
+                                            Karya Ilmiah
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav22" aria-selected="false" aria-controls="#nav22">
+                                            Publikasi Essai
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav33" aria-selected="false" aria-controls="#nav33">
+                                            Publikasi Jurnal
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav44" aria-selected="false" aria-controls="#nav44">
+                                            Publikasi Buku
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav55" aria-selected="false" aria-controls="#nav55">
+                                            Penelitian
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav66" aria-selected="false" aria-controls="#nav66">
+                                            Pengabdian
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav11" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Karya Ilmiah</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Penyelenggaraan Perguruan Tinggi yang Demokratis, Akuntabel, dan Bermutu, Seminar Nasional Demokratisasi Kampus, Surakarta  , 2003
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Somatisasi pada Depresi, disampaikan pada Pendidikan Dokter Berkelanjutan, FK UNS Surakarta  , 2002
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Gangguan Perkembangan Anak Autisme: Diagnosis dan Penatalaksanaannya, Seminar Sehari Anak Autisme, RS Dr. Oen Surakarta  , 2001
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Kiat Hidup Sehat di Tanah Suci, disampaikan pada Pengajian Ikatan Persaudaraan Haji Bimbingan Aisyah Surakarta  , 2001
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Aspek Klinik Depresi, dipresentasikan pada Pertemuan Klinik RS PKU Muhammadiyah Surakarta, 2000  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Komorbiditas Depresi, disampaikan pada RTD di Quality Hotel Surakarta, 2000  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Remaja dan Problematikanya ditinjau dari Aspek Kesehatan Jiwa, disampaikan pada Seminar Nasional Problematika Remaja di Semarang, 2000  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Problema Perempuan dan Pengaruhnya terhadap Gangguan Fisik dan Psikologis, disampaikan  Seminar Nasional Problema Perempuan, LPM UNS Surakarta  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Model Proses Belajar-Mengajar yang Efektif di Program Pascasarjana, disampaikan pada Diskusi Panel Pengelolaan PBM PPs UNS Surakarta  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Aspek Klinik Depresi, dipresentasikan pada Pertemuan Klinik RS PKU Muhammadiyah Surakarta  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Komorbiditas Depresi, disampaikan pada RTD di Quality Hotel Surakarta  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Remaja dan Problematikanya ditinjau dari Aspek Kesehatan Jiwa, disampaikan pada Seminar Nasional Problematika Remaja di Semarang  , 2000
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Perbandingan Keefektifan Psikoterapi dan Farmakoterapi dalam Pengobatan Gangguan Anxietas, Pertemuan Ilmiah Nasional Dua tahunan IDAJI, Surakarta  , 1999
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Pengaruh Kejiwaan terhadap Disfungsi Seksual, disampaikan pada Peringatan Hari Kesehatan Nasional, Sukoharjo, 1999  , 1999
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Penyalahgunaan Narkoba di Kalangan Remaja, disampaikan pada Ceramah Kesehatan Jiwa Masyarakat di Sragen  , 1999
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Evaluasi Kemampuan Afektif, disampaikan pada Lokakarya Evaluasi Pendidikan FK UNS Surakarta  , 1999
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                    </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav22" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Essai</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aspek Klinik Gangguan Anxietas. National Awareness Anxiety Program. Surakarta, 2000<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengalaman Klinis Pengobatan Anxietas dengan Alprazolam. National Medical Representative Meeting. Yogyakarta, 1999<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Kesejahteraan Terhadap Keintiman Keluarga. Unit Psikiatri FK UNS Surakarta, 1998<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Pendidikan Kesehatan Jiwa Keluarga terhadap Kekambuhan Penderita Gangguan Afektif Berat. Penelitian Mandiri. dipublikasikan di Majalah Ilmiah Psikiatri Jiwa: 33 (4) tahun 2000, 1998<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Kesejahteraan Terhadap Keintiman Keluarga. Unit Psikiatri FK UNS Surakarta, 1998<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Sumarni, Aris Sudiyanto dan Soemarno. Uji Validitas dan Reliabilitas Instrumen  Keintiman Remaja-Orang Tua pada Pelajar Kelas H SMA Negeri V Yogyakarta. Profil Saraf dan Jiwa: No. 1. Juli. Yayasan Jiwa Binangun, 1992<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aris Sudiyanto dan Muchlas, M. Pengaruh Stresor Psikososial Keluarga Terhadap Kekambuhan Penderita Gangguan Afektif Berat. Kongres IDAJI-II. Yogyakarta, 1992<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aris Sudiyanto dan Muchlas, M. Pengaruh Stresor Psikososial Keluarga Terhadap Kekambuhan Penderita Gangguan Afektif Berat. Kongres IDAJI-II. Yogyakarta, 1992<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Muchlas, M. dan Aris Sudiyanto. The Role of Family Intimacy on Mental Health Among Family Mental Course Partisipants in Surakarta-Indonesia. Majalah Jiwa: 24 (I), 1991<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Muchlas, M. dan Aris Sudiyanto. The Role of Family Intimacy on Mental Health Among Family Mental Course Partisipants in Surakarta-Indonesia. Majalah Jiwa: 24 (I), 1991<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aris Sudiyanto, Sumarni dan Soemarno. Pengaruh Ketidakintiman  Orang Tua Terhadap Perlakuan Salah pada Anak di antara  Peserta Kursus Kesehatan Jiwa Keluarga Surakarta. Kongres Nasional IDAJI di Semarang, 1986<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Uji Validitas dan Reliabilitas Skala Keintiman Perkawinan pada Ibu-ibu Peserta Kursus Kesehatan Jiwa di Surakarta. Unit Psikiatri FK UNS Surakarta, 1986<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Uji Validitas dan Reliabilitas Skala Keintiman Perkawinan pada Ibu-ibu Peserta Kursus Kesehatan Jiwa di Surakarta. Unit Psikiatri FK UNS Surakarta, 1986<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav33" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Jurnal</p>
+                                        <ol>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav44" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Buku</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengalaman Klinis Pengobatan Anxietas dengan Kava Pyrones dan Alprazolam, RSJ Surakarta, , 2003
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Ilmu Kedokteran Jiwa Keluarga. , Tinjauan Pustaka, Laboratorium/Unit Psikiatri FK UNS/RSDM Surakarta, 2003
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pencegahan Kekambuhan Penderita Gangguan Afektif Berat dalam Keluarga, Laboratorium/ Unit Psikiatri FK UNS, Surakarta, , 1991
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pencegahan Kekambuhan Penderita Gangguan Afektif Berat dalam Keluarga, Laboratorium/ Unit Psikiatri FK UNS, Surakarta , 1991
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pencegahan Kekambuhan Penderita Gangguan Afektif Berat dalam Keluarga, Laboratorium/ Unit Psikiatri FK UNS, , 1991
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Validasi Skala Pengamatan Psikiatrik Ringkas dan Angka Remisi Psikolis Akut di RSUP  dr. Sardjito dan RSJ Lali Jiwa Pakem, Yogyakarta, Laboratorium Kedokteran Jiwan FK UGM Yogyakarta, , 1988
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Validasi Skala Pengamatan Psikiatrik Ringkas dan Angka Remisi Psikolis Akut di RSUP  dr. Sardjito dan RSJ Lali Jiwa Pakem, Yogyakarta, Laboratorium Kedokteran Jiwan FK UGM Yogyakarta, 1988
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Validasi Skala Pengamatan Psikiatrik Ringkas dan Angka Remisi Psikolis Akut di RSUP dr. Sardjito dan RSJ Lali Jiwa Pakem, Yogyakarta, Laboratorium Kedokteran Jiwan FK UGM Yogyakarta, , 1988
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peranan Keintiman Keluarga Terhadap Kesehatan Jiwa di antara Peserta Kursus Kesehatan Jiwa Keluarga Surakarta, diterbitkan oleh LP3M UNS Surakarta, , 1987
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peranan Keintiman Keluarga Terhadap Kesehatan Jiwa di antara Peserta Kursus Kesehatan Jiwa Keluarga Surakarta, LP3M UNS Surakarta, 1987
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peranan Keintiman Keluarga Terhadap Kesehatan Jiwa di antara Peserta Kursus Kesehatan Jiwa Keluarga Surakarta, LP3M UNS Surakarta, 1987
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav55" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Penelitian</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penyelenggaraan Perguruan Tinggi yang Demokratis, Akuntabel, dan Bermutu, Seminar Nasional Demokratisasi Kampus, Surakarta, 2003
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Somatisasi pada Depresi, disampaikan pada Pendidikan Dokter Berkelanjutan, FK UNS Surakarta, 2002
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kiat Hidup Sehat di Tanah Suci, disampaikan pada Pengajian Ikatan Persaudaraan Haji Bimbingan Aisyah Surakarta, 2001
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Gangguan Perkembangan Anak Autisme: Diagnosis dan Penatalaksanaannya, Seminar Sehari Anak Autisme, RS Dr. Oen Surakarta, 2001
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aspek Klinik Gangguan Anxietas, National Awareness Anxiety Program, Ska, 2000, 2000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengalaman Klinis Pengobatan Anxietas dengan Alprazolam, Nasional Medical Representative Meeting, Yogyakarta, 1999, 1999
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh KesejahteraanTerhadap Keintiman Keluarga, Unit Psikiatri FK UNS Surakarta, 1998, 1998
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Pendidikan Kesehatan Jiwa Keluarga terhadap Kekambuhan Penderita Gangguan Afektif Berat, Penelitian Mandiri, dipublikasikan di Majalah Ilmiah Psikiatri Jiwa 33 (4) tahun 2000, 1998, 1998
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Sumarni, Aris Sudiyanto, &amp; Soemarno, Uji Validitas dan Reliabilitas Instrumen  Keintiman Remaja-Orang Tua pada Pelajar Kelas H SMA Negeri V Yogyakarta, Profil Saraf dan Jiwa No. 1 Juli, Yayasan Jiwa Binangun, 1992, 1992
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aris Sudiyanto, &amp; Muchlas, M, Pengaruh Stresor Psikososial Keluarga Terhadap Kekambuhan Penderita Gangguan Afektif Berat, Kongres IDAJI-II, Yogyakarta, 1992, 1992
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Muchlas, M. &amp; Aris Sudiyanto, The Role of Family Intimacy on Mental Health Among Family Mental Course Partisipants in Surakarta-Indonesia, Majalah Jiwa, 24(I), 1991, 1991
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Uji Validitas dan Reliabilitas Skala Keintiman Perkawinan pada Ibu-ibu Peserta Kursus Kesehatan Jiwa di Surakarta, Unit Psikiatri FK UNS Surakarta, 1986, 1986
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Aris Sudiyanto, Sumarni, &amp; Soemarno, Pengaruh Ketidakintiman  Orang Tua Terhadap Perlakuan Salah pada Anak di antara  Peserta Kursus Kesehatan Jiwa Keluarga Surakarta, Kongres Nasional IDAJI di Semarang, 1986, 1986
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Validasi Skala Pengamatan Psikiatrik Ringkas, 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Efektivitas Psikoterapi Vs Farmakoterapi, 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Pendidikan Kesehatan Jiwa Keluarga, 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Validasi Skala Pengamatan Psikiatrik Ringkas, 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Efektivitas Psikoterapi Vs Farmakoterapi, 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Pendidikan Kesehatan Jiwa Keluarga, 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav66" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Pengabdian</p>
+                                        <ol>
+                                                                                </ol> 
+                                    </div>
+
+                                </div>
+                            <!--  -->
+                        </div>
+                    </div>
+
+                <!-- card -->
+                </div>
+              </div>
+            </div>
+          </div>  <!-- row -->
+                                      </div>    <!-- content-wrapper ends -->
+
+         
+
+<footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="" target="_blank">Dokumentasi Karya Ilmiah Pendidik Universitas Sebelas Maret</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">email: karyailmiah@mail.uns.ac.id<i class="mdi mdi-heart text-danger"></i></span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- plugins:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/chart.js/Chart.min.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+  <!-- End plugin js for this page-->
+  <!-- inject:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/off-canvas.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/hoverable-collapse.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/templateku.js"></script>
+  <!-- endinject -->
+  <!-- Custom js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dashboard.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/data-table.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dataTables.bootstrap4.js"></script>
+  <!-- End custom js for this page-->
+    
+   <script>
+
+ </script>
+</body>
+
+</html>

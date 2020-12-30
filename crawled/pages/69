@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Welcome to UNS Institutional Repository - UNS Institutional Repository</title>
+  <script type="text/javascript" src="/javascript/not_logged_in.js"><!-- padder --></script>
+	<style type="text/css">@import url(/style/not_logged_in.css);</style>
+    <script type="text/javascript" src="/javascript/auto.js"><!-- padder --></script>
+    <style type="text/css" media="screen">@import url(/style/auto.css);</style>
+    <style type="text/css" media="print">@import url(/style/print.css);</style>
+      <style type="text/css" media="screen">@import url(/style/wa2n.css);</style>  
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="Top" href="https://eprints.uns.ac.id/" />
+    <link rel="Search" href="https://eprints.uns.ac.id/cgi/search" />
+    
+  <link rel="alternate" type="application/rss+xml" title="Items in UNS Institutional Repository" href="https://eprints.uns.ac.id/cgi/latest_tool?output=RSS2" />
+  <link rel="alternate" type="application/atom+xml" title="Items in UNS Institutional Repository" href="https://eprints.uns.ac.id/cgi/latest_tool?output=Atom" />
+  <link rel="alternate" type="application/rdf+xml" title="Repository Summary RDF+XML" href="https://eprints.uns.ac.id/cgi/repositoryinfo/RDFXML/devel.rdf" />
+  <link rel="alternate" type="text/n3" title="Repository Summary RDF+N3" href="https://eprints.uns.ac.id/cgi/repositoryinfo/RDFN3/devel.n3" />
+
+    <style type="text/css" media="screen">@import url(/style/nojs.css);</style>
+    <script type="text/javascript" src="/javascript/jscss.js"><!-- padder --></script>
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    
+    <div class="ep_tm_header ep_noprint">
+      <div class="ep_tm_logo"><a href="https://eprints.uns.ac.id/"><img alt="Logo" src="/images/uns_repository.jpg" /></a></div>
+      <div></div>
+
+  <ul class="menuku"><li><a href="https://eprints.uns.ac.id">Home</a></li><li><a href="https://eprints.uns.ac.id/information.html">About</a></li><li><a href="https://eprints.uns.ac.id/view/year/">Browse by Year</a></li><li><a href="https://eprints.uns.ac.id/view/subjects/">Browse by Subject</a></li><li><a href="https://eprints.uns.ac.id/view/divisions/">Browse by Division</a></li><li><a href="https://eprints.uns.ac.id/view/creators/">Browse by Author</a></li><li><a href="http://www.uns.ac.id" target="_blank">UNS Website</a></li><li><a href="http://digilib.uns.ac.id" target="_blank">UNS Digital Library</a></li></ul>
+
+  <table class="ep_tm_searchbar" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="left"><ul class="ep_tm_key_tools"><li><a href="https://eprints.uns.ac.id/cgi/users/home">Login</a></li><li><a href="/cgi/register">Create Account</a></li></ul></td>
+      <td align="right" style="white-space: nowrap">
+      
+        <form method="get" accept-charset="utf-8" action="https://eprints.uns.ac.id/cgi/search" style="display:inline">
+          <input class="ep_tm_searchbarbox" size="20" type="text" name="q" />
+          <input class="ep_tm_searchbarbutton" value="Search" type="submit" name="_action_search" />
+          <input type="hidden" name="_action_search" value="Search" />
+          <input type="hidden" name="_order" value="bytitle" />
+          <input type="hidden" name="basic_srchtype" value="ALL" />
+          <input type="hidden" name="_satisfyall" value="ALL" />
+        </form>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  
+  <table width="720" class="ep_tm_main"><tr><td align="left">
+    <h1 class="ep_tm_pagetitle">Welcome to UNS Institutional Repository</h1>
+    
+
+<div class="ep_msg_message"><div class="ep_msg_message_content"><table><tbody><tr><td>
+<img alt="Message" src="/style/images/message.png" /></td><td>
+Welcome to UNS Institutional Repository.
+</td></tr></tbody></table></div></div>
+
+<div class="ep_toolbox"><div class="ep_highlight">
+ <a href="https://eprints.uns.ac.id/information.html">About this Repository</a><br /><br />
+<strong>UNS INSTITUTIONAL REPOSITORY (UNS-IR)</strong> is a digital collection of the University's intellectual or research output. UNS-IR centralizes, collects, preserves, and complies to open access concept of accessing collection of scholarly materials that showcases the research output of Sebelas Maret University communities. Sebelas Maret University Library (<a href="https://digilib.uns.ac.id" target="_blank">https://digilib.uns.ac.id</a>) and Study Program Librarians are responsible in establishing, collaborating, managing, maintaining and disseminating the content of UNS-IR. <br /></div></div>
+
+<form action="https://eprints.uns.ac.id/index.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-1905036807193814:2227500732" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="55" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="https://www.google.co.id/coop/cse/brand?form=cse-search-box&amp;lang=en">// <!-- No script --></script>
+
+<script type="text/javascript" src="https://www.google.co.id/coop/cse/brand?form=cse-search-box&amp;lang=en">// <!-- No script --></script>
+
+<div id="cse-search-results"></div>
+<script type="text/javascript">
+  var googleSearchIframeName = "cse-search-results";
+  var googleSearchFormName = "cse-search-box";
+  var googleSearchFrameWidth = 800;
+  var googleSearchDomain = "www.google.co.id";
+  var googleSearchPath = "/cse";
+</script>
+<script type="text/javascript" src="https://www.google.com/afsonline/show_afs_search.js">// <!-- No script --></script>
+
+
+
+<div style="text-align: right">
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=Atom"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=Atom">Atom</a></span>
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=RSS"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=RSS">RSS 1.0</a></span>
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=RSS2"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=RSS2">RSS 2.0</a></span>
+</div>
+
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+  <a href="https://eprints.uns.ac.id/cgi/latest">Latest Additions</a><br /><br />
+  View items added to the repository in the past week.  
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.uns.ac.id/cgi/search/advanced">Search Repository</a><br /><br />
+ Search the repository using a full range of fields. Use the search field at the top of the page for a quick search.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.uns.ac.id/view/subjects/">Browse Repository</a><br /><br />
+ Browse the items in the repository by subject.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.uns.ac.id/information.html">About this Repository</a><br /><br />
+ More information about this site.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="https://eprints.uns.ac.id/policies.html">Repository Policies</a><br /><br />
+ Policy for use of material in this repository.
+</div></div>
+
+<p style="margin-top: 2em; font-size: 90%">
+UNS Institutional Repository supports <a href="http://www.openarchives.org"><abbr title="Open Archives Protocol for Metadata Harvesting v2.0">OAI 2.0</abbr></a> with a base URL of <tt>https://eprints.uns.ac.id/cgi/oai2</tt>
+</p>
+
+
+
+  </td></tr></table>
+</div>
+
+
+<div class="ep_tm_footer ep_noprint">
+  <hr noshade="noshade" class="ep_ruler" />
+  <hr class="ep_tm_last" />
+  <div style="float: right; margin-left: 1em"><a href="https://eprints.org/software/"><img alt="EPrints Logo" src="/images/eprintslogo.gif" border="0" /></a></div>
+  <div style="font-size: 80%;">
+  <div>UNS Institutional Repository is powered by <em><a href="http://eprints.org/software/">EPrints 3</a></em> which is developed by the <a href="http://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="https://eprints.uns.ac.id/eprints/">More information and software credits</a>.</div>
+  </div>
+</div>
+
+
+  </body>
+</html>

@@ -1,0 +1,418 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Jurnal Universitas Sebelas Maret</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+                <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/index/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/index/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/site/pageHeaderTitleImage_en_US.png" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/index/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/index/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                                            
+
+                        
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/index/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/index/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/index/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/index/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/index/search">Search</a></li>
+                                    
+                                
+                                                                    <li id="submitButton"><a href="https://jurnal.uns.ac.id/index/about/submissions">Submit</a></li>
+
+                                    
+
+                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/index/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                        <div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/index/help/view/user/topic/000001')">Journal Help</a>
+</div><div class="block" id="sidebarFlagcounter">
+    <span class="blockTitle" >Flagcounter</span>
+    <a href="https://s09.flagcounter.com/more/yMdb/" target="_blank"><img style="width: 100%;" src="https://s09.flagcounter.com/map/yMdb/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Journal Flag Counter" border="0"></a>
+</div><div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+		</div>
+<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/index/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> 
+<div class="block" id="sidebarLanguageToggle">
+	<script type="text/javascript">
+		<!--
+		function changeLanguage() {
+			var e = document.getElementById('languageSelect');
+			var new_locale = e.options[e.selectedIndex].value;
+
+			var redirect_url = 'https://jurnal.uns.ac.id/index/user/setLocale/NEW_LOCALE?source=%2Findex';
+			redirect_url = redirect_url.replace("NEW_LOCALE", new_locale);
+
+			window.location.href = redirect_url;
+		}
+		//-->
+	</script>
+	<span class="blockTitle">Language</span>
+	<form action="#">
+		<label for="languageSelect">Select Language</label>
+		<select id="languageSelect" size="1" name="locale" class="selectMenu"><option label="Bahasa Indonesia" value="id_ID">Bahasa Indonesia</option>
+<option label="English" value="en_US" selected="selected">English</option>
+</select>
+		<input type="submit" class="button" value="Submit" onclick="changeLanguage(); return false;" />
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/index/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br />
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/index/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/index" class="current">Jurnal Universitas Sebelas Maret</a></div>
+
+                                                        <h2>Jurnal Universitas Sebelas Maret</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+<br />
+
+<div id="intro">The site contains all peer-reviewed Journals published by Universitas Sebelas Maret.</div>
+<a name="journals"></a>
+
+	<p><a href="https://jurnal.uns.ac.id/index?searchInitial=A&amp;sort=title">A</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=B&amp;sort=title">B</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=C&amp;sort=title">C</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=D&amp;sort=title">D</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=E&amp;sort=title">E</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=F&amp;sort=title">F</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=G&amp;sort=title">G</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=H&amp;sort=title">H</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=I&amp;sort=title">I</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=J&amp;sort=title">J</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=K&amp;sort=title">K</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=L&amp;sort=title">L</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=M&amp;sort=title">M</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=N&amp;sort=title">N</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=O&amp;sort=title">O</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=P&amp;sort=title">P</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=Q&amp;sort=title">Q</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=R&amp;sort=title">R</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=S&amp;sort=title">S</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=T&amp;sort=title">T</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=U&amp;sort=title">U</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=V&amp;sort=title">V</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=W&amp;sort=title">W</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=X&amp;sort=title">X</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=Y&amp;sort=title">Y</a> <a href="https://jurnal.uns.ac.id/index?searchInitial=Z&amp;sort=title">Z</a> <a href="https://jurnal.uns.ac.id/index"><strong>All</strong></a></p>
+
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/tanah" class="action"><img src="https://jurnal.uns.ac.id/public/journals/234/journalThumbnail_en_US.gif" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>SAINS TANAH - Journal of Soil Science and Agroclimatology</h3>
+							<p><p><strong>SAINS TANAH - Journal of Soil Science and Agroclimatology</strong> (journal initial: <strong>STJSSA</strong>; p-ISSN <a href="http://issn.pdii.lipi.go.id/issn.cgi?daftar&amp;1180429348&amp;1&amp;&amp;" target="_blank">1412-3606</a> e-ISSN <a href="http://issn.pdii.lipi.go.id/issn.cgi?daftar&amp;1403759231&amp;1&amp;&amp;" target="_blank">2356-1424</a>) is open access,<span> academic, citation indexed, and blind peer-reviewed journal. It covers <strong>original research articles</strong>, <strong>review</strong>, and <strong>short communication </strong>on diverse</span><span> topics related to</span> <strong>soil science and agricultural climatology</strong> (<a href="/tanah/pages/view/scope" target="_blank">read more ...</a>). We accept submission from all over the world. All submitted articles shall never be published elsewhere, original and not under consideration for other publication.</p><p>STJSSA has been published by the <a href="http://ilmutanah.fp.uns.ac.id/" target="_blank">Department of Soil Science</a>, <a href="http://fp.uns.ac.id/" target="_blank">Faculty of Agriculture</a>, <a href="https://uns.ac.id/en/" target="_blank">Universitas Sebelas Maret</a> in collaboration with Indonesian Soil Science Society (HITI). </p><p>STJSSA has been accredited by National Journal Accreditation (<a href="http://arjuna2.ristekdikti.go.id/" target="_blank">ARJUNA</a>) Managed by Ministry of Research and Technology/ National Agency for Research and Innovation, the Republic of Indonesia with First Grade (<a href="http://sinta.ristekbrin.go.id/journals/detail?id=1067" target="_blank">Sinta 1</a>) according to the <strong>Decree No. 85/M/KPT/2020 (<a href="https://drive.google.com/file/d/16ifNxp-rI9Pwy7GVqG33DhirdRBipF8Y/view?usp=sharing" target="_blank">link</a>)</strong>.</p><p>STJSSA has been indexed, abstracted, displayed in <a href="https://www.scopus.com/results/results.uri?numberOfFields=0&amp;src=s&amp;clickedLink=&amp;edit=t&amp;editSaveSearch=&amp;origin=searchbasic&amp;authorTab=&amp;affiliationTab=&amp;advancedTab=&amp;scint=1&amp;menu=search&amp;tablin=&amp;searchterm1=sains+tanah&amp;field1=SRCTITLE&amp;dateType=Publication_Date_Type&amp;yearFrom=Before+1960&amp;yearTo=Present&amp;loadDate=7&amp;documenttype=All&amp;accessTypes=All&amp;resetFormLink=&amp;st1=sains+tanah&amp;st2=&amp;sot=b&amp;sdt=b&amp;sl=21&amp;s=SRCTITLE%28sains+tanah%29&amp;sid=7212eca8dde6d4620dbc69d75fb1b04a&amp;searchId=7212eca8dde6d4620dbc69d75fb1b04a&amp;txGid=9268c7036bdace4994d6b5781c2b9143&amp;sort=plf-f&amp;originationType=b&amp;rr=" target="_blank"><strong>SCOPUS</strong></a>, <a href="https://doaj.org/toc/2356-1424" target="_blank"><strong>DOAJ</strong></a><strong>,</strong><strong> <a href="https://www.asean-cites.org/index.php?r=contents%2Findex&amp;id=9" target="_blank">ASEAN Citation Index (ACI)</a>,</strong><strong><a href="http://sinta2.ristekdikti.go.id/journals/detail?id=1067" target="_blank"> SINTA</a> </strong>by Ristek/BRIN of The Republic of Indonesia<strong>,</strong><strong> <a href="https://scholar.google.co.id/citations?user=WhtN6IR7DMQC" target="_blank">GOOGLE Scholar</a>, </strong><a href="/tanah/pages/view/indexing" target="_blank">etc</a><strong>.</strong></p></p>
+				<p><a href="https://jurnal.uns.ac.id/tanah" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/tanah/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/tanah/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/lar" class="action"><img src="https://jurnal.uns.ac.id/public/journals/364/journalThumbnail_en_US.png" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>Livestock and Animal Research</h3>
+							<p><p><strong>Livestock and Animal Research (Livest. Anim. Res.)</strong> publishes original research article in the field of livestock and other animal research. This journal previously titled as <strong>Sains Peternakan: Jurnal Penelitian Ilmu Peternakan</strong> and changed into Livestock and Animal Research in order to broaden the distribution and increase the visibility of the journal. <strong>This journal is published three times a year: March, July, and November</strong> by Sebelas Maret University associated with Ikatan Sarjana Peternakan Indonesia (ISPI). The first edition with new journal-title is published in July 2020 (Vol. 18 No. 2) while previous editions remain the same as the previous journal that can be accessed through website: <a href="/Sains-Peternakan">https://jurnal.uns.ac.id/Sains-Peternakan</a>.</p><p>Livestock and Animal Research has been accredited and categorized as Sinta 2 by Directorate General of Strengthening Research and Development – Ministry of Research, Technology and Higher Education, Republic of Indonesia in 2019 (No. 10/E/KPT/2019).</p><p>In addition, this journal has been indexed by Crossref, Google Scholar, Mendeley, Garuda (Garda Rujukan Digital), i-Focus, i-Journals, and Udledge.s</p>The interest of Livestock and Animal Research covering: 1) Animal Production System; 2) Animal Breeding and Genetics; 3) Animal Physiology and Reproduction; 4) Animal Nutrition and Feeding Technology; 5) Technology of Animal Product; 6) Animal Biotechnology; 7) Animal Behaviour and Welfare; 9) Socio-Economics in the field of Animal Research, and 10) Animal health. The objects of the research can be livestock, laboratory, exotic, and/or wild animals. This journal uses blind review where all the review processes using anonymous system so that both reviewer and author identities are not revealed during the process.</p>
+				<p><a href="https://jurnal.uns.ac.id/lar" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/lar/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/lar/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/agrihealth" class="action"><img src="https://jurnal.uns.ac.id/public/journals/363/journalThumbnail_en_US.jpg" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>AgriHealth: Journal of Agri-food, Nutrition and Public Health</h3>
+							<p>AgriHealth: Journal of Agri-food, Nutrition and Public Health, diterbitkan oleh Pusat Penelitian dan Pengembangan Pangan, Gizi dan Kesehatan Masyarakat (P4GKM) LPPM UNS, merupakan jurnal yang memuat artikel ilmiah hasil-hasil pengabdian kepada masyarakat di bidang pertanian ramah lingkungan, pangan, gizi dan kesehatan masyarakat. AgriHealth terbit 2 (dua) kali setiap tahun pada bulan April dan Oktober.</p>
+				<p><a href="https://jurnal.uns.ac.id/agrihealth" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/agrihealth/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/agrihealth/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+				</div>
+				<h3>Journal of Global Environmental Dynamics</h3>
+							<p><p><span><strong>Journal of Global Environmental Dynamics</strong> - an international journal published by Study Program of Environmental Science, Faculty of Mathematic and Natural Science, Sebelas Maret University. The research article submitted to this online journal will be peer-reviewed. The accepted research articles will be available online (free download) following the journal peer-reviewing process. The language used in this journal is English.</span></p><h3>Focus and Scope</h3><p>The Journal of Global Environmental Dynamics, an international journal, provides a forum for publishing the novel research and technologies. This journal includes Original Research Articles, Review Articles, and Short Communications relating to:</p><ul><li>Environmental Management</li><li>Environmental Ecology</li><li>Environmental Engineering</li><li>Environmental pollution</li><li>Conservation of Natural Resources and the Environment</li><li>Development and Environment</li><li>Environmental Impact Analysis</li><li>Environmental Planning and Administration</li><li>Renewable energy</li><li>Energy Conversion Technology</li><li>Energy Management and Policy</li><li>Green Technology</li><li>Health, Safety and Environment</li><li>Environmental Information System</li></ul><hr /><h3>Publication Schedule: April, July, November</h3><h3><a title="Author Guidelines" href="/jged/about/submissions#authorGuidelines" target="_self"><em>Author Guidelines</em></a></h3><h3><a title="Journal Template" href="https://drive.google.com/drive/folders/1u_AggeR8zWyhMI4qjgBDXdm4TVCavBvB" target="_blank"><em>Article Template</em></a></h3><h3><a title="Reviewer Guidelines" href="https://drive.google.com/drive/u/1/folders/1u_AggeR8zWyhMI4qjgBDXdm4TVCavBvB" target="_blank"><em>Reviewer Guidelines</em></a></h3></p>
+				<p><a href="https://jurnal.uns.ac.id/jged" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/jged/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/jged/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+				</div>
+				<h3>Jurnal Olahraga dan Prestasi</h3>
+							<p><strong>SMART SPORT Jurnal Olahraga dan Prestasi</strong> diterbitkan oleh Program Studi Pendidikan dan Kepelatihan Olahraga, Fakultas Keolahragaan, Universitas Sebelas Maret Surakarta. Terbit dua kali dalam setahun pada bulan Februari dan Oktober, berisi naskah hasil penelitian, gagasan konseptual, kajian dan aplikasi teori maupun Ilmu Pengetahuan dan Teknologi Olahraga.</p>
+				<p><a href="https://jurnal.uns.ac.id/smartsport" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/smartsport/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/smartsport/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/phedheral" class="action"><img src="https://jurnal.uns.ac.id/public/journals/357/journalThumbnail_en_US.jpg" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>PHEDHERAL</h3>
+							<p><p><strong>PHEDERAL: Physical Education, Health, and Recreation Journal</strong> (ISSN: <a href="http://issn.pdii.lipi.go.id/issn.cgi?daftar&amp;1324547657&amp;1&amp;&amp;" target="_blank">1979-3103</a>) is open to seeking innovation, creativity, and novelty. <strong>PHEDHERAL</strong> Journal is a peer-review journal published by the Universitas Sebelas Maret Surakarta. The aim of the journal is to facilitate scientific publication of the results of researches in Indonesia and participate to boost the quality and quantity of research for academics and researchers. <span>This journal accepts manuscripts in <strong>Bahasa</strong> or <strong>English</strong>.</span></p><p><strong>PHEDHERAL</strong> Journal published twice a year, in May and November by publishing research results and critical analysis studies in the field of Physical Education, Sports Tourism, Sports Coaching, Physical Activity, Sports Biomechanics, Sports Pedagogy, Sports Physiology, Sports Psychology, and Traditional Sports.</p></p>
+				<p><a href="https://jurnal.uns.ac.id/phedheral" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/phedheral/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/phedheral/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/prosidingsemantiks" class="action"><img src="https://jurnal.uns.ac.id/public/journals/356/journalThumbnail_en_US.jpg" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>Prosiding Seminar Nasional Linguistik dan Sastra (SEMANTIKS)</h3>
+							<p><p>Prosiding Seminar Nasional Linguistik dan Sastra (SEMANTIKS) merupakan media publikasi berupa prosiding dari hasil Seminar Nasional Linguistik dan Sastra (SEMANTIKS).<br /><br />Semantik (Seminar Sastra dan Linguistik) merupakan nama kegiatan ilmiah yang sudah dilakukan sejak awal S2 Linguistik Pascasarjana UNS berdiri. Nama tersebut sengaja dipertahankan untuk memperlihatkan bahwa kegiatan ini merupakan kelanjutan dari kegiatan yang pernah ada. Kegiatan tersebut sudah beberapa kali dilakukan, lalu berhenti. Mulai tahun 2019, kegiatan tersebut akan dihidupkan lagi untuk menggairahkan kehidupan keilmuan linguistik, dan sastra. Mulai tahun 2019 nama seminar berubah menjadi Seminar Nasional Linguistik dan Sastra (SEMANTIKS). Dalam perkembangannya, bidang terjemahan digabungkan dalam Program S2 Linguistik. Karena itu, cakupan Semantiks 2019 meliputi bidang terjemahan juga. Semantiks akan dilaksanakan setiap tahun.</p></p>
+				<p><a href="https://jurnal.uns.ac.id/prosidingsemantiks" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/prosidingsemantiks/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/prosidingsemantiks/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+				</div>
+				<h3>Matriks Teknik Sipil</h3>
+						<p><a href="https://jurnal.uns.ac.id/matriks" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/matriks/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/matriks/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/prima" class="action"><img src="https://jurnal.uns.ac.id/public/journals/340/journalThumbnail_en_US.png" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>PRIMA: Journal of Community Empowering and Services</h3>
+							<p><p><strong>PRIMA: Journal of Community Empowering and Services</strong> (Online ISSN: <a href="http://u.lipi.go.id/1491493517" target="_blank">2579-5074</a>) is an open-access academic journal published by the Faculty of Agriculture, Universitas Sebelas Maret Surakarta. This journal has two issues in a year and it will be published in June and December. This journal accepts manuscript in Bahasa or English.</p><p><span lang="en"><strong>PRIMA: Journal of Community Empowering and Services</strong> is a scientific journal that publishes the result of thoughts and activities on empowerment and community service with the focus on communities as an employer in the field of agriculture and the other fields whose activity targets are farmer community. (<a href="/prima/about/editorialPolicies#focusAndScope" target="_blank">more ...</a>)</span></p><p> </p></p>
+				<p><a href="https://jurnal.uns.ac.id/prima" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/prima/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/prima/user/register" class="action">Register</a></p>
+					<div style="clear:left;" class="block">
+								<div class="homepageImage"><a href="https://jurnal.uns.ac.id/equilibrium" class="action"><img src="https://jurnal.uns.ac.id/public/journals/336/journalThumbnail_en_US.gif" alt="Page Header Logo" /></a></div>
+				</div>
+				<h3>EQUILIBRIUM Journal of Chemical Enginering</h3>
+							<p><p><strong>Equilibrium Journal of Chemical Engineering </strong>(EJChE) is an open-access journal published by Chemical Engineering Department, Faculty of Engineering, Universitas Sebelas Maret as a scientific journal to accommodate current topics related to chemical engineering including:</p><ol><li>Material Development</li><li>Biochemical Process Exploration and Optimization</li></ol><ol start="3"><li>Chemical Education</li><li>Chemical Reaction Kinetics and Catalysis</li><li>Designing, Modeling, and Process Optimization</li><li>Energy and Conversion Technology</li><li>Thermodynamics</li><li>Process System Engineering and products</li><li>Membrane Technology</li><li>Food Technology</li><li>Bioprocess Technology</li><li>Chemurgy Technology</li><li>Waste Treatment Technology</li><li>Separation and Purification Technology</li><li>Natural Dyes Technology</li></ol><p>EJChE publishes <em>communication articles, original research articles, and review articles</em>.  This Journal has been previously named Ekuilibrium published since 2001 with <strong>ISSN</strong>: 1412-9124 (2007). In 2018, the name of EJChE with <strong>e-ISSN </strong>2622-3430 (2018) was introduced as a continuation of Ekuilibrium without any policy changes. There is 2 (two) issues of publication each year. The official language of the Journal is English, but manuscripts in Bahasa Indonesia are also welcomed. Manuscript submission and reviewing process is fully conducted through online journal system (<a href="/equilibrium">https://jurnal.uns.ac.id/equilibrium</a>) using a double-blind review process.</p></p>
+				<p><a href="https://jurnal.uns.ac.id/equilibrium" class="action">View Journal</a> | <a href="https://jurnal.uns.ac.id/equilibrium/issue/current" class="action">Current Issue</a> | <a href="https://jurnal.uns.ac.id/equilibrium/user/register" class="action">Register</a></p>
+
+<div id="journalListPageInfo">1 - 10 of 111 Items</div>
+<div id="journalListPageLinks"><strong>1</strong>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=2#journals">2</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=3#journals">3</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=4#journals">4</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=5#journals">5</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=6#journals">6</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=7#journals">7</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=8#journals">8</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=9#journals">9</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=10#journals">10</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=2#journals">&gt;</a>&nbsp;<a href="https://jurnal.uns.ac.id/index?journalsPage=12#journals">&gt;&gt;</a>&nbsp;</div>
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

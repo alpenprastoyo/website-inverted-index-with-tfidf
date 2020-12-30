@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="manajemen profil universitas sebelas maret surakarta">
+    <meta name="author" content="puskom uns">
+    <link rel="icon" href="/img/logo-uns.jpg">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="/assets/2788e1e7/bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/2788e1e7/css/bootstrap-yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/2788e1e7/css/jquery-ui-bootstrap.css" />
+<script type="text/javascript" src="/assets/d8939232/jquery.js"></script>
+<script type="text/javascript" src="/assets/2788e1e7/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/2788e1e7/js/bootstrap-noconflict.js"></script>
+<title>Manajemen Profil</title>
+
+    <link href="/css/style-baru.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button> -->
+            <a class="navbar-brand" href="https://uns.ac.id">
+                <img alt="Brand" src="/img/uns_logo.png">
+            </a>
+        </div>
+        <div class="collapse navbar-collapse">
+            <a class="navbar-brand app-brand" style="font-size: 24px;" href="http://profil.uns.ac.id">Manajemen Profil</a>
+        </div>
+    </div>
+</nav>
+
+<div class="container" style="overflow: auto; padding-bottom: 50px;">
+    <div class="row">
+    <div class="page-header">
+        <h2>
+            Cek Aktivasi            <small></small>
+        </h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-3">
+        <div class="panel-group" id="accordion">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a href="/site">
+                            <span class="glyphicon glyphicon-saved"></span> Cek Aktivasi
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse">
+                            <span class="glyphicon glyphicon-envelope"></span> Aktivasi Email
+                        </a>
+                    </h4>
+                </div>
+                <div id="collapse" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <table class="table">
+                            <tr>
+                                <td>
+                                    <a href="/site/staff/aktivasi">Aktivasi Email Staff</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="/site/student/aktivasi">Aktivasi Email Student</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="/site/alumni/aktivasi">Aktivasi Email Alumni</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a href="/site/lupaPassword">
+                            <span class="glyphicon glyphicon-lock"></span> Lupa / Ganti Password
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a href="/site/kodeVerifikasi">
+                            <span class="glyphicon glyphicon-qrcode"></span> Kode Verifikasi Google
+                        </a>
+                    </h4>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a href="/site/default/faq">
+                            <span class="glyphicon glyphicon-comment"></span> Bantuan
+                        </a>
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-9">
+        <div id="yw2"></div>
+        <p>Silahkan masukkan NIM / NIP / NIK anda untuk mengecek apakah email anda sudah aktif...</p>
+
+<form class="form-horizontal" id="cek-aktivasi" action="/" method="post">
+<input type="hidden" value="9e7b17aa44fef04755647aadc193102c9542e1c2" name="YII_CSRF_TOKEN" />
+<div class="form-group"><label class="col-md-2 col-sm-3 control-label required" for="FormCekAktivasi_nimnip">NIM / NIP / NIK <span class="required">*</span></label><div class="col-md-4 col-sm-9"><input class="form-control" placeholder="NIM / NIP / NIK" name="FormCekAktivasi[nimnip]" id="FormCekAktivasi_nimnip" type="text" /></div></div>
+<div class="form-group"><label class="col-md-2 col-sm-3 control-label required" for="FormCekAktivasi_captcha">Captcha <span class="required">*</span></label><div class="col-md-4 col-sm-9"><input autocomplete="off" class="form-control" name="FormCekAktivasi[captcha]" id="FormCekAktivasi_captcha" type="text" /><div class="captcha"><img id="yw0" src="/site/default/captcha/v/5fec18d1d8d03" alt="" /></div></div></div>
+<button class="col-md-offset-2 btn btn-default" id="yw1" type="submit" name="yt0"><span class="glyphicon glyphicon-chevron-right"></span> Cek Aktivasi</button>
+
+<br>
+
+</form>    </div>
+</div>
+</div>
+
+<footer class="footer">
+    <div class="container" style="padding: 10px;">
+        <p>UPT. Teknologi Informasi dan Komunikasi Universitas Sebelas Maret Surakarta</p>
+
+        <p><span class="glyphicon glyphicon-home"></span> Jln Ir. Sutami No. 36A Kentingan Surakarta <span
+                class="glyphicon glyphicon-phone-alt"></span> (0271) 638959 <span
+                class="glyphicon glyphicon-envelope"></span> tik@uns.ac.id</p>
+    </div>
+</footer>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('[data-toggle=popover]').popover();
+jQuery('[data-toggle=tooltip]').tooltip();
+jQuery('#yw0').after("<a id=\"yw0_button\" href=\"\/site\/default\/captcha\/refresh\/1\">Get a new code<\/a>");
+jQuery(document).on('click', '#yw0_button', function(){
+	jQuery.ajax({
+		url: "\/site\/default\/captcha\/refresh\/1",
+		dataType: 'json',
+		cache: false,
+		success: function(data) {
+			jQuery('#yw0').attr('src', data['url']);
+			jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
+		}
+	});
+	return false;
+});
+
+jQuery('#yw2_0 .alert').alert();
+});
+/*]]>*/
+</script>
+</body>
+</html>

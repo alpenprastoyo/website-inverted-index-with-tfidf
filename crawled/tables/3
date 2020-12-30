@@ -1,0 +1,24 @@
+<table style="width: 100%; height: 90px; text-align: center;">
+<tbody>
+<tr style="height: 21px;">
+<td style="width: 183.516px; text-align: center; height: 21px;">Diploma</td>
+<td style="width: 184.766px; text-align: center; height: 21px;">Undergraduate</td>
+<td style="width: 176.016px; text-align: center; height: 21px;">Master</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 183.516px; height: 27px; text-align: center;"><span style="font-size: 18pt;">49.169</span></td>
+<td style="width: 184.766px; height: 27px; text-align: center;"><span style="font-size: 18pt;">122.928</span></td>
+<td style="width: 176.016px; height: 27px; text-align: center;"><span style="font-size: 18pt;">16.448</span></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 183.516px; height: 21px; text-align: center;">Profession</td>
+<td style="width: 184.766px; height: 21px; text-align: center;">Doctor</td>
+<td style="width: 176.016px; height: 21px; text-align: center;">Specialist</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 183.516px; height: 21px; text-align: center;"><span style="font-size: 18pt;">9.197</span></td>
+<td style="width: 184.766px; height: 21px; text-align: center;"><span style="font-size: 18pt;">672</span></td>
+<td style="width: 176.016px; height: 21px; text-align: center;"><span style="font-size: 18pt;">1.299</span></td>
+</tr>
+</tbody>
+</table></br>

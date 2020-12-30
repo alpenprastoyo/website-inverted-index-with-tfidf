@@ -1,0 +1,31 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S-2 <a href="https://pasca.uns.ac.id/s2agribisnis" target="_blank" rel="noopener noreferrer">Agribisnis</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>S-2 <a href="https://pasca.uns.ac.id/s2agronomi" target="_blank" rel="noopener noreferrer">Agronomi</a></td>
+<td>B</td>
+</tr>
+<tr>
+<td>3</td>
+<td>S-2&nbsp;<a href="https://pasca.uns.ac.id/s2ilmutanah" target="_blank" rel="noopener noreferrer">Ilmu Tanah</a></td>
+<td>B</td>
+</tr>
+<tr>
+<td>4</td>
+<td>S-2 <a href="https://s2peternakan.uns.ac.id" target="_blank" rel="noopener noreferrer">Peternakan</a></td>
+<td>*</td>
+</tr>
+</tbody>
+</table></br>

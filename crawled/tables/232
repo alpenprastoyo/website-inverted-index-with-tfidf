@@ -1,0 +1,13 @@
+<table>
+                    <tbody><tr>
+                    <td> <input required="" type="radio" value="Tercetak" name="format"></td>
+                    <td> <p>Tercetak</p></td>  
+
+
+                    <td> <input required="" type="radio" value="Terekam" name="format"></td>
+                    <td> <p> Terekam</p></td>  
+
+                 
+                    </tr>
+                    
+                  </tbody></table></br>

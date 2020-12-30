@@ -1,0 +1,16 @@
+<table class="ep_tm_searchbar" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody><tr>
+      <td align="left"><ul class="ep_tm_key_tools"><li><a href="https://eprints.uns.ac.id/cgi/users/home">Login</a></li><li><a href="/cgi/register">Create Account</a></li></ul></td>
+      <td align="right" style="white-space: nowrap">
+      
+        <form method="get" accept-charset="utf-8" action="https://eprints.uns.ac.id/cgi/search" style="display:inline">
+          <input class="ep_tm_searchbarbox" size="20" type="text" name="q">
+          <input class="ep_tm_searchbarbutton" value="Search" type="submit" name="_action_search">
+          <input type="hidden" name="_action_search" value="Search">
+          <input type="hidden" name="_order" value="bytitle">
+          <input type="hidden" name="basic_srchtype" value="ALL">
+          <input type="hidden" name="_satisfyall" value="ALL">
+        </form>
+      </td>
+    </tr>
+  </tbody></table></br>

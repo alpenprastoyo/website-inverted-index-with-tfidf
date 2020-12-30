@@ -1,0 +1,694 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="id-ID" xml:lang="id-ID">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Menelusuri Indeks Judul</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+                <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = '##form.dataHasChanged##';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "id_ID"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+                        </head>
+                        <body id="pkp-search-titleIndex">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/matriks/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/matriks/user/register">Daftar</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/353/pageHeaderTitleImage_id_ID.png" alt="Header Halaman" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/matriks/index">Beranda</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/matriks/about">Tentang Kami</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/matriks/issue/current">Terkini</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/matriks/issue/archive">Arsip</a></li>
+                        
+                                            <li><a href="https://jurnal.uns.ac.id/matriks/statistics" target="_parent">Statistik</a></li>
+
+                                                                                
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/matriks/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/matriks/user/register">Daftar</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/matriks/index">Beranda</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/matriks/about">Tentang Kami</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/matriks/search">Cari</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/matriks/issue/current">Terkini</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/matriks/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="submitButton"><a href="https://jurnal.uns.ac.id/matriks/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/matriks/statistics" target="_parent">Statistik</a></li>
+
+                                                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/matriks/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Cari" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                    <div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+					<p>2354-8630 (Print)</p>
+						<p>2723-4223 (Online)</p>
+	</div>
+<div class="block custom" id="customblock-Template-Jurnal">
+	<p><span class="blockTitle">Journal Template</span></p>
+<p><a title="Download Template" href="https://cloud.uns.ac.id/index.php/s/XYwSqvZv7naNEzN/download" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAA/CAMAAABQITOJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3REYxMjM1M0IyMzExRTVCRDY2ODg4MDRFNzVBQzkwIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3REYxMjM2M0IyMzExRTVCRDY2ODg4MDRFNzVBQzkwIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTdERjEyMzMzQjIzMTFFNUJENjY4ODgwNEU3NUFDOTAiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTdERjEyMzQzQjIzMTFFNUJENjY4ODgwNEU3NUFDOTAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6+Yak1AAADAFBMVEUagfuCq9yJvv3V4/Pe5/KNwP3s7vGUtNt/uPzE1eldmeCswNktg+qr0f75+vvg7v6btdPh5uzx9Pm92/4Wgv9zp+QzhunD0uVUktwWhv9Rk+I5kvy2xtk1iOshgvXI0dxLkeM9iuV4otIoifuCuv0cgfaUrs3k6vLh6fLt8fXz9fhalNnT3Oh6q+UVfvxundX2+PnZ4uy61POFqdIagv5xsf2Ks+RapPzo8v8xjv3i7/4qhfGhuNQxg+Vzn9MVgP/b6/7N4vpjmNbf7f5hmt11s/319vipvdUkf+xKjd0qiv35+v0ngu7O2OTK1OFDl/z6/P/3+v32+fwXgP5Nnfwkhv28z+aItusdg/omiPpBid9Gl/np7O/R5v/X4u86kfnO3O2dtM9DjuYWgPw0i+++0OioxOVnoeemutKWuOBCmP1xsfvJ4/85h+NVoPnK2etjl9WNrdNHl/ctiPQVfvtzsv3Q5f6Sw/2hy/0xjvt6tv3B3f5srvxToPw0j/wlh/tEmPzv9v/5/P/J4f4WhP8Whf9FmPyx1P5jqfzu9f8ihfsWf/vr9P97tv2Eu/1SoPwVgf/8/f5SoP6nyPB6t/+FvP1tr/3s9P6cut4Wgv3b7P9/uf0yjfsXhf9Sof1ZpP55sPEYhP9YmeZVkNZdpPhEjOBNme96tvxAi+Vso+Y0jffE3/6gvN2dyf2Jp8w1kPypy/KQteFtp+uXv++dveRlrf+qz/pwsf95tvxSn/54t/+kzf12ru8Wgf7i7fv3+v97t/1HmfxhnOIbhPuJr93n6u1moei11fvR5fzc4OWhv+LD0ODq8Pgmiv+Zv+3o7vVVofwmhvZemd9Zo/zn7PFbpPs9lPwtivovjPuyyeWzzOlJle6PuOqsx+hOm/evy+3B1vD6/P2Auv0Vf/xFmP1Fmf1Di+BCjONuoN1Hj+UXh/9tr/xooONooud5s/htouFvpebK4f3P3OtyoNikutZSoP1coO7r8Pbv8fPe5ewmhvkmhvogiP9Wm+4viPD///8+d5vxAAABAHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AU/cHJQAABhhJREFUeNrkmXd8FEUUxw8SRKQcxs3BBYgQLoSaArFESgAxQARCkCYi0oVIZ2ZvYdnbPdgzJxgJYAEBC/beu2dF7KLYe4k1dsWujG9m7+Le3h65jQm3fnx/ZO9N2f1mZt6b3846iM3N8R8ALG/fdUfRKjMrKlpuA8D861Q1F5lbTWhk8gFnqaU3PsWb2Q2liHv+g6QDfqEOilP3cHdHx9DcvskG3DEnJU7dOd0LU24PfDY9yYCr0OlxAasf6n1V7RX5yQbk4wLOGUqe7uJ+cJNtATdcTEiHgdt22xdwKFze//PxBbYGJC3VzGdtDUiGBG5JsTVg/j5u9iu2DRJqz73n7pNvR8BTUsM/fxtcO8R+gBO6cfsjv8ceuPwd2wGSHmrp1u/XgS1aNCy9Jnu+7QBLvlbVsPAqLkY199gOkExo37VTxN5AJyV600rksQThRZUNBARbG7HzEgcUELYIKDQcsM4usDug1RHkJVi6dKol5KcMXh4FoUhQkIyQ5IQKZxBaSHxjATZHVVYARYQULCPFD4BOBgglUMT7EAoqyAd8MvJhwOUbADjzhRYx9uKGibGFdyzdZA7ol+lD/Qry6gHpzPugiCgQFhKSwPUAq1XAmT9PDaHELDT1r6WmgJXs6YRHsg7QRxggcwU/olNPfd4iYOcx7lF9vlwTYxfGFq0ZMSqQ2doMUKDjxB6vA8R6QKf2LxCMKq0Bpg50L0tNOAB75qmZM0wBWSqEmY4PyAYUqgVrgOnuPu2s5IjhtV+ZAMLc+lkCkYBApEvNCEhklp55ZBFwr8thTT6PzR5jFsUSUkTAAjgvUpwCigX0QhkRZKuAw3JdlgaQkGtrYgE9NICpaaFMLQYQVh81n0XAdTVnjIfLAxOljRs3bl4yILwcO5/50yX37emsJZWcAUs2Q1WOVnVaDCBmESJijP3aToGxF/N+LDKHLk4e04c6oYVTxE4eOy0Aok7jWVrWRIz7wDzw2vULUVmjculUV7ea665GqNo9txXr8Qky3NOjrb8mUjMAuBYuLZDUFuzWjjtdTxAyi5vUDLzdstqDkMO6BTK2tG27JUPt9ivtcTYyDB9deIcA8Bjm9h6tLiTln3Ltmbe/cHEaeYab1os6vRZzW00ABewh5FAArtH8Y0NnkYt+L+zJnF/WTz2BbOf6aVXz77rbBLCpBasRsDkM5bmTHNoqPn69AwDR+VG3sAOg7DhRD7i68QANYpqP0eJNAojDUsJrWauKMVK3SQAFDDpPwli0K6DuwSCgkUxHkupo2QOewsNEKlRuS5EtpU5a+8LjXtcrEcDcBgVJGBD22yBmQhX2NIoBZLJf09Z1YlonrTGUi7peiaSZbZBm/qhLMwB4eCicZt66/8l6AEWWs3kZ/iLYgr1UYUmoMqytMUgd2u4faU2ctELXq/5E3a6jehs9A9G+BLQudKWRO7nRJey1fhq3sB5AjxaUXhQk9PFshUGNqO2FIBad0dJaA9T1Ohjgy0eB9R+xc+CR7AykJXgLXw/cTMh0V2Bff6g6IuCaXg9gJJxhiKIBg6xREInR0loD1PVKQCy89CY9IPyOY2JB3ZMG3uSV7mJatXIy6/HxwQAhlqkJBkCFNVLY64hOWkcA63qZAeYyuXXTa0pZWVnFiiHad5wPR+4qqyjbtaCceQVZKyoqVmQVhOVWblxAb5iERnEUIEvPMNMGaa0B6nqZCVbUxaJgnV0TF9Dvo7kEsyiOBpQFKqa9BmmtAep6mQDmtMkeZ4mvb+ao+GmG90V0tWGKZVqMjdJaA9T1Mntp+rZ2uCXAvNrHTErFiEj2hnW1B/Iu09QgnymoB7MWmpiOSGtoJkb1MgOckRnI25swXq8sLvsHqwpBtHC4ZPLiPjIz0CZve0L20Y+DA9mDyCEGJB2uLuYSPPrgit+ebF1j+bHw705YT+4w5ZrVBquauOHRKmPhvVPmlSf1CLiBx2/JAbRwgPk/AyyK+8W9wWfUjQt4PTc2oZbNuG+SA7gs8Hkim29BF651cgCPPlXNqIpJIAZ75DKXu2tJcgDJu2243HozcnF1RipJEiAZl/7qcfXYpVcuT9IX7b8FGABsXAVZjG2CuwAAAABJRU5ErkJggg==" alt="" /></a></p>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">Pengguna</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/matriks/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Nama Pengguna</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Kata Sandi</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Ingat Saya</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifikasi</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/matriks/notification">Lihat</a></li>
+			<li><a href="https://jurnal.uns.ac.id/matriks/notification/subscribeMailList">Langganan</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarLanguageToggle">
+	<script type="text/javascript">
+		<!--
+		function changeLanguage() {
+			var e = document.getElementById('languageSelect');
+			var new_locale = e.options[e.selectedIndex].value;
+
+			var redirect_url = 'https://jurnal.uns.ac.id/matriks/user/setLocale/NEW_LOCALE?source=%2Fmatriks%2Fsearch%2Ftitles';
+			redirect_url = redirect_url.replace("NEW_LOCALE", new_locale);
+
+			window.location.href = redirect_url;
+		}
+		//-->
+	</script>
+	<span class="blockTitle">Bahasa</span>
+	<form action="#">
+		<label for="languageSelect">Pilih bahasa</label>
+		<select id="languageSelect" size="1" name="locale" class="selectMenu"><option label="Bahasa Indonesia" value="id_ID" selected="selected">Bahasa Indonesia</option>
+<option label="English" value="en_US">English</option>
+</select>
+		<input type="submit" class="button" value="Serahkan" onclick="changeLanguage(); return false;" />
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Isi Jurnal</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/matriks/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Cari <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Lingkup Pencarian
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="Semua" value="query">Semua</option>
+<option label="Penulis" value="authors">Penulis</option>
+<option label="Judul" value="title">Judul</option>
+<option label="Sari" value="abstract">Sari</option>
+<option label="Indeks" value="indexTerms">Indeks</option>
+<option label="Teks Lengkap" value="galleyFullText">Teks Lengkap</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Cari" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Telusuri</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/matriks/issue/archive">Berdasarkan Terbitan</a></li>
+		<li><a href="https://jurnal.uns.ac.id/matriks/search/authors">Berdasarkan Penulis</a></li>
+		<li><a href="https://jurnal.uns.ac.id/matriks/search/titles">Berdasarkan Judul</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Jurnal Lain</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>			</ul>
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Ukuran Huruf</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Informasi</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/matriks/information/readers">Untuk Pembaca</a></li>		<li><a href="https://jurnal.uns.ac.id/matriks/information/authors">Untuk Penulis</a></li>		<li><a href="https://jurnal.uns.ac.id/matriks/information/librarians">Untuk Pustakawan</a></li>	</ul>
+</div>
+<div class="block custom" id="customblock-Index">
+	<p><span class="blockTitle">Indexed By</span></p>
+<p><a href="http://garuda.ristekdikti.go.id/journal/view/14910" target="_blank"><img src="http://garuda.ristekdikti.go.id/assets/img/garuda1.png" alt="Garba Rujukan Digital" width="100%" /></a></p>
+<p><a href="https://scholar.google.com/citations?user=Z-UqqUYAAAAJ" target="_blank"><img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" alt="Google Scholar" width="100%" /></a></p>
+</div>	<div class="block custom" id="customblock-Link-Journal">
+	<p><span class="blockTitle">Checked By</span></p>
+<p><a href="https://www.turnitin.com/" target="_blank"><img src="https://www.turnitin.com/r/build/images/logos/product/eafdac949a41848ea175aa1bc1f32b27cb_turnitin-login-page-logo-2017.png" alt="Turnitin" width="100%" /></a></p>
+<p><a href="https://www.mendeley.com/" target="_blank"><img src="https://iimk.ac.in/libportal/mendeley/mendeley.png" alt="Mendeley" width="100%" /></a></p>
+</div>	
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/matriks/index">Beranda</a> &#47;
+			<a href="https://jurnal.uns.ac.id/matriks/search/index" class="hierarchyLink">Cari</a> &#47;
+			<a href="https://jurnal.uns.ac.id/matriks/search/titles" class="current">Menelusuri Indeks Judul</a></div>
+
+                                                        <h2>Menelusuri Indeks Judul</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+	
+<div id="results">
+<table width="100%">
+<tr valign="bottom">
+		<th width="40%">Terbitan</th>
+	<th width="60%" colspan="2">Judul</th>
+</tr>
+
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2821">Vol 1, No 4 (2013): Desember 2013</a></td>
+	<td width="30%">ALGORITMA PERANCANGAN STRUKTUR RANGKA KUDA-KUDA LAMINATED VENEER LUMBER (LVL) KAYU SENGON</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37515" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37515/24744" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Setyowati Setyowati,					Achmad Basuki,					Setiono Setiono			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2809">Vol 4, No 4 (2016): Desember 2016</a></td>
+	<td width="30%">ANALISA  KARAKTERISTIK DAN PERSEPSI PENGUNJUNG  TERHADAP FASILITAS PARKIR SOLO GRAND MALL SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37021" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37021/24245" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Yoas Armaditya Ricky Pratama,					Budi Yulianto,					Amirotul M.H Mahmudah			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2796">Vol 6, No 2 (2018): Juni 2018</a></td>
+	<td width="30%">Analisa dan Evaluasi : Akar Penyebab dan Biaya Sisa Material Konstruksi Proyek Pembangunan Kantor Kelurahan di Kota Solo, Sekolah, dan Pasar Menggunakan Root Cause Analysis (RCA) dan Fault Tree Analysis (FTA)</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36572" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36572/23800" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Kristanto Wibowo,					Sugiyarto Sugiyarto,					Setiono Setiono			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2818">Vol 2, No 3 (2014): September 2014</a></td>
+	<td width="30%">ANALISA DAN KOORDINASI SINYAL ANTARA SIMPANG SUMBER DAN SIMPANG POM BENSIN MANAHAN  (Studi Kasus Simpang Ruas Jalan Jenderal Ahmad Yani Surakarta)</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37402" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37402/24631" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Mohammad Ikhwan,					Slamet Jauhari Legowo,					Amirotul Mufidah			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2813">Vol 3, No 2 (2015): Juni 2015</a></td>
+	<td width="30%">ANALISA PENGARUH RISIKO PADA KONTRAK KERJA KONSTRUKSI TERHADAP BIAYA PEKERJAAN (STUDI KASUS : PROYEK  PEMBANGUNAN JALAN TOL BOGOR RING ROAD SEKSI II A)</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37188" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37188/24415" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Lazuardi Gagah Mulyarko,					Widi Hartono,					Sugiyarto Sugiyarto			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2815">Vol 3, No 3 (2015): September 2015</a></td>
+	<td width="30%">ANALISIS AKURASI ESTIMASI WAKTU PERJALANAN BERDASARKAN DATA KECEPATAN SESAAT DENGAN INSTANTANEOUS MODEL DAN TIME SLICE MODEL</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37263" class="file">Sari</a>
+							</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Aan Febrian,					Amirotul M.H. Mahmudah,					Slamet Jauhari Legowo			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2808">Vol 4, No 2 (2016): Juni 2016</a></td>
+	<td width="30%">ANALISIS ANGKA KEAMANAN (SF) LERENG SUNGAI CIGEMBOL KARAWANG DENGAN PERKUATAN SHEET PILE</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37002" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37002/24227" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Etika Cahyaning Utami,					Niken Silmi Surjandari,					Raden Harya Dananjaya			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2816">Vol 3, No 1 (2015): Maret 2015</a></td>
+	<td width="30%">ANALISIS ANGKUTAN SEDIMEN ANAK SUNGAI BENGAWAN SOLO PADA SUNGAI DENGKENG</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37337" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37337/24562" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Ratnasari Kusumaningrum,					Suyanto Suyanto,					Solichin Solichin			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2816">Vol 3, No 1 (2015): Maret 2015</a></td>
+	<td width="30%">ANALISIS ANGKUTAN SEDIMEN PADA SUNGAI BENGAWAN SOLO RUAS SERENAN-JURUG</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37332" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37332/24557" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Djirjize Abdul Hakim,					Suyanto Suyanto,					Solichin Solichin			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2811">Vol 4, No 1 (2016): Maret 2016</a></td>
+	<td width="30%">ANALISIS ARUS BALIK AIR PADA SALURAN DRAINASE PRIMER GAYAM KABUPATEN KULON PROGO DENGAN METODE INTEGRASI NUMERIK</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37112" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37112/24337" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Fendika Titok Kurniawan,					Adi Yusuf Muttaqien,					Rintis Hadiani			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2811">Vol 4, No 1 (2016): Maret 2016</a></td>
+	<td width="30%">ANALISIS ARUS BALIK AIR PADA SALURAN DRAINASE PRIMER NGESTIHARJO DAN KARANGWUNI KABUPATEN KULON PROGO DENGAN MENGGUNAKAN METODE TAHAPAN LANGSUNG</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37111" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37111/24336" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Chandra Wibisono,					Adi Yusuf Muttaqien,					Rintis Hadiani			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2805">Vol 5, No 2 (2017): Juni 2017</a></td>
+	<td width="30%">ANALISIS BACKWATER DI SEKITAR PERTEMUAN KALI ANYAR SURAKARTA DENGAN SUNGAI BENGAWAN SOLO</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36853" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36853/24079" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Cahyono Islan,					Setiono Setiono,					Lanaria Pangestu			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2823">Vol 1, No 2 (2013): Juni 2013</a></td>
+	<td width="30%">ANALISIS BANGKITAN PERJALANAN BERBASIS RUMAH DI KELURAHAN SETABELAN SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37558" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37558/24786" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Tututwuri Rohmahdani,					Syafi&#039;i Syafi&#039;i			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2809">Vol 4, No 4 (2016): Desember 2016</a></td>
+	<td width="30%">ANALISIS BANJIR 2 HARIAN MAKSIMUM TAHUNAN DENGAN ARCGIS  DI DAS TEMON</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37048" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/37048/24272" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Sigit Nur Waskito,					Raden Roro Rintis Hadiyani,					Setiono Setiono			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2793">Vol 7, No 1 (2019): Maret</a></td>
+	<td width="30%">ANALISIS BANJIR BERDASARKAN METODE GABUNGAN O’DONNEL-MUSKINGUM CUNGE DAN PEMETAAN BANJIR DI KELURAHAN SUMBER, KOTA SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36525" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36525/23753" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Elsa Sellyana Putri,					Raden Roro Rintis Hadiani,					Endah Sitaresmi Suryandari			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2790">Vol 7, No 3 (2019): SEPTEMBER</a></td>
+	<td width="30%">ANALISIS BANJIR DAN PEMETAAN KAWASAN TERDAMPAK BANJIR DI KELURAHAN LAWEYAN, KOTA SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36489" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36489/23717" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Edo Suryo Utomo,					Raden Roro Rintis Hadiani,					Endah Sitaresmi Suryandari			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2794">Vol 6, No 4 (2018): DESEMBER 2018</a></td>
+	<td width="30%">ANALISIS BANJIR DENGAN METODE MUSKINGUM CUNGE DAN SISTEM INFORMASI GEOGRAFIS (SIG) DI KELURAHAN 	BANYUANYAR, SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36534" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36534/23762" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Muhammad Zean Raka Buana,					Raden Roro Rintis Hadiani,					Endah Sitaresmi Suryandari			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2791">Vol 7, No 2 (2019): JUNI</a></td>
+	<td width="30%">ANALISIS BANJIR DENGAN STANDARD STEP METHOD DAN PEMETAAN BANJIR DI KELURAHAN JOYOTAKAN, KOTA SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36502" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36502/23730" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Dewanti Anggit Setia Aji,					Rintis Hadiani,					Endah Sitaresmi Suryandari			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2790">Vol 7, No 3 (2019): SEPTEMBER</a></td>
+	<td width="30%">ANALISIS BANJIR TAHUNAN KOTA SURAKARTA MENGGUNAKAN WATERSHED MODELLING SYSTEM (WMS)</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36499" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36499/23727" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Bagas Hendi Pratama,					Raden Roro Rintis Hadiani,					Setiono Setiono			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2796">Vol 6, No 2 (2018): Juni 2018</a></td>
+	<td width="30%">ANALISIS BATA INTERLOCK SEBAGAI ALTERNATIF  BAHAN PELINDUNG TEBING SUNGAI YANG RAMAH LINGKUNGAN  (STUDI KASUS KALI PEPE SURAKARTA)</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36569" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36569/23797" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Ika Yuliana,					Agus Hari Wahyudi,					Adi Yusuf Muttaqien			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2802">Vol 5, No 3 (2017): September 2017</a></td>
+	<td width="30%">ANALISIS BIAYA DAN WAKTU MENGGUNAKAN METODE REGRESI LINIER</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36730" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36730/23956" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Handry Anom Ervianto,					Fajar Sri Handayani,					Setiono Setiono			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2806">Vol 5, No 4 (2017): Desember 2017</a></td>
+	<td width="30%">ANALISIS DAERAH DAN TITIK RAWAN KECELAKAAN PADA RUAS JALAN KOLEKTOR SEKUNDER DI KOTA SURAKARTA</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/36901" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/36901/24127" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Arief Wiraguna,					Amirotul MH Mahmudah,					Setiono Setiono			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2923">Vol 8, No 1 (2020): Maret</a></td>
+	<td width="30%">ANALISIS DAKTILITAS TEXTILE REINFORCED CONCRETE (TRC) DENGAN PERKUATAN SERAT CANTULA (AGAVE CANTULA ROXB)</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/41525" class="file">Sari</a>
+							<a href="https://jurnal.uns.ac.id/matriks/article/view/41525/27160" class="file">PDF</a>
+					</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Stefanus Adi Kristiawan,					Edy Purwanto,					Irfan Fathurahman			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2824">Vol 1, No 1 (2013): Maret 2013</a></td>
+	<td width="30%">ANALISIS DAMPAK LALU LINTAS AKIBAT PEMBANGUNAN  HARTONO LIFESTYLE MALL  DI SOLO BARU</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37567" class="file">Sari</a>
+							</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Revy Safitri,					Syafi&#039;i Syafi&#039;i,					Slamet Jauhari Legowo			</td>
+</tr>
+<tr valign="top">
+		<td><a href="https://jurnal.uns.ac.id/matriks/issue/view/2824">Vol 1, No 1 (2013): Maret 2013</a></td>
+	<td width="30%">ANALISIS DAMPAK LALU LINTAS AKIBAT PEMBANGUNAN HARTONO LIFESTYLE MALL  DI SOLO BARU</td>
+	<td width="30%" align="right">
+			<a href="https://jurnal.uns.ac.id/matriks/article/view/37596" class="file">Sari</a>
+							</td>
+</tr>
+<tr>
+	<td colspan="3" style="padding-left: 30px;font-style: italic;">
+					Revy Safitri,					Syafi&#039;i Syafi&#039;i,					Slamet Jauhari Legowo			</td>
+</tr>
+	<tr>
+		<td align="left">1 - 25 of 932 Item</td>
+		<td colspan="2" align="right"><strong>1</strong>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=2#results">2</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=3#results">3</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=4#results">4</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=5#results">5</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=6#results">6</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=7#results">7</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=8#results">8</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=9#results">9</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=10#results">10</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=2#results">&gt;</a>&nbsp;<a href="https://jurnal.uns.ac.id/matriks/search/titles?searchPage=38#results">&gt;&gt;</a>&nbsp;</td>
+	</tr>
+</table>
+</div>
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><h6><a href="https://sipil.ft.uns.ac.id" target="_blank">DEPARTMENT OF CIVIL ENGINEERING</a></h6><p>Jalan Ir. Sutami No. 36 A Surakarta, Jawa Tengah Indonesia, 57126</p><p>+6281112633314 / +62271634524</p><a href="mailto:sipil@ft.uns.ac.id">sipil@ft.uns.ac.id</a></div><div id="center"><a href="https://info.flagcounter.com/BGFj"><img src="https://s01.flagcounter.com/count2/BGFj/bg_000000/txt_FFFFFF/border_000000/columns_3/maxflags_9/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" /></a> <br /> <a title="Web Analytics" href="http://statcounter.com/p12155641/summary/?guest=1" target="_blank"><img src="https://c.statcounter.com/12155641/0/d640b6a8/0/" alt="Web Analytics" /></a></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both; text-align:center"><font color="white">Copyright &copy;  2019 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

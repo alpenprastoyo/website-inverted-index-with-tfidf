@@ -1,0 +1,149 @@
+<table class="table table-hover table-striped">
+    <tbody><tr>
+        <th>No</th>
+        <th>No Klas</th>
+        <th>Penulis</th>
+        <th>Judul</th>
+        <th>Jumlah Baca</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Han a 2009</td>
+        <td>HANDOYO</td>
+        <td>Analisis struktural novel gajah mada : bergelut dalam kemelut takhta dan angkara dan perang bubat  karya langit kresna hariadi </td>
+        <td>226529</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Mar tn2011</td>
+        <td>Margaretha Erlin Astri Widyastuti</td>
+        <td>Novel Bumi Manusia Karya Pramoedya Ananta Toer ( Kajian Struktur, Sosial, Budaya, Agama Dan Nilai Pendidikan ) </td>
+        <td>96195</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Jon n 2014</td>
+        <td>Joni Saputro S. </td>
+        <td>Naskah Drama Ayahku Pulang Karya Usmar Ismail: Pendekatan Struktur Dan Tekstur </td>
+        <td>47141</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Del p 2012</td>
+        <td>Delissa Larasati</td>
+        <td>Penerapan Pasal 53 Jo. Pasal 285 terhadap Pelaku Tindak Pidana Percobaan Perkosaan (Kajian terhadap Putusan No. 142/Pid.Sus/2011/Pn.Ska)</td>
+        <td>23825</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Fis r 2007</td>
+        <td>Fisty Ichti Cahya</td>
+        <td>Runtuhnya Uni Soviet dan pengaruhnya terhadap eksistensi sosialisme komunisme</td>
+        <td>22764</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>Muh e 2015</td>
+        <td>Muhammad Taufik Akbar</td>
+        <td>Eksperimen Model PBL Melalui Metode Eksperimen dan Demonstrasi Materi Suhu dan Kalor Kelas  X MIA SMAN 4 Surakarta Ditinjau dari  Kemampuan Analisis Siswa</td>
+        <td>20934</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>Dwi p 2015</td>
+        <td>Dwi Hendra Kusuma</td>
+        <td>Pengembangan Media Pembelajaran Video Tutorial untuk Meningkatkan Hasil Belajar Siswa pada  Mata Pelajaran Pemasaran Online SMK Negeri 3 Surakarta  Tahun Ajaran 2014/2015</td>
+        <td>20017</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Pup p 2014</td>
+        <td>Puput Pratiwi</td>
+        <td>Pembuatan Sabun Cuci Piring Cair Dari Minyak Goreng Bekas (Jelantah)</td>
+        <td>19029</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Mh. p 2015</td>
+        <td>Mh. Fahd Al Aliem Romas</td>
+        <td>Pengembangan Sistem Informasi Borang Akreditasi Berbasis Web pada Program Studi   Pendidikan Teknik Mesin JPTK FKIP UNS</td>
+        <td>18692</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Djo b 2010</td>
+        <td>Drs.Djoko Purwanto, M.B.A.</td>
+        <td>Buku Komunikasi Bisnis Edisi 4</td>
+        <td>16871</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Esi c 2009</td>
+        <td>Esi Yulistiana</td>
+        <td>Cerita rakyat “Jaka Poleng Pendapa Kabupaten Brebes” di Desa Brebes Kecamatan Brebes Kabupaten Brebes Jawa Tengah (Sebuah tinjauan folklor dan perbandingan)</td>
+        <td>16855</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Ari p 2015</td>
+        <td>Arif Yulianto Pratama</td>
+        <td>Peran Syariah Funding Executive (SFE)  Pada Bank Syariah Mandiri, Tbk.  Kantor Cabang Pembantu Palur  Dalam Memasarkan Produk Simpanan</td>
+        <td>15851</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Han h 2014</td>
+        <td>Hanindya Restu Aulia </td>
+        <td>Hubungan Antara Penguasaan Kalimat Efektif Dan Konsep Diri Dengan Keterampilan Menulis Ilmiah (Survai Pada Mahasiswa Semester Ii Program Studi Akuntansi Fakultas Ekonomi Universitas Pekalongan Tahun Angkatan 2013/2014) </td>
+        <td>15795</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Tri W 2004</td>
+        <td>Tri Suhartanti</td>
+        <td>Wacana berita bahasa Jawa di TVRI Semarang Jawa Tengah (kajian kohesi dan koherensi)</td>
+        <td>15407</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>Mut p 2012</td>
+        <td>Mutiara Ekowati Indriastuti</td>
+        <td>Prosedur Pemberian Kredit Pada Koperasi Simpan Pinjam (Ksp) Bhina Raharja Cabang Karanganyar</td>
+        <td>14212</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>Rir a 2008</td>
+        <td>Ririh Yuli Atminingsih</td>
+        <td>Analisis gaya bahasa dan nilai pendidikan novel Laskar Pelangi Karya Andrea Hirata</td>
+        <td>13869</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Kar p 2015</td>
+        <td>Karima Ayu Sholichah</td>
+        <td>Peran Casual Leasing dalam Mempromosikan Special Event Kepada Tenant di The Park Mall Solo Baru</td>
+        <td>13855</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>Dud c 2008</td>
+        <td>Duddy Ismunandar</td>
+        <td>Citra wanita Jawa dalam novel “Donyane Wong Culika” karya Suparto Brata</td>
+        <td>13776</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>Ike s 2016</td>
+        <td>Ike Purnama Sari</td>
+        <td>Sistem dan prosedur penanganan kedatangan dan keberangkatan kapal penumpang oleh  pt pelayaran nasional Indonesia (persero)  cabang Semarang</td>
+        <td>13264</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>Riz a 2012</td>
+        <td>Rizki Adistya Zubaida </td>
+        <td> Analisis Tokoh dan Nilai Pendidikan dalam Novel Gajahmada Karya Langit Kresna Hariadi (Tinjauan Psikologi Sastra)</td>
+        <td>10992</td>
+    </tr>
+</tbody></table></br>

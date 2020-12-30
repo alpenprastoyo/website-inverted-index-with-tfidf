@@ -1,0 +1,909 @@
+<!DOCTYPE html><!-- Panoramic -->
+<html lang="id-ID">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://pasca.uns.ac.id/s2kimia/xmlrpc.php">
+
+<title>Staff Pengajar &#8211; Website Resmi Program Studi Magister Kimia UNS</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Magister Kimia UNS &raquo; Feed" href="https://pasca.uns.ac.id/s2kimia/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Magister Kimia UNS &raquo; Umpan Komentar" href="https://pasca.uns.ac.id/s2kimia/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pasca.uns.ac.id\/s2kimia\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='DOPBSP-css-dopselect-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/libraries/css/jquery.dop.Select.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='smpl_shortcodes-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-social-media-buttons-atom-e07c492e2168-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/siteorigin-widgets/sow-social-media-buttons-atom-e07c492e2168.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/wp-carousel-free/assets/css/slick.css?ver=20170501' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/wp-carousel-free/assets/css/font-awesome.min.css?ver=20170501' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-carousel-free-style-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/wp-carousel-free/assets/css/style.css?ver=20170501' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/css/header-standard.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-otb-font-awesome-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/otb-font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-font-awesome-min-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/style.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Antic%3Aregular|Koulen%3Aregular%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/libraries/js/dop-prototypes.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://pasca.uns.ac.id/s2kimia/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pasca.uns.ac.id/s2kimia/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pasca.uns.ac.id/s2kimia/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+<link rel="canonical" href="https://pasca.uns.ac.id/s2kimia/tentang-kami/staff-pengajar/" />
+<link rel='shortlink' href='https://pasca.uns.ac.id/s2kimia/?p=107' />
+<link rel="alternate" type="application/json+oembed" href="https://pasca.uns.ac.id/s2kimia/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpasca.uns.ac.id%2Fs2kimia%2Ftentang-kami%2Fstaff-pengajar%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://pasca.uns.ac.id/s2kimia/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpasca.uns.ac.id%2Fs2kimia%2Ftentang-kami%2Fstaff-pengajar%2F&#038;format=xml" />
+<style type="text/css">
+
+
+/* Minimum slider width */
+.panoramic-slider-container.default .slider .slide img {
+	min-width: 600px;
+}
+	
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 960px) {
+	.main-navigation.translucent {
+		position: relative;
+	}
+	
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}	
+	
+	.slider-placeholder {
+		display: none;
+	}
+	
+	.header-image .overlay,
+	.panoramic-slider-container.default .slider .slide .overlay {
+		top: 25%;
+    }
+	
+	.panoramic-slider-container.default .prev.top-padded,
+	.panoramic-slider-container.default .next.top-padded{
+		margin-top: -26px;
+	}
+	.header-image .overlay.top-padded,
+	.panoramic-slider-container.default .slider .slide .overlay.top-padded {
+		padding-top: 0;
+	}
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .otb-fa.otb-fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .otb-fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .otb-fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .otb-fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+}
+
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2efe3; }
+</style>
+
+<!-- Begin Custom CSS -->
+<style type="text/css" id="out-the-box-custom-css">
+a,
+				.header-image .overlay .opacity h2,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity h2,
+				.search-btn,
+				.site-title a,
+				.widget-area .widget a,
+                .rpwe-block .rpwe-comment,
+				.search-button .otb-fa-search,
+				.info-text em,
+				.woocommerce .woocommerce-breadcrumb a,
+				.woocommerce-page .woocommerce-breadcrumb a,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+				.color-text{color:#1185bf;}div.wpforms-container form.wpforms-form input[type="text"]:focus,
+				div.wpforms-container form.wpforms-form input[type="email"]:focus,
+				div.wpforms-container form.wpforms-form input[type="tel"]:focus,
+				div.wpforms-container form.wpforms-form input[type="url"]:focus,
+				div.wpforms-container form.wpforms-form input[type="password"]:focus,
+				div.wpforms-container form.wpforms-form input[type="search"]:focus,
+				div.wpforms-container form.wpforms-form select:focus,
+				div.wpforms-container form.wpforms-form textarea:focus,
+				input[type="text"]:focus,
+				input[type="email"]:focus,
+				input[type="tel"]:focus,
+				input[type="url"]:focus,
+				input[type="password"]:focus,
+				input[type="search"]:focus,
+				select:focus,
+				textarea:focus{border-color:#1185bf;}.main-navigation,
+				.main-navigation ul ul,
+				#comments .form-submit #submit,
+				.search-block .search-submit,
+				.no-results-btn,
+				button,
+        		a.button,
+				input[type="button"],
+				input[type="reset"],
+				input[type="submit"],
+				.woocommerce ul.products li.product a.add_to_cart_button,
+				.woocommerce-page ul.products li.product a.add_to_cart_button,
+				.woocommerce ul.products li.product a.button.product_type_simple,
+				.woocommerce-page ul.products li.product a.button.product_type_simple,
+				.woocommerce button.button.alt,
+				.woocommerce a.button.alt,
+				.woocommerce-page button.button.alt,
+				.woocommerce input.button.alt,
+				.woocommerce-page #content input.button.alt,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button,
+				.woocommerce-page a.button,
+				.woocommerce input.button,
+				.woocommerce-page #content input.button,
+				.woocommerce-page input.button,
+				.woocommerce #review_form #respond .form-submit input,
+				.woocommerce-page #review_form #respond .form-submit input,
+				.woocommerce #respond input#submit.alt.disabled,
+				.woocommerce #respond input#submit.alt.disabled:hover,
+				.woocommerce #respond input#submit.alt:disabled,
+				.woocommerce #respond input#submit.alt:disabled:hover,
+				.woocommerce #respond input#submit.alt:disabled[disabled],
+				.woocommerce #respond input#submit.alt:disabled[disabled]:hover,
+				.woocommerce a.button.alt.disabled,
+				.woocommerce a.button.alt.disabled:hover,
+				.woocommerce a.button.alt:disabled,
+				.woocommerce a.button.alt:disabled:hover,
+				.woocommerce a.button.alt:disabled[disabled],
+				.woocommerce a.button.alt:disabled[disabled]:hover,
+				.woocommerce button.button.alt.disabled,
+				.woocommerce button.button.alt.disabled:hover,
+				.woocommerce button.button.alt:disabled,
+				.woocommerce button.button.alt:disabled:hover,
+				.woocommerce button.button.alt:disabled[disabled],
+				.woocommerce button.button.alt:disabled[disabled]:hover,
+				.woocommerce input.button.alt.disabled,
+				.woocommerce input.button.alt.disabled:hover,
+				.woocommerce input.button.alt:disabled,
+				.woocommerce input.button.alt:disabled:hover,
+				.woocommerce input.button.alt:disabled[disabled],
+				.woocommerce input.button.alt:disabled[disabled]:hover,
+				.wpcf7-submit,
+        		div.wpforms-container form.wpforms-form input[type=submit],
+				div.wpforms-container form.wpforms-form button[type=submit],
+				div.wpforms-container form.wpforms-form .wpforms-page-button,
+				.site-footer-bottom-bar,
+        		.testimonials .sow-slider-base .sow-slide-nav{background-color:#1185bf;}.main-navigation.translucent{background-color:rgba(17,133,191, 0.7);}.header-cart-checkout.cart-has-items .otb-fa-shopping-cart{background-color:#1185bf !important;}.woocommerce .woocommerce-info,
+        		.woocommerce .woocommerce-message{border-top-color:#1185bf;}::-moz-selection{background-color:#1185bf;}::selection{background-color:#1185bf;}a:hover,
+				.widget-area .widget a:hover,
+                .rpwe-block .rpwe-comment:hover,
+				.search-btn:hover,
+				.search-button .otb-fa-search:hover,
+				.site-header .site-top-bar-left a:hover,
+				.site-header .site-top-bar-right a:hover,
+				.site-header .site-header-right a:hover,
+				.woocommerce .woocommerce-breadcrumb a:hover,
+				.woocommerce-page .woocommerce-breadcrumb a:hover,
+				.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active{color:#007c72;}.main-navigation button:hover,
+				#comments .form-submit #submit:hover,
+				.search-block .search-submit:hover,
+				.no-results-btn:hover,
+				button:hover,
+        		a.button:hover,
+				input[type="button"]:hover,
+				input[type="reset"]:hover,
+				input[type="submit"]:hover,
+				.site-header .site-top-bar-right a:hover .header-cart-checkout .otb-fa,
+				.site-header .site-header-right a:hover .header-cart-checkout .otb-fa,
+				.woocommerce input.button.alt:hover,
+				.woocommerce-page #content input.button.alt:hover,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button:hover,
+				.woocommerce-page a.button:hover,
+				.woocommerce input.button:hover,
+				.woocommerce-page #content input.button:hover,
+				.woocommerce-page input.button:hover,
+				.woocommerce ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce-page ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce-page ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce button.button.alt:hover,
+				.woocommerce a.button.alt:hover,
+				.woocommerce-page button.button.alt:hover,
+				.woocommerce #review_form #respond .form-submit input:hover,
+				.woocommerce-page #review_form #respond .form-submit input:hover,
+				.wpcf7-submit:hover,
+        		div.wpforms-container form.wpforms-form input[type=submit]:hover,
+				div.wpforms-container form.wpforms-form button[type=submit]:hover,
+				div.wpforms-container form.wpforms-form .wpforms-page-button:hover,
+        		.testimonials .sow-slider-base .sow-slide-nav:hover{background-color:#007c72;}.site-footer{background-color:#b8ced3;}.site-header .branding .title{font-family:Georgia,Times,"Times New Roman",serif;}h1, h2, h3, h4, h5, h6,
+				h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+				.site-footer-widgets ul li h2.widgettitle,
+				.header-image .overlay .opacity h2,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity h2,
+				.woocommerce a.button,
+				.woocommerce-page a.button,
+				.woocommerce a.button.alt,
+				.woocommerce table.cart th,
+				.woocommerce-page #content table.cart th,
+				.woocommerce-page table.cart th,
+				.woocommerce input.button.alt,
+				.woocommerce-page #content input.button.alt,
+				.woocommerce table.cart input,
+				.woocommerce-page #content table.cart input,
+				.woocommerce-page table.cart input,
+				.woocommerce #respond input#submit,
+				.woocommerce a.button,
+				.woocommerce button.button,
+				.woocommerce input.button,
+				button,
+    			a.button,
+    			div.wpforms-container form.wpforms-form input[type=submit],
+				div.wpforms-container form.wpforms-form button[type=submit],
+				div.wpforms-container form.wpforms-form .wpforms-page-button,
+    			input[type="button"],
+				input[type="reset"],
+				input[type="submit"]{font-family:"Antic","Helvetica Neue",sans-serif;}h1, h2, h3, h4, h5, h6,
+				h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+				.site-footer-widgets ul li h2.widgettitle{color:#000e21;}body,
+				.site-header .site-top-bar-left a,
+				.site-header .site-top-bar-right a,
+				.site-header .site-header-right a,
+				.breadcrumbs,
+	            div.wpforms-container form.wpforms-form .wpforms-field-label,
+				div.wpforms-container form.wpforms-form input[type="text"],
+				div.wpforms-container form.wpforms-form input[type="email"],
+				div.wpforms-container form.wpforms-form input[type="tel"],
+				div.wpforms-container form.wpforms-form input[type="url"],
+				div.wpforms-container form.wpforms-form input[type="password"],
+				div.wpforms-container form.wpforms-form input[type="search"],
+				div.wpforms-container form.wpforms-form select,
+				div.wpforms-container form.wpforms-form textarea,
+				input[type="text"],
+				input[type="email"],
+				input[type="tel"],
+				input[type="url"],
+				input[type="password"],
+				input[type="search"],
+				select,
+				textarea,
+				.site-footer-widgets .widget a,
+				.header-image .overlay .opacity p,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity p{font-family:"Koulen","Helvetica Neue",sans-serif;}body,
+				.site-header .site-top-bar-left a,
+				.site-header .site-top-bar-right a,
+				.site-header .site-header-right a,
+				.breadcrumbs,
+				input[type="text"],
+				input[type="email"],
+				input[type="tel"],
+				input[type="url"],
+				input[type="password"],
+				input[type="search"],
+                select,
+				textarea,
+				.search-block .search-field,
+				.select2-drop,
+				.select2-container .select2-choice,
+				.select2-results .select2-highlighted,
+				.woocommerce .woocommerce-breadcrumb,
+				.woocommerce-page .woocommerce-breadcrumb,
+				.header-image .overlay .opacity p,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity p,
+				.woocommerce .woocommerce-ordering select,
+				.woocommerce-page .woocommerce-ordering select,
+				.woocommerce #content .quantity input.qty,
+				.woocommerce .quantity input.qty,
+				.woocommerce-page #content .quantity input.qty,
+				.woocommerce-page .quantity input.qty,
+                .woocommerce ul.products li.product .price,
+				.woocommerce #content ul.products li.product span.price,
+				.woocommerce-page #content ul.products li.product span.price,
+				.woocommerce #content div.product p.price,
+				.woocommerce-page #content div.product p.price,
+				.woocommerce-page div.product p.price,
+				.woocommerce #content div.product span.price,
+				.woocommerce div.product span.price,
+				.woocommerce-page #content div.product span.price,
+				.woocommerce-page div.product span.price,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+                .woocommerce #reviews #comments ol.commentlist li .meta,
+				#add_payment_method #payment div.payment_box,
+				.woocommerce-checkout #payment div.payment_box,
+                .rpwe-block .rpwe-time,
+				.widget-area .widget h2,
+                .testimonials .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper p{color:#002b44;}.select2-default{color:rgba(0,43,68, 0.7) !important;}::-webkit-input-placeholder{color:rgba(0,43,68, 0.7);}:-moz-placeholder{color:rgba(0,43,68, 0.7);}::-moz-placeholder{color:rgba(0,43,68, 0.7);}:-ms-input-placeholder{color:rgba(0,43,68, 0.7);}.header-cart-checkout .otb-fa{background-color:#002b44;}
+@media (max-width: 960px){.main-navigation.translucent,
+        		#main-menu.panoramic-mobile-menu-standard-color-scheme{background-color:#1185bf !important;}}
+</style>
+<!-- End Custom CSS -->
+<link rel="icon" href="https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-107 page-child parent-pageid-2 custom-background wp-custom-logo">
+
+<header id="masthead" class="site-header panoramic-header-layout-standard" role="banner">
+
+    
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="https://pasca.uns.ac.id/s2kimia/" class="custom-logo-link" rel="home" itemprop="url"><img width="310" height="62" src="https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/Magister-Kimia-.png" class="custom-logo" alt="Website Resmi Program Studi Magister Kimia UNS" itemprop="logo" srcset="https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/Magister-Kimia-.png 310w, https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/2016/09/Magister-Kimia--300x60.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                    <div class="info-text">
+            	            </div>
+			<ul class="social-links">
+<li><a href="mailto:s&#050;%6bi&#109;%69&#097;.&#117;&#110;s%40&#103;m%61&#105;l.c&#111;m" title="Send us an email" class="social-email"><i class="otb-fa otb-fa-envelope-o"></i></a></li></ul>                
+    </div>
+    <div class="clearboth"></div>
+    
+	    
+</div>
+
+        
+<nav id="site-navigation" class="main-navigation border-bottom " role="navigation">
+	<span class="header-menu-button"><i class="otb-fa otb-fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="otb-fa otb-fa-angle-right"></i><i class="otb-fa otb-fa-angle-left"></i></div>
+		<div class="main-navigation-inner"><ul id="menu-rt-theme-main-navigation-menu" class="menu"><li id="menu-item-356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-356"><a href="https://pasca.uns.ac.id/s2kimia">Home</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-custom-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-139"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/">Tentang Kami</a>
+<ul  class="sub-menu">
+	<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-143"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/profil/">Profil</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-144"><a href="https://pasca.uns.ac.id/s2kimia/">Visi dan Misi</a></li>
+	<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/kurikulum/">Kurikulum</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/grup-riset/">Grup Riset</a></li>
+	<li id="menu-item-141" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-107 current_page_item menu-item-141"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/staff-pengajar/">Staff Pengajar</a></li>
+</ul>
+</li>
+<li id="menu-item-137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-137"><a href="https://spmb.uns.ac.id/jalur-masuk/jenjang?jenjang=s2-s3">Pendaftaran</a></li>
+<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-351"><a href="https://pasca.uns.ac.id/s2kimia/berita/">Berita</a>
+<ul  class="sub-menu">
+	<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-138"><a href="https://pasca.uns.ac.id/s2kimia/berita/kegiatan/">Pengumuman</a></li>
+</ul>
+</li>
+<li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-185"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/layanan/">Layanan</a>
+<ul  class="sub-menu">
+	<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a href="https://pasca.uns.ac.id/s2kimia/usulan-pembimbing/">Usulan Pembimbing</a></li>
+</ul>
+</li>
+<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://pasca.uns.ac.id/s2kimia/alumni/">Alumni</a></li>
+<li id="menu-item-383-id" class="lang-item lang-item-24 lang-item-id lang-item-first current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-383-id"><a href="https://pasca.uns.ac.id/s2kimia/tentang-kami/staff-pengajar/" hreflang="id-ID" lang="id-ID"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAFASURBVHjaYrwvyMzw6S8DGPwD0//ACAj+wNj/kNgAAcTC8P6vUF87UPr/v38M//79//v3/18g+Yfh35//v//++/vn/x8g+v3/N4hxe9YigABiYWAGG/biOQNI6V+wNBj9/f0PqOj3738g1b////rFLCUNtAEggFgY/jIAjYSo/gdWygBU8ec3iP37z7/fv0DsXyARxj9AOQaAAGIBOe7b179fPv3/85cBah5Q6a9/v8HafoOM//frF1CckYf3FwMDQACxCOSmctjY//34EeSef2AEchiY8QfsB4jlf/8yCwiKnT8LEECMf/+CguY/EDCAIW7AxMT0/v17gABi+ffvHyMjI0g9Az7VEFmgLwACiAmoAb9SNG0AAQSyAWgXRA8DDADtZEABQC5IFqgYIIBAGn78+PEPAhjAEAeAaAUIMAD/YnbumkL3sQAAAABJRU5ErkJggg==" title="Bahasa Indonesia" alt="Bahasa Indonesia" /></a></li>
+<li id="menu-item-383-en" class="lang-item lang-item-21 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-383-en"><a href="https://pasca.uns.ac.id/s2kimia/en/" hreflang="en-US" lang="en-US"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAIAAAD5gJpuAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHzSURBVHjaYkxOP8IAB//+Mfz7w8Dwi4HhP5CcJb/n/7evb16/APL/gRFQDiAAw3JuAgAIBEDQ/iswEERjGzBQLEru97ll0g0+3HvqMn1SpqlqGsZMsZsIe0SICA5gt5a/AGIEarCPtFh+6N/ffwxA9OvP/7//QYwff/6fZahmePeB4dNHhi+fGb59Y4zyvHHmCEAAAW3YDzQYaJJ93a+vX79aVf58//69fvEPlpIfnz59+vDhw7t37968efP3b/SXL59OnjwIEEAsDP+YgY53b2b89++/awvLn98MDi2cVxl+/vl6mituCtBghi9f/v/48e/XL86krj9XzwEEEENy8g6gu22rfn78+NGs5Ofr16+ZC58+fvyYwX8rxOxXr169fPny+fPn1//93bJlBUAAsQADZMEBxj9/GBxb2P/9+S/R8u3vzxuyaX8ZHv3j8/YGms3w8ycQARmi2eE37t4ACCDGR4/uSkrKAS35B3TT////wADOgLOBIaXIyjBlwxKAAGKRXjCB0SOEaeu+/y9fMnz4AHQxCP348R/o+l+//sMZQBNLEvif3AcIIMZbty7Ly6t9ZmXl+fXj/38GoHH/UcGfP79//BBiYHjy9+8/oUkNAAHEwt1V/vI/KBY/QSISFqM/GBg+MzB8A6PfYC5EFiDAABqgW776MP0rAAAAAElFTkSuQmCC" title="English" alt="English" /></a></li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+    
+</header><!-- #masthead -->
+
+<script>
+    var panoramicSliderTransitionSpeed = parseInt(450);
+</script>
+
+
+<div id="content" class="site-content site-container ">
+
+	
+        
+                <div class="breadcrumbs">
+            <!-- Breadcrumb NavXT 6.1.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Pascasarjana UNS." href="https://pasca.uns.ac.id" class="main-home"><span property="name">Pascasarjana UNS</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Website Resmi Program Studi Magister Kimia UNS." href="https://pasca.uns.ac.id/s2kimia" class="home"><span property="name">Website Resmi Program Studi Magister Kimia UNS</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Tentang Kami." href="https://pasca.uns.ac.id/s2kimia/tentang-kami/" class="post post-page"><span property="name">Tentang Kami</span></a><meta property="position" content="3"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name">Staff Pengajar</span><meta property="position" content="4"></span>        </div>
+                
+    
+	<div id="primary" class="content-area rpwe-horizontal ">
+		<main id="main" class="site-main" role="main">
+            
+                
+    <header class="entry-header">
+        
+        <h1 class="entry-title">Staff Pengajar</h1>        
+    </header><!-- .entry-header -->
+
+
+			
+				
+<article id="post-107" class="post-107 page type-page status-publish hentry">
+
+	<div class="entry-content">
+		<table class="table table-hover">
+<thead>
+<tr>
+<th style="text-align: center">Nama Dosen</th>
+<th style="text-align: center">Keahlian</th>
+<th style="text-align: center">Lihat Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dr. rer. nat. FAJAR RAKHMAN WIBOWO, S.Si, M.Si.</strong></td>
+<td>Kimia (Pemodelan Molekuler)</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0005067305.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. FITRIA RAHMAWATI, S.Si, M.Si.</strong></td>
+<td>electrochemistry</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0010107504.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Prof. Dra. NENG SRI SUHARTY, M.Sc., Ph.D</strong></td>
+<td>Kimia Polimer</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0016084903.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. SAYEKTI WAHYUNINGSIH, S.Si., M.Si.</strong></td>
+<td>Kimia Anorganik</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0011127105.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. DESI SUCI HANDAYANI, S.Si, M.Si</strong></td>
+<td>Kimia Organik</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0007127202.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>VENTY SURYANTI, S.Si.,M.Phil., Ph.D.</strong></td>
+<td>Kimia Organik</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0017087206.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. PRANOTO, M.Sc.</strong></td>
+<td>Kimia Lingkungan</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0030105403.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Prof. Drs. SENTOT BUDI RAHARDJO, Ph.D.</strong></td>
+<td>Kimia Anorganik</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0007055608.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. ABU MASYKUR, S.Si.,M.Si.</strong></td>
+<td>Elektroanalisis dan Lingkungan</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0026047108.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. TRIANA KUSUMANINGSIH, S.Si, M.Si.</strong></td>
+<td>KIMIA ORGANIK</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0024017303.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. KHOIRINA DWI NUGRAHANINGTYAS, S.Si., M.Si.</strong></td>
+<td>Kimia</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0019047403.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. rer. nat. ATMANTO HERU WIBOWO, S.Si., M.Si.</strong></td>
+<td>Kimia Synthesis dan analitik</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0013087406.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. EDDY HERALDY, M.Si</strong></td>
+<td>Kimia Material/Zat Padat</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0005036408.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. rer. nat. WITRI WAHYU LESTARI, S.Si, M.Sc.</strong></td>
+<td>Kimia Anorganik-Supramolekul</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0022128002.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>Dr. rer. nat. MAULIDAN FIRDAUS, S.Si., M.Sc.</strong></td>
+<td>Kimia Organik</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0005027903.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+<tr>
+<td><strong>TEGUH ENDAH SARASWATI, S.Si, M.Sc., Ph.D.</strong></td>
+<td>Kimia</td>
+<td><a href="https://iris1103.uns.ac.id/profil-0026037902.asm" target="_blank" rel="noopener">Lihat Detail</a></td>
+</tr>
+</tbody>
+</table>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+	
+</article><!-- #post-## -->
+
+				
+			
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="polylang-2" class="widget widget_polylang"><h2 class="widget-title">Language</h2><label class="screen-reader-text" for="lang_choice_polylang-2">Choose a language</label><select name="lang_choice_polylang-2" id="lang_choice_polylang-2">
+	<option value="id" selected="selected">Bahasa Indonesia</option>
+
+</select>
+<script type="text/javascript">
+					//<![CDATA[
+					var urls_polylang2 = {"id":"https:\/\/pasca.uns.ac.id\/s2kimia\/tentang-kami\/staff-pengajar\/","en":"https:\/\/pasca.uns.ac.id\/s2kimia\/en\/"};
+					document.getElementById( "lang_choice_polylang-2" ).onchange = function() {
+						location.href = urls_polylang2[this.value];
+					}
+					//]]>
+				</script></aside><aside id="search-3" class="widget widget_search"><h2 class="widget-title">Search</h2><form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s2kimia/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form></aside><aside id="sow-editor-4" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h2 class="widget-title">Download disini</h2>
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><a href="https://drive.google.com/uc?export=download&amp;id=0B3R0ylc54PYCdjMtNEpjWjNJNFE">Surat Keterangan Aktif Kuliah</a><br />
+<a href="https://drive.google.com/uc?export=download&amp;id=0B3R0ylc54PYCWFU1bUZMWHFjNHc">Form Permohonan Seminar Proposal Tesis</a><br />
+<a href="https://drive.google.com/uc?export=download&amp;id=0B3R0ylc54PYCcFREOXE5YS1ycTQ">Form Permohonan Seminar Hasil Tesis</a><br />
+<a href="https://drive.google.com/uc?export=download&amp;id=0B3R0ylc54PYCV3JwM1F5eHJST2s">Form Permohonan Ujian Tesis</a><br />
+<a href="https://drive.google.com/uc?export=download&amp;id=0B3R0ylc54PYCckgzMV94WFlZX2c">Tentang Pascasarjana</a></p>
+</div>
+</div></aside><aside id="sow-editor-10" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h2 class="widget-title">Link External</h2>
+<div class="siteorigin-widget-tinymce textwidget">
+	<ul>
+<li><span style="color: #000080"><a href="https://siakad.uns.ac.id/">Siakad Universitas Sebelas Maret</a></span></li>
+<li><span style="color: #000080"><a href="https://lab.mipa.uns.ac.id/">Laboratorium MIPA Terpadu UNS</a></span></li>
+<li><span style="color: #000080"><a href="https://library.uns.ac.id/">Perpustakaan Universitas Sebelas Maret</a></span></li>
+<li><span style="color: #000080"><a href="https://kimia.mipa.uns.ac.id/id/">S1 Kimia MIPA Universitas Sebelas Maret</a></span></li>
+<li><span style="color: #000080"><a href="https://wisuda.uns.ac.id/">Wisuda Universitas Sebelas Maret</a></span></li>
+<li><span style="color: #000080"><a href="https://spmb.uns.ac.id/">SPMB Universitas Sebelas Maret</a></span></li>
+<li><span style="color: #000080"><a href="https://uns.ac.id/id/">Universitas Sebelas Maret</a></span></li>
+</ul>
+</div>
+</div></aside><aside id="archives-3" class="widget widget_archive"><h2 class="widget-title">Berita</h2>		<label class="screen-reader-text" for="archives-dropdown-3">Berita</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Pilih Bulan</option>
+				<option value='https://pasca.uns.ac.id/s2kimia/2018/06/'> Juni 2018 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2018/05/'> Mei 2018 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2018/04/'> April 2018 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2017/08/'> Agustus 2017 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2017/04/'> April 2017 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2017/03/'> Maret 2017 &nbsp;(2)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2016/11/'> November 2016 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2016/08/'> Agustus 2016 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2016/06/'> Juni 2016 &nbsp;(3)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2016/04/'> April 2016 &nbsp;(1)</option>
+	<option value='https://pasca.uns.ac.id/s2kimia/2016/03/'> Maret 2016 &nbsp;(1)</option>
+
+		</select>
+		</aside>		<aside id="recent-posts-5" class="widget widget_recent_entries">		<h2 class="widget-title">Berita Terbaru</h2>		<ul>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2kimia/2018/06/30/erasmuspartnership-forum-leipzig-2018/">Erasmus+Partnership Forum Leipzig 2018</a>
+							<span class="post-date">Juni 30, 2018</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2kimia/2018/05/01/erasmus-international-mobility-program-di-universitas-leipzig-jerman/">Erasmus+ International Mobility Program di UNIVERSITAS LEIPZIG Jerman 2017</a>
+							<span class="post-date">Mei 1, 2018</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2kimia/2018/04/20/kuliah-pakar-prof-dr-eva-marie-hey-hawkins/">Kuliah Pakar Prof. Dr. Eva Marie Hey-Hawkins</a>
+							<span class="post-date">April 20, 2018</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2kimia/2017/08/30/kuliah-pakar/">Kuliah Pakar</a>
+							<span class="post-date">Agustus 30, 2017</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2kimia/2017/04/11/informasi-erasmus-international-credit-mobility-dengan-leipzig-university/">Informasi Erasmus+ International Credit Mobility dengan Leipzig University</a>
+							<span class="post-date">April 11, 2017</span>
+						</li>
+				</ul>
+		</aside>		</div><!-- #secondary -->
+    
+        
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        
+                        <ul>
+                <li id="sow-editor-5" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h2 class="widgettitle">Alamat</h2>
+
+<div class="siteorigin-widget-tinymce textwidget">
+	<p>Lantai 1 Gedung Pascasarjana<br />
+Universitas Ssebelas Maret<br />
+Jl. Ir. Sutami 36A,<br />
+Kentingan, Jebres,<br />
+Surakarta 57126</p>
+<p>e-mail:<br />
+s2kimia@unit.uns.ac.id<br />
+s2kimia.uns@gmail.com</p>
+</div>
+</div></li>
+<li id="sow-social-media-buttons-2" class="widget widget_sow-social-media-buttons"><div class="so-widget-sow-social-media-buttons so-widget-sow-social-media-buttons-atom-fffffc112d6a">
+<div class="social-media-button-container">
+	
+		<a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="Website Resmi Program Studi Magister Kimia UNS on Facebook" aria-label="Website Resmi Program Studi Magister Kimia UNS on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/" >
+			<span>
+								<span class="sow-icon-fontawesome" data-sow-icon="&#xf09a;" ></span>							</span>
+		</a>
+	</div>
+</div></li>
+<li id="sow-google-map-4" class="widget widget_sow-google-map"><div class="so-widget-sow-google-map so-widget-sow-google-map-base">
+
+<img
+	class="sowb-google-map-static"
+	border="0"
+	src="https://maps.googleapis.com/maps/api/staticmap?center=pasca%20sarjana,%20universitas%20sebelas%20maret,%20surakarta,%20Indonesia&#038;zoom=12&#038;size=640x480&#038;markers=pasca%20sarjana,%20universitas%20sebelas%20maret,%20surakarta,%20Indonesia|"
+	data-fallback-image="{&quot;img&quot;:&quot;&quot;}"
+	onerror="this.sowbLoadError = true;">
+
+</div></li>
+<li id="sow-editor-11" class="widget widget_sow-editor"><div class="so-widget-sow-editor so-widget-sow-editor-base"><h2 class="widgettitle">Visitors</h2>
+
+<div class="siteorigin-widget-tinymce textwidget">
+	<p><a href="https://www.worldflagcounter.com/details/fzf"><img src="https://www.worldflagcounter.com/fzf/" alt="Flag Counter" /></a></p>
+</div>
+</div></li>
+            </ul>
+    		    		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Theme by <a href="http://www.outtheboxthemes.com">Out the Box</a> 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	                            
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+<link rel='stylesheet' id='sow-social-media-buttons-atom-fffffc112d6a-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/uploads/sites/11/siteorigin-widgets/sow-social-media-buttons-atom-fffffc112d6a.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css'  href='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css?ver=4.8.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Tutup","currentText":"Hari ini","monthNames":["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"],"monthNamesShort":["Jan","Feb","Mar","Apr","Mei","Jun","Jul","Agu","Sep","Okt","Nov","Des"],"nextText":"Berikut","prevText":"Sebelumnya","dayNames":["Minggu","Senin","Selasa","Rabu","Kamis","Jumat","Sabtu"],"dayNamesShort":["Ming","Sen","Sel","Rab","Kam","Jum","Sab"],"dayNamesMin":["M","S","S","R","K","J","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/libraries/js/jquery.dop.Select.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/assets/js/jquery.dop.frontend.BSPCalendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/assets/js/frontend.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/assets/js/deposit/frontend-deposit.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/assets/js/discounts/frontend-discounts.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/assets/js/fees/frontend-fees.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/assets/js/rules/frontend-rules.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/application/assets/js/dot.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/application/assets/js/calendars/calendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-availability.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-days.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-day.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-schedule.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/pasca.uns.ac.id\/s2kimia\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/wp-carousel-free/assets/js/slick.min.js?ver=20170501'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/js/navigation.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/js/jquery.touchSwipe.min.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/js/custom.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kimia/wp-content/plugins/so-widgets-bundle/widgets/google-map/js/static-map.min.js?ver=1.12.1'></script>
+
+</body>
+</html>

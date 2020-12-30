@@ -1,0 +1,18 @@
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="center"><ul id="css3menu1" class="topmenu">
+	<li class="topfirst"><a href="index.php" title="BERANDA" style="width:107px;height:12px;line-height:12px;">Beranda</a></li>
+  <li class="topmenu"><a href="index.php?menu=agenda&amp;act=84327952638745923740572034757902374057293" title="Agenda FSSR" style="width:105px;height:12px;line-height:12px;"><span>Agenda </span></a>    </li>
+    <li class="topmenu"><a href="index.php?menu=galery&amp;act=84327952638745923740572034757902374057293" title="Gallery FSSR" style="width:102px;height:12px;line-height:12px;"><span>Gallery</span></a></li>
+  <li class="topmenu"><a href="#" title="Akademik FSSR" style="width:105px;height:12px;line-height:12px;"><span>Akademik</span></a>    </li>
+    <li class="topmenu"><a href="index.php?menu=journal&amp;act=84327952638745923740572034757902374057293" title="Journal FSSR" style="width:114px;height:12px;line-height:12px;"><span>Journal</span></a>    </li>
+    <li class="topmenu"><a href="index.php?menu=download&amp;act=84327952638745923740572034757902374057293" title="Download" style="width:110px;height:12px;line-height:12px;">Download</a></li>
+  <li class="topmenu"><a href="index.php?menu=kontak&amp;act=84327952638745923740572034757902374057293" title="Kontak" style="width:105px;height:12px;line-height:12px;">Kontak</a></li>
+  </ul>
+
+</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="images/header2.png" width="900" height="150"></td>
+      </tr>
+    </tbody></table></br>

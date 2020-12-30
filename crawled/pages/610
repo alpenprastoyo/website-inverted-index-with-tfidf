@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf-frontend">
+<meta name="csrf-token" content="p2xHdLAk89BNThia5eZFXTNKivs_ioGOPBB6y2I_gXPmWH49-FG9hAQKaNysgwAESwbtg1Kn1sJYXi-7JlrbCQ==">
+    <title>CDC UNS - Lowongan Account Officer</title>
+    <link type="image/png" href="/favicon.png" rel="icon" sizes="96x96">
+<link href="/assets/fd81f22c/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/275d83cc/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/a24e7de1/css/AdminLTE.min.css" rel="stylesheet">
+<link href="/assets/a24e7de1/css/skins/_all-skins.min.css" rel="stylesheet">
+<link href="/css/site.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<style>.lowongan-index .nav-justified>li{width:1%;display:table-cell}.lowongan-index .media{margin-right:150px}.lowongan-index .lowongan-list{border:1px solid #eee;margin-bottom:10px}.lowongan-index .lowongan-count-left{right:75px;border-left:1px solid #ddd}.lowongan-index td,.lowongan-index th{padding:1px;vertical-align:text-bottom}.lowongan-index th{width:100px}.lowongan-index .company-logo-wrap{margin-left:0;padding:0;margin-right:10px}.lowongan-view tr,td,th{padding:0 20px 5px 0;vertical-align:text-bottom}.lowongan-view h1{font-size:30px;font-weight:600;color:#3656a4}.lowongan-view .deskripsi{padding:10px}.deskripsi .deskripsi-text{color:#333;padding-left:33px;line-height:23px;font-size:15px}.titlebar{background-color:#F6F6F6;padding:15px;color:#93A3CB;border-bottom:1px solid #EDEDED;margin:0}.modal-header{background-color:#186fc9}.close{color:#e0e0e0;opacity:1}.close:focus,.close:hover{color:#fff;opacity:1}.modal-body .titlebar{margin:-15px -15px 0}.titlebar h1{margin-top:1px}.tipe-kerja,.titlebar span{position:relative;top:-4px;font-size:14px;background-color:#186FC9;color:#fff;font-weight:700;text-transform:uppercase;padding:4px 10px;display:inline-block}.media .company-logo-wrap{height:80px;width:80px;position:relative;margin-right:10px;border:none}.media .company-logo-wrap .company-logo{padding:4px;position:absolute;top:0;bottom:0;left:0;right:0;max-width:100%;max-height:100%;margin:auto}.top-info span.title{font-size:18px;font-weight:600}.job-meta{padding:3px 5px 0}.job-meta ul li{color:#868585;border-radius:2px!important;margin-bottom:3px;border:1px solid #E1E1E1;padding:5px 10px}@media screen and (max-width:480px){.lowongan-index .lowongan-count-wrap{margin:0 -1px}.lowongan-index .media{margin-right:0}.lowongan-index .lowongan-count{box-sizing:border-box;float:left;position:static;width:50%}.lowongan-view .deskripsi .deskripsi-text{padding-left:0}}</style>
+<style>.app-sidebar .media-body a{color:#333;}.app-sidebar .media-body a:hover{color:#72AFD2;}</style>
+<style>.user-body a{display:block}.user-body a>span{display:block}</style>
+<style>.app-sidebar-1 .box .box-header .box-title, .app-sidebar-2 .box .box-header .box-title {
+	font-size: 14px;
+	font-weight: 600;
+}
+.app-sidebar-1 .media-body a {
+	color: #333;
+}
+.app-sidebar-1 .media-body a:hover {
+	color: #72AFD2;
+}
+.app-sidebar-1 .sep {
+	position: relative;
+	padding: 1px 10px 3px;
+	min-height: 40px;
+	color: #A9A9A9;
+	text-align: left;
+	border-left: 1px solid #B3B3B3;
+	margin: 10px 0 0 60px;
+}
+.app-sidebar-1 .sep span {
+	position: absolute;
+	top: 50%;
+	left: -30px;
+}
+
+.app-sidebar-1 .sep span span {
+	color: #B15803;
+	display: inline-block;
+	position: absolute;
+	left: -20px;
+	top: -24px;
+	width: 40px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 30px;
+}
+.app-sidebar-1 .sep span span em {
+	display: block;
+	padding: 0;
+	font-style: normal;
+	font-size: 13px;
+	text-transform: uppercase;
+}
+</style>
+<style>.app-footer .logo img{margin:5px 0 -45px -10px;padding-bottom:6px}.app-footer .sosmed-icon{letter-spacing:5px;font-size:18px}.app-footer .sosmed-icon a{color:#F2F2F2}.app-footer ul{display:block;list-style:none;padding-left:0}.app-footer ul li,.app-footer ul li a{color:#F2F2F2;padding:15px 0 5px}.app-footer ul li{border-bottom:1px dotted #BEBEBE}.app-footer ul li span{padding:0 5px}</style>
+<!--[if lt IE 9]>
+<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]--></head>
+<body class="hold-transition skin-blue layout-top-nav sidebar-mini">
+<div class="wrapper">
+    <header class="main-header">
+    <nav class="navbar navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <a href="https://cdc.uns.ac.id" class="navbar-brand" style="padding: 5px 15px">
+                    <img src="/img/logo-cdc-2.png" alt="Logo CDC UNS">
+                </a>
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
+                <ul id="w0" class="nav navbar-nav"><li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Registrasi <span class="caret"></span></a><ul id="w1" class="dropdown-menu"><li><a href="/registrasi/member" tabindex="-1"><i class="fa fa-user-o"></i>Member</a></li>
+<li><a href="/registrasi/perusahaan" tabindex="-1"><i class="fa fa-building-o"></i>Perusahaan</a></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Karir <span class="caret"></span></a><ul id="w2" class="dropdown-menu"><li><a href="/lowongan/site/index" tabindex="-1"><i class="fa fa-building-o"></i>Perusahaan & Lowongan</a></li>
+<li><a href="/panggilan-tes" tabindex="-1"><i class="fa fa-bullhorn"></i>Panggilan Tes</a></li>
+<li><a href="/info-karir/index" tabindex="-1"><i class="fa fa-book"></i>Kamus Karir</a></li></ul></li>
+<li class="visible-xs"><a href="/berita/index">Berita</a></li>
+<li><a href="/event/index">Event</a></li>
+<li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Pengembangan Diri <span class="caret"></span></a><ul id="w3" class="dropdown-menu"><li><a href="/assessment" tabindex="-1"><i class="fa fa-laptop"></i>Online Assessment</a></li></ul></li>
+<li class="visible-xs"><a href="/artikel/index">Artikel</a></li>
+<li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Statistik <span class="caret"></span></a><ul id="w4" class="dropdown-menu"><li><a href="/statistik/demografi-jenis-member" tabindex="-1"><i class="fa fa-pie-chart"></i>Demografi Jenis Member</a></li>
+<li><a href="/statistik/demografi-pendidikan-tertinggi" tabindex="-1"><i class="fa fa-pie-chart"></i>Demografi Pendidikan Tertinggi</a></li>
+<li><a href="/statistik/demografi-universitas" tabindex="-1"><i class="fa fa-pie-chart"></i>Demografi Univeritas</a></li>
+<li><a href="/statistik/demografi-perusahaan" tabindex="-1"><i class="fa fa-pie-chart"></i>Demografi Perusahaan</a></li></ul></li>
+<li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Tentang Kami <span class="caret"></span></a><ul id="w5" class="dropdown-menu"><li><a href="/site/about" tabindex="-1"><i class="fa fa-info-circle"></i>Tentang CDC UNS</a></li>
+<li><a href="/site/struktur-organisasi" tabindex="-1"><i class="fa fa-sitemap"></i>Struktur Organisasi</a></li>
+<li><a href="/site/contact" tabindex="-1"><i class="fa fa-phone"></i>Kontak CDC UNS</a></li></ul></li>
+<li><a href="/site/faq">F.A.Q</a></li></ul>            </div>
+            <div class="navbar-custom-menu">
+                <ul class="nav navbar-nav">
+
+                    
+                    
+                    <li><a href="/site/login"><i class="fa fa-user"></i> Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+    <div class="content-wrapper">
+        <div class="container">
+            <section class="content">
+                <div class="row row-eq-height">
+                    <div class="col-md-9 col-md-push-3 app-content">
+                                                <div class="lowongan-view">
+    <div class="titlebar">
+        <i>Lowongan Pekerjaan</i>
+        <h1>Account Officer            <span class="tipe-kerja">Full Time</span>
+        </h1>
+    </div>
+    <div class="media clearfix">
+        <div class="company-logo-wrap pull-left">
+            <img class="company-logo" src="https://cdc.uns.ac.id/uploads/image/2018-08-29-iJ7iga5IJSd4Furv9p0krhpAIx_fvkNY.png" alt="">        </div>
+        <div class="media-body top-info">
+            <span class="title">BANK BUKOPIN</span><br/>
+            Kota Jakarta Selatan<br/>
+            <i>Industri:
+                <b>Perbankan</b>
+            </i>
+        </div>
+    </div>
+    <hr style="margin-top:5px;margin-bottom:0;border-color:#E0E0E0;"/>
+
+    <div class="job-meta">
+        <ul class="list-inline">
+            <li>
+                <i class="fa fa-clock-o">
+                    &nbsp;</i>Posted: 18 Dec 2020            </li>
+            <li>
+                <i class="fa fa-map-marker">&nbsp;</i>Kota Jakarta Selatan                , DKI Jakarta            </li>
+            <li>
+                <i class="fa fa-briefcase">&nbsp;</i>Status kerja: Tetap            </li>
+            <li>
+                <i class="fa fa-pencil">&nbsp;</i>Cara lamar: Online            </li>
+        </ul>
+    </div>
+
+    <div class="deskripsi">
+        <h2 class="h3" style="margin-top:0;"><i class="fa fa-fw fa-briefcase text-muted">&nbsp;</i>Deskripsi Lowongan
+        </h2>
+        <div class="deskripsi-text">
+            <p>Bertanggung jawab dalam melakukan penghimpunan dana nasabah (funding), penanganan keluhan nasabah dan penyelesaian masalah nasabah hingga melakukan penjualan / promosi produk-produk funding untuk mencapai target funding yang ditetapkan serta memberikan pelayanan yang baik kepada nasabah prioritas</p>        </div>
+
+        <h2 class="h3"><i class="fa fa-fw fa-file-text text-muted">&nbsp;</i>Persyaratan Umum</h2>
+        <div class="deskripsi-text">
+            <table width="313">
+<tbody>
+<tr>
+<td width="313">Pria/Wanita</td>
+</tr>
+<tr>
+<td>Max 30 tahun</td>
+</tr>
+<tr>
+<td>Min D3</td>
+</tr>
+<tr>
+<td>Min 2 tahun di Lembaga Keuangan/Perbankan</td>
+</tr>
+<tr>
+<td>Diutamakan mempunyai kemampuan berbahasa Mandarin atau English</td>
+</tr>
+</tbody>
+</table>        </div>
+
+        <h2 class="h3"><i class="fa fa-fw fa-file-text text-muted">&nbsp;</i>Persyaratan Khusus</h2>
+        <div class="deskripsi-text">
+            <table>
+                <tr>
+                    <th>Pendidikan</th>
+                    <td>:</td>
+                    <td>Minimal D3</td>
+                </tr>
+                <tr>
+                    <th>Jurusan</th>
+                    <td>:</td>
+                    <td>S-1 Manajemen Keuangan, D-3 Keuangan Perbankan, S-1 Akuntansi, S-1 Manajemen Permasaran, D-3 Manajemen Pemasarn, D-4 Keuangan dan Perbankan, S-1 Pemasaran</td>
+                </tr>
+                <tr>
+                    <th>IPK Minimal</th>
+                    <td>:</td>
+                    <td>3</td>
+                </tr>
+            </table>
+            <table width="313">
+<tbody>
+<tr>
+<td width="313">Pria/Wanita</td>
+</tr>
+<tr>
+<td>Max 30 tahun</td>
+</tr>
+<tr>
+<td>Min D3</td>
+</tr>
+<tr>
+<td>Min 2 tahun di Lembaga Keuangan/Perbankan</td>
+</tr>
+<tr>
+<td>Diutamakan mempunyai kemampuan berbahasa mandarin atau english</td>
+</tr>
+</tbody>
+</table>        </div>
+        <hr style="margin:15px 0 10px 0;"/>
+        <div class="row">
+            <div class="col-xs-6">
+                <p class="text-info">Dibuka pada 18 Dec 2020</p>
+            </div>
+            <div class="col-xs-6">
+                <p class="text-info text-right">Ditutup
+                    pada 31 Jan 2021</p>
+            </div>
+        </div>
+    </div>
+
+            <div class="text-center"> Silakan login sebagai member terlebih dahulu untuk melamar lowongan <a class="btn btn-success btn-flat" href="/site/login?back=https%3A%2F%2Fcdc.uns.ac.id%2Flowongan%2Fsite%2F2543%2Faccount-officer"><i class="fa fa-sign-in"></i> Login</a></div>    </div>                    </div>
+                    <div class="col-md-3 col-md-pull-9 app-sidebar hidden-sm hidden-xs">
+                        <div id="sidebar1" class="app-sidebar-1">
+    
+    <div class="box box-solid">
+		<a href="/panggilan-tes/index">
+			<div class="box-header with-border" style="background-color:#FB9318;color:#fff;">
+				<i class="fa fa-bullhorn"></i>
+				<h3 class="box-title">PANGGILAN TES</h3>
+			</div>
+		</a>
+        <div class="box-body">
+                            <div class="sep">
+                    PT ASIA RECYCLE MANDIRI                    <span>
+                        <span>14                            <em>
+                                Okt                            </em>
+                        </span>
+                    </span>
+                    <a href="https://cdc.uns.ac.id/panggilan-tes/293"><p>TEST DAN INTERVIEW</p></a>
+                </div>
+                            <div class="sep">
+                    PT ASIA RECYCLE MANDIRI                    <span>
+                        <span>04                            <em>
+                                Jul                            </em>
+                        </span>
+                    </span>
+                    <a href="https://cdc.uns.ac.id/panggilan-tes/292"><p>TEST DAN INTERVIEW</p></a>
+                </div>
+                            <div class="sep">
+                    PT ASIA RECYCLE MANDIRI                    <span>
+                        <span>02                            <em>
+                                Jul                            </em>
+                        </span>
+                    </span>
+                    <a href="https://cdc.uns.ac.id/panggilan-tes/291"><p>PANGGILAN TES</p></a>
+                </div>
+                        <a href="/panggilan-tes/index" class="pull-right" style="margin-top: 5px;">
+                SELENGKAPNYA <i class="fa fa-angle-double-right"></i>
+            </a>
+        </div>
+    </div>
+
+    <div class="box box-solid">
+		<a href="/event/index">
+			<div class="box-header with-border bg-light-blue">
+				<i class="fa fa-calendar-check-o"></i>
+				<h3 class="box-title">EVENT</h3>
+			</div>
+		</a>
+        <div class="box-body">
+                            <div class="media">
+                    <div class="media-left">
+                        <a href="https://cdc.uns.ac.id/event/71/pt-lion-super-indo-virtual-campus-hiring-uns">
+                            <img src="https://cdc.uns.ac.id/uploads/media/2020/11/virtual-campus-hiring-uns.png" alt="" style="max-width: 60px;">                        </a>
+                    </div>
+                    <div class="media-body">
+                        <a href="https://cdc.uns.ac.id/event/71/pt-lion-super-indo-virtual-campus-hiring-uns"><p>PT. Lion Super Indo Virtual CAMPUS HIRING UNS</p></a>
+                    </div>
+                </div>
+                            <div class="media">
+                    <div class="media-left">
+                        <a href="https://cdc.uns.ac.id/event/70/career-starter-kit-how-to-be-resilient-and-recover-from-failure">
+                            <img src="https://cdc.uns.ac.id/uploads/media/2020/11/whatsapp-image-2020-11-24-at-205646.jpeg" alt="" style="max-width: 60px;">                        </a>
+                    </div>
+                    <div class="media-body">
+                        <a href="https://cdc.uns.ac.id/event/70/career-starter-kit-how-to-be-resilient-and-recover-from-failure"><p>Career Starter kit : How to be Resilient and Recover from Failure</p></a>
+                    </div>
+                </div>
+                            <div class="media">
+                    <div class="media-left">
+                        <a href="https://cdc.uns.ac.id/event/69/webinar--start-your-journey-with-zero-experience-dan-proses-online-rekrutmen-mt-pt-wom-financetbk">
+                            <img src="https://cdc.uns.ac.id/uploads/media/2020/11/poster-revisi.jpeg" alt="" style="max-width: 60px;">                        </a>
+                    </div>
+                    <div class="media-body">
+                        <a href="https://cdc.uns.ac.id/event/69/webinar--start-your-journey-with-zero-experience-dan-proses-online-rekrutmen-mt-pt-wom-financetbk"><p>Webinar " Start Your Journey with Zero Experience" dan Proses Online Rekrutmen MT PT WOM Finance,Tbk</p></a>
+                    </div>
+                </div>
+                        <a href="/event/index" class="pull-right" style="margin-top: 5px;">
+                SELENGKAPNYA <i class="fa fa-angle-double-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+                        <div class="widget">
+                            <div class="box box-solid">
+								<a href="/berita/index">
+									<div class="box-header with-border bg-light-blue">
+										<i class="fa fa-newspaper-o"></i>
+										<h3 class="box-title">BERITA TERBARU</h3>
+									</div>
+								</a>
+                                <div class="box-body">
+                                                                            <div class="media">
+                                            <div class="media-left">
+                                                <a href="https://cdc.uns.ac.id/berita/69/pengumuman-peserta-virtual-pre-job-training-uns-ii-sabtu-19-september-2020">
+                                                    <img src="https://cdc.uns.ac.id/uploads/media/2020/09/2-ig-pjt-series-2-oren.png" alt="" style="max-width: 60px;">                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <a href="https://cdc.uns.ac.id/berita/69/pengumuman-peserta-virtual-pre-job-training-uns-ii-sabtu-19-september-2020"><p> Pengumuman Peserta  Virtual PRE JOB TRAINING UNS II  (Sabtu, 19 September 2020)</p></a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">
+                                                <a href="https://cdc.uns.ac.id/berita/68/hasil-match-up-perguruan-tinggi-universitas-sebelas-maret-program-magang-mahasiswa-bersertifikat-pmmb-forum-human-capital-indonesia-batch-ii-tahun-2020">
+                                                    <img src="https://cdc.uns.ac.id/uploads/media/2020/07/fhci-hires.png" alt="" style="max-width: 60px;">                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <a href="https://cdc.uns.ac.id/berita/68/hasil-match-up-perguruan-tinggi-universitas-sebelas-maret-program-magang-mahasiswa-bersertifikat-pmmb-forum-human-capital-indonesia-batch-ii-tahun-2020"><p>Hasil Match up Perguruan Tinggi (Universitas Sebelas Maret) Program Magang Mahasiswa Bersertifikat (PMMB) Forum Human Capital Indonesia Batch II Tahun 2020</p></a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">
+                                                <a href="https://cdc.uns.ac.id/berita/67/pengumuman-peserta-series-3-virtual-pre-job-training-uns-selasa-14-juli-2020">
+                                                    <img src="https://cdc.uns.ac.id/uploads/media/2020/07/save-20200709-013354.jpg" alt="" style="max-width: 60px;">                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <a href="https://cdc.uns.ac.id/berita/67/pengumuman-peserta-series-3-virtual-pre-job-training-uns-selasa-14-juli-2020"><p>Pengumuman Peserta Series 3 : Virtual PRE JOB TRAINING UNS (Selasa, 14 Juli 2020)</p></a>
+                                            </div>
+                                        </div>
+                                                                        <a href="/berita/index" class="pull-right" style="margin-top: 5px;">
+                                        SELENGKAPNYA <i class="fa fa-angle-double-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="widget">
+                            <div class="box box-solid">
+								<a href="/artikel/index">
+									<div class="box-header with-border bg-light-blue">
+										<i class="fa fa-newspaper-o"></i>
+										<h3 class="box-title">ARTIKEL</h3>
+									</div>
+								</a>
+                                <div class="box-body">
+                                                                            <div class="media">
+                                            <div class="media-left">
+                                                <a href="https://cdc.uns.ac.id/artikel/7/mengenal-cdc-uns">
+                                                    <img src="https://cdc.uns.ac.id/uploads/media/2018/03/16730330-1616998451660281-3632642729748664104-n-150x150.jpg" alt="" style="max-width: 60px;">                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <a href="https://cdc.uns.ac.id/artikel/7/mengenal-cdc-uns"><p>Mengenal  CDC-UNS</p></a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">
+                                                <a href="https://cdc.uns.ac.id/artikel/5/berperilaku-seperti-karyawan-baru-setiap-hari">
+                                                    <img src="https://cdc.uns.ac.id/uploads/media/2017/08/berperilaku-seperti-karyawan-baru-setiap-hari-150x150.jpg" alt="" style="max-width: 60px;">                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <a href="https://cdc.uns.ac.id/artikel/5/berperilaku-seperti-karyawan-baru-setiap-hari"><p>Berperilaku Seperti Karyawan Baru Setiap Hari</p></a>
+                                            </div>
+                                        </div>
+                                                                            <div class="media">
+                                            <div class="media-left">
+                                                <a href="https://cdc.uns.ac.id/artikel/4/beberapa-hal-yang-tidak-perlu-masuk-dalam-cv">
+                                                    <img src="https://cdc.uns.ac.id/uploads/media/2017/08/beberapa-hal-yang-tidak-perlu-masuk-dalam-cv-150x150.png" alt="" style="max-width: 60px;">                                                </a>
+                                            </div>
+                                            <div class="media-body">
+                                                <a href="https://cdc.uns.ac.id/artikel/4/beberapa-hal-yang-tidak-perlu-masuk-dalam-cv"><p>Beberapa Hal yang Tidak Perlu Masuk Dalam CV</p></a>
+                                            </div>
+                                        </div>
+                                    
+                                                                            <a href="/artikel/index" class="pull-right" style="margin-top: 5px;">
+                                            SELENGKAPNYA <i class="fa fa-angle-double-right"></i>
+                                        </a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="app-footer">
+    <div class="primary">
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <div class="widget">
+                    <h4 class="widget-title"><i class="fa fa-arrows"> </i> NAVIGASI</h4>
+					<ul>
+						<li>
+							<a href="https://cdc.uns.ac.id" title="Home">Home</a>
+							<span>-</span>
+							<a href="/lowongan/site/index" title="Lowongan">Lowongan</a>
+							<span>-</span>
+							<a href="/panggilan-tes/index" title="Panggilan Tes">Panggilan Tes</a>
+						</li>
+						<li>
+							<a href="/berita/index" title="Berita">Berita</a>
+							<span>-</span>
+							<a href="/event/index" title="Event">Event</a>
+							<span>-</span>
+							<a href="/artikel/index" title="Artikel">Artikel</a>
+						</li>
+						<li>
+							<a href="/site/faq" title="F.A.Q">F.A.Q</a>
+							<span>-</span>
+							<a href="/site/contact" title="Kontak">Kontak</a>
+						</li>
+						<li>
+							<a href="/site/about" title="About">About</a>
+						</li>
+					</ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <div class="widget">
+                    <h4 class="widget-title"><i class="fa fa-link"> </i> Link Eksternal</h4>
+					<ul>
+						<li>
+							<a href="https://uns.ac.id/" target="_blank" title="Universitas Sebelas Maret">Universitas Sebelas Maret</a>
+						</li>
+						<li>
+							<a href="http://mawa.uns.ac.id/" target="_blank" title="Biro Kemahasiswaan dan Alumni">Biro Kemahasiswaan dan Alumni</a>
+						</li>
+					</ul>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="logo hidden-xs hidden-sm">
+					<img src="/img/cdc-uns-footer.png" class="img-responsive" alt="CDC UNS">
+				</div>
+				<div class="widget">
+					<h4 class="widget-title"><i class="fa fa-building"> </i> KANTOR CDC UNS </h4>
+					
+						Gd. Biro Kemahasiswaan & Alumni Lt. 2 <br/>
+						Jl. Ir. Sutami No. 36 A Kentingan, Jebres <br/>
+						Surakarta 57126<br/><br/>
+					
+					
+						Telp : 0271 646 994 Ext. 475 <br/>
+						E-mail : cdc@mail.uns.ac.id <br/><br/>
+					 
+					<p class="sosmed-icon"> 
+						<a rel="external nofollow" href="https://www.facebook.com/CDCUniversitasSebelasMaret/" target="_blank"><i class="fa fa-facebook fa-lg"></i> </a> 
+						<a rel="external nofollow" href="https://twitter.com/cdcuns?lang=en" target="_blank"><i class="fa fa-twitter fa-lg"></i> </a> 
+						<a rel="external nofollow" href="https://plus.google.com/115641286823347019196" target="_blank"><i class="fa fa-google-plus fa-lg"></i> </a>
+						<a rel="external nofollow" href="https://www.instagram.com/cdcuns/" target="_blank"><i class="fa fa-instagram fa-lg"></i> </a> 
+					</p>
+				</div>
+            </div>
+        </div>
+    </div>
+    <div class="copy text-center">
+        <div class="row">
+            <div class="col-xs-12"> 
+            </div>
+        </div>
+    </div>
+</div>
+            </section>
+        </div>
+    </div>
+    <footer class="main-footer">
+    <div class="container">
+        <div class="pull-right hidden-xs">
+            <b>Versi</b> 0.1.0
+        </div>
+        <strong>
+            Copyright &copy; 2020 <a href="http://tik.uns.ac.id">UPT TIK UNS</a>.
+        </strong> All rights reserved.
+    </div>
+</footer>
+</div>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script src="/assets/fd81f22c/js/bootstrap.js"></script>
+<script src="/assets/9ee30ef2/yii.js"></script>
+<script src="/assets/aa35c488/fastclick.js"></script>
+<script src="/assets/a24e7de1/js/app.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jQuery-slimScroll/1.3.8/jquery.slimscroll.min.js"></script>    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-96632860-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+</html>

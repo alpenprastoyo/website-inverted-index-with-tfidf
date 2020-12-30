@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Kegiatan dan Mitra Kerjasama Prodi ITP </title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+<meta name="google-site-verification" content="0IMXUsS4eSF45MrU6HjoDjY2vEBPy4eePCYoTiVrfSE" />
+
+  <!-- Favicons -->
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="icon">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://ilmupangan.fp.uns.ac.id/asset/prodi/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://ilmupangan.fp.uns.ac.id/asset/prodi/css/baguetteBox.min.css">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/css/gallery-grid.css" rel="stylesheet">
+
+
+
+  <!-- Template Main CSS File -->
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/css/style.css" rel="stylesheet">
+  
+
+  <!-- =======================================================
+  * Template Name: Company - v2.1.0
+  * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+        <div class="container-fluid d-flex align-items-center">
+
+      <!-- <h1 class="logo mr-auto"><a href="index.html"><span>Com</span>pany</a></h1> -->
+
+      <a href="https://ilmupangan.fp.uns.ac.id/"><img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/logo-ilmu-tanah.png" style="width: 70%; padding: 5px"></a>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        
+        <ul>
+                              <li><a href='https://ilmupangan.fp.uns.ac.id/' style='background: url(https://ilmupangan.fp.uns.ac.id/asset/images/home.png) no-repeat center; font-size:0; width:34px;'><br></a></li><li><a href='https://ilmupangan.fp.uns.ac.id/'>Beranda</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/pengumuman'>Pengumuman</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/download'>Download</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita'>Semua Berita</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/albums'>Galeri</a></li></ul>
+        
+      
+     <!--   <div style="padding-left:20px;">
+        <form class="form-search form-inline" method="POST" action="http://ilmupangan.fp.uns.ac.id/berita">
+          <div class="input-group">
+            <input type="text" name="kata" class="form-control search-query" placeholder="Cari.." /> <span class="input-group-btn">
+              <button type="submit" class="btn btn-outline-success"><i class="icofont-search-1"></i></button>
+            </span>
+ 
+          </div>
+        </form>
+      </div> -->
+      </ul>
+
+      </nav>
+   
+     
+      <!-- .nav-menu -->
+
+     <!--  <div>
+          <form class="" method="POST" action="http://ilmupangan.fp.uns.ac.id/berita">
+            <div>
+                <input class="" name="kata" type="text" value="" size="16" tabindex="1" required/>
+                <input type="submit" class="button" value="Search" tabindex="2" />
+            </div>
+          </form>
+      </div> -->
+      <div class="header-social-links">
+        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/foodtech_uns/" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+      <!-- </div>
+        <div class="cari">
+        <form class="form-inline" method="POST" action="http://ilmupangan.fp.uns.ac.id/berita">
+            <input  class="form-control mr-sm-2" name="kata" type="search" size="10" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div> -->
+      
+
+    </div>
+
+  </header><!-- End Header -->
+<hr>
+
+
+  <main id="main">
+
+     <div class="container-fluid" style="width: 95% ">
+    <dic class="row">
+      <div class="col-md-3">
+        <nav id="sidebar1" class="nav-menu-side" data-aos="fade-up">
+  <div class="cari" style="padding: 5px">
+        <form class="form-inline" method="POST" action="https://ilmupangan.fp.uns.ac.id/berita">
+            <center><input  class="form-control mr-sm-2" name="kata" type="search" size="14" placeholder="Search" aria-label="Search"></center>
+            <button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+             <ul class="list-unstyled">
+              <li> <a href='#profil-prodi-itp' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PROFIL PRODI ITP</a>
+                          <ul class='collapse list-unstyled' id='profil-prodi-itp'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/pengantar-kaprodi-itp'>PENGANTAR KAPRODI ITP</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/visi-misi-dan-tujuan-prodi-itp'>VISI, MISI, DAN TUJUAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/	page/detail/budaya-kerja-prodi-itp'>BUDAYA KERJA</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/organisasi-prodi-itp'>ORGANISASI</a></li></ul>
+                        </li><li> <a href='#pendidikan' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PENDIDIKAN</a>
+                          <ul class='collapse list-unstyled' id='pendidikan'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/kurikulum-s1itp'>KURIKULUM</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/	page/detail/kalender-akademik-tahun-ajar-20202021'>KALENDER AKADEMIK</a></li><li><a href='https://siakad-old.uns.ac.id/' target='_blank'>SISTEM INFORMASI AKADEMIK</a></li></ul>
+                        </li><li> <a href='#penelitian' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PENELITIAN</a>
+                          <ul class='collapse list-unstyled' id='penelitian'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/grup-riset-prodi-itp'>GRUP RISET</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/kegiatan-penelitian'>KEGIATAN PENELITIAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/kegiatan-dan-mitra-kerjasama-prodi-itp-'>KERJASAMA</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/publikasi-dosen'>PUBLIKASI DOSEN</a></li><li><a href='https://jurnal.uns.ac.id/ilmupangan' target='_blank'>JURNAL THP</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/seminar'>SEMINAR</a></li></ul>
+                        </li><li> <a href='#pengabdian-masyarakat' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PENGABDIAN MASYARAKAT</a>
+                          <ul class='collapse list-unstyled' id='pengabdian-masyarakat'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/layanan-analisis-pangan'>LAYANAN UMUM</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/pengabdian'>KEGIATAN PENGABDIAN</a></li></ul>
+                        </li><li> <a href='#dosen' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> DOSEN</a>
+                          <ul class='collapse list-unstyled' id='dosen'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-kimia-pangan-dan-biokimia'>KIMIA PANGAN DAN BIOKIMIA</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-rekayasa-pangan'>REKAYASA PROSES PANGAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-mikrobiologi-pangan'>MIKROBIOLOGI PANGAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-pangan-dan-gizi'>PANGAN DAN GIZI</a></li></ul>
+                        </li><li> <a href='#mahasiswa' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> MAHASISWA</a>
+                          <ul class='collapse list-unstyled' id='mahasiswa'><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/himaghita'>HIMPUNAN MAHASISWA</a></li><li><a href='https://sibea.mawa.uns.ac.id/' target='_blank'>INFORMASI BEASISWA</a></li><li><a href='https://magang.fp.uns.ac.id/' target='_blank'>INFORMASI MAGANG</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/mobilitas-internasional-mahasiswa'>MOBILITAS INTERNASIONAL</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/mahasiswa'>PRESTASI MAHASISWA</a></li></ul>
+                        </li><li> <a href='#alumni' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> ALUMNI</a>
+                          <ul class='collapse list-unstyled' id='alumni'><li><a href='https://www.facebook.com/groups/116594215044824/' target='_blank'>HIMPUNAN ALUMNI</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/lowongan'>LOWONGAN KERJA</a></li></ul>
+                        </li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/fasilitas'>FASILITAS</a></li>          </ul>
+      </nav>      </div>
+      <div class="col-md-9" style="padding-left: 10px; background-color: white;">
+        
+         <section id="breadcrumbs" class="breadcrumbs" data-aos="fade-up" style="margin-bottom: 20px">
+      <div class="container-fluid">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h1><i class="icofont-page"></i> Kegiatan dan Mitra Kerjasama Prodi ITP </h1>
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li>Kegiatan dan Mitra Kerjasama Prodi ITP </li>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+		<div id="content" data-aos="fade-up" style="padding-bottom: 80px; padding-left: 20px; ">					
+					<div class="clear"></div>
+
+			<div class="post">
+				                  <p><p><strong>Daftar Isi:</strong></p>
+
+<ol>
+	<li><a href="#Kerjasama Dalam Negeri"><strong>Kerjasama Dalam Negeri</strong></a></li>
+	<li><a href="#Kerjasama Internasional"><strong>Kerjasama Internasional</strong></a></li>
+</ol>
+
+<p>&nbsp;</p>
+
+<p><a id="Kerjasama Dalam Negeri" name="Kerjasama Dalam Negeri"><span style="font-size:16px"><strong>Kerjasama Dalam Negeri</strong></span></a></p>
+
+<table align="left" border="1" cellpadding="5" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center"><strong>No</strong></p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p style="text-align:center"><strong>Nama Instansi</strong></p>
+			</td>
+			<td style="vertical-align:top; width:200px">
+			<p style="text-align:center"><strong>Jenis Kegiatan</strong></p>
+			</td>
+			<td style="vertical-align:top; width:50px">
+			<p style="text-align:center"><strong>Mulai</strong></p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p style="text-align:center"><strong>Berakhir</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:top; width:23.75pt">1.</td>
+			<td style="vertical-align:top; width:132.5pt">Balai Besar Penelitian dan Pengembangan Pengolahan Produk dan Bioteknologi Kelautan dan Perikanan (BBP4BKP), Badan Penelitian dan Pengembangan (Balitbang) Kelautan dan Perikanan Kementerian Kelautan dan Perikanan (KKP), Republik Indonesia</td>
+			<td style="vertical-align:top; width:200px">Kerjasana riset dan publikasi</td>
+			<td style="vertical-align:top; width:50px">2014</td>
+			<td style="vertical-align:top; width:89.55pt">Masih berlangsung</td>
+		</tr>
+		<tr>
+			<td style="text-align:center; vertical-align:top; width:23.75pt">2.</td>
+			<td style="vertical-align:top; width:132.5pt">Balai Penelitian Teknologi Bahan Alam - Lembaga Ilmu Pengetahuan Indonesia (LIPI) Gunungkidul,&nbsp;Yogyakarta</td>
+			<td style="vertical-align:top; width:200px">Kerjasana riset dan publikasi</td>
+			<td style="vertical-align:top; width:50px">2015</td>
+			<td style="vertical-align:top; width:89.55pt">Masih berlangsung</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">3.</p>
+			</td>
+			<td style="vertical-align:top; width:250px">
+			<p>Balitbang Propinsi Jawa Tengah</p>
+			</td>
+			<td style="vertical-align:top; width:400px">
+			<p>Menyelenggarakan Seminar Kolaborasi</p>
+			</td>
+			<td style="vertical-align:top; width:50px">
+			<p>2008&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">4.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>PT. Lembah Hijau Multifarm</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Pendidikan, Penelitian dan Pengabdian Masyarakat</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>4 Juli 2011&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">5.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>PT. Deltomed Laboratories</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Magang, penelitian, pengembangan, konsultasi dan rekayasa, pertukaran narasumber</p>
+			</td>
+			<td style="vertical-align:top; width:150px">
+			<p>14 Januari 2013</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">6.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>PT Astra Agro Lestari</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Magang, perekrutan karyawan, penelitian, narasumber</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2 Desember 2013</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih&nbsp;berlangsung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">7.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Sekretariat Badan Koordinasi Penyuluhan Propinsi Jawa Tengah</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Pendidikan, Penelitian, Magang Mahasiswa, Pemanfaatan Fasilitas Bersama dan kegiatan lain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>24 Februari 2016</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Februari 2021</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">8.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Fakultas Pertanian Universitas Mercu Buana Yogyakarta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Pendidikan, Penelitian dan Pengbdian Masyarakat&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:50px">
+			<p>25 Januari&nbsp;2017</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>25 Januari 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">9.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Fakultas Pertanian Univ Islam Malang&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Publikasi ilmiah, Penelitian dan Pengabdian Kepada Masyarakat</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>11 September 2017</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>11 Sept 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">10.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Sekolah Tinggi Penyuluhan Pertanian (STPP) Magelang</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Program Pengawalan dan Pendampingan mhs, alumni, dan pemuda tani dlm upaya penguatan perbenihan dan perbibitan pd tanaman pangan, hortikulturan, perkebunan dan peternakan</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>29 September 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">11.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Universitas Padjajaran</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Kerjasama penelitian dan Kerjasama publikasi jurnal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2017</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">12.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>LIPI Subang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Kerjasama penelitian</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2011</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">13.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Polines Semarang</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Kerjasama penelitian yang didanai DIKTI dan &nbsp;Pemkab&nbsp; Magelang&nbsp;(<em>Hi-Link</em>)</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2017</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">14.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Instiper Yogyakarta</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Kerjasama penelitian</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2017</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">15.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Universitas Diponegoro</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Kerjasama publikasi jurnal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">16.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Dinas Pertanian, Perikanan dan Ketahanan Pangan Kota Surakarta</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Penyusunan neraca bahan pangan Sosialisasi keamanan pangan segar asal tumbuhan</p>
+			</td>
+			<td style="vertical-align:top; width:30px">
+			<p>2018</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">17.</p>
+			</td>
+			<td style="vertical-align:top; width:132.5pt">
+			<p>Universitas Trunojoyo</p>
+			</td>
+			<td style="vertical-align:top; width:134.1pt">
+			<p>Kerjasama publikasi jurnal</p>
+			</td>
+			<td style="vertical-align:top; width:70.9pt">
+			<p>2014</p>
+			</td>
+			<td style="vertical-align:top; width:89.55pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<div style="page-break-after:always"><span style="display:none">&nbsp;</span></div>
+
+<p><a id="Kerjasama Internasional" name="Kerjasama Internasional"><span style="font-size:16px"><strong>Kerjasama Internasional</strong></span></a></p>
+
+<table border="1" cellpadding="5" cellspacing="0" class="MsoTableGrid" style="border-collapse:collapse; border:solid windowtext 1.0pt">
+	<tbody>
+		<tr>
+			<td style="vertical-align:top; width:23px">
+			<p style="text-align:center"><strong>No</strong></p>
+			</td>
+			<td style="vertical-align:top; width:290px">
+			<p style="text-align:center"><strong>Nama Instansi</strong></p>
+			</td>
+			<td style="vertical-align:top; width:400px">
+			<p style="text-align:center"><strong>Jenis Kegiatan</strong></p>
+			</td>
+			<td style="vertical-align:top; width:100px">
+			<p style="text-align:center"><strong>Mulai</strong></p>
+			</td>
+			<td style="vertical-align:top; width:100px">
+			<p style="text-align:center"><strong>Berakhir</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:30px">
+			<p style="text-align:center">1.</p>
+			</td>
+			<td style="vertical-align:top; width:250px">
+			<p>Ghent University (UGent), Belgium</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="vertical-align:top; width:400px">
+			<p><em>Academic exchange activities</em> (<em>outbound and inbound scholars/students exchange</em>), <em>research collaboration</em>, <em>Staff development</em> (Dosen UNS studi lanjut S3 di Ghent University), dan <em>International Conference</em> (ICFSE 2016, 2018, dan 2020)</p>
+			</td>
+			<td style="vertical-align:top; width:70px">
+			<p>2015</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>2020</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">2.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Suranaree University of Technology (SUT), Thailand</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p><em>Academic exchange activities</em> (outbound and inbound scholars/students exchange), dan Research collaboration, <em>International Conference on Food Science and Engineering</em> (ICFSE 2018)</p>
+			</td>
+			<td style="vertical-align:top; width:100px">
+			<p>2017</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">3.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>University Putra Malaysia (UPM)</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p><em>Academic exchange activities</em> (<em>outbound and inbound scholars/students exchange</em>), <em>International Conference on Food Science and Engineering</em> (ICFSE 2018)</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>2016</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>2021</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">4.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Osaka University, Jepang</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p><em>Academic exchange activities (outbound and inbound scholars), International Conference on Food Science and Engineering</em> (2<sup>nd</sup> ICFSE 2018)</p>
+			</td>
+			<td style="vertical-align:top; white-space:nowrap; width:3cm">
+			<p>2018</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">5.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Hiroshima University, Jepang</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p><em>Academic exchange activities (outbound and inbound scholars), International Conference on Food Science and Engineering</em> (ICFSE 2016)</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>2018</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">6.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>North Dakota State University</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p><em>2<sup>nd</sup> International Conference on Food Science and Engineering</em> (ICFSE 2016)</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>2018</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">7.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Toyo University, Japan</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran dosen dan mahasiswa, Kerjasama penelitian, Pertukaran publikasi akademik, Transfer teknologi</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>14 Mei 2018</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>14 Mei 2023</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">8.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>International Islamic University Malaysia</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran mahasiswa, pertukaran anggota fakultas, kolaborasi dalam proyek penelitian, pertukaran data dan informasi akademik</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>01 Agustus 2017</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>01 Agustus 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">9.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Chungnam National University (CNU)</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran staff akademik dan asisten peneliti, pertukaran pelajar dan kunjungan belajar staff dan mahasiswa, kerjasama saling menguntungkan dalam program akademik, Internasional ICFSE 2018</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>07 Februari 2017</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>07 Februari 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">10.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>University Malaysia Serawak (UNIMAS)</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pengajaran dan pembelajaran dibidang bisnis ekonomi dan keuangan, pertukaran pengajar dan mahasiswa</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>01 Januari 2017</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>01 Januari 2022</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">11.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>University of Adelaide, Australia</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p><em>Guest lecture</em> tahun 2016, <em>International Conference on Food Science and Engineering</em> (ICFSE 2016)</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>2016</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">12.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>National Central University (NCU), Taiwan</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran staff pengajar dan mahasiswa, proyek penelitian bersama, publikasi dan informasi, promosi program Dual Degree</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>17 November 2016</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>17 November 2021</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">13.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>University Teknologi Mara</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran pelajar, penerbitan jurnal akademik, kunjungan belajar, penelitian, konferensi dan forum diskusi, pameran seni</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>20 April 2016</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">14.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Thai Nguyen University of Agriculture</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran mahasiswa</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>19 Juli 2016</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Juli 2021</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">15.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Huazhong Agricultural University Wuhan, Hubei, P.R. China</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran dosen atau staff pengajar, Pertukaran mahasiswa, Bersama melaksanakan supervisi mahasiswa S2 dan S3, Pertukaran bahan dan informasi akademik, Pertukaran secara periodik bahan publikasi, Bersama mengorganisasikan program penelitian, Bersama mengorganisasikan kegiatan konferensi, Mengorganisasikan pertukaran kegiatan akademik lainnya yang disepakati dua belah pihak</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>17 Mei 2015</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>2020</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">16.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Kokushikan University, Japan</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Kerjasama tentang buku dan pertukaran pelajar</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>12 April 2015</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">17.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Gifu University, Japan</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Kegiatan kolaborasi dan dokumen, memberikan informasi, diskusi konsorsium internasional, kunjungan staff dan mahasiswa, program Dual Degree, menejemen dan pengawasan pusat laboratorium IC-GU12</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>12 Desember 2014</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">18.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Chiang Mai University, Thailand</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran dosen dan mahasiswa,Pertukaran bahan akademik dan publikasi; penelitian; presentasi penelitian; pertukaran bidang akademik yang lain berdasarkan persetujuan dua pihak</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>5 Oktober 2011</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">19.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Bioresource Science, Dankook University</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran staff untuk mengajar dan penelitian; Pertukaran studi lanjut untuk studi dan penelitian dan kerjasama penelitian; Partisipasi dalam seminar, konferensi dan pertemuan akademik; Pengembangan program pelatihan jangka pendek; Petukaran informasi, dokumen, publikasi dan bahan ajar</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>21 Oktober 2011</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>Masih berlangsung</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top; width:23.75pt">
+			<p style="text-align:center">20.</p>
+			</td>
+			<td style="vertical-align:top; width:107pt">
+			<p>Guangxi University for Nationalities, PR China</p>
+			</td>
+			<td style="vertical-align:top; width:159.6pt">
+			<p>Pertukaran dosen dan mahasiswa, kursus dan pelatihan</p>
+			</td>
+			<td style="vertical-align:top; width:3cm">
+			<p>3 Juni 2007</p>
+			</td>
+			<td style="vertical-align:top; width:75.4pt">
+			<p>&nbsp;2020</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="page-break-after:always"><span style="display:none">&nbsp;</span></div>
+
+<p>&nbsp;</p>
+                 </p>
+				<div class="tags"></div>		
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>			
+</div>
+
+	
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	$("#rotator").cycle({ 
+	    fx: 'fade',
+	    timeout: 3000,
+	    speed: 1000,
+	    pause: 1,
+	    fit: 1
+	});
+});
+</script>	      
+      </div>
+    </dic>
+  </div>
+
+
+    
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+ <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <a href="https://fp.uns.ac.id/"><img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/gold.png" style="width: 30%; padding-bottom: 10px"></a>
+            <h5>Program Studi<br>  Ilmu  Teknologi Pangan UNS </h5>
+            <p>
+              Jalan Ir. Sutami 36 Kentingan <br>
+              Jebres, Surakarta 57126<br><br>
+              <strong>Phone:</strong> 0271637457 ext 170<br>
+              <strong>Email:</strong> itpuns@unit.uns.ac.id<br>
+            </p>
+          </div>
+
+           
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Tautan</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://uns.ac.id/" target="_blank">Universitas Sebelas Maret</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://fp.uns.ac.id/" target="_blank">Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/" target="_blank">Jurnal UNS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.fp.uns.ac.id/ilmupangan" target="_blank">Jurnal Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/ilmupangan" target="_blank">Jurnal Teknologi Hasil Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ilmupangan.fp.uns.ac.id/page/detail/himaghita" target="_blank">HIMAGHITA</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4></h4>
+            <ul>
+	      <li></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#" target="_blank">Unit Magang Fakultas</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.youtube.com/channel/UCiDBeedOtqth4wcliC4bcLw" target="_blank">I-Great</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://icfse.uns.ac.id" target="_blank">ICFSE</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jpfoundation.or.id/event/icepti-2019" target="_blank">ICePTi</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://siakad-old.uns.ac.id" target="_blank">Siakad (Old)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://spada.uns.ac.id" target="_blank">SPADA</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>I-Great</h4>
+            <a href="https://ilmupangan.fp.uns.ac.id/"><img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/great_background.png" style="width: 55%; padding: 5px"></a>
+            <br><br>     
+<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4460738,4,3021,130,80,00011010']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4460738&101" alt="counter customizable free hit" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Fakultas Pertanian UNS 2020</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/company-free-html-bootstrap-template/ -->
+          <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.instagram.com/foodtech_uns/" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/jquery/jquery.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/php-email-form/validate.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/js/main.js"></script>
+
+   <!-- DataTables -->
+  
+  <!-- <script src="http://ilmupangan.fp.uns.ac.id/asset/prodi/jquery-1.12.0.min.js"></script> -->
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/jquery.dataTables.min.js"></script>
+  <script>
+  $(document).ready(function() {
+    $('#dataTables').DataTable();
+  } );
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
+</body>
+
+</html>

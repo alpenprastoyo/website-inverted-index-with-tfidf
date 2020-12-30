@@ -1,0 +1,41 @@
+<table id="wp-calendar">
+	<caption>August 2019</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2019/02/">« Feb</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2020/02/">Feb »</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="3" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2019/08/04/" aria-label="Posts published on August 4, 2019">4</a></td>
+	</tr>
+	<tr>
+		<td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2019/08/10/" aria-label="Posts published on August 10, 2019">10</a></td><td>11</td>
+	</tr>
+	<tr>
+		<td>12</td><td>13</td><td>14</td><td><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2019/08/15/" aria-label="Posts published on August 15, 2019">15</a></td><td>16</td><td>17</td><td>18</td>
+	</tr>
+	<tr>
+		<td><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2019/08/19/" aria-label="Posts published on August 19, 2019">19</a></td><td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td>
+	</tr>
+	<tr>
+		<td><a href="https://pasca.uns.ac.id/s2ilmulinguistik/2019/08/26/" aria-label="Posts published on August 26, 2019">26</a></td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></br>

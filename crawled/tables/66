@@ -1,0 +1,33 @@
+<table class="table">
+            <tbody>
+                <tr>
+                    <td>
+                        <div style="text-align: left;">
+                            <label class="control-label">
+                                <h5><a href="https://sister.uns.ac.id/password/lupa">Lupa password?</a></h5>
+                            </label>
+                        </div>
+                    </td>
+                    <td>
+                        <div style="text-align: right;">
+                            <label class="control-label">
+                                <h5>Belum memiliki akun?<a href="https://sister.uns.ac.id/registrasi"> Daftar di sini.</a></h5>
+                            </label>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div style="text-align: left;"><h4><a href="https://sister.uns.ac.id/panduan" target="_blank"><i class="fa fa-download"></i> Unduh Panduan</a></h4></div></td>
+                            
+                    <td><div style="text-align: right;">
+                        <span style="font-size: 0.7em">
+                    <i class="fa fa-envelope"></i>
+                </span>
+                <span style="font-size: 0.75em">
+                    tanya.sisterdikti@gmail.com
+                </span>
+                    </div></td>
+                </tr>
+            </tbody>
+        </table></br>

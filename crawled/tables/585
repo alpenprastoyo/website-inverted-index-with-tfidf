@@ -1,0 +1,157 @@
+<table class="table table-hover">
+                                <thead>
+                                <tr>
+                                    <th>No</th>
+                                    <th>Nim</th>
+                                    <th>Nama</th>
+                                    <th>Judul</th>
+                             <!--        <th>Aksi</th> -->
+                                </tr>
+                                </thead>
+                                <tbody>
+                                	                                <tr>
+                                    <td>1</td>
+                                    <td>M0417016</td>
+                                    <td>Diah Ajeng Kusherwati</td>
+                                    <td>“PESPA” Konsep Pemisahan Sampah pada Penampungan Pertama dan Pengelolaannya di Universitas Sebelas Maret sebagai Pendukung Program Green Campus</td>
+                                  <!--   <td><a target="_blank" href="uploads/M0417016.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>2</td>
+                                    <td>H0718149</td>
+                                    <td>Tagam </td>
+                                    <td>MENINGKATKAN KESADARAN SELURUH CIVITAS AKADEMIK UNIVERSITAS SEBELAS MARET (uns) MENGGUNAKAN APLIKASI TRASH FINGERPRINT DETECT DENGAN SISTEM VERIVIKASI DAN SCANNER</td>
+                                  <!--   <td><a target="_blank" href="uploads/H0718149.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>3</td>
+                                    <td>I8719024</td>
+                                    <td>Raihan Harun Arrasyid</td>
+                                    <td>Semar Mlampah</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719024.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>4</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td>Semar Mlampah</td>
+                                  <!--   <td><a target="_blank" href="uploads/.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>5</td>
+                                    <td>I8719018</td>
+                                    <td>Mayang Putri Susanto</td>
+                                    <td>RFID ON CAR Untuk Pengurangan Penggunaan  Kendaraan Pribadi Dalam Kampus</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719018.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>6</td>
+                                    <td>I0618027</td>
+                                    <td>Mohammad Abram Maulana </td>
+                                    <td>Pengelolaan "SMART" (Sepeda Sebelas Maret) Guna Mendukung Green Campus Dengan Konsep Transportasi Berkelanjutan</td>
+                                  <!--   <td><a target="_blank" href="uploads/I0618027.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>7</td>
+                                    <td>I8719028</td>
+                                    <td>Yusuf Faisal Ardhi Kurniawan</td>
+                                    <td>INTRANSMART (POINT TRANSPORTASI SEBELAS MARET)</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719028.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>8</td>
+                                    <td>I8719011</td>
+                                    <td>Fadhil Gifari</td>
+                                    <td>"Semar Mbonceng" Transportasi Mudah di UNS</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719011.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>9</td>
+                                    <td>I0116092</td>
+                                    <td>Niko Patty</td>
+                                    <td>OPTIMALISASI BUS KAMPUS DAN PENGADAAN E-SCOOTER SERTA BIKE SHARING DITUNJANG DENGAN APLIKASI BERBASIS ANDROID SEBAGAI UPAYA PENGURANGAN EMISI KENDARAAN PRIBADI UNTUK PENINGKATAN KUALITAS UDARA UNS</td>
+                                  <!--   <td><a target="_blank" href="uploads/I0116092.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>10</td>
+                                    <td>I8719010</td>
+                                    <td>Erik Lintang Wardani</td>
+                                    <td>SAWI GC (SAMPAH WIFI GREEN CAMPUS) MERUBAH SAMPAH PLASTIK MENJADI KUOTA INTERNET</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719010.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>11</td>
+                                    <td>M0416029</td>
+                                    <td>Mellani Dwi Jayanti</td>
+                                    <td>SEMAR-SIPAHING (Sebelas Maret-Sistem Pengelolaan Air Hujan Jinjing): Inovasi Penghasil Air Bersih dari Air Hujan Berbasis Limbah Plastik Guna Mendukung UNS Menuju Green Campuss</td>
+                                  <!--   <td><a target="_blank" href="uploads/M0416029.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>12</td>
+                                    <td>I8719025</td>
+                                    <td>Shifa Fauzia Quthrunnada</td>
+                                    <td>TES ARIT (TEMPAT SAMPAH MENJERIT) SOLUSI PENGELOLAAN SAMPAH TERARAH</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719025.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>13</td>
+                                    <td>I8719023</td>
+                                    <td>Rafika Hasni Perdana</td>
+                                    <td>PLTGO(Pembangkit listrik tenaga gerak dan olahraga)</td>
+                                  <!--   <td><a target="_blank" href="uploads/I8719023.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>14</td>
+                                    <td>D0117086</td>
+                                    <td>Riki Purwanto</td>
+                                    <td>UGC: APLIKASI 3 IN 1 BERBASIS SMARTPHONE DALAM MEWUJUDKAN UNS SEBAGAI GREEN CAMPUS YANG BERKELANJUTAN</td>
+                                  <!--   <td><a target="_blank" href="uploads/D0117086.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>15</td>
+                                    <td>D0418048</td>
+                                    <td>Roqsunnisa Dienda Arnauly Siregar</td>
+                                    <td>SEMAR ENFORTRESS (Sebelas Maret Environment Fortress) sebagai Platfrom dan Fasilitator Berbasis Pendidikan Lingkungan Hidup</td>
+                                  <!--   <td><a target="_blank" href="uploads/D0418048.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                <tr>
+                                    <td>16</td>
+                                    <td>I0618032</td>
+                                    <td>Mutiana Ayu Cindy Purwanti</td>
+                                    <td>" JAHIT MANIK UNS " SEBUAH KONSEP PENGEMBANGAN JALUR HIJAU DAN TAMAN DI FAKULTAS TEKNIK UNS GUNA MENDUKUNG PROGRAM GREEN CAMPUS</td>
+                                  <!--   <td><a target="_blank" href="uploads/I0618032.pdf"><button class="btn btn-green">View Detail</button></a></td> -->
+                                </tr>
+                               
+                                
+                                                                </tbody>
+                            </table></br>

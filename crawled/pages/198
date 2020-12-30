@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="csrf-token" content="lzggNLXLzslYEaw5x5JGmov3qtYtDdjnjwx4PwkP" />
+    <title>SISTER</title>
+    <link rel="icon" type="image/png" href="https://sister.uns.ac.id/favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>INSPINIA | Login 2</title>
+
+    <link href="https://sister.uns.ac.id/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://sister.uns.ac.id/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- <link href="https://sister.uns.ac.id/css/animate.css" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://sister.uns.ac.id/bower_components/sweetalert/dist/sweetalert.css">
+    <script type="text/javascript" src="https://sister.uns.ac.id/js/jquery-2.1.1.js"></script>
+
+    <link href="https://sister.uns.ac.id/css/plugins/toastr/toastr.min.css" rel="stylesheet">
+	<script src="https://sister.uns.ac.id/js/plugins/toastr/toastr.min.js"></script>
+
+	<style type="text/css">
+		#toast-container > .toast-error:before{
+			content: '';
+		}
+	</style>
+	
+	<script type="text/javascript">
+		$(function () {
+			toastr.options = {
+			  "closeButton": true,
+			  "debug": false,
+			  "progressBar": true,
+			  "preventDuplicates": false,
+			  "positionClass": "toast-top-right",
+			  "onclick": null,
+			  "showDuration": 400,
+			  "hideDuration": 1000,
+			  "timeOut": 7000,
+			  "extendedTimeOut": 1000,
+			  "showEasing": "swing",
+			  "hideEasing": "linear",
+			  "showMethod": "fadeIn",
+			  "hideMethod": "fadeOut"
+			}
+		});
+	</script>
+    <link href="https://sister.uns.ac.id/css/plugins/iCheck/custom.css" rel="stylesheet">
+<script src="https://sister.uns.ac.id/js/plugins/iCheck/icheck.min.js"></script>
+
+<script type="text/javascript">
+	var initialize_icheck = function(){
+		$('.i-checks').iCheck({
+            checkboxClass: 'icheckbox_square-green',
+            radioClass: 'iradio_square-green',
+        });
+	}
+
+    $(document).ready(function () {
+    	initialize_icheck();    
+    });
+</script>    
+
+    <link href="https://sister.uns.ac.id/eak/ejs/css/classy.css" rel="stylesheet">
+    <link href="https://sister.uns.ac.id/css/style.css" rel="stylesheet">
+    <link href="https://sister.uns.ac.id/css/login.css" rel="stylesheet">
+
+
+</head>
+
+<body class="gray-bg bg-cover" style="background: url(https://sister.uns.ac.id/bg_login_new.jpg) no-repeat fixed;;">
+
+    
+    <div class="middle-box animated fadeInDown">
+        <div class="abs-bg"></div>
+
+        <div class="content loginscreen">
+            <div class="text-center">
+                <div>
+                    <img src="https://sister.uns.ac.id/logo.png" class="logo" />
+                </div>
+                <p class="new-logo-name" style="margin: 0px">
+                    SISTER<br>
+                    <p style="font-size: small;"><b>Sistem Informasi Sumberdaya Terintegrasi</b></p>
+                </p>
+                                    <h3><b>Universitas Sebelas Maret</b></h3>
+                            </div>
+
+                
+    <div class="text-center">
+        <span><b>PANDUAN</b></span>
+    </div>
+        <br>
+        <table>
+            <tr>
+                <td><a href="https://sister.uns.ac.id/panduan/PDT_v1" target="_blank" ><i class="fa fa-download"></i> Perubahan Data Tendik</a></td>
+                
+                <td> (Versi 12-02-2019)</td>
+            </tr>
+            <tr>
+                <td><a href="https://sister.uns.ac.id/panduan/PAK_PLP_PENILAI_v1" target="_blank" ><i class="fa fa-download"></i> PAK PLP PENILAI</a></td>
+                <td> (Versi 01-10-2020)</td>
+            </tr>
+            <tr>
+                <td><a href="https://sister.uns.ac.id/panduan/PAK_PLP_PENGUSUL_v1" target="_blank" ><i class="fa fa-download"></i> PAK PLP PENGUSUL</a></td>
+                <td> (Versi 01-10-2020)</td>
+            </tr>
+        </table>
+    <br>
+        <div class="form-group" style="text-align: center">
+            <label class="control-label">
+                <h5>Sudah memiliki akun? <a href="https://sister.uns.ac.id/auth/login">Masuk di sini.</a></h5>
+            </label>
+        </div>
+
+            <p class="m-t text-center"> 
+                <small>
+                    <b>Direktorat Sumberdaya - Ditjen Pendidikan Tinggi</b>
+                </small>
+            </p>
+        </div>
+    </div>
+    <script src="https://sister.uns.ac.id/bower_components/sweetalert/dist/sweetalert.min.js"></script>
+</body>
+
+</html>

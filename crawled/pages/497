@@ -1,0 +1,435 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ <html xmlns='http://www.w3.org/1999/xhtml'>
+ <head>
+ <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+ <link href='indeks_css.css' rel='stylesheet' type='text/css'>
+ <title>Universitas Pattimura :: eJournal :: Paper Repository</title>
+ <meta name='keywords' content='universitas pattimura, unpatti, e-journal, ejournal, journal, jurnal, paper repository, online journal, online jurnal'>
+ <meta name='robots' content='index, follow'>
+ <meta name='revisit-after' content='7'>
+ <meta http-equiv='expires'content='Thu, 3 May 2012 00:00:00 GMT'>
+ <meta http-equiv='cache-control' content='no-cache'>
+ <meta http-equiv='pragma' content='no-cache'>
+ <LINK REL='shortcut icon' HREF='images/faviconu.ico'>
+ <link href='ejournal_sshow.css' type='text/css' rel='stylesheet'>
+ <script type='text/javascript' src='jquery-s.js'></script>
+ <script type='text/javascript' src='s3Slider.js'></script>
+  <style type='text/css'>
+   a:link.nav1    { color: #000080; text-decoration: none}
+   a:link.nav2    { color: #808080; text-decoration: none}
+   a:visited.nav1 { color: #000080; text-decoration: none}
+   a:visited.nav2 { color: #808080; text-decoration: underline}
+   a:active.nav1  { color: #000080; text-decoration: none}
+   a:hover.nav1   { color: #CC0000; text-decoration: underline}
+   a:hover.nav2   { color: #CC0000; text-decoration: underline}
+  </style>
+</head>
+<BODY background='images/gray_bg.gif'>
+<script type='text/javascript'>
+	$(document).ready(function() {
+		$('#slider').s3Slider({
+			timeOut: 3000
+		});
+	});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-62589497-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+ <div id='wrapper'>   
+  <div id='header'>
+    <div align='center'>
+	<div id='garis'></div>
+	<img border='0' src='images/paper_repository_v3.png' title='Hotumese' alt='Hotumese'>
+	<div id='garis'></div>
+    </div>
+  </div>   
+  
+  <div id='column-left'>
+	<div align='center'>  
+    <BR>
+	<BR>
+	<table border='0' cellspacing='0' cellpadding='0'>
+	  <tr>
+	   <td>
+		<img border='0' src='images/paper-icon.jpg'  width='80' height='60' title='ePaper' alt='Paper'>
+		</td>
+		<td>
+		 &nbsp; <font face='Verdana' size='1' color='blue'><a class="nav1" title='All Papers' href="index_ppr.php">Total: <b>
+		 <font color='red'>1910</font> papers</a></b>
+		</td>
+	   </tr>
+	 </table>
+
+	<font face='Verdana' size='1' color='blue'>
+	
+	<div id='garis'></div>
+	
+	<font face='Verdana' size='1' color='#808080'><b>&nbsp;</b></font><br>&nbsp;
+	<img src="jvimages/c8x.gif" name="hr1" width="15" height="24" alt="current time">
+	<img src="jvimages/c8x.gif" name="hr2" width="15" height="24" alt="current time">
+	<img src="jvimages/colonx.gif" width="6" height="24" alt="current time">
+	<img src="jvimages/c8x.gif" name="min1" width="15" height="24" alt="current time">
+	<img src="jvimages/c8x.gif" name="min2" width="15" height="24" alt="current time">
+	<img src="jvimages/colonx.gif" width="6" height="24" alt="current time">
+	<img src="jvimages/c8x.gif" name="sec1" width="15" height="24" alt="current time">
+	<img src="jvimages/c8x.gif" name="sec2" width="15" height="24" alt="current time">&nbsp;
+	<script type="text/javascript" src="javajamx2.js">
+	</script>
+	<div id='garis'></div>
+	<BR>
+	<BR>
+		<div id='slider'>
+		<ul id='sliderContent'>
+			<li style='display: list-item;' class='sliderImage'>
+				<a href='http://garuda.dikti.go.id' target='_blank'><img src='../images/portalgaruda.jpg'></a>
+				<span style='display: block;' class='bottom'><strong>Portal Garuda</strong></span>
+			</li>
+			<li style='display: list-item;' class='sliderImage'>
+				<a href='http://sciencedirect.com' target='_blank'><img src='../images/sciencedirect.jpg'></a>
+				<span style='display: block;' class='bottom'><strong>ScienceDirect</strong></span>
+			</li>
+			<li style='display: none;' class='sliderImage'>
+				<a href='http://proquest.com' target='_blank'><img src='../images/proquest.jpg'></a>
+				<span style='display: block;' class='bottom'><strong>ProQuest</strong></span>
+			</li>
+			<li style='display: none;' class='sliderImage'>
+				<a href='http://ebscohost.com' target='_blank'><img src='../images/ebscohost.jpg'></a>
+				<span style='display: block;' class='bottom'><strong>Ebsco Host</strong></span>
+			</li>
+			<div class='cleardiv sliderImage'></div>
+		</ul>
+		
+	</div>
+	<br>&nbsp;
+	<div id='garis'></div>
+	<div align='left'>
+	<ul>
+	<li>
+	<font face='Verdana' size='1'><a class="nav1" title='OJS3' href="https://ojs3.unpatti.ac.id" target = '_blank'><b>OPEN JOURNAL SYSTEM v3</b></a></font>
+     </li>
+	<li>
+	<font face='Verdana' size='1'><a class="nav1" title='OJS2' href="https://ojs.unpatti.ac.id" target = '_blank'><b>OPEN JOURNAL SYSTEM</b></a></font>
+     </li>
+     <li>
+	<font face='Verdana' size='1'><a class="nav1" title='e-Paper Fatek' href="https://epaper.fatek.unpatti.ac.id" target = '_blank'><b>e-Paper FATEK</b></a></font>
+     </li>
+    </ul>
+
+    <div id='garis'></div>
+
+    <ul>
+	  <li>
+	<font face='Verdana' size='1'><a class="nav1" title='Eksternal Paper' href='ppr_eksternal.php'><b>Eksternal Paper</b></a></font>
+     </li>
+   </ul>
+
+   <div id='garis'></div>
+
+    <ul>
+	  <li>
+	<font face='Verdana' size='1'><a class="nav1" title='WebStats' href="https://ejournal.unpatti.ac.id/stats/awstats.pl?config=awstats.ejournal.unpatti.ac.id.conf" target = '_blank'><b>WebStats</b></a></font>
+     </li>
+   </ul>   
+   </div>
+	</div>
+  </div>   
+	
+    <div id='column-center'>
+	  <div align='right'>
+	  <BR>
+		<font face='Verdana' size='1' color='navy'>Rabu, 30 Desember 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b></font> &nbsp;
+	  </div>
+	  <div id='garis'></div><b><font face='Verdana' size='1'>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Agrilan' href="ppr_agrilan.php?jrnl_nm=Agrilan">Jurnal AGRILAN (Pertanian)</a>
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Agrilan" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Agrinimal' href="ppr_agrinimal.php?jrnl_nm=Agrinimal">Jurnal AGRINIMAL (Pertanian)</a>
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Agrinimal" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Agritekno' href="ppr_agritekno.php?jrnl_nm=Agritekno">Jurnal AGRITEKNO (Pertanian)</a>
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Agritekno" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Agrologia' href="ppr_agrologia.php?jrnl_nm=Agrologia">Jurnal AGROLOGIA (Pertanian)</a>
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Agrologia" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Amanisal' href="ppr_amanisal.php?jrnl_nm=Amanisal">Jurnal AMANISAL (Perikanan & IK)</a>
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Amanisal" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Arika' href="ppr_arika.php?jrnl_nm=Arika">Jurnal ARIKA (Teknik)</a>
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Arika" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Bakti' href="ppr_bakti.php?jrnl_nm=Bakti">Jurnal BAKTI (LPM)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Bakti" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Barekeng' href="ppr_barekeng.php?jrnl_nm=Barekeng">Jurnal BAREKENG (MIPA)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Barekeng" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Benchmark' href="ppr_benchmark.php?jrnl_nm=Benchmark">Jurnal BENCHMARK (Ekonomi)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Benchmark" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Biopendix' href="ppr_biopendix.php?jrnl_nm=Biopendix">Jurnal BIOPENDIX (KIP)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Biopendix" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Budidaya Pertanian' href="ppr_jbdp.php?jrnl_nm=JBDP">Jurnal BUDIDAYA PERTANIAN (Pertanian)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Budidaya Pertanian" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Cita Ekonomika' href="ppr_cita_ekonomika.php?jrnl_nm=Cita Ekonomika">Jurnal CITA EKONOMIKA (Ekonomi)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Cita Ekonomika" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+
+	  <ul>
+	  <li><a class="nav1" title='Ekosains' href="ppr_ekosains.php?jrnl_nm=Ekosains">Jurnal EKOSAINS (Ekologi dan Sains)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Ekosains" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='IJCR' href="ppr_ijcr.php?jrnl_nm=Indonesian Journal of Chemical Research">Jurnal Indonesian Journal of Chemical Research (MIPA)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Indonesian Journal of Chemical Research" target = '_blank'>Info jurnal</a>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Inflasi' href="ppr_inflasi.php?jrnl_nm=Inflasi">Jurnal INFLASI (Ekonomi)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Inflasi" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Insei' href="ppr_insei.php?jrnl_nm=Insei">Jurnal INSEI (Perikanan & IK)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Insei" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Jendela Pengetahuan' href="ppr_jendela_pengetahuan.php?jrnl_nm=Jendela Pengetahuan">Jurnal JENDELA PENGETAHUAN (KIP)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Jendela Pengetahuan" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Konstitusi' href="ppr_jkonstitusi.php?jrnl_nm=Konstitusi">Jurnal KONSTITUSI (Hukum)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Konstitusi" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Logika' href="ppr_logika.php?jrnl_nm=Logika">Jurnal LOGIKA (IpTek)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Logika" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Molluca Medica' href="ppr_molucca_medica.php?jrnl_nm=Molucca Medica">Jurnal MOLUCCA MEDICA (Kedokteran)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Molucca Medica" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+
+	  <ul>
+	  <li><a class="nav1" title='Pedagogika dan Dinamika Pendidikan' href="ppr_jpedagogika.php?jrnl_nm=Pedagogika dan Dinamika Pendidikan">Jurnal PEDAGOGIKA dan DINAMIKA PENDIDIKAN (KIP)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Pedagogika dan Dinamika Pendidikan" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Populis' href="ppr_populis.php?jrnl_nm=Populis">Jurnal POPULIS (ISIP)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Populis" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='SASI' href="ppr_jsasi.php?jrnl_nm=SASI">Jurnal SASI (Hukum)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=SASI" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Soso-Q' href="ppr_sosoq.php?jrnl_nm=Soso-Q">Jurnal SOSO-Q (Ekonomi)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Soso-Q" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Tahuri' href="ppr_tahuri.php?jrnl_nm=Tahuri">Jurnal TAHURI (KIP)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Tahuri" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Tanoar' href="ppr_tanoar.php?jrnl_nm=Tanoar">Jurnal TANOAR (LPM)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Tanoar" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Teknologi' href="ppr_jteknologi.php?jrnl_nm=Teknologi">Jurnal TEKNOLOGI (Teknik)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Teknologi" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Triton' href="ppr_jtriton.php?jrnl_nm=Triton">Jurnal TRITON (Perikanan & IK)</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Triton" target = '_blank'>Info jurnal</a></li>
+	  </ul>
+
+	  <ul>
+	  <li><a class="nav1" title='Proc. ALE FATEK 2018' href="ppr_procd_ale_fatek_2018.php?jrnl_nm=Prosiding Archipelago Engineering 2018">Prosiding Archipelago Engineering 2018</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding Archipelago Engineering 2018" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+
+	  <ul>
+	  <li><a class="nav1" title='Proc. ALE FATEK 2019' href="ppr_procd_ale_fatek_2019.php?jrnl_nm=Prosiding Archipelago Engineering 2019">Prosiding Archipelago Engineering 2019</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding Archipelago Engineering 2019" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. FKIP 2015' href="ppr_procd_fkip_2015.php?jrnl_nm=Prosiding FKIP 2015">Prosiding FKIP UNPATTI 2015</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FKIP 2015" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. FKIP 2016' href="ppr_procd_fkip_2016.php?jrnl_nm=Prosiding FKIP 2016">Prosiding FKIP UNPATTI 2016</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FKIP 2016" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+
+	  <ul>
+	  <li><a class="nav1" title='Proc. FMIPA 2010' href="ppr_procd_fmipa_2010.php?jrnl_nm=Prosiding FMIPA Universitas Pattimura 2010">Prosiding FMIPA 2010</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FMIPA Universitas Pattimura 2010" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. FMIPA 2013' href="ppr_procd_fmipa_2013.php?jrnl_nm=Prosiding FMIPA Universitas Pattimura 2013">Prosiding FMIPA 2013</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FMIPA Universitas Pattimura 2013" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. FMIPA 2014' href="ppr_procd_fmipa_2014.php?jrnl_nm=Prosiding FMIPA Universitas Pattimura 2014">Prosiding FMIPA 2014</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FMIPA Universitas Pattimura 2014" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. FMIPA 2015' href="ppr_procd_fmipa_2015.php?jrnl_nm=Prosiding FMIPA 2015">Prosiding FMIPA 2015</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FMIPA 2015" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+
+	  <ul>
+	  <li><a class="nav1" title='Proc. FMIPA 2016' href="ppr_procd_fmipa_2016.php?jrnl_nm=Prosiding FMIPA 2016">Prosiding FMIPA 2016</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding FMIPA 2016" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. PERMAMA 2011' href="ppr_permama.php?jrnl_nm=Permama">Prosiding PERMAMA 2011</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding PERMAMA 2011" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+	  
+	  <ul>
+	  <li><a class="nav1" title='Proc. PERMAMA 2012' href="ppr_permama_2012.php?jrnl_nm=Prosiding PERMAMA 2012">Prosiding PERMAMA 2012</a> 
+	  || <a class="nav1" href="ppr_jrnlinfo_lnk_idx.php?jrnl_nm=Prosiding PERMAMA 2012" target = '_blank'>Info prosiding</a></li>
+	  </ul>
+      
+	  <div id='garis'></div>
+	  
+	  <ul>
+	  <li><font face='Verdana' size='1'><a class="nav1" title='Unpatti Home' href='http://www.unpatti.ac.id' target='_blank'>Go to Unpatti Home</a>
+	  &nbsp;&nbsp;||&nbsp;&nbsp;
+		 <a class='nav1' title='Paparisa Unpatti' href='http://paparisa.unpatti.ac.id' target='_blank'><b>Go to Paparisa Unpatti</b></a>
+	  </font>
+	  </ul>
+	  </b>
+	  </font></FORM>
+	  </div>
+  <div id='column-right'>
+  <BR><b>
+  <font face='Verdana' color='blue' size='1'><a class="nav1" title='Advanced Search' href="indeks.php">Advanced Search</a></b></font>
+  <div id='garis'></div>
+  
+  <FORM ACTION="index_ppr.php" method="POST">
+    <TABLE width='240'>
+	<TR>
+	  <TD>
+	     <font face='Verdana' size='3'>::</font>
+	     <font face='Verdana' color='navy' size='1'><b>Cari judul (Seluruh jurnal) :</b>  	 
+		  <input type='hidden' name='search_type' value='judul'>&nbsp;
+	     <input type='text' name='search_string' size='30' maxlength='50' value='' style='color: navy; font-family: Verdana; font-size: 8pt; font-weight: none; background-color: #FFFFCC;'>
+	     <BR><input type='submit' name='submit' value='C a r i' style='font-size: 8pt;'></b></b><br></font>
+       </TD>
+	</TR>
+	<TR>
+	  <TD>
+	  <font face='Verdana' color='blue' size='1'><div id='garis'></div><BR>Bagi pengelola jurnal di lingkungan Unpatti yang ingin memasukan paper/jurnal di repositori ini,
+	  silahkan mengirimkan naskah dalam format PDF ke: <a class="nav1" title='eMail Admin' href="mailto:admin@mx.unpatti.ac.id"><b>admin@mx.unpatti.ac.id</b></a></font>
+	  <BR>&nbsp;
+	  <div id='garis'></div>
+	  <BR>
+	  <a class="nav1" href="https://twitter.com/unpattiofficial" target='_blank'><img border='0' src='images/twitter.png' title='Twitter' alt='Twitter'></a>&nbsp;
+	  <a class="nav1" href="https://facebook.com/unpatti" target='_blank'><img border='0' src='images/facebook.png' title='Facebook' alt='Facebook'></a>&nbsp;
+	  <a class="nav1" href="http://www.youtube.com/channel/UCt9u7BBQo5hpizHWl4OnqDw" target='_blank'><img border='0' src='images/youtube.png' title='Youtube' alt='Youtube'></a>&nbsp;
+      <a class="nav1" href="mailto:admin@mx.unpatti.ac.id" target='_blank'><img border='0' src='images/email.png' title='Email' alt='Email'></a>&nbsp;
+	  <BR>
+	  <div id='garis'></div>
+	  <BR>
+	  <b>Unpatti Links:
+	  <ul><b>
+	   <li><a class="nav1" title='Unpatti Website' href='https://unpatti.ac.id' target='_blank'>Web Portal Unpatti</a></li>
+       <li><a class="nav1" title='A2Z Website' href='https://a2z.unpatti.ac.id' target='_blank'>A2Z Unpatti</a></li>
+	   <li><a class="nav1" title='Sismik' href='https://sismik.unpatti.ac.id' target='_blank'>Sistim Akademik</a></li>
+	   <li><a class="nav1" title='Fakultas Hukum' href='https://fhukum.unpatti.ac.id' target='_blank'>Fakultas Hukum</a></li>
+	   <li><a class="nav1" title='Fakultas Teknik' href='https://fatek.unpatti.ac.id' target='_blank'>Fakultas Teknik</a></li>
+	   <li><a class="nav1" title='Fakultas PIK' href='http://fpik.unpatti.ac.id' target='_blank'>Fakultas Perikanan dan IK</a></li>
+	   <li><a class="nav1" title='Fakultas MIPA' href='http://fmipa.unpatti.ac.id' target='_blank'>Fakultas MIPA</a></li>   
+	   <li><a class="nav1" title='Fakultas KIP' href='http://fkip.unpatti.ac.id' target='_blank'>Fakultas KIP</a></li>   
+	   <li><a class="nav1" title='Fakultas FEB' href='http://feb.unpatti.ac.id' target='_blank'>Fakultas Ekonomi & Bisnis</a></li>   
+	   <li><a class="nav1" title='Fakultas Kedokteran' href='http://fk.unpatti.ac.id/' target='_blank'>Fakultas Kedokteran</a></li>
+	   <li><a class="nav1" title='Fakultas Pertanian' href='http://faperta.unpatti.ac.id' target='_blank'>Fakultas Pertanian</a></li>
+	   <li><a class="nav1" title='Fakultas ISIP' href='http://fisip.unpatti.ac.id' target='_blank'>Fakultas ISIP</a></li>   
+	   <li><a class="nav1" title='Kemahasiswaan Unpatti' href='http://kemahasiswaan.unpatti.ac.id' target='_blank'>Kemahasiswaan Unpatti</a></li>
+	   <li><a class="nav1" title='Network Operating Center' href='http://noc.unpatti.ac.id' target='_blank'>Network Operating Center</a></li>
+	   <li><a class="nav1" title='Karir Unpatti' href='http://karir.unpatti.ac.id' target='_blank'>Karir Unpatti</a></li>
+	   <li><a class="nav1" title='LemLit Unpatti' href='http://lemlit.unpatti.ac.id' target='_blank'>Lembaga Penelitian</a></li>
+	   <li><a class="nav1" title='eBook Fatek Unpatti' href='https://ebook.fatek.unpatti.ac.id' target='_blank'>eBook Fatek Unpatti</a></li>
+	   <li><a class="nav1" title='SI Fatek' href='https://si.fatek.unpatti.ac.id' target='_blank'>Beranda Data Fatek</a></li>
+	   <li><a class="nav1" title='SIMPEG FEBIS' href='https://sip.feb.unpatti.ac.id' target='_blank'>SIMPEG FEBIS</a></li>
+	   <li><a class="nav1" title='Paparisa Unpatti' href='https://paparisa.unpatti.ac.id' target='_blank'>Paparisa Unpatti</a> (in English)</li>
+     </ul></b>
+	  </TD>  
+	</TR>
+	</TABLE></FORM>
+  </div>
+  
+  <div id='footer'><div id='garis'></div><br>
+
+		<DIV align='center'>
+
+	  		<font face='Verdana' size='1' color='navy'>Accessed from IP Address: <b>36.68.11.190</b> [  ]
+  		<br>Browser: <b>Not Defined ?</b> - Operating System: <b>Not Defined</b></font><br>
+		<font face='Verdana' size='1' color='navy'> Page last updated on: 
+		Friday,  July 31, 2020  - 9:43:42 PM&nbsp;EIT        <div id='garis'></div><br>
+  		<align='center'><font face='Verdana' size='1' color='navy'>The repository is maintained by <a class='nav1' title='eMail' href='mailto:jonny.latuny@staff.unpatti.ac.id'>Jonny Latuny</a> &copy; 2011 - 2020 for <a class="nav1" title='Unpatti Web' href='http://www.unpatti.ac.id' target='_blank'>Universitas Pattimura</a></font>
+		   <br>
+		   <div id='garis'></div>
+        </DIV>
+  </div>  
+</div>
+</BODY>
+</HTML>
+
+

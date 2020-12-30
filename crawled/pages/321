@@ -1,0 +1,786 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Search</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+                <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.search_noKeywordError = 'You must enter at least one search keyword.';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+                        </head>
+                        <body id="pkp-navigation-search">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/index/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/index/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/site/pageHeaderTitleImage_en_US.png" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/index/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/index/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                                            
+
+                        
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/index/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/index/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/index/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/index/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/index/search">Search</a></li>
+                                    
+                                
+                                                                    <li id="submitButton"><a href="https://jurnal.uns.ac.id/index/about/submissions">Submit</a></li>
+
+                                    
+
+                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/index/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                        <div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/index/help/view/user/topic/000005')">Journal Help</a>
+</div><div class="block" id="sidebarFlagcounter">
+    <span class="blockTitle" >Flagcounter</span>
+    <a href="https://s09.flagcounter.com/more/yMdb/" target="_blank"><img style="width: 100%;" src="https://s09.flagcounter.com/map/yMdb/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Journal Flag Counter" border="0"></a>
+</div><div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+		</div>
+<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/index/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> 
+<div class="block" id="sidebarLanguageToggle">
+	<script type="text/javascript">
+		<!--
+		function changeLanguage() {
+			var e = document.getElementById('languageSelect');
+			var new_locale = e.options[e.selectedIndex].value;
+
+			var redirect_url = 'https://jurnal.uns.ac.id/index/user/setLocale/NEW_LOCALE?source=%2Findex%2Fsearch';
+			redirect_url = redirect_url.replace("NEW_LOCALE", new_locale);
+
+			window.location.href = redirect_url;
+		}
+		//-->
+	</script>
+	<span class="blockTitle">Language</span>
+	<form action="#">
+		<label for="languageSelect">Select Language</label>
+		<select id="languageSelect" size="1" name="locale" class="selectMenu"><option label="Bahasa Indonesia" value="id_ID">Bahasa Indonesia</option>
+<option label="English" value="en_US" selected="selected">English</option>
+</select>
+		<input type="submit" class="button" value="Submit" onclick="changeLanguage(); return false;" />
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/index/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br />
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/index/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/index/search" class="current">Search</a></div>
+
+                                                        <h2>Search</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+<div id="search">
+	<script type="text/javascript">
+		$(function() {
+			// Attach the form handler.
+			$('#searchForm').pkpHandler('$.pkp.pages.search.SearchFormHandler');
+		});
+	</script>
+	<form method="post" id="searchForm" action="https://jurnal.uns.ac.id/index/search/search">
+		<table class="data">
+			<tr valign="top">
+				<td class="label"><label for="query">Search for</label></td>
+				<td class="value">
+																<input type="text" id="query" name="query" size="40" maxlength="255" value="" class="textField" />
+										&nbsp;
+					<input type="submit" value="Search" class="button defaultButton" />
+				</td>
+			</tr>
+							<tr valign="top">
+					<td class="label"><label for="searchJournal">Within</label></td>
+					<td class="value"><select name="searchJournal" id="searchJournal" class="selectMenu"><option label="All Journals" value="">All Journals</option>
+<option label="SAINS TANAH - Journal of Soil Science and Agroclimatology" value="234">SAINS TANAH - Journal of Soil Science and Agroclimatology</option>
+<option label="Livestock and Animal Research" value="364">Livestock and Animal Research</option>
+<option label="AgriHealth: Journal of Agri-food, Nutrition and Public Health" value="363">AgriHealth: Journal of Agri-food, Nutrition and Public Health</option>
+<option label="Journal of Global Environmental Dynamics" value="370">Journal of Global Environmental Dynamics</option>
+<option label="Jurnal Olahraga dan Prestasi" value="358">Jurnal Olahraga dan Prestasi</option>
+<option label="PHEDHERAL" value="357">PHEDHERAL</option>
+<option label="Prosiding Seminar Nasional Linguistik dan Sastra (SEMANTIKS)" value="356">Prosiding Seminar Nasional Linguistik dan Sastra (SEMANTIKS)</option>
+<option label="Matriks Teknik Sipil" value="353">Matriks Teknik Sipil</option>
+<option label="PRIMA: Journal of Community Empowering and Services" value="340">PRIMA: Journal of Community Empowering and Services</option>
+<option label="EQUILIBRIUM Journal of Chemical Enginering" value="336">EQUILIBRIUM Journal of Chemical Enginering</option>
+<option label="Mekanika: Majalah Ilmiah Mekanika" value="326">Mekanika: Majalah Ilmiah Mekanika</option>
+<option label="Verstek" value="304">Verstek</option>
+<option label="BELLI AC PACIS" value="298">BELLI AC PACIS</option>
+<option label="Ekosains" value="294">Ekosains</option>
+<option label="TEXFILE Jurnal Ilmiah Tekstil" value="292">TEXFILE Jurnal Ilmiah Tekstil</option>
+<option label="Indonesian Journal of Applied Statistics" value="290">Indonesian Journal of Applied Statistics</option>
+<option label="Social, Humanities, and Educational Studies (SHEs): Conference Series" value="286">Social, Humanities, and Educational Studies (SHEs): Conference Series</option>
+<option label="Teknodika" value="284">Teknodika</option>
+<option label="Basastra: Jurnal Bahasa, Sastra, dan Pengajarannya" value="280">Basastra: Jurnal Bahasa, Sastra, dan Pengajarannya</option>
+<option label="Jurnal Pendidikan Matematika dan Matematika SOLUSI" value="270">Jurnal Pendidikan Matematika dan Matematika SOLUSI</option>
+<option label="Jurnal Pendidikan Kimia" value="268">Jurnal Pendidikan Kimia</option>
+<option label="PKn Progresif: Jurnal Pemikiran dan Penelitian Kewarganegaraan" value="254">PKn Progresif: Jurnal Pemikiran dan Penelitian Kewarganegaraan</option>
+<option label="Early Childhood Education and Development Journal" value="252">Early Childhood Education and Development Journal</option>
+<option label="Jurnal Tania" value="250">Jurnal Tania</option>
+<option label="Journal of Informatics and Vocational Education" value="248">Journal of Informatics and Vocational Education</option>
+<option label="Jurnal Pustaka Ilmiah" value="236">Jurnal Pustaka Ilmiah</option>
+<option label="Smart Medical Journal" value="228">Smart Medical Journal</option>
+<option label="PLACENTUM: Jurnal Ilmiah Kesehatan dan Aplikasinya" value="224">PLACENTUM: Jurnal Ilmiah Kesehatan dan Aplikasinya</option>
+<option label="Proceeding of International Conference on Art, Language, and Culture" value="222">Proceeding of International Conference on Art, Language, and Culture</option>
+<option label="Jurnal Hukum dan Pembangunan Ekonomi" value="218">Jurnal Hukum dan Pembangunan Ekonomi</option>
+<option label="Jurnal Privat Law" value="216">Jurnal Privat Law</option>
+<option label="Jurnal Repertorium" value="214">Jurnal Repertorium</option>
+<option label="BISE: Jurnal Pendidikan Bisnis dan Ekonomi" value="212">BISE: Jurnal Pendidikan Bisnis dan Ekonomi</option>
+<option label="Jurnal Pendidikan Insan Mandiri" value="210">Jurnal Pendidikan Insan Mandiri</option>
+<option label="Agrotechnology Research Journal" value="204">Agrotechnology Research Journal</option>
+<option label="Indonesian Journal Of Civil Engineering Education" value="200">Indonesian Journal Of Civil Engineering Education</option>
+<option label="Agrosains : Jurnal Penelitian Agronomi" value="198">Agrosains : Jurnal Penelitian Agronomi</option>
+<option label="Caraka Tani: Journal of Sustainable Agriculture" value="196">Caraka Tani: Journal of Sustainable Agriculture</option>
+<option label="JPI (Jurnal Pendidikan Indonesia): Jurnal Ilmiah Pendidikan" value="190">JPI (Jurnal Pendidikan Indonesia): Jurnal Ilmiah Pendidikan</option>
+<option label="DWIJA CENDEKIA: Jurnal Riset Pedagogik" value="188">DWIJA CENDEKIA: Jurnal Riset Pedagogik</option>
+<option label="Jurnal Pendidikan Dasar" value="186">Jurnal Pendidikan Dasar</option>
+<option label="Didaktika Dwija Indria" value="184">Didaktika Dwija Indria</option>
+<option label="AGRITEXTS: Journal of Agricultural Extension" value="182">AGRITEXTS: Journal of Agricultural Extension</option>
+<option label="BESTUUR" value="180">BESTUUR</option>
+<option label="Journal of Mathematics and Mathematics Education" value="178">Journal of Mathematics and Mathematics Education</option>
+<option label="Kumara Cendekia" value="176">Kumara Cendekia</option>
+<option label="Jurnal Pembelajaran Matematika" value="174">Jurnal Pembelajaran Matematika</option>
+<option label="NEXUS" value="172">NEXUS</option>
+<option label="Jurnal Pendidikan Fisika (Online)" value="170">Jurnal Pendidikan Fisika (Online)</option>
+<option label="Jurnal Materi dan Pembelajaran Fisika" value="168">Jurnal Materi dan Pembelajaran Fisika</option>
+<option label="English Education" value="166">English Education</option>
+<option label="INKUIRI: Jurnal Pendidikan IPA" value="164">INKUIRI: Jurnal Pendidikan IPA</option>
+<option label="ELTINDO" value="162">ELTINDO</option>
+<option label="Jurnal Analisa Sosiologi" value="160">Jurnal Analisa Sosiologi</option>
+<option label="SEPA: Jurnal Sosial Ekonomi Pertanian dan Agribisnis" value="158">SEPA: Jurnal Sosial Ekonomi Pertanian dan Agribisnis</option>
+<option label="Southeast Asian Journal of Social and Political Issues" value="154">Southeast Asian Journal of Social and Political Issues</option>
+<option label="Jurnal Agrotek" value="152">Jurnal Agrotek</option>
+<option label="HISTORIKA" value="150">HISTORIKA</option>
+<option label="Jurnal Psikoedukasi dan Konseling" value="148">Jurnal Psikoedukasi dan Konseling</option>
+<option label="Performa: Media Ilmiah Teknik Industri" value="144">Performa: Media Ilmiah Teknik Industri</option>
+<option label="Desa-Kota" value="142">Desa-Kota</option>
+<option label="ARSITEKTURA" value="140">ARSITEKTURA</option>
+<option label="JKPK (Jurnal Kimia dan Pendidikan Kimia)" value="138">JKPK (Jurnal Kimia dan Pendidikan Kimia)</option>
+<option label="PAEDAGOGIA" value="136">PAEDAGOGIA</option>
+<option label="Haluan Sastra Budaya" value="106">Haluan Sastra Budaya</option>
+<option label="Media Pustaka" value="76">Media Pustaka</option>
+<option label="Yustisia Jurnal Hukum" value="38">Yustisia Jurnal Hukum</option>
+<option label="Fokus Manajerial" value="40">Fokus Manajerial</option>
+<option label="Region :  Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif" value="28">Region :  Jurnal Pembangunan Wilayah dan Perencanaan Partisipatif</option>
+<option label="ALCHEMY Jurnal Penelitian Kimia" value="4">ALCHEMY Jurnal Penelitian Kimia</option>
+<option label="Bioedukasi: Jurnal Pendidikan Biologi" value="80">Bioedukasi: Jurnal Pendidikan Biologi</option>
+<option label="SEMAR (Jurnal Ilmu Pengetahuan, Teknologi, dan Seni bagi Masyarakat)" value="26">SEMAR (Jurnal Ilmu Pengetahuan, Teknologi, dan Seni bagi Masyarakat)</option>
+<option label="Jurnal Pendidikan Biologi" value="124">Jurnal Pendidikan Biologi</option>
+<option label="Proceeding Biology Education Conference: Biology, Science, Enviromental, and Learning" value="126">Proceeding Biology Education Conference: Biology, Science, Enviromental, and Learning</option>
+<option label="Jurnal Gizi Kesehatan" value="132">Jurnal Gizi Kesehatan</option>
+<option label="GeoEco" value="130">GeoEco</option>
+<option label="Jurnal Ilmiah Pendidikan Teknik dan Kejuruan" value="128">Jurnal Ilmiah Pendidikan Teknik dan Kejuruan</option>
+<option label="BIO-PEDAGOGI" value="122">BIO-PEDAGOGI</option>
+<option label="International Journal of Pedagogy and Teacher Education" value="116">International Journal of Pedagogy and Teacher Education</option>
+<option label="DILEMA" value="114">DILEMA</option>
+<option label="Journal of Architecture and Built Environment" value="112">Journal of Architecture and Built Environment</option>
+<option label="Jurnal Komunikasi Massa" value="108">Jurnal Komunikasi Massa</option>
+<option label="International Journal of Science and Applied Science: Conference Series" value="104">International Journal of Science and Applied Science: Conference Series</option>
+<option label="Sains Peternakan: Jurnal Penelitian Ilmu Peternakan" value="46">Sains Peternakan: Jurnal Penelitian Ilmu Peternakan</option>
+<option label="Journal of Rural and Development" value="22">Journal of Rural and Development</option>
+<option label="Jurnal Rehabilitasi dan Remediasi" value="74">Jurnal Rehabilitasi dan Remediasi</option>
+<option label="Jurnal Kewirausahaan dan Bisnis" value="24">Jurnal Kewirausahaan dan Bisnis</option>
+<option label="JPSCR: Journal of Pharmaceutical Science and Clinical Research" value="42">JPSCR: Journal of Pharmaceutical Science and Clinical Research</option>
+<option label="Jurnal Bisnis dan Manajemen (Journal of Business and Management)" value="52">Jurnal Bisnis dan Manajemen (Journal of Business and Management)</option>
+<option label="Indonesian Journal of Applied Informatics" value="82">Indonesian Journal of Applied Informatics</option>
+<option label="Sebelas Maret Business Review" value="72">Sebelas Maret Business Review</option>
+<option label="Jurnal Ilmu Ekonomi dan Pembangunan" value="32">Jurnal Ilmu Ekonomi dan Pembangunan</option>
+<option label="PRASASTI: Journal of Linguistics" value="8">PRASASTI: Journal of Linguistics</option>
+<option label="INDONESIAN JOURNAL OF APPLIED PHYSICS" value="7">INDONESIAN JOURNAL OF APPLIED PHYSICS</option>
+<option label="PROSIDING PRASASTI" value="6">PROSIDING PRASASTI</option>
+<option label="EKUILIBRIUM Journal of Chemical Engineering" value="92">EKUILIBRIUM Journal of Chemical Engineering</option>
+<option label="Spirit Publik: Jurnal Administrasi Publik" value="48">Spirit Publik: Jurnal Administrasi Publik</option>
+<option label="Proceeding of Chemistry Conferences" value="78">Proceeding of Chemistry Conferences</option>
+<option label="ITSMART: Jurnal Teknologi dan Informasi" value="10">ITSMART: Jurnal Teknologi dan Informasi</option>
+<option label="IJIE (Indonesian Journal of Informatics Education)" value="100">IJIE (Indonesian Journal of Informatics Education)</option>
+<option label="Jurnal Teknologi Hasil Pertanian" value="70">Jurnal Teknologi Hasil Pertanian</option>
+<option label="Jurnal Teknosains Pangan" value="68">Jurnal Teknosains Pangan</option>
+<option label="Prosiding SNFA (Seminar Nasional Fisika dan Aplikasinya)" value="86">Prosiding SNFA (Seminar Nasional Fisika dan Aplikasinya)</option>
+<option label="Proceeding of the International Conference on  Teacher Training and Education" value="96">Proceeding of the International Conference on  Teacher Training and Education</option>
+<option label="Journal of Physics: Theories and Applications" value="88">Journal of Physics: Theories and Applications</option>
+<option label="Dialektika Masyarakat: Jurnal Sosiologi" value="84">Dialektika Masyarakat: Jurnal Sosiologi</option>
+<option label="Jurnal CMES" value="62">Jurnal CMES</option>
+<option label="Cakra Wisata" value="16">Cakra Wisata</option>
+<option label="Jurnal Riset Rekayasa Sipil" value="20">Jurnal Riset Rekayasa Sipil</option>
+<option label="Journal of Applied Economics in Developing Countries" value="30">Journal of Applied Economics in Developing Countries</option>
+<option label="Journal of Electrical, Electronic, Information, and Communication Technology" value="44">Journal of Electrical, Electronic, Information, and Communication Technology</option>
+</select></td>
+				</tr>
+								</table>
+		<br/>
+								<script type="text/javascript">
+	// Initialise JS handler.
+	$(function() {
+		$('#emptyFilters').pkpHandler(
+			'$.pkp.controllers.ExtrasOnDemandHandler');
+	});
+</script>
+	<div id="emptyFilters" class="pkp_controllers_extrasOnDemand">
+	<div class="toggleExtras">
+		<span class="ui-icon"></span>
+		<span class="toggleExtras-inactive">Additional Search Options (click to show)
+					</span>
+		<span class="toggleExtras-active">Additional Search Options (click to hide)
+					</span>
+	</div>
+	<div style="clear:both;"></div>
+	<div class="extrasContainer">
+						<table class="data">
+											<tr valign="top">
+							<td colspan="2" class="label"><h4>Search categories</h4></td>
+						</tr>
+								<tr>
+		<td class="label">
+			<label for="authors">Authors</label>
+		</td>
+		<td class="value">
+																<input type="text" name="authors" id="authors" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="title">Title</label>
+		</td>
+		<td class="value">
+																<input type="text" name="title" id="title" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="abstract">Abstract</label>
+		</td>
+		<td class="value">
+																<input type="text" name="abstract" id="abstract" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="galleyFullText">Full Text</label>
+		</td>
+		<td class="value">
+																<input type="text" name="galleyFullText" id="galleyFullText" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="suppFiles">Supplementary File(s)</label>
+		</td>
+		<td class="value">
+																<input type="text" name="suppFiles" id="suppFiles" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+																<tr valign="top">
+							<td colspan="2" class="formSubLabel"><h4>Publication Date</h4></td>
+						</tr>
+								<tr>
+		<td class="label">
+			<label for="dateFrom">From</label>
+		</td>
+		<td class="value">
+							<select name="dateFromMonth" class="selectMenu">
+<option label="" value="" selected="selected"></option>
+<option label="January" value="01">January</option>
+<option label="February" value="02">February</option>
+<option label="March" value="03">March</option>
+<option label="April" value="04">April</option>
+<option label="May" value="05">May</option>
+<option label="June" value="06">June</option>
+<option label="July" value="07">July</option>
+<option label="August" value="08">August</option>
+<option label="September" value="09">September</option>
+<option label="October" value="10">October</option>
+<option label="November" value="11">November</option>
+<option label="December" value="12">December</option>
+</select>
+<select name="dateFromDay" class="selectMenu">
+<option label="" value="" selected="selected"></option>
+<option label="01" value="1">01</option>
+<option label="02" value="2">02</option>
+<option label="03" value="3">03</option>
+<option label="04" value="4">04</option>
+<option label="05" value="5">05</option>
+<option label="06" value="6">06</option>
+<option label="07" value="7">07</option>
+<option label="08" value="8">08</option>
+<option label="09" value="9">09</option>
+<option label="10" value="10">10</option>
+<option label="11" value="11">11</option>
+<option label="12" value="12">12</option>
+<option label="13" value="13">13</option>
+<option label="14" value="14">14</option>
+<option label="15" value="15">15</option>
+<option label="16" value="16">16</option>
+<option label="17" value="17">17</option>
+<option label="18" value="18">18</option>
+<option label="19" value="19">19</option>
+<option label="20" value="20">20</option>
+<option label="21" value="21">21</option>
+<option label="22" value="22">22</option>
+<option label="23" value="23">23</option>
+<option label="24" value="24">24</option>
+<option label="25" value="25">25</option>
+<option label="26" value="26">26</option>
+<option label="27" value="27">27</option>
+<option label="28" value="28">28</option>
+<option label="29" value="29">29</option>
+<option label="30" value="30">30</option>
+<option label="31" value="31">31</option>
+</select>
+<select name="dateFromYear" class="selectMenu">
+<option label="" value="" selected="selected"></option>
+<option label="2006" value="2006">2006</option>
+<option label="2007" value="2007">2007</option>
+<option label="2008" value="2008">2008</option>
+<option label="2009" value="2009">2009</option>
+<option label="2010" value="2010">2010</option>
+<option label="2011" value="2011">2011</option>
+<option label="2012" value="2012">2012</option>
+<option label="2013" value="2013">2013</option>
+<option label="2014" value="2014">2014</option>
+<option label="2015" value="2015">2015</option>
+<option label="2016" value="2016">2016</option>
+<option label="2017" value="2017">2017</option>
+<option label="2018" value="2018">2018</option>
+<option label="2019" value="2019">2019</option>
+<option label="2020" value="2020">2020</option>
+<option label="2021" value="2021">2021</option>
+<option label="2022" value="2022">2022</option>
+</select>
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="dateTo">Until</label>
+		</td>
+		<td class="value">
+							<select name="dateToMonth" class="selectMenu">
+<option label="" value="" selected="selected"></option>
+<option label="January" value="01">January</option>
+<option label="February" value="02">February</option>
+<option label="March" value="03">March</option>
+<option label="April" value="04">April</option>
+<option label="May" value="05">May</option>
+<option label="June" value="06">June</option>
+<option label="July" value="07">July</option>
+<option label="August" value="08">August</option>
+<option label="September" value="09">September</option>
+<option label="October" value="10">October</option>
+<option label="November" value="11">November</option>
+<option label="December" value="12">December</option>
+</select>
+<select name="dateToDay" class="selectMenu">
+<option label="" value="" selected="selected"></option>
+<option label="01" value="1">01</option>
+<option label="02" value="2">02</option>
+<option label="03" value="3">03</option>
+<option label="04" value="4">04</option>
+<option label="05" value="5">05</option>
+<option label="06" value="6">06</option>
+<option label="07" value="7">07</option>
+<option label="08" value="8">08</option>
+<option label="09" value="9">09</option>
+<option label="10" value="10">10</option>
+<option label="11" value="11">11</option>
+<option label="12" value="12">12</option>
+<option label="13" value="13">13</option>
+<option label="14" value="14">14</option>
+<option label="15" value="15">15</option>
+<option label="16" value="16">16</option>
+<option label="17" value="17">17</option>
+<option label="18" value="18">18</option>
+<option label="19" value="19">19</option>
+<option label="20" value="20">20</option>
+<option label="21" value="21">21</option>
+<option label="22" value="22">22</option>
+<option label="23" value="23">23</option>
+<option label="24" value="24">24</option>
+<option label="25" value="25">25</option>
+<option label="26" value="26">26</option>
+<option label="27" value="27">27</option>
+<option label="28" value="28">28</option>
+<option label="29" value="29">29</option>
+<option label="30" value="30">30</option>
+<option label="31" value="31">31</option>
+</select>
+<select name="dateToYear" class="selectMenu">
+<option label="" value="" selected="selected"></option>
+<option label="2006" value="2006">2006</option>
+<option label="2007" value="2007">2007</option>
+<option label="2008" value="2008">2008</option>
+<option label="2009" value="2009">2009</option>
+<option label="2010" value="2010">2010</option>
+<option label="2011" value="2011">2011</option>
+<option label="2012" value="2012">2012</option>
+<option label="2013" value="2013">2013</option>
+<option label="2014" value="2014">2014</option>
+<option label="2015" value="2015">2015</option>
+<option label="2016" value="2016">2016</option>
+<option label="2017" value="2017">2017</option>
+<option label="2018" value="2018">2018</option>
+<option label="2019" value="2019">2019</option>
+<option label="2020" value="2020">2020</option>
+<option label="2021" value="2021">2021</option>
+<option label="2022" value="2022">2022</option>
+</select>
+									<input type="hidden" name="dateToHour" value="23" />
+					<input type="hidden" name="dateToMinute" value="59" />
+					<input type="hidden" name="dateToSecond" value="59" />
+												</td>
+	</tr>
+																<tr valign="top">
+							<td colspan="2" class="label"><h4>Index terms</h4></td>
+						</tr>
+								<tr>
+		<td class="label">
+			<label for="discipline">Discipline(s)</label>
+		</td>
+		<td class="value">
+																<input type="text" name="discipline" id="discipline" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="subject">Keyword(s)</label>
+		</td>
+		<td class="value">
+																<input type="text" name="subject" id="subject" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="type">Type (method/approach)</label>
+		</td>
+		<td class="value">
+																<input type="text" name="type" id="type" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="coverage">Coverage</label>
+		</td>
+		<td class="value">
+																<input type="text" name="coverage" id="coverage" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+								<tr>
+		<td class="label">
+			<label for="indexTerms">All index term fields</label>
+		</td>
+		<td class="value">
+																<input type="text" name="indexTerms" id="indexTerms" size="40" maxlength="255" value="" class="textField" />
+												</td>
+	</tr>
+									</table>
+				<p><input type="submit" value="Search" class="button defaultButton" /></p>
+			
+	</div>
+</div>
+<div style="clear:both"></div>			</form>
+</div>
+<br />
+
+
+
+	
+<div id="results">
+	<table width="100%">
+		<tr class="heading" valign="bottom">
+			<th width="20%">Journal</th>			<th width="20%">Issue</th>
+			<th width="60%" colspan="2">Title</th>
+		</tr>
+
+							<tr>
+				<td colspan="4" class="nodata">
+											No Results
+									</td>
+			</tr>
+			</table>
+
+						<h4>Search tips: </h4><ul>
+<li>Search terms are case-insensitive</li>
+<li>Common words are ignored</li>
+<li>By default only articles containing <em>all</em> terms in the query are returned (i.e., <em>AND</em> is implied)</li>
+<li>Combine multiple words with <em>OR</em> to find articles containing either term; e.g., <em>education OR research</em></li>
+<li>Use parentheses to create more complex queries; e.g., <em>archive ((journal OR conference) NOT theses)</em></li>
+<li>Search for an exact phrase by putting it in quotes; e.g., <em>"open access publishing"</em></li>
+<li>Exclude a word by prefixing it with <strong>-</strong> or <em>NOT</em>; e.g. <em>online -politics</em> or <em>online NOT politics</em></li>
+<li>Use <strong>*</strong> in a term as a wildcard to match any sequence of characters; e.g., <em>soci* morality</em> would match documents containing "sociological" or "societal"</li>
+</ul>
+		</div>
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

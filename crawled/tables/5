@@ -1,0 +1,30 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Fakultas</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Fakultas Kedokteran</td>
+<td>Profesi Dokter</td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fakultas Keguruan dan Ilmu Pendidikan</td>
+<td>Profesi Guru</td>
+<td>Baik</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Fakultas Teknik</td>
+<td>Profesi Insinyur</td>
+<td>*</td>
+</tr>
+</tbody>
+</table></br>

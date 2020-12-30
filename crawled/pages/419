@@ -1,0 +1,821 @@
+<!DOCTYPE html><!-- Panoramic -->
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://pasca.uns.ac.id/s2pgsd/xmlrpc.php">
+
+<title>Website Resmi Program Studi Magister Pendidikan Guru Sekolah Dasar UNS &#8211; Just another Pascasarjana UNS site</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Magister Pendidikan Guru Sekolah Dasar UNS &raquo; Feed" href="https://pasca.uns.ac.id/s2pgsd/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Magister Pendidikan Guru Sekolah Dasar UNS &raquo; Comments Feed" href="https://pasca.uns.ac.id/s2pgsd/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pasca.uns.ac.id\/s2pgsd\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='DOPBSP-css-dopselect-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/libraries/css/jquery.dop.Select.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='smpl_shortcodes-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/css/header-standard.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-otb-font-awesome-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/otb-font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-font-awesome-min-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/style.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3Aregular|Raleway%3Aregular%2C700|Lato%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/libraries/js/dop-prototypes.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://pasca.uns.ac.id/s2pgsd/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pasca.uns.ac.id/s2pgsd/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pasca.uns.ac.id/s2pgsd/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+<style type="text/css">
+
+
+/* Minimum slider width */
+.panoramic-slider-container.default .slider .slide img {
+	min-width: 600px;
+}
+	
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 960px) {
+	.main-navigation.translucent {
+		position: relative;
+	}
+	
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}	
+	
+	.slider-placeholder {
+		display: none;
+	}
+	
+	.header-image .overlay,
+	.panoramic-slider-container.default .slider .slide .overlay {
+		top: 25%;
+    }
+	
+	.panoramic-slider-container.default .prev.top-padded,
+	.panoramic-slider-container.default .next.top-padded{
+		margin-top: -26px;
+	}
+	.header-image .overlay.top-padded,
+	.panoramic-slider-container.default .slider .slide .overlay.top-padded {
+		padding-top: 0;
+	}
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .otb-fa.otb-fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .otb-fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .otb-fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .otb-fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+}
+
+</style>
+<link rel="icon" href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-270x270.png" />
+</head>
+
+<body class="home blog wp-custom-logo">
+
+<header id="masthead" class="site-header panoramic-header-layout-standard" role="banner">
+
+    
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="https://pasca.uns.ac.id/s2pgsd/" class="custom-logo-link" rel="home" itemprop="url"><img width="310" height="62" src="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/Magister-Pendidikan-Guru-Sekolah-Dasar-.png" class="custom-logo" alt="Website Resmi Program Studi Magister Pendidikan Guru Sekolah Dasar UNS" itemprop="logo" srcset="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/Magister-Pendidikan-Guru-Sekolah-Dasar-.png 310w, https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2016/09/Magister-Pendidikan-Guru-Sekolah-Dasar--300x60.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                    <div class="info-text">
+            	<strong><em>CALL US:</em></strong> 555-PANORAMIC            </div>
+			<ul class="social-links">
+<li><i class="otb-fa otb-fa-search search-btn"></i></li></ul>                
+    </div>
+    <div class="clearboth"></div>
+    
+		<div class="search-block">
+		<form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s2pgsd/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form>	</div>
+	    
+</div>
+
+        
+<nav id="site-navigation" class="main-navigation border-bottom translucent" role="navigation">
+	<span class="header-menu-button"><i class="otb-fa otb-fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="otb-fa otb-fa-angle-right"></i><i class="otb-fa otb-fa-angle-left"></i></div>
+		<div class="main-navigation-inner"><ul id="menu-staff" class="menu"><li id="menu-item-352" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-352"><a href="https://pasca.uns.ac.id/s2pgsd/">Home</a></li>
+<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-353"><a href="https://pasca.uns.ac.id/s2pgsd/agenda-kegiatan/">Agenda Kegiatan</a>
+<ul  class="sub-menu">
+	<li id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://pasca.uns.ac.id/s2pgsd/seminar/">Seminar</a></li>
+	<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://pasca.uns.ac.id/s2pgsd/kerjasama/">Kerjasama</a></li>
+	<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="https://pasca.uns.ac.id/s2pgsd/kuliah-pakar/">Kuliah Pakar</a></li>
+</ul>
+</li>
+<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="https://pasca.uns.ac.id/s2pgsd/pengumuman/">Pengumuman</a></li>
+<li id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-355"><a href="https://pasca.uns.ac.id/s2pgsd/profil/">Profil Program Studi</a>
+<ul  class="sub-menu">
+	<li id="menu-item-361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="https://pasca.uns.ac.id/s2pgsd/alumni/">Alumni</a></li>
+	<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://pasca.uns.ac.id/s2pgsd/dosen/">Dosen</a></li>
+</ul>
+</li>
+<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://pasca.uns.ac.id/s2pgsd/selayang-pandang/">Selayang Pandang</a></li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+    
+</header><!-- #masthead -->
+
+<script>
+    var panoramicSliderTransitionSpeed = parseInt(450);
+</script>
+
+	<div class="panoramic-slider-container">
+		<style id="wd-slider-0">      .wds_slider_0 video::-webkit-media-controls-panel {        display: none!important;        -webkit-appearance: none;      }      .wds_slider_0 video::--webkit-media-controls-play-button {        display: none!important;        -webkit-appearance: none;      }      .wds_slider_0 video::-webkit-media-controls-start-playback-button {        display: none!important;        -webkit-appearance: none;      }      .wds_bigplay_0,      .wds_slideshow_image_0,      .wds_slideshow_video_0 {        display: block;      }      .wds_bulframe_0 {        display: none;        background-image: url('');        margin: 0px;        position: absolute;        z-index: 3;        -webkit-transition: left 1s, right 1s;        transition: left 1s, right 1s;        width: 30%;        height: 30%;      }      #wds_container1_0 #wds_container2_0 {        margin: 0px ;        text-align: center;        visibility: hidden;            }      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0,      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 * {        box-sizing: border-box;        -moz-box-sizing: border-box;        -webkit-box-sizing: border-box;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_wrap_0 {        background-color: rgba(0, 0, 0, 0.00);        border-width: 0px;        border-style: none;        border-color: #000000;        border-radius: ;        border-collapse: collapse;        display: inline-block;        position: relative;        text-align: center;        width: 100%;              box-shadow: ;        overflow: hidden;        z-index: 0;      }	  	  #wds_container1_0 #wds_container2_0 .wds_slideshow_image_0 {        width: 100%;		height: 100%;        float: none !important;        padding: 0 !important;        margin: 0 !important;        vertical-align: middle;		}	      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_0 video {        padding: 0 !important;        margin: 0 !important;        vertical-align: middle;        background-position: center center;        background-repeat: no-repeat;      }		#wds_container1_0 #wds_container2_0 .wds_slideshow_image_container_0 {        display: /*table*/block;        position: absolute;        text-align: center;        vertical-align: middle;                width: 100%;        height: 100%;      }            @media only screen and (min-width: 0px) and (max-width: 320px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 20px;          height: 20px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 20px;          height: 20px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 16px;          width: 48px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 12px;          margin: 2px;                  width: 12px;          height: 12px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 20px;          height: 20px;          width: 20px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 20px;          font-size: 20px;          width: 20px;        }      }            @media only screen and (min-width: 321px) and (max-width: 480px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 30px;          height: 30px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 30px;          height: 30px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 22px;          width: 66px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 18px;          margin: 2px;                  width: 18px;          height: 18px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 30px;          height: 30px;          width: 30px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 30px;          font-size: 30px;          width: 30px;        }      }            @media only screen and (min-width: 481px) and (max-width: 640px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            @media only screen and (min-width: 641px) and (max-width: 768px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            @media only screen and (min-width: 769px) and (max-width: 800px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            @media only screen and (min-width: 801px) and (max-width: 1024px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            @media only screen and (min-width: 1025px) and (max-width: 1366px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            @media only screen and (min-width: 1367px) and (max-width: 1824px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            @media only screen and (min-width: 1825px) and (max-width: 3000px) {        .wds_bigplay_0,        .wds_bigplay_layer {          position: absolute;          width: 40px;          height: 40px;          background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/1.png');          background-position: center center;          background-repeat: no-repeat;          background-size: cover;          transition: background-image 0.2s ease-out;          -ms-transition: background-image 0.2s ease-out;          -moz-transition: background-image 0.2s ease-out;          -webkit-transition: background-image 0.2s ease-out;          top: 0;          left: 0;          right: 0;          bottom: 0;          margin: auto        }        .wds_bigplay_0:hover,        .wds_bigplay_layer:hover {          background: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/button/button3/2/2.png') no-repeat;          width: 40px;          height: 40px;          background-position: center center;          background-repeat: no-repeat;          background-size: cover;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {          height: 26px;          width: 78px;        }        #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {          font-size: 20px;          margin: 3px;                  width: 20px;          height: 20px;                }        #wds_container1_0 #wds_container2_0 .wds_pp_btn_cont {          font-size: 40px;          height: 40px;          width: 40px;        }        #wds_container1_0 #wds_container2_0 .wds_left_btn_cont,        #wds_container1_0 #wds_container2_0 .wds_right_btn_cont {          height: 40px;          font-size: 40px;          width: 40px;        }      }            #wds_container1_0 #wds_container2_0 .wds_slideshow_video_0 {        padding: 0 !important;        margin: 0 !important;        float: none !important;        height: 100%;        width: 100%;        vertical-align: middle;        display: inline-block;      }      #wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {        color: #000000;        cursor: pointer;        position: relative;        z-index: 13;        width: inherit;        height: inherit;        font-size: inherit;      }      #wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0:hover {        color: #000000;        cursor: pointer;      }            #wds_container1_0 #wds_container2_0 .wds_left-ico_0,      #wds_container1_0 #wds_container2_0 .wds_right-ico_0 {        background-color: rgba(255, 255, 255, 0.00);        border-radius: 20px;        border: 0px none #FFFFFF;        border-collapse: separate;        color: #000000;        left: 0;        top: 0;        -moz-box-sizing: content-box;        box-sizing: content-box;        cursor: pointer;        line-height: 0;        width: inherit;        height: inherit;        font-size: inherit;        position: absolute;      }      #wds_container1_0 #wds_container2_0 .wds_left-ico_0 {        left: -4000px;      }      #wds_container1_0 #wds_container2_0 .wds_right-ico_0 {        left: 4000px;      }            #wds_container1_0 #wds_container2_0 #wds_slideshow_play_pause_0 {        opacity: 0;        filter: "Alpha(opacity=0)";      }      #wds_container1_0 #wds_container2_0 .wds_left-ico_0:hover,      #wds_container1_0 #wds_container2_0 .wds_right-ico_0:hover {        color: #000000;        cursor: pointer;      }      /* Filmstrip*/      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_container_0 {        background-color: #000000 !important;        display: block;        height: 0%;        position: absolute;        width: 100%;        z-index: 10105;      none: 0;        overflow: hidden;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_0 {        overflow: hidden;                position: absolute;        height: 100%;        width: 0%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnails_0 {        height: 100%;      left: 0px;        margin: 0 auto;        overflow: hidden;        position: relative;        width: 100%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnail_0 {        position: relative;        background: none;        float: left;        height: 100%;        padding: 0 0 0 0px;        width: 0%;        overflow: hidden;              cursor: pointer;            }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnail_0 :active{              cursor: inherit;            }      #wds_container1_0 #wds_container2_0 #wds_filmstrip_thumbnail_0_0 {      margin-left: 0;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_thumb_active_0 div {        opacity: 1;        filter: Alpha(opacity=100);        border: 0px none #FFFFFF;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_thumb_deactive_0 {        opacity: 0.50;        filter: Alpha(opacity=50);      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_thumbnail_img_0 {        display: block;        opacity: 1;        filter: Alpha(opacity=100);        padding: 0 !important;        background-position: center center;        background-repeat: no-repeat;        background-size: cover;        width: 100%;        height: 100%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_left_0,      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_right_0 {        background-color: rgba(0, 0, 0, 0);        cursor: pointer;        display: table;        vertical-align: middle;      width: 20px;        z-index: 10000;        position: absolute;      height: 100%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_left_0 {      left: 0;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_right_0 {      right: 0;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_left_0 i,      #wds_container1_0 #wds_container2_0 .wds_slideshow_filmstrip_right_0 i {        color: #fff;        display: table-cell;        font-size: 30px;        vertical-align: middle;        opacity: 0;        filter: Alpha(opacity=0);      }      #wds_container1_0 #wds_container2_0 .wds_none_selectable_0 {        -webkit-touch-callout: none;        -webkit-user-select: none;        -khtml-user-select: none;        -moz-user-select: none;        -ms-user-select: none;        user-select: none;      }      #wds_container1_0 #wds_container2_0 .wds_slide_container_0 {        display: table-cell;        margin: 0 auto;        position: absolute;        vertical-align: middle;        width: 100%;        height: 100%;        overflow: hidden;        cursor: inherit;        cursor: inherit;        cursor: inherit;      }      #wds_container1_0 #wds_container2_0 .wds_slide_container_0:active {        cursor: inherit;        cursor: inherit;        cursor: inherit;      }      #wds_container1_0 #wds_container2_0 .wds_slide_bg_0 {        margin: 0 auto;        width: /*inherit*/100%;        height: /*inherit*/100%;      }      #wds_container1_0 #wds_container2_0 .wds_slider_0 {        height: /*inherit*/100%;        width: /*inherit*/100%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun_0 {        width: /*inherit*/100%;        height: /*inherit*/100%;        display: table-cell;        filter: Alpha(opacity=100);        opacity: 1;        position: absolute;        vertical-align: middle;        z-index: 2;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_second_spun_0 {        width: /*inherit*/100%;        height: /*inherit*/100%;        display: table-cell;        filter: Alpha(opacity=0);        opacity: 0;        position: absolute;        vertical-align: middle;        z-index: 1;      }      #wds_container1_0 #wds_container2_0 .wds_grid_0 {        display: none;        height: 100%;        overflow: hidden;        position: absolute;        width: 100%;      }      #wds_container1_0 #wds_container2_0 .wds_gridlet_0 {        opacity: 1;        filter: Alpha(opacity=100);        position: absolute;      }      /* Dots.*/      #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {        opacity: 1;        filter: "Alpha(opacity=100)";      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_container_0 {        display: block;        overflow: hidden;        position: absolute;        width: 100%;      bottom: 0;        /*z-index: 17;*/      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_thumbnails_0 {        left: 0px;        font-size: 0;        margin: 0 auto;        position: relative;        z-index: 999;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_0 {        display: inline-block;        position: relative;        color: #FFFFFF;        cursor: pointer;        z-index: 17;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_active_0 {        color: #FFFFFF;        opacity: 1;        filter: Alpha(opacity=100);            }      #wds_container1_0 #wds_container2_0 .wds_slideshow_dots_deactive_0 {            }            /* Line timer.*/      #wds_container1_0 #wds_container2_0 .wds_line_timer_container_0 {        display: block;        position: absolute;        overflow: hidden;      top: 0;        z-index: 16;        width: 100%;        height: 5px;      }      #wds_container1_0 #wds_container2_0 .wds_line_timer_0 {        z-index: 17;        width: 0;        height: 5px;        background: #BBBBBB;        opacity: 0.50;        filter: alpha(opacity=50);      }            #wds_container1_0 #wds_container2_0 .wds_slide_container_0 {        height: /*inherit*/100%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun1_0 {        display: table;        width: /*inherit*/100%;        height: /*inherit*/100%;      }      #wds_container1_0 #wds_container2_0 .wds_slideshow_image_spun2_0 {        display: table-cell;        vertical-align: middle;        text-align: center;        overflow: hidden;        height: /*inherit*/100%;      }      #wds_container1_0 #wds_container2_0 .wds_video_layer_frame_0 {        max-height: 100%;        max-width: 100%;        width: 100%;        height: 100%;      }      #wds_container1_0 #wds_container2_0 .wds_video_hide0 {        width: 100%;        height: 100%;        position:absolute;      }      #wds_container1_0 #wds_container2_0 .wds_slider_car_image0 {        overflow: hidden;      }      #wds_container1_0 .wds_loading_img {        background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/images/loading/0.gif');      }      			#wds_container1_0 #wds_container2_0 #wds_image_id_0_2 .wds_slideshow_image_0 {									background-size: cover;					background-position: center center;					background-repeat: no-repeat;																							}						#wds_container1_0 #wds_container2_0 #wds_image_id_0_2 .wds_slideshow_image_0 > video {				background-size: cover;			}						#wds_container1_0 #wds_container2_0 #wds_image_id_0_1 .wds_slideshow_image_0 {									background-size: cover;					background-position: center center;					background-repeat: no-repeat;																							}						#wds_container1_0 #wds_container2_0 #wds_image_id_0_1 .wds_slideshow_image_0 > video {				background-size: cover;			}						#wds_container1_0 #wds_container2_0 #wds_image_id_0_3 .wds_slideshow_image_0 {									background-size: cover;					background-position: center center;					background-repeat: no-repeat;																							}						#wds_container1_0 #wds_container2_0 #wds_image_id_0_3 .wds_slideshow_image_0 > video {				background-size: cover;			}			</style>	  <div id="wds_container1_0" class="wds_slider_cont" data-wds="0">      <div class="wds_loading">        <div class="wds_loading_img"></div>      </div>      <div id="wds_container2_0">        <div class="wds_slideshow_image_wrap_0">                    <div id="wds_slideshow_image_container_0" class="wds_slideshow_image_container_0">                          <div class="wds_slideshow_dots_container_0" onmouseleave="wds_hide_thumb(0)">                <div class="wds_slideshow_dots_thumbnails_0">                                    <i id="wds_dots_0_0"                     class="wds_slideshow_dots_0 fa fa-square wds_slideshow_dots_active_0"                                          onclick="wds_change_image('0', parseInt(jQuery('#wds_current_image_key_0').val()), '0', wds_params[0].wds_data);                              ">                  </i>                                        <i id="wds_dots_1_0"                     class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0"                                          onclick="wds_change_image('0', parseInt(jQuery('#wds_current_image_key_0').val()), '1', wds_params[0].wds_data);                              ">                  </i>                                        <i id="wds_dots_2_0"                     class="wds_slideshow_dots_0 fa fa-square-o wds_slideshow_dots_deactive_0"                                          onclick="wds_change_image('0', parseInt(jQuery('#wds_current_image_key_0').val()), '2', wds_params[0].wds_data);                              ">                  </i>                                      </div>              </div>                                              <div class="wds_line_timer_container_0"><div class="wds_line_timer_0"></div></div>			                			            <div class="wds_slide_container_0" id="wds_slide_container_0">              <div class="wds_slide_bg_0">                <div class="wds_slider_0">                                  <span                    class="wds_slider_car_image0 wds_slideshow_image_spun_0" id="wds_image_id_0_2"                    data-image-id="2"                    data-image-key="0">                    <span class="wds_slideshow_image_spun1_0">                      <span class="wds_slideshow_image_spun2_0">                                                <span data-img-id="wds_slideshow_image_0"                             class="wds_slideshow_image_0"                             onclick=""                             style="background-image: url('https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7617-min.jpg');"                             data-image-id="2"                             data-image-key="0">                                                  </span>                      </span>                    </span>                  </span>                                    <span                    class="wds_slider_car_image0 wds_slideshow_image_second_spun_0" id="wds_image_id_0_1"                    data-image-id="1"                    data-image-key="1">                    <span class="wds_slideshow_image_spun1_0">                      <span class="wds_slideshow_image_spun2_0">                                                <span data-img-id="wds_slideshow_image_second_0"                             class="wds_slideshow_image_0"                             onclick=""                             style=""                             data-image-id="1"                             data-image-key="1">                                                  </span>                      </span>                    </span>                  </span>                                    <span                    class="wds_slider_car_image0 wds_slideshow_image_second_spun_0" id="wds_image_id_0_3"                    data-image-id="3"                    data-image-key="2">                    <span class="wds_slideshow_image_spun1_0">                      <span class="wds_slideshow_image_spun2_0">                                                <span data-img-id="wds_slideshow_image_second_0"                             class="wds_slideshow_image_0"                             onclick=""                             style=""                             data-image-id="3"                             data-image-key="2">                                                  </span>                      </span>                    </span>                  </span>                                  <input type="hidden" id="wds_current_image_key_0" value="0" />                </div>              </div>            </div>                          <div class="wds_btn_cont wds_contTableCell">                <div class="wds_btn_cont wds_contTable">                  <span class="wds_btn_cont wds_contTableCell" style="position: relative; text-align: left;">                    <span class="wds_left_btn_cont">                      <span class="wds_left-ico_0" onclick="wds_change_image('0', parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_wds(0)) >= 0 ? (parseInt(jQuery('#wds_current_image_key_0').val()) - wds_iterator_wds(0)) % wds_params[0].wds_data.length : wds_params[0].wds_data.length - 1, wds_data_0, false, 'left'); return false;">                                                  <i class="fa fa-angle-left"></i>                                                </span>                    </span>                   </span>                </div>              </div>              <div class="wds_btn_cont wds_contTableCell">                <div class="wds_btn_cont wds_contTable">                  <span class="wds_btn_cont wds_contTableCell" style="position: relative; text-align: right;">                    <span class="wds_right_btn_cont">                      <span class="wds_right-ico_0" onclick="wds_change_image('0', parseInt(jQuery('#wds_current_image_key_0').val()), (parseInt(jQuery('#wds_current_image_key_0').val()) + wds_iterator_wds(0)) % wds_params[0].wds_data.length, wds_params[0].wds_data, false, 'right'); return false;">                                                  <i class="fa fa-angle-right"></i>                                                </span>                    </span>                  </span>                </div>              </div>                        </div>                  </div>      </div>    </div>		</div>
+
+<div id="content" class="site-content site-container ">
+
+	    
+    
+	<div id="primary" class="content-area ">
+		<main id="main" class="site-main" role="main">
+        
+        
+		
+						
+				
+<article id="post-430" class="blog-post-side-layout left-aligned post-430 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0002.jpg" width="639" height="469" class="featured-image hideUntilLoaded" alt="UNS melakukan Pengabdian Masyarakat STEAM di Pacitan" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2pgsd/2019/10/26/uns-melakukan-pengabdian-masyarakat-steam-di-pacitan/" rel="bookmark">UNS melakukan Pengabdian Masyarakat STEAM di Pacitan</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2pgsd/2019/10/26/uns-melakukan-pengabdian-masyarakat-steam-di-pacitan/" rel="bookmark"><time class="entry-date published updated" datetime="2019-10-26T00:21:18+00:00">October 26, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2pgsd/author/s2pgsd/">s2pgsd</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim pengabdian masyarakat Universitas Sebelas Maret (UNS) mengadakan pengabdian masyarakat berjudul Penerapan Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>) bagi Guru-Guru Sekolah Dasar di Kabupaten Pacitan pada tanggal 26-27 Juli 2019. Tim Pengabdian Masyarakat terdiri dari: Dr. Riyadi, M.Si.; Dr. Eng. Herman Saputro, M.Pd., M.T.; Dr. Triyanto, S.H., M.Hum.; Dr. Sarwanto, MPd. Dr. Yuyun Estriyanto, MT; dan Taufiq Lilo Adi Sucipto, ST. MT.</p>
+<p><img class=" wp-image-431 aligncenter" src="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0002.jpg" alt="" width="514" height="377" srcset="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0002.jpg 639w, https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0002-300x220.jpg 300w" sizes="(max-width: 514px) 100vw, 514px" /></p>
+<p><img class="size-full wp-image-432 aligncenter" src="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0003.jpg" alt="" width="517" height="385" srcset="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0003.jpg 517w, https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2019/10/IMG-20191026-WA0003-300x223.jpg 300w" sizes="(max-width: 517px) 100vw, 517px" /></p>
+<p>Tujuan kegiatan Pengabdian kepada Masyarakat (PkM) ini, yaitu: 1) Meningkatkan pemahamana guru sekolah dasar di kabupaten Pacitan dalam Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>) dan cara mengimplementasinya dalam kegiatan belajar mengajar di sekolah dasar, 2) Meningkatkan kemampuan guru sekolah dasar dalam menyusun desain kegiatan belajar-mengajar sesuai dengan tujuan dan indikator dalam Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>) bagi peserta didik sekolah dasar di kabupaten Pacitan, dan 3) Meningkatkan keterampilan guru sekolah dasar dalam mengimplementasikan Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>)  berdasarkan Kurikulum 2013 revisi di sekolah dasar kabupaten Pacitan.</p>
+<p>Kegiatan Pengabdian kepada Masyarakat (PkM) ini dilaksanakan di kabupaten Pacitan. Terdapat tiga tahap dalam pelaksanaan PkM, yaitu persiapan, pelaksanaan, dan evaluasi. Tahap persiapan merupakan tahap melakukan survei ke lokasi PkM untuk mendapatkan data awal dan dilanjutkan menyusun rencana kegiatan PkM sesuai dengan kondisi permasalahan yang dihadapi sekolah dalam pelaksanaan Kurikulum 2013 revisi. Tahap pelaksanaan merupakan tahap inti dari PkM. Kegiatan inti adalah pendampingan pelaksanaan pembelajaran kurikulum 2013 revisi dengan pendekatan Pembelajaran STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>). Kegiatan inti ini berupa pelatihan, workshop, dan <em>Focus Group Discussion</em> (FGD) yang dilakukan di kabupaten Pacitan. Tahap evaluasi adalah tahap akhir dari PkM ini yang dilakukan oleh dosen dan mahasiswa mengenai penilaian terhadap apa yang telah dilakukan sebelum dan sesudah guru-guru sekolah dasar mengikuti pelatihan Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>).</p>
+<p>Kesimpulan kegiatan pengabdian kepada masyarakat ini diuraikan sebagai berikut: a). Pemahamana guru sekolah dasar di kabupaten Pacitan mengenai Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>) mengalami peningkatan, b) Kemampuan guru sekolah dasar dalam menyusun desain kegiatan belajar-mengajar sesuai dengan tujuan dan indikator dalam Pembelajaran Berbasis STEAM (<em>Science, Technology, Engineering, Arts, and Mathematics</em>) termasuk kategori baik, dan c) Keterampilan guru sekolah dasar dalam mengimplementasikan Pembelajaran Berbasis STEAM (Science, Technology, Engineering, Arts, and Mathematics)  berdasarkan Kurikulum 2013 revisi di sekolah dasar kabupaten Pacitan termasuk kategori baik.</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2pgsd/2019/10/26/uns-melakukan-pengabdian-masyarakat-steam-di-pacitan/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-368" class="blog-post-side-layout no-featured-image post-368 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2pgsd/2018/04/12/seminar-nasional-pascasarjana/" rel="bookmark">Seminar Nasional Pascasarjana</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2pgsd/2018/04/12/seminar-nasional-pascasarjana/" rel="bookmark"><time class="entry-date published" datetime="2018-04-12T02:22:20+00:00">April 12, 2018</time><time class="updated" datetime="2018-04-12T02:29:31+00:00">April 12, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2pgsd/author/s2pgsd/">s2pgsd</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Seminar Nasional Program Studi S2 PGSD Tahun 2018 akan diselenggarakan pada :</p>
+<p>Hari/Tanggal : Rabu, 09 Mei 2018</p>
+<p>Pukul                 : 07.30 &#8211; Selesai</p>
+<p>Tempat             : Syariah Hotel Solo (Jl. Adi Sucipto No. 47, Gonilan, Kartasura, Sukoharjo, Jawa Tengah)</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2pgsd/2018/04/12/seminar-nasional-pascasarjana/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-321" class="blog-post-side-layout no-featured-image post-321 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2pgsd/2017/02/17/kuliah-perdana-mahasiswa-baru-magister-s2-pgsd-tahun-akademik-20162017/" rel="bookmark">Kuliah Perdana Mahasiswa Baru Magister (S2) PGSD Tahun Akademik 2016/2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2pgsd/2017/02/17/kuliah-perdana-mahasiswa-baru-magister-s2-pgsd-tahun-akademik-20162017/" rel="bookmark"><time class="entry-date published updated" datetime="2017-02-17T14:26:29+00:00">February 17, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2pgsd/author/s2pgsd/">s2pgsd</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p><strong>Kuliah Perdana Mahasiswa Baru Program Studi Magister PGSD</strong></p>
+<p>Bagi Mahasiswa Baru Program Studi Magister PGSD Pascasarjana UNS, <strong>Kuliah Perdana </strong>akan dilaksanakan pada:</p>
+<p><strong>Senin, 20 Februari 2017</strong></p>
+<p><strong>Pukul 10.00 s.d. selesai</strong></p>
+<p><strong>Bertempat di Gedung Pascasarjana Lantai 5, Ruang 1508C (Ruang Sidang III)</strong></p>
+<p><strong>Pakaian bebas rapi</strong></p>
+<p>&nbsp;</p>
+<p>Terima kasih,</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2pgsd/2017/02/17/kuliah-perdana-mahasiswa-baru-magister-s2-pgsd-tahun-akademik-20162017/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-1" class="blog-post-side-layout no-featured-image post-1 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2pgsd/2016/09/06/hello-world/" rel="bookmark">Magister Pendidikan Guru Sekolah Dasar</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2pgsd/2016/09/06/hello-world/" rel="bookmark"><time class="entry-date published" datetime="2016-09-06T04:55:36+00:00">September 6, 2016</time><time class="updated" datetime="2017-01-06T14:39:08+00:00">January 6, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2pgsd/author/s2pgsd/">s2pgsd</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Website resmi Program Studi Magister Pendidikan Guru Sekolah Dasar Universitas Sebelas Maret Surakarta</p>
+<hr />
+<blockquote><p><strong><br />
+</strong>Visi kami adalah menjadi pusat pengkajian dan pengembangan ilmu pengetahuan, teknologi dan seni bidang pendidikan Sekolah Dasar yang diakui tingkat Nasional maupun Internasional</p></blockquote>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2pgsd/2016/09/06/hello-world/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+			<aside id="recent-posts-6" class="widget widget_recent_entries">		<h2 class="widget-title">BERITA TERBARU</h2>		<ul>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2pgsd/2019/10/26/uns-melakukan-pengabdian-masyarakat-steam-di-pacitan/">UNS melakukan Pengabdian Masyarakat STEAM di Pacitan</a>
+							<span class="post-date">October 26, 2019</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2pgsd/2018/04/12/seminar-nasional-pascasarjana/">Seminar Nasional Pascasarjana</a>
+							<span class="post-date">April 12, 2018</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2pgsd/2017/02/17/kuliah-perdana-mahasiswa-baru-magister-s2-pgsd-tahun-akademik-20162017/">Kuliah Perdana Mahasiswa Baru Magister (S2) PGSD Tahun Akademik 2016/2017</a>
+							<span class="post-date">February 17, 2017</span>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s2pgsd/2016/09/06/hello-world/">Magister Pendidikan Guru Sekolah Dasar</a>
+							<span class="post-date">September 6, 2016</span>
+						</li>
+				</ul>
+		</aside>		<aside id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Download</h2><div class="menu-download-container"><ul id="menu-download" class="menu"><li id="menu-item-392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Permohonan-Sidang-Tesis.doc">1. Form Permohonan Sidang Tesis</a></li>
+<li id="menu-item-395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-395"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Permohonan-Seminar-Kemajuan.docx">2. Form Permohonan Seminar Kemajuan</a></li>
+<li id="menu-item-396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-396"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Permohonan-Seminar-Proposal.docx">3. Form Permohonan Seminar Proposal</a></li>
+<li id="menu-item-397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-397"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Permohonan-Seminar-Hasil.docx">4. Form Permohonan Seminar Hasil</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Berita-Acara-Sidang-Tesis.docx">5. Berita Acara Sidang Tesis</a></li>
+<li id="menu-item-399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Berita-Acara-Seminar-Proposal.docx">6. Berita Acara Seminar Proposal</a></li>
+<li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Berita-Acara-Seminar-Kemajuan.docx">7. Berita Acara Seminar Kemajuan</a></li>
+<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Berita-Acara-Seminar-Hasil.docx">8. Berita Acara Seminar Hasil</a></li>
+<li id="menu-item-405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Jadwal-kuliah-Smt-1-Smt-2-Smt-3-dan-Smt-4-Agus-18-Jan-19.docx">9. Jadwal Kuliah Semester Gasal 2018-2019</a></li>
+<li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-413"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/Sertifikat-B-PGSD114.pdf">10. Sertifikat PGSD</a></li>
+<li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/10/alur-siakad-2016.pdf">11. Alur Siakad</a></li>
+<li id="menu-item-420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/10/SK_Kaldik_20181.pdf">12. SK Kaldik</a></li>
+<li id="menu-item-425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/10/perpanjangan-studi-16032018-1.docx">13. Surat Perpanjangan Studi</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-426"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/10/surat-keterangan-mahasiswa.doc">14. Surat Keterangan Aktif Kuliah</a></li>
+<li id="menu-item-427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427"><a href="https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/10/formsurat-ijinpenelitian18.docx">15. Surat Ijin Penelitian</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-428"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeOhXUb3naPbRKgXyAfrLBUVGeOh3XAbm_1L9BruXFLHfR8jg/viewform">16. Rekap Data Verifikasi Publikasi Jurnal &#038; Prosiding Seminar Program Magister (S2) Pascasarjana UNS</a></li>
+</ul></div></aside></div><!-- #secondary -->
+    
+        
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        
+                        <ul>
+                <li id="alexa-rank-widget-2" class="widget alexaRankdigcms_Widget"><h2 class="widgettitle">Universitas Sebelas Maret</h2>
+<A href="http://www.alexa.com/siteinfo/uns.ac.id"><SCRIPT type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=uns.ac.id"></SCRIPT></A></li>
+<li id="alexa-rank-widget-4" class="widget alexaRankdigcms_Widget"><h2 class="widgettitle">Pascasarjana UNS</h2>
+<A href="http://www.alexa.com/siteinfo/pasca.uns.ac.id"><SCRIPT type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/s/a?url=pasca.uns.ac.id"></SCRIPT></A></li>
+<li id="calendar-5" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://pasca.uns.ac.id/s2pgsd/2019/10/">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>
+            </ul>
+    		    		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Theme by <a href="http://www.outtheboxthemes.com">Out the Box</a> 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	                            
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+<link rel='stylesheet' id='wds_frontend-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/css/wds_frontend.css?ver=1.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wds_effects-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/css/wds_effects.css?ver=1.2.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wds_font-awesome-css'  href='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/css/font-awesome/font-awesome.css?ver=4.6.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/libraries/js/jquery.dop.Select.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/assets/js/jquery.dop.frontend.BSPCalendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/assets/js/frontend.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/assets/js/deposit/frontend-deposit.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/assets/js/discounts/frontend-discounts.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/assets/js/fees/frontend-fees.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/assets/js/rules/frontend-rules.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/application/assets/js/dot.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/application/assets/js/calendars/calendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-availability.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-days.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-day.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-schedule.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/pasca.uns.ac.id\/s2pgsd\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/js/navigation.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/js/jquery.touchSwipe.min.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/js/custom.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/js/jquery.mobile.js?ver=1.2.13'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wds_object = {"is_free":"1","pause":"Pause","play":"Play"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+    var wds_glb_margin_0 = parseInt(0);
+    var wds_data_0 = [];
+    var wds_event_stack_0 = [];
+    var wds_clear_layers_effects_in_0 = [];
+    var wds_clear_layers_effects_out_0 = [];
+    var wds_clear_layers_effects_out_before_change_0 = [];
+          var wds_duration_for_change_0 = 0;
+      var wds_duration_for_clear_effects_0 = 0;
+          wds_clear_layers_effects_in_0["0"] = [];
+      wds_clear_layers_effects_out_0["0"] = [];
+      wds_clear_layers_effects_out_before_change_0["0"] = [];
+      wds_data_0["0"] = [];
+      wds_data_0["0"]["id"] = "2";
+      wds_data_0["0"]["image_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7617-min.jpg";
+      wds_data_0["0"]["thumb_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7617-min-150x150.jpg";
+      wds_data_0["0"]["is_video"] = "image";
+      wds_data_0["0"]["slide_layers_count"] = 0;
+      wds_data_0["0"]["target_attr_slide"] = "1";
+      wds_data_0["0"]["link"] = "";
+      wds_data_0["0"]["bull_position"] = "bottom";
+
+      wds_data_0["0"]["width"] = "";
+      wds_data_0["0"]["height"] = "";
+      wds_data_0["0"]["fillmode"] = "fill";
+      wds_data_0["0"]["image_thumb_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7617-min-150x150.jpg";
+            wds_clear_layers_effects_in_0["1"] = [];
+      wds_clear_layers_effects_out_0["1"] = [];
+      wds_clear_layers_effects_out_before_change_0["1"] = [];
+      wds_data_0["1"] = [];
+      wds_data_0["1"]["id"] = "1";
+      wds_data_0["1"]["image_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7545-min.jpg";
+      wds_data_0["1"]["thumb_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7545-min-150x150.jpg";
+      wds_data_0["1"]["is_video"] = "image";
+      wds_data_0["1"]["slide_layers_count"] = 0;
+      wds_data_0["1"]["target_attr_slide"] = "1";
+      wds_data_0["1"]["link"] = "";
+      wds_data_0["1"]["bull_position"] = "bottom";
+
+      wds_data_0["1"]["width"] = "";
+      wds_data_0["1"]["height"] = "";
+      wds_data_0["1"]["fillmode"] = "fill";
+      wds_data_0["1"]["image_thumb_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_7545-min-150x150.jpg";
+            wds_clear_layers_effects_in_0["2"] = [];
+      wds_clear_layers_effects_out_0["2"] = [];
+      wds_clear_layers_effects_out_before_change_0["2"] = [];
+      wds_data_0["2"] = [];
+      wds_data_0["2"]["id"] = "3";
+      wds_data_0["2"]["image_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_0973.jpg";
+      wds_data_0["2"]["thumb_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_0973-150x150.jpg";
+      wds_data_0["2"]["is_video"] = "image";
+      wds_data_0["2"]["slide_layers_count"] = 0;
+      wds_data_0["2"]["target_attr_slide"] = "1";
+      wds_data_0["2"]["link"] = "";
+      wds_data_0["2"]["bull_position"] = "bottom";
+
+      wds_data_0["2"]["width"] = "";
+      wds_data_0["2"]["height"] = "";
+      wds_data_0["2"]["fillmode"] = "fill";
+      wds_data_0["2"]["image_thumb_url"] = "https://pasca.uns.ac.id/s2pgsd/wp-content/uploads/sites/9/2018/09/DSC_0973-150x150.jpg";
+          var wds_global_btn_0 = "right";
+    var wds_trans_in_progress_0 = false;
+    var video_is_playing_0 = false;
+    var iframe_message_sent_0 = 0;
+    var iframe_message_received_0 = 0;
+    var wds_transition_duration_0 = 800;
+    var youtube_iframes_0 = [];
+    var youtube_iframes_ids_0 = [];
+    if (5 < 4) {
+    if (5 != 0) {
+    wds_transition_duration_0 = (5 * 1000) / 4;
+    }
+    }
+    var wds_playInterval_0;
+    var progress = 0;
+    var bottom_right_deggree_0;
+    var bottom_left_deggree_0;
+    var top_left_deggree_0;
+    var curent_time_deggree_0 = 0;
+    var circle_timer_animate_0;
+
+
+    /* Stop autoplay.*/
+    window.clearInterval(wds_playInterval_0);
+    var wds_current_key_0 = '0';
+    var wds_current_filmstrip_pos_0 = wds_current_key_0 * jQuery(".wds_slideshow_filmstrip_thumbnails_0").width() / 3;
+    var callback_items = new Array();
+    var wds_param = {
+        wds : 0,
+        carousel : 0,
+        autoplay : 1,
+        youtube_iframes_ids : youtube_iframes_ids_0,
+        youtube_iframes : youtube_iframes_0,
+        wds_data : wds_data_0,
+        wds_trans_in_progress : wds_trans_in_progress_0,
+        wds_event_stack : wds_event_stack_0,
+        wds_current_key : wds_current_key_0,
+        enable_slideshow_autoplay : 1,
+        twoway_slideshow : 0,
+        wds_global_btn_wds : wds_global_btn_0,
+        wds_playInterval : wds_playInterval_0,
+        preload_images : '1',
+        wds_clear_layers_effects_out_before_change : wds_clear_layers_effects_out_before_change_0,
+        wds_clear_layers_effects_out : wds_clear_layers_effects_out_0,
+        layer_out_next :  0,
+        timer_bar_type : 'top',
+        bull_butt_img_or_not : 'style',
+        wds_transition_duration : wds_transition_duration_0,
+        bull_style_active : 'fa-square',
+        bull_style_deactive : 'fa-square-o',
+        width_or_height : 'width',
+        circle_timer_animate : circle_timer_animate_0,
+        filmstrip_position : 'none',
+        slides_count : 3,
+        bull_position : 'bottom',
+        parallax_effect : '0',
+        wds_clear_layers_effects_in : wds_clear_layers_effects_in_0,
+        slider_effect : 'fade',
+        fixed_bg : '0',
+        smart_crop : '0',
+        crop_image_position : 'center center',
+        left_or_top : 'left',
+        outerWidth_or_outerHeight : 'outerWidth',
+        slideshow_interval : '5',
+        slider_loop : '1',
+        wds_play_pause_state : 0,
+        curent_time_deggree : curent_time_deggree_0,
+        enable_slideshow_music : 0,
+        slideshow_music_url : '',
+        wds_duration_for_change : wds_duration_for_change_0,
+        enable_slideshow_shuffle : 0,
+        wds_slideshow_effect : 'wds_fade',
+        glb_border_radius : '',
+        wds_current_filmstrip_pos : wds_current_filmstrip_pos_0,
+        callback_items : [],
+        full_width_for_mobile : 0,
+        full_width : 2,
+        wds_glb_margin : 'wds_glb_margin_0',
+        glb_margin : 0,
+        image_width : 900,
+        image_height : 400,
+        filmstrip_direction : 'horizontal',
+        filmstrip_width : 0,
+        filmstrip_height : 0,
+        auto_height : 0,
+        carousel_width : 1000,
+        stop_animation : 0,
+        filmstrip_thumb_margin_hor : 0,
+        image_right_click : 0,
+        iframe_message_received : 'iframe_message_received_0',
+        video_is_playing : video_is_playing_0,
+        mouse_wheel_nav : 0,
+        mouse_swipe_nav : 0,
+        touch_swipe_nav : 1,
+        keyboard_nav : 0,
+        start_slide_num : 0,
+        start_slide_num_car : 1,
+        wds_duration_for_clear_effects : wds_duration_for_clear_effects_0,
+        carousel_image_counts : 7,
+        carousel_image_parameters : '0.85',
+        carousel_fit_containerWidth : 0,
+        carousel_degree : 0,
+        carousel_grayscale : 0,
+        carousel_transparency : 0,
+        navigation : 4000,
+        bull_hover : 1,
+        current_image_url : '',
+    };
+    if ( typeof wds_params == "undefined" ) {
+      var wds_params = [];
+    }
+    wds_params[0] = wds_param;
+    
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2pgsd/wp-content/plugins/slider-wd/js/wds_frontend.js?ver=1.2.13'></script>
+
+</body>
+</html>

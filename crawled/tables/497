@@ -1,0 +1,50 @@
+<table width="240">
+	<tbody><tr>
+	  <td>
+	     <font face="Verdana" size="3">::</font>
+	     <font face="Verdana" color="navy" size="1"><b>Cari judul (Seluruh jurnal) :</b>  	 
+		  <input type="hidden" name="search_type" value="judul">&nbsp;
+	     <input type="text" name="search_string" size="30" maxlength="50" value="" style="color: navy; font-family: Verdana; font-size: 8pt; font-weight: none; background-color: #FFFFCC;">
+	     <br><input type="submit" name="submit" value="C a r i" style="font-size: 8pt;"><br></font>
+       </td>
+	</tr>
+	<tr>
+	  <td>
+	  <font face="Verdana" color="blue" size="1"><div id="garis"></div><br>Bagi pengelola jurnal di lingkungan Unpatti yang ingin memasukan paper/jurnal di repositori ini,
+	  silahkan mengirimkan naskah dalam format PDF ke: <a class="nav1" title="eMail Admin" href="mailto:admin@mx.unpatti.ac.id"><b>admin@mx.unpatti.ac.id</b></a></font>
+	  <br>&nbsp;
+	  <div id="garis"></div>
+	  <br>
+	  <a class="nav1" href="https://twitter.com/unpattiofficial" target="_blank"><img border="0" src="images/twitter.png" title="Twitter" alt="Twitter"></a>&nbsp;
+	  <a class="nav1" href="https://facebook.com/unpatti" target="_blank"><img border="0" src="images/facebook.png" title="Facebook" alt="Facebook"></a>&nbsp;
+	  <a class="nav1" href="http://www.youtube.com/channel/UCt9u7BBQo5hpizHWl4OnqDw" target="_blank"><img border="0" src="images/youtube.png" title="Youtube" alt="Youtube"></a>&nbsp;
+      <a class="nav1" href="mailto:admin@mx.unpatti.ac.id" target="_blank"><img border="0" src="images/email.png" title="Email" alt="Email"></a>&nbsp;
+	  <br>
+	  <div id="garis"></div>
+	  <br>
+	  <b>Unpatti Links:
+	  <ul><b>
+	   <li><a class="nav1" title="Unpatti Website" href="https://unpatti.ac.id" target="_blank">Web Portal Unpatti</a></li>
+       <li><a class="nav1" title="A2Z Website" href="https://a2z.unpatti.ac.id" target="_blank">A2Z Unpatti</a></li>
+	   <li><a class="nav1" title="Sismik" href="https://sismik.unpatti.ac.id" target="_blank">Sistim Akademik</a></li>
+	   <li><a class="nav1" title="Fakultas Hukum" href="https://fhukum.unpatti.ac.id" target="_blank">Fakultas Hukum</a></li>
+	   <li><a class="nav1" title="Fakultas Teknik" href="https://fatek.unpatti.ac.id" target="_blank">Fakultas Teknik</a></li>
+	   <li><a class="nav1" title="Fakultas PIK" href="http://fpik.unpatti.ac.id" target="_blank">Fakultas Perikanan dan IK</a></li>
+	   <li><a class="nav1" title="Fakultas MIPA" href="http://fmipa.unpatti.ac.id" target="_blank">Fakultas MIPA</a></li>   
+	   <li><a class="nav1" title="Fakultas KIP" href="http://fkip.unpatti.ac.id" target="_blank">Fakultas KIP</a></li>   
+	   <li><a class="nav1" title="Fakultas FEB" href="http://feb.unpatti.ac.id" target="_blank">Fakultas Ekonomi &amp; Bisnis</a></li>   
+	   <li><a class="nav1" title="Fakultas Kedokteran" href="http://fk.unpatti.ac.id/" target="_blank">Fakultas Kedokteran</a></li>
+	   <li><a class="nav1" title="Fakultas Pertanian" href="http://faperta.unpatti.ac.id" target="_blank">Fakultas Pertanian</a></li>
+	   <li><a class="nav1" title="Fakultas ISIP" href="http://fisip.unpatti.ac.id" target="_blank">Fakultas ISIP</a></li>   
+	   <li><a class="nav1" title="Kemahasiswaan Unpatti" href="http://kemahasiswaan.unpatti.ac.id" target="_blank">Kemahasiswaan Unpatti</a></li>
+	   <li><a class="nav1" title="Network Operating Center" href="http://noc.unpatti.ac.id" target="_blank">Network Operating Center</a></li>
+	   <li><a class="nav1" title="Karir Unpatti" href="http://karir.unpatti.ac.id" target="_blank">Karir Unpatti</a></li>
+	   <li><a class="nav1" title="LemLit Unpatti" href="http://lemlit.unpatti.ac.id" target="_blank">Lembaga Penelitian</a></li>
+	   <li><a class="nav1" title="eBook Fatek Unpatti" href="https://ebook.fatek.unpatti.ac.id" target="_blank">eBook Fatek Unpatti</a></li>
+	   <li><a class="nav1" title="SI Fatek" href="https://si.fatek.unpatti.ac.id" target="_blank">Beranda Data Fatek</a></li>
+	   <li><a class="nav1" title="SIMPEG FEBIS" href="https://sip.feb.unpatti.ac.id" target="_blank">SIMPEG FEBIS</a></li>
+	   <li><a class="nav1" title="Paparisa Unpatti" href="https://paparisa.unpatti.ac.id" target="_blank">Paparisa Unpatti</a> (in English)</li>
+     </b></ul>
+	  </b></td>  
+	</tr>
+	</tbody></table></br>

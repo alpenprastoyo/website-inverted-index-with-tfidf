@@ -1,0 +1,693 @@
+<!DOCTYPE html><!-- Panoramic -->
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://pasca.uns.ac.id/s3kajianbudaya/xmlrpc.php">
+
+<title>Website Resmi Program Studi Doktor Kajian Budaya UNS &#8211; Just another Pascasarjana UNS site</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Doktor Kajian Budaya UNS &raquo; Feed" href="https://pasca.uns.ac.id/s3kajianbudaya/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Doktor Kajian Budaya UNS &raquo; Comments Feed" href="https://pasca.uns.ac.id/s3kajianbudaya/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pasca.uns.ac.id\/s3kajianbudaya\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='DOPBSP-css-dopselect-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/libraries/css/jquery.dop.Select.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='smpl_shortcodes-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/css/header-standard.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-otb-font-awesome-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/otb-font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-font-awesome-min-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/style.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3Aregular|Raleway%3Aregular%2C700|Lato%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/libraries/js/dop-prototypes.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://pasca.uns.ac.id/s3kajianbudaya/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pasca.uns.ac.id/s3kajianbudaya/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+<style type="text/css">
+
+
+/* Minimum slider width */
+.panoramic-slider-container.default .slider .slide img {
+	min-width: 600px;
+}
+	
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 960px) {
+	.main-navigation.translucent {
+		position: relative;
+	}
+	
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}	
+	
+	.slider-placeholder {
+		display: none;
+	}
+	
+	.header-image .overlay,
+	.panoramic-slider-container.default .slider .slide .overlay {
+		top: 25%;
+    }
+	
+	.panoramic-slider-container.default .prev.top-padded,
+	.panoramic-slider-container.default .next.top-padded{
+		margin-top: -26px;
+	}
+	.header-image .overlay.top-padded,
+	.panoramic-slider-container.default .slider .slide .overlay.top-padded {
+		padding-top: 0;
+	}
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .otb-fa.otb-fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .otb-fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .otb-fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .otb-fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+}
+
+</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-270x270.png" />
+</head>
+
+<body class="home blog wp-custom-logo">
+
+<header id="masthead" class="site-header panoramic-header-layout-standard" role="banner">
+
+    
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="https://pasca.uns.ac.id/s3kajianbudaya/" class="custom-logo-link" rel="home" itemprop="url"><img width="310" height="62" src="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/Doktor-Kajian-Budaya-.png" class="custom-logo" alt="Website Resmi Program Studi Doktor Kajian Budaya UNS" itemprop="logo" srcset="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/Doktor-Kajian-Budaya-.png 310w, https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/Doktor-Kajian-Budaya--300x60.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                    <div class="info-text">
+            	<strong><em>CALL US:</em></strong> 555-PANORAMIC            </div>
+			<ul class="social-links">
+<li><i class="otb-fa otb-fa-search search-btn"></i></li></ul>                
+    </div>
+    <div class="clearboth"></div>
+    
+		<div class="search-block">
+		<form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s3kajianbudaya/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form>	</div>
+	    
+</div>
+
+        
+<nav id="site-navigation" class="main-navigation border-bottom translucent" role="navigation">
+	<span class="header-menu-button"><i class="otb-fa otb-fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="otb-fa otb-fa-angle-right"></i><i class="otb-fa otb-fa-angle-left"></i></div>
+		<div class="menu"><ul>
+<li class="current_page_item"><a href="https://pasca.uns.ac.id/s3kajianbudaya/">Home</a></li><li class="page_item page-item-36"><a href="https://pasca.uns.ac.id/s3kajianbudaya/dosen-pengajar/">Dosen Pengampu Mata Kuliah</a></li>
+<li class="page_item page-item-34"><a href="https://pasca.uns.ac.id/s3kajianbudaya/jadwal-kuliah/">Jadwal Kuliah</a></li>
+<li class="page_item page-item-30"><a href="https://pasca.uns.ac.id/s3kajianbudaya/profil-program-studi/">Profil Program Studi</a></li>
+<li class="page_item page-item-32"><a href="https://pasca.uns.ac.id/s3kajianbudaya/visi-misi-program-studi/">Visi Misi Program Studi</a></li>
+</ul></div>
+	</div>
+</nav><!-- #site-navigation -->
+    
+</header><!-- #masthead -->
+
+<script>
+    var panoramicSliderTransitionSpeed = parseInt(450);
+</script>
+
+<div class="header-image loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kajianbudaya/wp-content/uploads/sites/32/2016/09/headertemp.jpg" alt="" height="484" width="1600" />
+	
+		
+</div>
+<div id="content" class="site-content site-container ">
+
+	    
+    
+	<div id="primary" class="content-area ">
+		<main id="main" class="site-main" role="main">
+        
+        
+		
+						
+				
+<article id="post-27" class="blog-post-side-layout no-featured-image post-27 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/27/" rel="bookmark"><time class="entry-date published updated" datetime="2017-10-09T07:06:49+00:00">October 9, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kajianbudaya/author/s3kajianbudaya/">s3kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<table width="64">
+<tbody>
+<tr>
+<td width="64">Dosen Pengampu</td>
+</tr>
+<tr>
+<td>Prof. Dr. Bani Sudardi, M.Hum </td>
+</tr>
+<tr>
+<td>Prof. Dr. Warto, M. Hum</td>
+</tr>
+<tr>
+<td>Prof. Dr. Andrik Purwasito, DEA</td>
+</tr>
+<tr>
+<td>Prof. Sahid Teguh Widodo, S.S., M.Hum., Ph.D</td>
+</tr>
+<tr>
+<td>Prof. Dr. Mahendra Wijaya, M.Si</td>
+</tr>
+<tr>
+<td>Dr. Titis  Srimuda Pitana, ST., M.Trop.Arch</td>
+</tr>
+<tr>
+<td>Prof. Dr. Wakit Abdullah, M.Hum</td>
+</tr>
+<tr>
+<td>Dr. Titis  Srimuda Pitana, ST., M.Trop.Arch </td>
+</tr>
+<tr>
+<td>Dr. Slamet Subiyantoro, M. Si</td>
+</tr>
+<tr>
+<td>Dra. SK. Habsari, M.Hum., Ph.D</td>
+</tr>
+</tbody>
+</table>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/27/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-25" class="blog-post-side-layout no-featured-image post-25 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/25/" rel="bookmark"><time class="entry-date published" datetime="2017-10-09T07:03:46+00:00">October 9, 2017</time><time class="updated" datetime="2017-10-09T07:41:59+00:00">October 9, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kajianbudaya/author/s3kajianbudaya/">s3kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<table width="402">
+<tbody>
+<tr>
+<td width="290">Mata Kuliah</td>
+<td width="48">SKS</td>
+<td width="64">Kode</td>
+</tr>
+<tr>
+<td>Teori Kebudayaan (Posmodernisme)</td>
+<td> 2</td>
+<td>KB303A</td>
+</tr>
+<tr>
+<td>Ilmu Antropologi dan Sosiologi</td>
+<td> 2</td>
+<td>KB304A</td>
+</tr>
+<tr>
+<td>Filsafat Ilmu (Epistemologi Kajian Budaya)</td>
+<td> 2</td>
+<td>KB301A</td>
+</tr>
+<tr>
+<td>Metodologi Penelitian (Pendekatan Studi Kritis)</td>
+<td> 2</td>
+<td>KB302A</td>
+</tr>
+<tr>
+<td>Kapita Selekta Teori Kajian Budaya  </td>
+<td> 2</td>
+<td>KB305A</td>
+</tr>
+<tr>
+<td>(Semiotika, Hermeneutika, dan Dekonstruksi)</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Multikulturalisme dan Lintas Budaya</td>
+<td> 2</td>
+<td>KB306A</td>
+</tr>
+<tr>
+<td>Kualifikasi Disertasi </td>
+<td> 3</td>
+<td> </td>
+</tr>
+<tr>
+<td>Seminar Proposal Disertasi</td>
+<td> 3</td>
+<td width="64"> </td>
+</tr>
+<tr>
+<td>Seminar Kemajuan Riset dan Publikasi I</td>
+<td width="48"> 4</td>
+<td width="64"> </td>
+</tr>
+<tr>
+<td>Seminar Kemajuan Riset dan Publikasi II</td>
+<td width="48"> 4</td>
+<td width="64"> </td>
+</tr>
+<tr>
+<td>Kelayakan Naskah Disertasi</td>
+<td width="48"> 5</td>
+<td width="64"> </td>
+</tr>
+<tr>
+<td>Ujian Tertutup Disertasi</td>
+<td width="48"> 5</td>
+<td> </td>
+</tr>
+<tr>
+<td>Ujian Terbuka Terbuka</td>
+<td width="48"> 6</td>
+<td width="64"> </td>
+</tr>
+</tbody>
+</table>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/25/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-22" class="blog-post-side-layout no-featured-image post-22 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/visi-misi/" rel="bookmark">Visi Misi</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/visi-misi/" rel="bookmark"><time class="entry-date published" datetime="2017-10-09T06:50:13+00:00">October 9, 2017</time><time class="updated" datetime="2017-10-09T07:07:58+00:00">October 9, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kajianbudaya/author/s3kajianbudaya/">s3kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Visi program studi</p>
+<table>
+<tbody>
+<tr>
+<td width="510">
+<p>Mewujudkan program studi S3 Kajian Budaya yang unggul dan berbudaya dalam bidang pendidikan, penelitian, dan pengabdian masyarakat yang berkualitas internasional pada tahun 2020</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Misi program studi</p>
+<table style="height: 187px" width="1060">
+<tbody>
+<tr>
+<td width="510">
+<p>Menyelenggarakan program pendidikan doktor yang secara kondusif mendukung terhadap pengembangan baik spesialisasi disiplin ilmu maupun kolaborasi antar disiplin ilmu dalam pendidikan maupun penelitian dan mendorong inovasi dengan perspektif yang kritis terhadap berbagai perubahan sosial dan masyarakat dan beroreintasi masa depan.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/visi-misi/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-15" class="blog-post-side-layout no-featured-image post-15 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/" rel="bookmark">Profil</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/" rel="bookmark"><time class="entry-date published" datetime="2017-03-22T03:01:47+00:00">March 22, 2017</time><time class="updated" datetime="2017-03-22T03:21:40+00:00">March 22, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kajianbudaya/author/s3kajianbudaya/">s3kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Program Studi S3 Kajian Budaya meskipun berawal dari Fakultas Ilmu Budaya, namun tidak menutup kajian obyek maupun penggunaan metodologi sebatas pada ilmu &#8211; ilmu disiplin Humaniora. Kajian Budaya bersifat lintas didiplin ilmu dan lintas metodologi. kajian Budaya membuka kolaborasi terhadap berbagai disiplin ilmu dan metodologi untuk mencapai tujuan pengkajian obyek budaya yang terjadi pada masyarakat kontemporer. Kajian Budaya berusaha menjawab berbagai permasalahan budaya yang melekat pada berbagai persoalan kemasyarakatan,</p>
+<p>karakteristik Kajian Budaya berada pada sifatnya yang lintas disiplin ilmu dan obyek kajian yang bisa mewadahi ekspertis datang dari berbagai jurusan dan fakultas.</p>
+<p>keunggulan Kajian Budaya adalah usaha untuk merespon berbagai permasalahan yang terjadi di masyarakat baik yang sifatnya sosial maupun non sosial dengan memandang perlunya melihat budaya masyarakat yang bersangkutan, karena persoalan budaya selalu melekat segala persoalan yang timbul di masyarakat</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/#comments">4 Comments </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s3kajianbudaya/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+					<li>
+				<a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/27/">27</a>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/25/">25</a>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/10/09/visi-misi/">Visi Misi</a>
+						</li>
+					<li>
+				<a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/">Profil</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">s3kajianbudaya</span> on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/#comment-5">Profil</a></li><li class="recentcomments"><span class="comment-author-link">s3kajianbudaya</span> on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/#comment-4">Profil</a></li><li class="recentcomments"><span class="comment-author-link">Adhen</span> on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/#comment-3">Profil</a></li><li class="recentcomments"><span class="comment-author-link">Ayu</span> on <a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/#comment-2">Profil</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+			<li><a href='https://pasca.uns.ac.id/s3kajianbudaya/2017/10/'>October 2017</a></li>
+	<li><a href='https://pasca.uns.ac.id/s3kajianbudaya/2017/03/'>March 2017</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+	<li class="cat-item cat-item-1"><a href="https://pasca.uns.ac.id/s3kajianbudaya/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="https://pasca.uns.ac.id/s3kajianbudaya/wp-login.php">Log in</a></li>
+			<li><a href="https://pasca.uns.ac.id/s3kajianbudaya/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://pasca.uns.ac.id/s3kajianbudaya/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside></div><!-- #secondary -->
+    
+        
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        
+                		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Theme by <a href="http://www.outtheboxthemes.com">Out the Box</a> 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	            <ul id="menu-header" class="menu"><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-20"><a href="https://pasca.uns.ac.id/s3kajianbudaya/2017/03/22/profil/">Profil</a></li>
+</ul>                
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/libraries/js/jquery.dop.Select.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/assets/js/jquery.dop.frontend.BSPCalendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/assets/js/frontend.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/assets/js/deposit/frontend-deposit.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/assets/js/discounts/frontend-discounts.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/assets/js/fees/frontend-fees.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/assets/js/rules/frontend-rules.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/application/assets/js/dot.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-availability.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-days.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-day.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-schedule.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/pasca.uns.ac.id\/s3kajianbudaya\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/js/navigation.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/js/jquery.touchSwipe.min.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/js/custom.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kajianbudaya/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+<table class="table">
+                                                  
+                              <tbody><tr>
+                                <td rowspan="2">
+                                    <div class="calendar-small">
+                                      <span class="s-month">Agu 2020</span>
+                                      <span class="s-date">03</span>
+                                    </div>
+                                 </td>
+                                <td><a href="agenda/detail/test-agenda">Test Agenda</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-location-pin"></i> sdcsd</td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2">
+                                    <div class="calendar-small">
+                                      <span class="s-month">Okt 2016</span>
+                                      <span class="s-date">13</span>
+                                    </div>
+                                 </td>
+                                <td><a href="agenda/detail/penambahan-storage-untuk-data-center-universitas-indonesia">Penambahan Storage Untuk Data Center Universitas Indonesia</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-location-pin"></i> Hotel Pangeran Padang, Indonesia</td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2">
+                                    <div class="calendar-small">
+                                      <span class="s-month">Okt 2016</span>
+                                      <span class="s-date">12</span>
+                                    </div>
+                                 </td>
+                                <td><a href="agenda/detail/lelang-cepat-perbaikan-lantai-dan-fasad-gymnasium">Lelang Cepat Perbaikan Lantai dan Fasad Gymnasium</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-location-pin"></i> Mercury Beach Hotel Jogjakarta </td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2">
+                                    <div class="calendar-small">
+                                      <span class="s-month">Okt 2016</span>
+                                      <span class="s-date">11</span>
+                                    </div>
+                                 </td>
+                                <td><a href="agenda/detail/lelang-renovasi-kantin-fakultas-psikologi-universitas-indonesia">Lelang Renovasi Kantin Fakultas Psikologi Universitas Indonesia</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-location-pin"></i> Hotel Pangeran Padang, Indonesia</td>
+                              </tr>          </tbody></table></br>

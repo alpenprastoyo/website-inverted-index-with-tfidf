@@ -1,0 +1,725 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>AGRITEXTS: Journal of Agricultural Extension</title>
+        <meta name="description" content="AGRITEXTS: Journal of Agricultural Extension" />
+        <meta name="keywords" content="Penyuluhan; komunikasi; Pemberdayaan; Agritexts; CSR;" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/182/journalFavicon_en_US.png" type="image/png" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/public/journals/182/journalStyleSheet.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                            
+                            
+	<link rel="alternate" type="application/atom+xml" title="AGRITEXTS: Journal of Agricultural Extension (atom+xml)" href="https://jurnal.uns.ac.id/agritexts/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="AGRITEXTS: Journal of Agricultural Extension (rdf+xml)" href="https://jurnal.uns.ac.id/agritexts/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="AGRITEXTS: Journal of Agricultural Extension (rss+xml)" href="https://jurnal.uns.ac.id/agritexts/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/agritexts/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/agritexts/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/182/homeHeaderTitleImage_en_US.jpg" alt="AGRITEXTS: Journal of Agricultural Extension" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/agritexts/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/agritexts/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/agritexts/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/agritexts/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/agritexts/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/agritexts/statistics" target="_parent">Statistics</a></li>
+
+                                                                                    <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/ja/search/search?simpleQuery=&amp;searchField=query">Search</a></li>
+                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/agritexts/pages/view/Indexing">Indexing</a></li>
+                                                            
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/agritexts/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/agritexts/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/agritexts/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/agritexts/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/agritexts/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/agritexts/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/agritexts/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/agritexts/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/agritexts/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/agritexts/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                        <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/ja/search/search?simpleQuery=&amp;searchField=query">Search</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/agritexts/pages/view/Indexing">Indexing</a></li>
+                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/agritexts/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                            <p>2721-5903 (Print)</p>
+                                                                                                                                                                                                                                                        <p>2721-5911 (Online)</p>
+                                                                                                                    </div>
+                                                                                                        
+<div class="block custom" id="customblock-About-AGRITEXTS">
+	<div id="About AGRITEXTS" class="block"><span class="blockTitle">About AGRITEXTS</span></div>
+<div class="block">
+<div class="sidebar-block">
+<ul>
+<li><a href="/agritexts/about/editorialPolicies#focusAndScope">Focus and Scope</a></li>
+<li><a href="/agritexts/about/editorialTeam">Editorial Team</a></li>
+<li><a href="/agritexts/about/contact">Contact</a></li>
+<li><a href="/agritexts/about/editorialPolicies#custom-2">Publication Ethics</a></li>
+<li><a href="/agritexts/about/displayMembership/888">Peer Reviewers</a></li>
+<li><a href="/agritexts/about/submissions#copyrightNotice">Copy Right Notice</a></li>
+<li style="text-align: left;">Author Declaration Form</li>
+</ul>
+</div>
+</div>
+</div>	<div class="block custom" id="customblock-Information-for-Author">
+	<div id="About AGRITEXTS" class="block"><span class="blockTitle">Information for Author</span></div>
+<div class="block">
+<div class="sidebar-block">
+<ul>
+<li><a href="/agritexts/about/submissions#authorGuidelines">Author Guidelines</a></li>
+<li><a href="https://drive.google.com/file/d/1C0HVuKtM4lYsvLYBjlmdLni6BKknS9K_/view">Template</a></li>
+<li><a href="/agritexts/about/submissions#authorFees">Author Fees</a></li>
+</ul>
+</div>
+</div>
+</div>	<div class="block custom" id="customblock-Indexing">
+	<div id="Indexing" class="block"><span class="blockTitle">Indexing</span>
+<p align="center"><a href="https://scholar.google.co.id/citations?hl=en&amp;user=QuS6_YgAAAAJ&amp;view_op=list_works&amp;gmla=AJsN-F56Hdy7q91xVYGeTmKiWlnS1Ujn3RPAorN1sM6Zi3rbg_2Ea24s7QKcJ8YjR6Tu9Zesf7l9lgIEjDm4wf_wKLu5fXaCCm8VakTG01anPGXKcctZ75g" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" alt="Google schoolar" width="201" height="77" /></a></p>
+<p align="center"><a href="https://search.crossref.org/?q=AGRITEXTS%3A+Journal+of+Aricultural+Extension" target="_blank"><img src="https://allvectorlogo.com/img/2017/08/crossref-logo.png" alt="CrossRef" width="201" height="95" /></a></p>
+<p align="center"><a href="http://garuda.ristekbrin.go.id/journal/view/18737" target="_blank"><img src="http://garuda.ristekbrin.go.id/assets/img/garuda1.png" alt="Garuda" width="201" height="50" /></a></p>
+</div>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/agritexts/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/agritexts/notification">View</a></li>
+			<li><a href="https://jurnal.uns.ac.id/agritexts/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Keywords</span>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Agriculture"><span style="font-size: 95%;">Agriculture</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Attitude"><span style="font-size: 155%;">Attitude</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Extension"><span style="font-size: 105%;">Extension</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Farmer"><span style="font-size: 105%;">Farmer</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Farmers"><span style="font-size: 135%;">Farmers</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Jajar%20Legowo"><span style="font-size: 85%;">Jajar Legowo</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Organic%20Rice"><span style="font-size: 95%;">Organic Rice</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Participation"><span style="font-size: 165%;">Participation</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Partisipasi"><span style="font-size: 115%;">Partisipasi</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Perception"><span style="font-size: 125%;">Perception</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Persepsi"><span style="font-size: 115%;">Persepsi</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Petani"><span style="font-size: 155%;">Petani</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Rank%20Spearman"><span style="font-size: 125%;">Rank Spearman</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=Sikap"><span style="font-size: 145%;">Sikap</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=adoption"><span style="font-size: 95%;">adoption</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=communication"><span style="font-size: 95%;">communication</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=empowerment"><span style="font-size: 95%;">empowerment</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=farmer"><span style="font-size: 155%;">farmer</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=participation"><span style="font-size: 105%;">participation</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=peasant"><span style="font-size: 95%;">peasant</span></a>
+			<a href="https://jurnal.uns.ac.id/agritexts/search?subject=perception"><span style="font-size: 85%;">perception</span></a>
+	</div><div class="block custom" id="customblock-Visitors">
+	<div id="Visitors" class="block"><span class="blockTitle">Visitors</span>
+<p><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img src="https://c.statcounter.com/12130472/0/9d4ec536/0/" alt="Web Analytics" /></a> <a title="AGRITEXTS Stats" href="https://statcounter.com/p12130472/?guest=1" target="_blank">View My Stats</a> </p>
+</div>
+</div>	<div class="block" id="sidebarFlagcounter">
+    <span class="blockTitle" >Flagcounter</span>
+    <a href="https://s09.flagcounter.com/more/yMdb/" target="_blank"><img style="width: 100%;" src="https://s09.flagcounter.com/map/yMdb/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Journal Flag Counter" border="0"></a>
+</div><div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/agritexts/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/agritexts/issue/archive">By Issue</a></li>
+		<li><a href="https://jurnal.uns.ac.id/agritexts/search/authors">By Author</a></li>
+		<li><a href="https://jurnal.uns.ac.id/agritexts/search/titles">By Title</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Other Journals</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>			</ul>
+	</div>
+<div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+				<li><a href="https://jurnal.uns.ac.id/agritexts/information/authors">For Authors</a></li>		<li><a href="https://jurnal.uns.ac.id/agritexts/information/librarians">For Librarians</a></li>	</ul>
+</div>
+<div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/agritexts/help/view/user/topic/000001')">Journal Help</a>
+</div>
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/agritexts/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/agritexts" class="current">Vol 44, No 2 (2020)</a></div>
+
+                                                        <h2>AGRITEXTS: Journal of Agricultural Extension</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+
+
+<table>
+    <tr>
+                    <td>
+                <br>
+                <div id="homepageImage"><img src="https://jurnal.uns.ac.id/public/journals/182/homepageImage_en_US.png" width="480" height="633" alt="JURNAL AGRITEXTS" /></div>
+            </td>
+        
+                    <td rowspan="2">
+                <div id="journalDescription"><div><strong>P-ISSN <a title="P-ISSN" href="http://u.lipi.go.id/1578549539" target="_blank">2721-5903</a> | E-ISSN <a title="E-ISSN" href="http://u.lipi.go.id/1578549905" target="_blank">2721-5911</a></strong></div><p>AGRITEXTS: Journal of Agricultural Extension merupakan jurnal media publikasi hasil penelitian dan pemikiran bidang penyuluhan dan komunikasi pertanian/pemberdayaan masyarakat maupun pembangunan pedesaan dalam arti luas.</p><p><span>AGRITEXTS: Journal of Agricultural Extension telah berkolaborasi dengan </span><span lang="IN">Asosiasi Prodi Penyuluhan, Komunikasi Pembangunan, dan Pemberdayaan Masyarakat Indonesia (<a href="https://drive.google.com/file/d/19_PouAaCM2y8b4RXuqDDeboySq-BeqCQ/view">APP-KPPMI</a>).</span></p></div>
+            </td>
+                
+    </tr>
+</table>
+        <div id="announcementsHome">
+        <h3><a href="https://jurnal.uns.ac.id/agritexts/announcement">Announcements</a></h3>
+            <table class="announcements">
+	<tr>
+		<td colspan="2" class="headseparator">&nbsp;</td>
+	</tr>
+
+
+			<tr class="title">
+					<td class="title"><h4>News: AGRITEXTS: Journal of Agricultural Extension berkolaborasi dengan APP-KPPMI</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description"><p><span>Pada tanggal 30 Juli 2020, AGRITEXTS: Journal of Agricultural Extension telah berkolaborasi dengan </span><span lang="IN">Asosiasi Prodi Penyuluhan, Komunikasi Pembangunan, dan Pemberdayaan Masyarakat Indonesia <a href="https://drive.google.com/file/d/19_PouAaCM2y8b4RXuqDDeboySq-BeqCQ/view?usp=sharing">(APP-KPPMI)</a>.</span></p><div><span lang="IN"><br /></span></div></td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Posted: 2020-08-04</td>
+					</tr>
+		<tr>
+		<td colspan="2" class="separator">&nbsp;</td>
+	</tr>
+	
+			<tr class="title">
+					<td class="title"><h4>News: Call for Papers</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description"><p>AGRITEXTS: Journal of Agricultural Extension adalah <em>peer-review</em> jurnal dan <em>open access</em> yang diterbitkan dua kali dalam satu tahun yaitu pada bulan Mei dan November.</p><p> </p><p>AGRITEXTS: Journal of Agricultural Extension menerima artikel ilmiah untuk: Vol. 44, No. 2 November 2020.</p></td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Posted: 2020-07-29</td>
+					</tr>
+		<tr>
+		<td colspan="2" class="separator">&nbsp;</td>
+	</tr>
+	
+			<tr class="title">
+					<td class="title"><h4>News: New ISSN for AGRITEXTS: Journal of Agricultural Extension</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description"><span>Pada tahun 2019 Jurnal Agritexts: Jurnal Penyuluhan dan Komunikasi Pertanian dengan ISSN 0854-8382, berganti nama menjadi <strong>AGRITEXTS: Journal of Agricultural Extension</strong> dengan P-ISSN 2721-5903, E-ISSN 2721-5911.</span></td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Posted: 2020-07-28</td>
+							<td class="more"><a href="https://jurnal.uns.ac.id/agritexts/announcement/view/255">More...</a></td>
+					</tr>
+		<tr>
+		<td colspan="2" class="endseparator">&nbsp;</td>
+	</tr>
+	
+</table>	
+        <!-- <table class="announcementsMore">
+                <tr>
+                        <td><a href="https://jurnal.uns.ac.id/agritexts/announcement">More Announcements...</a></td>
+                </tr>
+        </table> -->
+    </div>
+
+        <br />
+    <h3 class="issueTitle"><a href="https://jurnal.uns.ac.id/agritexts/issue/current">Vol 44, No 2 (2020): November</a></h3>
+        	<div id="issueDescription" class="block"></div>
+		<h3 class="issue">Table of Contents</h3>
+	<h4 class="tocSectionTitle">Articles</h4>
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45401">Model Peningkatan Minat Petani pada Penerapan Teknologi Tanam Jajar Legowo Padi Sawah di Kecamatan Cikoneng Ciamis</a>
+					</div>
+		<div class="tocAuthors">
+												Lukman Effendy,									Carla Yunika									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45401/28524" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			75-83
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45402">Pemberdayaan Masyarakat melalui Urban Farming di Rusun Marunda Jakarta Utara</a>
+					</div>
+		<div class="tocAuthors">
+												Nisa Maidah Rahmawati,									Joko Winarno,									Agung Wibowo									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45402/28525" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			84-94
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45403">Motivasi Masyarakat dalam Budidaya Kopi Pesisir di Desa Pucangan Kecamatan Ambal Kabupaten Kebumen</a>
+					</div>
+		<div class="tocAuthors">
+												Ana Fitrotun Nisa,									Suminah Suminah,									Eny Lestari									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45403/28526" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			95-105
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45404">Kemampuan Petani dalam Melakukan Usahatani Ikan Air Tawar di Kecamatan Polanharjo Kabupaten Klaten</a>
+					</div>
+		<div class="tocAuthors">
+												Erlin Yusliana,									Sapja Anantanyu,									Eksa Rusdiyana									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45404/28527" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			106-115
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45405">Sikap Petani terhadap Program Toko Tani Indonesia di Kecamatan Margoyoso Kabupaten Pati</a>
+					</div>
+		<div class="tocAuthors">
+												Meita Fatimatur Rizqiyah,									Dwiningtyas Padmaningrum,									Arip Wijianto									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45405/28528" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			116-125
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45406">Kebutuhan Informasi Petani terhadap Informasi Standar Indikasi Geografis dan Pemasaran Kopi Arabika Java Sindoro-Sumbing</a>
+					</div>
+		<div class="tocAuthors">
+												Retno Rahayu Slamet,									Hanifah Ihsaniyati,									Arip Wijianto									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45406/28529" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			126-134
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45407">Faktor-Faktor yang Mempengaruhi Tingkat Adopsi Peternak terhadap Program Upsus Siwab di Kecamatan Sambi, Kabupaten Boyolali</a>
+					</div>
+		<div class="tocAuthors">
+												Budi Hasim Alyasin,									Suwarto Suwarto,									Sugihardjo Sugihardjo									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45407/28530" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			135-145
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agritexts/article/view/45408">Implementasi Program Taman Teknologi Pertanian (TTP) di Kecamatan Lebaksiu Kabupaten Tegal</a>
+					</div>
+		<div class="tocAuthors">
+												Brian Pratama,									Eny Lestari,									Dwiningtyas Padmaningrum									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agritexts/article/view/45408/28531" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			146-157
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+    
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p>AGRITEXTS: Journal of Agricultural Extension</div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

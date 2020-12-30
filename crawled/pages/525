@@ -1,0 +1,292 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index, follow">
+<meta name="description" content="">
+<meta name="keywords" content="PPL,Praktik Pengalaman Lapangan,FKIP,UNS,FKIP UNS,Berkarakter Cerdas Dan Kuat,Guru,Calon Guru,Sekolah,RSBI,Akselerasi">
+<meta http-equiv="Copyright" content="Praktik Pengalaman Lapangan FKIP UNS">
+<meta name="author" content="Praktik Pengalaman Lapangan FKIP UNS">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="language" content="Indonesia">
+<meta name="revisit-after" content="7">
+<meta name="webcrawlers" content="all">
+<meta name="rating" content="general">
+<meta name="spiders" content="all">
+
+<title>.:: Portal  Administrasi PPL  ::.</title>
+<link rel="stylesheet" type="text/css" href="css/style.css" media="screen" />
+<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+
+<script type="text/javascript">
+/* showClock() function extracts the current time hours, minutes and seconds and then displays them in the div with showText id from the BODY section */
+
+function showClock()
+{
+var clock=new Date();
+var hours=clock.getHours();
+var minutes=clock.getMinutes();
+var seconds=clock.getSeconds();
+// for a nice disply we'll add a zero before the numbers between 0 and 9
+if (hours<10){
+hours="0" + hours;
+}
+if (minutes<10){
+minutes="0" + minutes;
+}
+if (seconds<10){
+seconds="0" + seconds;
+}
+document.getElementById('showText').innerHTML=hours+":"+minutes+":"+seconds+" WIB";
+t=setTimeout('showClock()',500);
+/* setTimeout() JavaScript method is used to call showClock() every 1000 milliseconds (that means exactly 1 second) */
+}
+</script>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery.animated.innerfade.js">
+</script>
+<script type="text/javascript">
+$(document).ready( function(){
+    $('ul#animated-portfolio').animatedinnerfade({
+	speed: 1000,
+	timeout: 5000,
+	type: 'random',
+	containerheight: '110px',
+	containerwidth: '490px',
+	animationSpeed: 5000,
+	animationtype: 'fade',
+	bgFrame: 'none',
+	controlBox: 'none',
+	displayTitle: 'none'
+	});
+} ); 
+</script>
+
+</head>
+
+<body>
+<div id="main_container">
+	<div id="header">        
+        <div id="menu">
+<ul>
+<li><a href="index.php" title="" id="Home">Depan</a></li>
+<li><a href="alur.php" title="" id="ilink4">Alur</a></li>
+<!-- <li><a href="#" title="" id="ilink">Berita</a></li> -->
+<li><a href="listskul.php" title="" id="ilink2">Data Sekolah</a></li>
+<li><a href="statistik.php" title="" id="ilink3">Statistik</a></li>
+<li><a href="pengumuman.php" title="" id="ilink4">Pengumuman</a></li>
+<li><a href="guest.php" title="" id="ilink3">Saran dan Kritik</a></li>
+<li><a href="cetakform.php" title="" id="ilink3">Cetak Form</a></li>
+
+</ul>
+</div>
+
+        
+    </div>
+    
+    <div class="green_box">
+    	<div class="clock">&nbsp;
+        <img src="images/logo-uns-emas.gif" alt="" title="" width="100" height="100"/> </div>
+        <div class="text_content">
+        <h1>Magang Kependidikan </h1>
+        <div class="headur">Portal Administrasi Magang Kependidikan<br>
+       Fakultas Keguruan dan Ilmu Pendidikan <br>Universitas Sebelas Maret<br>Surakarta</div>
+        
+        </div>
+        
+        <div id="right_nav">
+           <center> 
+            
+           
+<ul id="animated-portfolio">					
+<li>
+	
+<img src="images/slide/ungu.jpg" alt="" title="" width="600" height="105" />
+</li>
+<li>
+	
+<img src="images/slide/pelepasan.gif" alt="" title="" width="600" height="105" />
+</li>
+<li>
+	
+<img src="images/slide/mhs.gif" alt="" title="" width="600" height="105" />
+</li>	
+<li>
+	
+<img src="images/slide/ficos.gif" alt="" title="" width="600" height="105" />
+</li>	
+<li>
+	
+<img src="images/slide/ngajar.gif" alt="" title="" width="600" height="105" />
+</li>	
+</ul>
+
+
+
+
+        </div>       
+        
+    
+    </div><!--end of green box-->
+    
+    <div id="main_content">
+    	
+        </div><!--end of left content-->
+<div id="log">
+
+<div class='hx'> 
+<form action='login.php' method='post'>
+Username : <input name='user' type='text' size='10' maxlength='50' class='input'>
+Password : <input name='password' type='password' size='10' maxlength='50' class='input'>
+&nbsp;
+<input name='ok' type='submit' value='Kirim' class='button'> </form></div></div>
+<div id="right_content">
+<div class="products_box">
+ 
+<!-- 
+<script src="js/popup.js" type="text/javascript" ></script>
+<script src="js/jquery.session.js" type="text/javascript" ></script>
+ <!--     
+<img src="images/banner.jpg" align="top">
+
+End Tabcontent 1-->
+<table border="1" width="100%">
+<tr><td rowspan="2" width="30%"><h3><img src="images/images/link.gif" width="25" height="25" align="absmiddle">&nbsp;&nbsp;Download</h3>
+<blink><font color="red"><i><b>Instrumen Kelengkapan</b></i></font></blink> <br>
+<font color="blue">>></font> <a href="file/2018/LogBook.doc" target="_blank">Log Book</a> <br>
+<font color="blue">>></font> <a href="file/2018/SOP_Magang1.doc" target="_blank">SOP Magang 1</a> <br>
+<font color="blue">>></font> <a href="file/2018/SOP_Magang2.doc" target="_blank">SOP Magang 2</a> <br>
+<font color="blue">>></font> <a href="file/2018/Instrumen_Magang_1.doc" target="_blank">Instrumen Magang 1</a> <br>
+<font color="blue">>></font> <a href="file/2018/Instrumen_Magang_2.doc" target="_blank">Instrumen Magang 2</a> <br>
+<font color="blue">>></font> <a href="file/2018/Draf_Laporan_Magang.doc" target="_blank">Format Laporan Magang</a> <br>
+<font color="blue">>></font> <a href="file/2018/Bgn_Prosedur_Magang_ 1.doc" target="_blank">Bagan Prosedur Magang</a> <br>
+<font color="blue">>></font> <a href="file/2020/Panduan_Magang_3.pdf" target="_blank">Panduan Magang 3 Tahun 2020</a> <br>
+<font color="blue">>></font> <a href="file/2018/Surat_Tugas_Magang_Kependidikan_2019.doc" target="_blank">Surat Tugas Magang 3 Tahun 2019</a> <br>
+<font color="blue">>></font> <a href="file/2018/Form_penilaian_fgd.pdf" target="_blank">Form Penilaian FGD</a> <br>
+<!--
+<table width="100%" style="border:0px;" align="center">
+  <tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/fkip.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/dosen.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/ict.gif" width="75" height="25"></td>
+  </tr>
+  <tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/mail2.gif"  width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/digilib.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/semar.gif" width="75" height="25"></td>
+  </tr>
+
+  <tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/adminjur.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/wisuda.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/beasiswa.gif" width="75" height="25"></td>
+
+  </tr>
+  <tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/unsla.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/ficos.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/alumni.gif" width="75" height="25"></td>
+
+  </tr>
+ <tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/litmas.gif" width="75" height="25"></td>
+   <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/mhs.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/pjj.gif" width="75" height="25"></td>
+</tr>
+<tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/bos.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/tracer.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/staff.gif" width="75" height="25"></td>
+</tr>
+<tr>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/ppkhb.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/sertif.gif" width="75" height="25"></td>
+    <td><img src="http://anjungan.fkip.uns.ac.id/img/icon/ppl.gif" width="75" height="25"></td>
+</tr>
+</table>
+<br>
+<!-- 
+<center><a href="http://www.facebook.com/groups/153236554751375/" target="_blank"><img src="images/join.jpg" width="290" height="70"></a></center>
+<br>
+<center><a href="http://blog.ppl.fkip.uns.ac.id" target="_blank"><img src="http://anjungan.fkip.uns.ac.id/img/icon/blog-ppl-big.gif" width="290" height="70"></a></center>
+-->
+
+
+</td>
+<td colspan="2"><h3 valign="middle"><img src="images/images/home.png" width="25" height="25" align="absmiddle">&nbsp;&nbsp;Home</h3>
+<br><br><h2><strong>Pengumuman Magang Kependidikan 3</strong></h2>
+<div><ol>
+<li>Pendafataran Mhs peserta Magang &nbsp;ke UP2KT (S1 Reguler, PGSD &amp; PG-PAUD): 29 Juni - 6 Juli 2020</li>
+<li>Koordinasi dengan Pimpinan Fakultas, Dinas Pendidikan, &nbsp;DP, dan GP &nbsp;(S1 Reguler): 27 Juli 2020</li>
+<li>Koordinasi dengan Pimpinan Fakultas, Dinas Pendidikan,&nbsp; DP, dan GP&nbsp; (PGSD &amp;PG PAUD)&nbsp; : 27 Juli 2020</li>
+<li>Pembekalan Mahasiswa peserta Magang (S1 Reguler): 28 - 29 Juli 2020. Jadwal Dapat dilihat <span class="bold" style="color: #ff0000;"><a href="file/JADWAL PEMBEKALAN MAGANG 21-07-2020 Rev =.pdf"><span style="color: #ff0000;">selengkapnya</span></a></span></li>
+<li>Pembekalan Mahasiswa peserta Magang (PGSD &amp; PG-PAUD): 30 Juli 2020. <span style="color: #ff0000;">selengkapnya</span></li>
+<li>Penyerahan Mhs Magang ke Sekolah Mitra (S1 Reguler, PGSD &amp; PG-PAUD) : 03 -08 Agustus 2020. <span style="color: #ff0000;">Selengkapnya</span></li>
+<li>Penarikan Mhs Magang dari Sekolah Mitra &nbsp;: 21 - 26 September 2020</li>
+<li>Jadwal Penyerahan Mahasiswa bisa dilihat <span style="color: #ff0000;">disini&nbsp;</span></li>
+</ol></div>
+<hr /><br></td>
+</tr>
+
+<tr><td width="50%"><h3 valign="middle"><img src="images/images/info.png" width="25" height="25" align="absmiddle">&nbsp;&nbsp;</h3>
+<font color='red' size='3'><img src="images/timeline.jpeg" width="650" height="400" align="absmiddle"></font>
+
+</td>
+
+<!--
+<td><h3 valign="middle"><img src="images/images/download.jpeg" width="25" height="25" align="absmiddle">&nbsp;&nbsp;Download</h3>
+<blink><font color="red"><i><b>Instrumen Kelengkapan</b></i></font></blink> <br>
+<font color="blue">>></font> <a href="file/2018/LogBook.doc" target="_blank">Log Book</a> <br>
+<font color="blue">>></font> <a href="file/2018/SOP_Magang1.doc" target="_blank">SOP Magang 1</a> <br>
+<font color="blue">>></font> <a href="file/2018/SOP_Magang2.doc" target="_blank">SOP Magang 2</a> <br>
+<font color="blue">>></font> <a href="file/2018/Instrumen_Magang_1.doc" target="_blank">Instrumen Magang 1</a> <br>
+<font color="blue">>></font> <a href="file/2018/Instrumen_Magang_2.doc" target="_blank">Instrumen Magang 2</a> <br>
+<font color="blue">>></font> <a href="file/2018/Draf_Laporan_Magang.doc" target="_blank">Format Laporan Magang</a> <br>
+<font color="blue">>></font> <a href="file/2018/Bgn_Prosedur_Magang_ 1.doc" target="_blank">Bagan Prosedur Magang</a> <br>
+<font color="blue">>></font> <a href="file/2018/Panduan Magang Kependidikan 3_rev.pdf" target="_blank">Panduan Magang 3</a> <br>
+<font color="blue">>></font> <a href="file/2018/Surat_Tugas_Magang_Kependidikan_2019.doc" target="_blank">Surat Tugas Magang 3 Tahun 2019</a> <br>
+<font color="blue">>></font> <a href="file/2018/Form_penilaian_fgd.pdf" target="_blank">Form Penilaian FGD</a> <br>
+<!--
+2013
+<font color="blue">>></font> <a href="file/2013/LAPORAN-PELAKSANAAN-PPL.docx" target="_blank">Contoh Laporan PPL</a> <br>
+<font color="blue">>></font> <a href="file/2013/2013.zip" target="_blank">Download All Blangko</a> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=jadwal" target="_blank">Jadwal PPL Tahun 2013</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php" target="_blank">Penyerahan PPL Tahun 2013</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=koordinator" target="_blank">Daftar Koordinator PPL Tahun 2013</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=na" target="_blank">Blangko Nilai Akhir PPL</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=pedoman" target="_blank">Buku Pedoman PPL</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=apkg" target="_blank">Alat Penilaian Kemampuan Guru (APKG)</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=apkgii" target="_blank">Penjelasan APKG</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="jadwal.php?act=skala" target="_blank">Penjelasan Skala Penilaian</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="file/2013/Buku-Pedoman-PPL-PG-PAUD-2013.doc" target="_blank">Buku Pedoman PPL PG-PAUD 2013</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="file/2013/Penilaian-PPL-PG-PAUD.doc" target="_blank">Penilaian PPL PG-PAUD 2013</a> <blink><font color="red"><i>New</i></blink> <br>
+-->
+
+<!--
+<font color="blue">>></font> <a href="file/PPL_2012_Jadwal.ppt" target="_blank">Jadwal PPL 2012</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="file/dosbing_2012.pdf" target="_blank">Dosen Pembimbing PPL 2012</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="file/agenda_penerjunan.pdf" target="_blank">Agenda Penerjunan PPL 2012</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="file/Pedoman_PPL_2012.rar" target="_blank">Buku Panduan PPL 2012</a> <blink><font color="red"><i>New</i></blink> <br>
+<font color="blue">>></font> <a href="file/PPL_pgsd_2012.ppt" target="_blank">Jadwal Kegiatan PPL S1 PGSD 2012</a> <blink><font color="red"><i>New</i></blink> <br> 
+<font color="blue">>></font> <a href="file/jadwal_PPL_FKIP_UNS_2011.pdf" target="_balnk">Jadwal PPL 2011</a><br>
+<font color="blue">>></font> <a href="alur.php">Alur Administrasi</a><br>
+<font color="blue">>></font> <a href="file/form-penilaian-PPL-BK.pdf" target="_blank">Form Penilaian (Prodi BK) 2011</a><br>
+<font color="blue">>></font> <a href="file/Pedoman-PPL-PGSD-2011.zip" target="_blank">Pedoman PPL PGSD 2011</a></br>
+
+<font color="blue">>></font> <a href="file/PEDOMAN_PPL_UNS_2011_Baru.zip" target="_blank">Buku Panduan PPL</a> <blink><font color="red"><i>Revisi</i></blink> <br> -->
+<br>  
+</td>
+</tr>
+</table>
+ </div><br>
+    <div style=" clear:both;"></div>
+    </div><!--end of main content-->
+ 
+
+     <div id="footer">
+     	<div class="copyright">
+<center>Developed By ICT CENTER FKIP UNS &copy; 2020</center>
+        </div>
+		</body>
+		</html>

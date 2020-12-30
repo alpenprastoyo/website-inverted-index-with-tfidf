@@ -1,0 +1,904 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="id-ID" xml:lang="id-ID">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Daftar</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+                <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = '##form.dataHasChanged##';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "id_ID"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+
+			<script language="javascript" type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/lib/tinymce/jscripts/tiny_mce/tiny_mce_gzip.js"></script>
+			<script language="javascript" type="text/javascript">
+				tinyMCE_GZ.init({
+					relative_urls : "false",
+					plugins : "paste,jbimages,fullscreen",
+					themes : "advanced",
+					languages : "ca,cs,da,de,el,en,es,es,eu,fa,fr,fr,gl,hr,id,it,ja,mk,ml,nl,no,pl,pt,pt,ro,ru,sk,sr,sv,tr,uk,vi,zh,zh,ar",
+					disk_cache : true
+				});
+			</script>
+			<script language="javascript" type="text/javascript">
+				tinyMCE.init({
+					entity_encoding : "raw",
+					plugins : "paste,jbimages,fullscreen",
+					mode : "exact",
+					language : "id",
+					elements : "mailingAddress,biography",
+					relative_urls : false,
+					forced_root_block : false,
+					paste_auto_cleanup_on_paste : true,
+					apply_source_formatting : false,
+					theme : "advanced",
+					theme_advanced_buttons1 : "cut,copy,paste,|,bold,italic,underline,bullist,numlist,|,link,unlink,help,code,fullscreen,jbimages",
+					theme_advanced_buttons2 : "",
+					theme_advanced_buttons3 : ""
+				});
+			</script>
+                        </head>
+                        <body id="pkp-user-register">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/matriks/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/matriks/user/register">Daftar</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/353/pageHeaderTitleImage_id_ID.png" alt="Header Halaman" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/matriks/index">Beranda</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/matriks/about">Tentang Kami</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/matriks/issue/current">Terkini</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/matriks/issue/archive">Arsip</a></li>
+                        
+                                            <li><a href="https://jurnal.uns.ac.id/matriks/statistics" target="_parent">Statistik</a></li>
+
+                                                                                
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/matriks/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/matriks/user/register">Daftar</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/matriks/index">Beranda</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/matriks/about">Tentang Kami</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/matriks/search">Cari</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/matriks/issue/current">Terkini</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/matriks/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="submitButton"><a href="https://jurnal.uns.ac.id/matriks/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/matriks/statistics" target="_parent">Statistik</a></li>
+
+                                                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/matriks/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Cari" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                    <div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+					<p>2354-8630 (Print)</p>
+						<p>2723-4223 (Online)</p>
+	</div>
+<div class="block custom" id="customblock-Template-Jurnal">
+	<p><span class="blockTitle">Journal Template</span></p>
+<p><a title="Download Template" href="https://cloud.uns.ac.id/index.php/s/XYwSqvZv7naNEzN/download" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAA/CAMAAABQITOJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3REYxMjM1M0IyMzExRTVCRDY2ODg4MDRFNzVBQzkwIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3REYxMjM2M0IyMzExRTVCRDY2ODg4MDRFNzVBQzkwIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTdERjEyMzMzQjIzMTFFNUJENjY4ODgwNEU3NUFDOTAiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTdERjEyMzQzQjIzMTFFNUJENjY4ODgwNEU3NUFDOTAiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6+Yak1AAADAFBMVEUagfuCq9yJvv3V4/Pe5/KNwP3s7vGUtNt/uPzE1eldmeCswNktg+qr0f75+vvg7v6btdPh5uzx9Pm92/4Wgv9zp+QzhunD0uVUktwWhv9Rk+I5kvy2xtk1iOshgvXI0dxLkeM9iuV4otIoifuCuv0cgfaUrs3k6vLh6fLt8fXz9fhalNnT3Oh6q+UVfvxundX2+PnZ4uy61POFqdIagv5xsf2Ks+RapPzo8v8xjv3i7/4qhfGhuNQxg+Vzn9MVgP/b6/7N4vpjmNbf7f5hmt11s/319vipvdUkf+xKjd0qiv35+v0ngu7O2OTK1OFDl/z6/P/3+v32+fwXgP5Nnfwkhv28z+aItusdg/omiPpBid9Gl/np7O/R5v/X4u86kfnO3O2dtM9DjuYWgPw0i+++0OioxOVnoeemutKWuOBCmP1xsfvJ4/85h+NVoPnK2etjl9WNrdNHl/ctiPQVfvtzsv3Q5f6Sw/2hy/0xjvt6tv3B3f5srvxToPw0j/wlh/tEmPzv9v/5/P/J4f4WhP8Whf9FmPyx1P5jqfzu9f8ihfsWf/vr9P97tv2Eu/1SoPwVgf/8/f5SoP6nyPB6t/+FvP1tr/3s9P6cut4Wgv3b7P9/uf0yjfsXhf9Sof1ZpP55sPEYhP9YmeZVkNZdpPhEjOBNme96tvxAi+Vso+Y0jffE3/6gvN2dyf2Jp8w1kPypy/KQteFtp+uXv++dveRlrf+qz/pwsf95tvxSn/54t/+kzf12ru8Wgf7i7fv3+v97t/1HmfxhnOIbhPuJr93n6u1moei11fvR5fzc4OWhv+LD0ODq8Pgmiv+Zv+3o7vVVofwmhvZemd9Zo/zn7PFbpPs9lPwtivovjPuyyeWzzOlJle6PuOqsx+hOm/evy+3B1vD6/P2Auv0Vf/xFmP1Fmf1Di+BCjONuoN1Hj+UXh/9tr/xooONooud5s/htouFvpebK4f3P3OtyoNikutZSoP1coO7r8Pbv8fPe5ewmhvkmhvogiP9Wm+4viPD///8+d5vxAAABAHRSTlP///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8AU/cHJQAABhhJREFUeNrkmXd8FEUUxw8SRKQcxs3BBYgQLoSaArFESgAxQARCkCYi0oVIZ2ZvYdnbPdgzJxgJYAEBC/beu2dF7KLYe4k1dsWujG9m7+Le3h65jQm3fnx/ZO9N2f1mZt6b3846iM3N8R8ALG/fdUfRKjMrKlpuA8D861Q1F5lbTWhk8gFnqaU3PsWb2Q2liHv+g6QDfqEOilP3cHdHx9DcvskG3DEnJU7dOd0LU24PfDY9yYCr0OlxAasf6n1V7RX5yQbk4wLOGUqe7uJ+cJNtATdcTEiHgdt22xdwKFze//PxBbYGJC3VzGdtDUiGBG5JsTVg/j5u9iu2DRJqz73n7pNvR8BTUsM/fxtcO8R+gBO6cfsjv8ceuPwd2wGSHmrp1u/XgS1aNCy9Jnu+7QBLvlbVsPAqLkY199gOkExo37VTxN5AJyV600rksQThRZUNBARbG7HzEgcUELYIKDQcsM4usDug1RHkJVi6dKol5KcMXh4FoUhQkIyQ5IQKZxBaSHxjATZHVVYARYQULCPFD4BOBgglUMT7EAoqyAd8MvJhwOUbADjzhRYx9uKGibGFdyzdZA7ol+lD/Qry6gHpzPugiCgQFhKSwPUAq1XAmT9PDaHELDT1r6WmgJXs6YRHsg7QRxggcwU/olNPfd4iYOcx7lF9vlwTYxfGFq0ZMSqQ2doMUKDjxB6vA8R6QKf2LxCMKq0Bpg50L0tNOAB75qmZM0wBWSqEmY4PyAYUqgVrgOnuPu2s5IjhtV+ZAMLc+lkCkYBApEvNCEhklp55ZBFwr8thTT6PzR5jFsUSUkTAAjgvUpwCigX0QhkRZKuAw3JdlgaQkGtrYgE9NICpaaFMLQYQVh81n0XAdTVnjIfLAxOljRs3bl4yILwcO5/50yX37emsJZWcAUs2Q1WOVnVaDCBmESJijP3aToGxF/N+LDKHLk4e04c6oYVTxE4eOy0Aok7jWVrWRIz7wDzw2vULUVmjculUV7ea665GqNo9txXr8Qky3NOjrb8mUjMAuBYuLZDUFuzWjjtdTxAyi5vUDLzdstqDkMO6BTK2tG27JUPt9ivtcTYyDB9deIcA8Bjm9h6tLiTln3Ltmbe/cHEaeYab1os6vRZzW00ABewh5FAArtH8Y0NnkYt+L+zJnF/WTz2BbOf6aVXz77rbBLCpBasRsDkM5bmTHNoqPn69AwDR+VG3sAOg7DhRD7i68QANYpqP0eJNAojDUsJrWauKMVK3SQAFDDpPwli0K6DuwSCgkUxHkupo2QOewsNEKlRuS5EtpU5a+8LjXtcrEcDcBgVJGBD22yBmQhX2NIoBZLJf09Z1YlonrTGUi7peiaSZbZBm/qhLMwB4eCicZt66/8l6AEWWs3kZ/iLYgr1UYUmoMqytMUgd2u4faU2ctELXq/5E3a6jehs9A9G+BLQudKWRO7nRJey1fhq3sB5AjxaUXhQk9PFshUGNqO2FIBad0dJaA9T1Ohjgy0eB9R+xc+CR7AykJXgLXw/cTMh0V2Bff6g6IuCaXg9gJJxhiKIBg6xREInR0loD1PVKQCy89CY9IPyOY2JB3ZMG3uSV7mJatXIy6/HxwQAhlqkJBkCFNVLY64hOWkcA63qZAeYyuXXTa0pZWVnFiiHad5wPR+4qqyjbtaCceQVZKyoqVmQVhOVWblxAb5iERnEUIEvPMNMGaa0B6nqZCVbUxaJgnV0TF9Dvo7kEsyiOBpQFKqa9BmmtAep6mQDmtMkeZ4mvb+ao+GmG90V0tWGKZVqMjdJaA9T1Mntp+rZ2uCXAvNrHTErFiEj2hnW1B/Iu09QgnymoB7MWmpiOSGtoJkb1MgOckRnI25swXq8sLvsHqwpBtHC4ZPLiPjIz0CZve0L20Y+DA9mDyCEGJB2uLuYSPPrgit+ebF1j+bHw705YT+4w5ZrVBquauOHRKmPhvVPmlSf1CLiBx2/JAbRwgPk/AyyK+8W9wWfUjQt4PTc2oZbNuG+SA7gs8Hkim29BF651cgCPPlXNqIpJIAZ75DKXu2tJcgDJu2243HozcnF1RipJEiAZl/7qcfXYpVcuT9IX7b8FGABsXAVZjG2CuwAAAABJRU5ErkJggg==" alt="" /></a></p>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">Pengguna</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/matriks/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Nama Pengguna</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Kata Sandi</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Ingat Saya</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifikasi</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/matriks/notification">Lihat</a></li>
+			<li><a href="https://jurnal.uns.ac.id/matriks/notification/subscribeMailList">Langganan</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarLanguageToggle">
+	<script type="text/javascript">
+		<!--
+		function changeLanguage() {
+			var e = document.getElementById('languageSelect');
+			var new_locale = e.options[e.selectedIndex].value;
+
+			var redirect_url = 'https://jurnal.uns.ac.id/matriks/user/setLocale/NEW_LOCALE?source=%2Fmatriks%2Fuser%2Fregister';
+			redirect_url = redirect_url.replace("NEW_LOCALE", new_locale);
+
+			window.location.href = redirect_url;
+		}
+		//-->
+	</script>
+	<span class="blockTitle">Bahasa</span>
+	<form action="#">
+		<label for="languageSelect">Pilih bahasa</label>
+		<select id="languageSelect" size="1" name="locale" class="selectMenu"><option label="Bahasa Indonesia" value="id_ID" selected="selected">Bahasa Indonesia</option>
+<option label="English" value="en_US">English</option>
+</select>
+		<input type="submit" class="button" value="Serahkan" onclick="changeLanguage(); return false;" />
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Isi Jurnal</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/matriks/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Cari <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Lingkup Pencarian
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="Semua" value="query">Semua</option>
+<option label="Penulis" value="authors">Penulis</option>
+<option label="Judul" value="title">Judul</option>
+<option label="Sari" value="abstract">Sari</option>
+<option label="Indeks" value="indexTerms">Indeks</option>
+<option label="Teks Lengkap" value="galleyFullText">Teks Lengkap</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Cari" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Telusuri</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/matriks/issue/archive">Berdasarkan Terbitan</a></li>
+		<li><a href="https://jurnal.uns.ac.id/matriks/search/authors">Berdasarkan Penulis</a></li>
+		<li><a href="https://jurnal.uns.ac.id/matriks/search/titles">Berdasarkan Judul</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Jurnal Lain</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>			</ul>
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Ukuran Huruf</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Informasi</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/matriks/information/readers">Untuk Pembaca</a></li>		<li><a href="https://jurnal.uns.ac.id/matriks/information/authors">Untuk Penulis</a></li>		<li><a href="https://jurnal.uns.ac.id/matriks/information/librarians">Untuk Pustakawan</a></li>	</ul>
+</div>
+<div class="block custom" id="customblock-Index">
+	<p><span class="blockTitle">Indexed By</span></p>
+<p><a href="http://garuda.ristekdikti.go.id/journal/view/14910" target="_blank"><img src="http://garuda.ristekdikti.go.id/assets/img/garuda1.png" alt="Garba Rujukan Digital" width="100%" /></a></p>
+<p><a href="https://scholar.google.com/citations?user=Z-UqqUYAAAAJ" target="_blank"><img src="https://scholar.google.com/intl/en/scholar/images/1x/scholar_logo_64dp.png" alt="Google Scholar" width="100%" /></a></p>
+</div>	<div class="block custom" id="customblock-Link-Journal">
+	<p><span class="blockTitle">Checked By</span></p>
+<p><a href="https://www.turnitin.com/" target="_blank"><img src="https://www.turnitin.com/r/build/images/logos/product/eafdac949a41848ea175aa1bc1f32b27cb_turnitin-login-page-logo-2017.png" alt="Turnitin" width="100%" /></a></p>
+<p><a href="https://www.mendeley.com/" target="_blank"><img src="https://iimk.ac.in/libportal/mendeley/mendeley.png" alt="Mendeley" width="100%" /></a></p>
+</div>	
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/matriks/index">Beranda</a> &#47;
+			<a href="https://jurnal.uns.ac.id/matriks/user" class="hierarchyLink">Pengguna</a> &#47;
+			<a href="https://jurnal.uns.ac.id/matriks/user/register" class="current">Daftar</a></div>
+
+                                                        <h2>Daftar</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+<form id="registerForm" method="post" action="https://jurnal.uns.ac.id/matriks/user/registerUser">
+
+<p>Isi form di bawah ini untuk mendaftar ke jurnal ini.</p>
+
+			
+		<p><a href="https://jurnal.uns.ac.id/matriks/user/register?existingUser=1">Klik di sini</a> Jika Anda sudah terdaftar di jurnal ini atau jurnal lain di situs ini.</p>
+	
+	<h3>Profil</h3>
+
+	
+	
+<table class="data" width="100%">
+	<tr valign="top">
+		<td width="20%" class="label">
+<label for="formLocale" >
+	Bahasa </label>
+</td>
+		<td width="80%" class="value">
+			
+			<div id="languageSelector"><select size="1" name="formLocale" id="formLocale" class="selectMenu"><option selected="selected" value="id_ID">Bahasa Indonesia</option><option value="en_US">English</option></select><input type="submit" class="button" value="Serahkan" onclick="changeFormAction('register', 'https://jurnal.uns.ac.id/matriks/user/register'); return false" /></div>
+			<span class="instruct">Pilih bahasa yang diinginkan.</span>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="20%" class="label">
+<label for="username" >
+	Nama Pengguna *</label>
+</td>
+		<td width="80%" class="value"><input type="text" name="username" value="" id="username" size="20" maxlength="32" class="textField" /></td>
+	</tr>
+		<tr valign="top">
+		<td></td>
+		<td class="instruct">Nama pengguna hanya bisa terdiri dari huruf kecil, nomor, dan tanda penghubung/ garis bawah atau kombinasi ketiganya.</td>
+	</tr>
+		<tr valign="top">
+		<td class="label">
+<label for="password" >
+	Kata Sandi *</label>
+</td>
+		<td class="value"><input type="password" name="password" value="" id="password" size="20" class="textField" /></td>
+	</tr>
+
+			<tr valign="top">
+			<td></td>
+			<td class="instruct">Kata sandi minimal 6 karakter.</td>
+		</tr>
+		<tr valign="top">
+			<td class="label">
+<label for="password2" >
+	Ulangi Kata Sandi *</label>
+</td>
+			<td class="value"><input type="password" name="password2" id="password2" value="" size="20" class="textField" /></td>
+		</tr>
+
+					<tr>
+								<td class="label" valign="top">
+<label for="captcha" >
+	Validasi *</label>
+</td>
+				<td class="value">
+					<img src="https://jurnal.uns.ac.id/matriks/user/viewCaptcha/3430342" alt="Gambar Validasi" /><br />
+					<span class="instruct">Masukkan huruf saat mereka ditampilkan di gambar di atas.</span><br />
+					<input name="captcha" id="captcha" value="" size="20" maxlength="32" class="textField" />
+					<input type="hidden" name="captchaId" value="3430342" />
+				</td>
+							</tr>
+				<tr valign="top">
+			<td class="label">
+<label for="salutation" >
+	Sapaan </label>
+</td>
+			<td class="value"><input type="text" name="salutation" id="salutation" value="" size="20" maxlength="40" class="textField" /></td>
+		</tr>
+		<tr valign="top">
+			<td class="label">
+<label for="firstName" >
+	Nama Depan *</label>
+</td>
+			<td class="value"><input type="text" id="firstName" name="firstName" value="" size="20" maxlength="40" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="middleName" >
+	Nama Tengah </label>
+</td>
+			<td class="value"><input type="text" id="middleName" name="middleName" value="" size="20" maxlength="40" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="lastName" >
+	Nama Belakang *</label>
+</td>
+			<td class="value"><input type="text" id="lastName" name="lastName" value="" size="20" maxlength="90" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="initials" >
+	Inisial </label>
+</td>
+			<td class="value"><input type="text" id="initials" name="initials" value="" size="5" maxlength="5" class="textField" />&nbsp;&nbsp;Ratih Keumala Sari = RKS atau <a href=http://slametriyanto.net>Slamet Riyanto = SLM</a></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="gender-m" >
+	Jenis Kelamin </label>
+</td>
+			<td class="value">
+				<select name="gender" id="gender" size="1" class="selectMenu">
+					<option label="" value=""></option>
+<option label="L" value="M">L</option>
+<option label="P" value="F">P</option>
+<option label="Pilih" value="O">Pilih</option>
+
+				</select>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="affiliation" >
+	Afiliasi </label>
+</td>
+			<td class="value">
+				<textarea id="affiliation" name="affiliation[id_ID]" rows="5" cols="40" class="textArea"></textarea><br/>
+				<span class="instruct">(Institusi Anda, contoh: "Pusat Dokumentasi dan Informasi Ilmiah - LIPI")</span>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="signature" >
+	Signature </label>
+</td>
+			<td class="value"><textarea name="signature[id_ID]" id="signature" rows="5" cols="40" class="textArea"></textarea></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="email" >
+	Email *</label>
+</td>
+			<td class="value"><input type="text" id="email" name="email" value="" size="30" maxlength="90" class="textField" /> <a class="action" href="#privacyStatement">Pernyataan Privasi</a></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="confirmEmail" >
+	Konfirmasi Email *</label>
+</td>
+			<td class="value"><input type="text" id="confirmEmail" name="confirmEmail" value="" size="30" maxlength="90" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="orcid" >
+	##user.orcid## </label>
+</td>
+			<td class="value"><input type="text" id="orcid" name="orcid" value="" size="40" maxlength="255" class="textField" /><br />##user.orcid.description##</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="userUrl" >
+	URL </label>
+</td>
+			<td class="value"><input type="text" id="userUrl" name="userUrl" value="" size="30" maxlength="255" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="phone" >
+	Telepon </label>
+</td>
+			<td class="value"><input type="text" name="phone" id="phone" value="" size="15" maxlength="24" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="fax" >
+	Fax </label>
+</td>
+			<td class="value"><input type="text" name="fax" id="fax" value="" size="15" maxlength="24" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="mailingAddress" >
+	Alamat Surat Menyurat </label>
+</td>
+			<td class="value"><textarea name="mailingAddress" id="mailingAddress" rows="3" cols="40" class="textArea"></textarea></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="country" >
+	Negara </label>
+</td>
+			<td class="value">
+				<select name="country" id="country" class="selectMenu">
+					<option value=""></option>
+					<option label="Afghanistan" value="AF">Afghanistan</option>
+<option label="Albania" value="AL">Albania</option>
+<option label="Algeria" value="DZ">Algeria</option>
+<option label="American Samoa" value="AS">American Samoa</option>
+<option label="Andorra" value="AD">Andorra</option>
+<option label="Angola" value="AO">Angola</option>
+<option label="Anguilla" value="AI">Anguilla</option>
+<option label="Antarctica" value="AQ">Antarctica</option>
+<option label="Antigua and Barbuda" value="AG">Antigua and Barbuda</option>
+<option label="Argentina" value="AR">Argentina</option>
+<option label="Armenia" value="AM">Armenia</option>
+<option label="Aruba" value="AW">Aruba</option>
+<option label="Australia" value="AU">Australia</option>
+<option label="Austria" value="AT">Austria</option>
+<option label="Azerbaijan" value="AZ">Azerbaijan</option>
+<option label="Bahamas" value="BS">Bahamas</option>
+<option label="Bahrain" value="BH">Bahrain</option>
+<option label="Bangladesh" value="BD">Bangladesh</option>
+<option label="Barbados" value="BB">Barbados</option>
+<option label="Belarus" value="BY">Belarus</option>
+<option label="Belgium" value="BE">Belgium</option>
+<option label="Belize" value="BZ">Belize</option>
+<option label="Benin" value="BJ">Benin</option>
+<option label="Bermuda" value="BM">Bermuda</option>
+<option label="Bhutan" value="BT">Bhutan</option>
+<option label="Bolivia" value="BO">Bolivia</option>
+<option label="Bosnia and Herzegovina" value="BA">Bosnia and Herzegovina</option>
+<option label="Botswana" value="BW">Botswana</option>
+<option label="Bouvet Island" value="BV">Bouvet Island</option>
+<option label="Brazil" value="BR">Brazil</option>
+<option label="British Indian Ocean Territory" value="IO">British Indian Ocean Territory</option>
+<option label="Brunei Darussalam" value="BN">Brunei Darussalam</option>
+<option label="Bulgaria" value="BG">Bulgaria</option>
+<option label="Burkina Faso" value="BF">Burkina Faso</option>
+<option label="Burundi" value="BI">Burundi</option>
+<option label="Cambodia" value="KH">Cambodia</option>
+<option label="Cameroon" value="CM">Cameroon</option>
+<option label="Canada" value="CA">Canada</option>
+<option label="Cape Verde" value="CV">Cape Verde</option>
+<option label="Cayman Islands" value="KY">Cayman Islands</option>
+<option label="Central African Republic" value="CF">Central African Republic</option>
+<option label="Chad" value="TD">Chad</option>
+<option label="Chile" value="CL">Chile</option>
+<option label="China" value="CN">China</option>
+<option label="Christmas Island" value="CX">Christmas Island</option>
+<option label="Cocos (Keeling) Islands" value="CC">Cocos (Keeling) Islands</option>
+<option label="Colombia" value="CO">Colombia</option>
+<option label="Comoros" value="KM">Comoros</option>
+<option label="Congo" value="CG">Congo</option>
+<option label="Congo, The Democratic Republic Of The" value="CD">Congo, The Democratic Republic Of The</option>
+<option label="Cook Islands" value="CK">Cook Islands</option>
+<option label="Costa Rica" value="CR">Costa Rica</option>
+<option label="Croatia" value="HR">Croatia</option>
+<option label="Cuba" value="CU">Cuba</option>
+<option label="Cyprus" value="CY">Cyprus</option>
+<option label="Czech Republic" value="CZ">Czech Republic</option>
+<option label="Côte d'Ivoire" value="CI">Côte d'Ivoire</option>
+<option label="Denmark" value="DK">Denmark</option>
+<option label="Djibouti" value="DJ">Djibouti</option>
+<option label="Dominica" value="DM">Dominica</option>
+<option label="Dominican Republic" value="DO">Dominican Republic</option>
+<option label="Ecuador" value="EC">Ecuador</option>
+<option label="Egypt" value="EG">Egypt</option>
+<option label="El Salvador" value="SV">El Salvador</option>
+<option label="Equatorial Guinea" value="GQ">Equatorial Guinea</option>
+<option label="Eritrea" value="ER">Eritrea</option>
+<option label="Estonia" value="EE">Estonia</option>
+<option label="Ethiopia" value="ET">Ethiopia</option>
+<option label="Falkland Islands (Malvinas)" value="FK">Falkland Islands (Malvinas)</option>
+<option label="Faroe Islands" value="FO">Faroe Islands</option>
+<option label="Fiji" value="FJ">Fiji</option>
+<option label="Finland" value="FI">Finland</option>
+<option label="France" value="FR">France</option>
+<option label="French Guiana" value="GF">French Guiana</option>
+<option label="French Polynesia" value="PF">French Polynesia</option>
+<option label="French Southern Territories" value="TF">French Southern Territories</option>
+<option label="Gabon" value="GA">Gabon</option>
+<option label="Gambia" value="GM">Gambia</option>
+<option label="Georgia" value="GE">Georgia</option>
+<option label="Germany" value="DE">Germany</option>
+<option label="Ghana" value="GH">Ghana</option>
+<option label="Gibraltar" value="GI">Gibraltar</option>
+<option label="Greece" value="GR">Greece</option>
+<option label="Greenland" value="GL">Greenland</option>
+<option label="Grenada" value="GD">Grenada</option>
+<option label="Guadeloupe" value="GP">Guadeloupe</option>
+<option label="Guam" value="GU">Guam</option>
+<option label="Guatemala" value="GT">Guatemala</option>
+<option label="Guinea" value="GN">Guinea</option>
+<option label="Guinea-Bissau" value="GW">Guinea-Bissau</option>
+<option label="Guyana" value="GY">Guyana</option>
+<option label="Haiti" value="HT">Haiti</option>
+<option label="Heard Island and McDonald Islands" value="HM">Heard Island and McDonald Islands</option>
+<option label="Holy See (Vatican City State)" value="VA">Holy See (Vatican City State)</option>
+<option label="Honduras" value="HN">Honduras</option>
+<option label="Hong Kong" value="HK">Hong Kong</option>
+<option label="Hungary" value="HU">Hungary</option>
+<option label="Iceland" value="IS">Iceland</option>
+<option label="India" value="IN">India</option>
+<option label="Indonesia" value="ID">Indonesia</option>
+<option label="Iran, Islamic Republic Of" value="IR">Iran, Islamic Republic Of</option>
+<option label="Iraq" value="IQ">Iraq</option>
+<option label="Ireland" value="IE">Ireland</option>
+<option label="Israel" value="IL">Israel</option>
+<option label="Italy" value="IT">Italy</option>
+<option label="Jamaica" value="JM">Jamaica</option>
+<option label="Japan" value="JP">Japan</option>
+<option label="Jordan" value="JO">Jordan</option>
+<option label="Kazakhstan" value="KZ">Kazakhstan</option>
+<option label="Kenya" value="KE">Kenya</option>
+<option label="Kiribati" value="KI">Kiribati</option>
+<option label="Korea, Democratic People's Republic Of" value="KP">Korea, Democratic People's Republic Of</option>
+<option label="Korea, Republic Of" value="KR">Korea, Republic Of</option>
+<option label="Kuwait" value="KW">Kuwait</option>
+<option label="Kyrgyzstan" value="KG">Kyrgyzstan</option>
+<option label="Lao People's Democratic Republic" value="LA">Lao People's Democratic Republic</option>
+<option label="Latvia" value="LV">Latvia</option>
+<option label="Lebanon" value="LB">Lebanon</option>
+<option label="Lesotho" value="LS">Lesotho</option>
+<option label="Liberia" value="LR">Liberia</option>
+<option label="Libyan Arab Jamahiriya" value="LY">Libyan Arab Jamahiriya</option>
+<option label="Liechtenstein" value="LI">Liechtenstein</option>
+<option label="Lithuania" value="LT">Lithuania</option>
+<option label="Luxembourg" value="LU">Luxembourg</option>
+<option label="Macao" value="MO">Macao</option>
+<option label="Macedonia, The Former Yugoslav Republic Of" value="MK">Macedonia, The Former Yugoslav Republic Of</option>
+<option label="Madagascar" value="MG">Madagascar</option>
+<option label="Malawi" value="MW">Malawi</option>
+<option label="Malaysia" value="MY">Malaysia</option>
+<option label="Maldives" value="MV">Maldives</option>
+<option label="Mali" value="ML">Mali</option>
+<option label="Malta" value="MT">Malta</option>
+<option label="Marshall Islands" value="MH">Marshall Islands</option>
+<option label="Martinique" value="MQ">Martinique</option>
+<option label="Mauritania" value="MR">Mauritania</option>
+<option label="Mauritius" value="MU">Mauritius</option>
+<option label="Mayotte" value="YT">Mayotte</option>
+<option label="Mexico" value="MX">Mexico</option>
+<option label="Micronesia, Federated States Of" value="FM">Micronesia, Federated States Of</option>
+<option label="Moldova, Republic Of" value="MD">Moldova, Republic Of</option>
+<option label="Monaco" value="MC">Monaco</option>
+<option label="Mongolia" value="MN">Mongolia</option>
+<option label="Montserrat" value="MS">Montserrat</option>
+<option label="Morocco" value="MA">Morocco</option>
+<option label="Mozambique" value="MZ">Mozambique</option>
+<option label="Myanmar" value="MM">Myanmar</option>
+<option label="Namibia" value="NA">Namibia</option>
+<option label="Nauru" value="NR">Nauru</option>
+<option label="Nepal" value="NP">Nepal</option>
+<option label="Netherlands" value="NL">Netherlands</option>
+<option label="Netherlands Antilles" value="AN">Netherlands Antilles</option>
+<option label="New Caledonia" value="NC">New Caledonia</option>
+<option label="New Zealand" value="NZ">New Zealand</option>
+<option label="Nicaragua" value="NI">Nicaragua</option>
+<option label="Niger" value="NE">Niger</option>
+<option label="Nigeria" value="NG">Nigeria</option>
+<option label="Niue" value="NU">Niue</option>
+<option label="Norfolk Island" value="NF">Norfolk Island</option>
+<option label="Northern Mariana Islands" value="MP">Northern Mariana Islands</option>
+<option label="Norway" value="NO">Norway</option>
+<option label="Oman" value="OM">Oman</option>
+<option label="Pakistan" value="PK">Pakistan</option>
+<option label="Palau" value="PW">Palau</option>
+<option label="Palestinian Territory, Occupied" value="PS">Palestinian Territory, Occupied</option>
+<option label="Panama" value="PA">Panama</option>
+<option label="Papua New Guinea" value="PG">Papua New Guinea</option>
+<option label="Paraguay" value="PY">Paraguay</option>
+<option label="Peru" value="PE">Peru</option>
+<option label="Philippines" value="PH">Philippines</option>
+<option label="Pitcairn" value="PN">Pitcairn</option>
+<option label="Poland" value="PL">Poland</option>
+<option label="Portugal" value="PT">Portugal</option>
+<option label="Puerto Rico" value="PR">Puerto Rico</option>
+<option label="Qatar" value="QA">Qatar</option>
+<option label="Reunion" value="RE">Reunion</option>
+<option label="Romania" value="RO">Romania</option>
+<option label="Russian Federation" value="RU">Russian Federation</option>
+<option label="Rwanda" value="RW">Rwanda</option>
+<option label="Saint Helena" value="SH">Saint Helena</option>
+<option label="Saint Kitts and Nevis" value="KN">Saint Kitts and Nevis</option>
+<option label="Saint Lucia" value="LC">Saint Lucia</option>
+<option label="Saint Pierre and Miquelon" value="PM">Saint Pierre and Miquelon</option>
+<option label="Saint Vincent and the Grenadines" value="VC">Saint Vincent and the Grenadines</option>
+<option label="Samoa" value="WS">Samoa</option>
+<option label="San Marino" value="SM">San Marino</option>
+<option label="Sao Tome and Principe" value="ST">Sao Tome and Principe</option>
+<option label="Saudi Arabia" value="SA">Saudi Arabia</option>
+<option label="Senegal" value="SN">Senegal</option>
+<option label="Serbia and Montenegro" value="CS">Serbia and Montenegro</option>
+<option label="Seychelles" value="SC">Seychelles</option>
+<option label="Sierra Leone" value="SL">Sierra Leone</option>
+<option label="Singapore" value="SG">Singapore</option>
+<option label="Slovakia" value="SK">Slovakia</option>
+<option label="Slovenia" value="SI">Slovenia</option>
+<option label="Solomon Islands" value="SB">Solomon Islands</option>
+<option label="Somalia" value="SO">Somalia</option>
+<option label="South Africa" value="ZA">South Africa</option>
+<option label="South Georgia and the South Sandwich Islands" value="GS">South Georgia and the South Sandwich Islands</option>
+<option label="Spain" value="ES">Spain</option>
+<option label="Sri Lanka" value="LK">Sri Lanka</option>
+<option label="Sudan" value="SD">Sudan</option>
+<option label="Suriname" value="SR">Suriname</option>
+<option label="Svalbard and Jan Mayen" value="SJ">Svalbard and Jan Mayen</option>
+<option label="Swaziland" value="SZ">Swaziland</option>
+<option label="Sweden" value="SE">Sweden</option>
+<option label="Switzerland" value="CH">Switzerland</option>
+<option label="Syrian Arab Republic" value="SY">Syrian Arab Republic</option>
+<option label="Taiwan, Province of China" value="TW">Taiwan, Province of China</option>
+<option label="Tajikistan" value="TJ">Tajikistan</option>
+<option label="Tanzania, United Republic Of" value="TZ">Tanzania, United Republic Of</option>
+<option label="Thailand" value="TH">Thailand</option>
+<option label="Timor-Leste" value="TL">Timor-Leste</option>
+<option label="Togo" value="TG">Togo</option>
+<option label="Tokelau" value="TK">Tokelau</option>
+<option label="Tonga" value="TO">Tonga</option>
+<option label="Trinidad and Tobago" value="TT">Trinidad and Tobago</option>
+<option label="Tunisia" value="TN">Tunisia</option>
+<option label="Turkey" value="TR">Turkey</option>
+<option label="Turkmenistan" value="TM">Turkmenistan</option>
+<option label="Turks and Caicos Islands" value="TC">Turks and Caicos Islands</option>
+<option label="Tuvalu" value="TV">Tuvalu</option>
+<option label="Uganda" value="UG">Uganda</option>
+<option label="Ukraine" value="UA">Ukraine</option>
+<option label="United Arab Emirates" value="AE">United Arab Emirates</option>
+<option label="United Kingdom" value="GB">United Kingdom</option>
+<option label="United States" value="US">United States</option>
+<option label="United States Minor Outlying Islands" value="UM">United States Minor Outlying Islands</option>
+<option label="Uruguay" value="UY">Uruguay</option>
+<option label="Uzbekistan" value="UZ">Uzbekistan</option>
+<option label="Vanuatu" value="VU">Vanuatu</option>
+<option label="Venezuela" value="VE">Venezuela</option>
+<option label="Viet Nam" value="VN">Viet Nam</option>
+<option label="Virgin Islands, British" value="VG">Virgin Islands, British</option>
+<option label="Virgin Islands, U.S." value="VI">Virgin Islands, U.S.</option>
+<option label="Wallis and Futuna" value="WF">Wallis and Futuna</option>
+<option label="Western Sahara" value="EH">Western Sahara</option>
+<option label="Yemen" value="YE">Yemen</option>
+<option label="Zambia" value="ZM">Zambia</option>
+<option label="Zimbabwe" value="ZW">Zimbabwe</option>
+<option label="Åland Islands" value="AX">Åland Islands</option>
+
+				</select>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="biography" >
+	Biografi </label>
+<br />(Contoh: departemen dan pangkat)</td>
+			<td class="value"><textarea name="biography[id_ID]" id="biography" rows="5" cols="40" class="textArea"></textarea></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="sendPassword" >
+	Konfirmasi </label>
+</td>
+			<td class="value">
+				<input type="checkbox" name="sendPassword" id="sendPassword" value="1" /> <label for="sendPassword">Kirimi saya email konfirmasi termasuk nama pengguna dan kata sandi saya</label>
+			</td>
+		</tr>
+
+					<tr valign="top">
+				<td class="label">Bahasa</td>
+				<td class="value">				<input type="checkbox" name="userLocales[]" id="userLocales-id_ID" value="id_ID" /> <label for="userLocales-id_ID">Bahasa Indonesia</label><br />
+								<input type="checkbox" name="userLocales[]" id="userLocales-en_US" value="en_US" /> <label for="userLocales-en_US">English</label><br />
+				</td>
+			</tr>
+				<tr valign="top">
+		<td class="label">
+<label >
+	Daftar sebagai </label>
+</td>
+		<td class="value"><input type="checkbox" name="registerAsReader" id="registerAsReader" value="1" checked="checked" /> <label for="registerAsReader">Pembaca</label>: Pemberitahuan melalui email pada publikasi terbitan jurnal.<br />				<input type="checkbox" name="registerAsAuthor" id="registerAsAuthor" value="1" checked="checked"/> <label for="registerAsAuthor">Penulis</label>: Dapat memasukkan naskah dan kelengkapannya ke jurnal.<br />			</tr>
+
+</table>
+
+<br />
+<p><input type="submit" value="Daftar" class="button defaultButton" /> <input type="button" value="Batal" class="button" onclick="document.location.href='https://jurnal.uns.ac.id/matriks/index'" /></p>
+
+	<p><span class="formRequired">* Harus Diisi</span></p>
+<div id="privacyStatement">
+	<h3>Pernyataan Privasi</h3>
+	<p>Nama dan alamat email yang dimasukkan di situs jurnal akan digunakan secara eksklusif untuk tujuan jurnal yang sudah disebutkan dan tidak akan dibuat tersedia untuk tujuan lain atau untuk pihak lain.</p>
+</div>
+
+</form>
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><h6><a href="https://sipil.ft.uns.ac.id" target="_blank">DEPARTMENT OF CIVIL ENGINEERING</a></h6><p>Jalan Ir. Sutami No. 36 A Surakarta, Jawa Tengah Indonesia, 57126</p><p>+6281112633314 / +62271634524</p><a href="mailto:sipil@ft.uns.ac.id">sipil@ft.uns.ac.id</a></div><div id="center"><a href="https://info.flagcounter.com/BGFj"><img src="https://s01.flagcounter.com/count2/BGFj/bg_000000/txt_FFFFFF/border_000000/columns_3/maxflags_9/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" /></a> <br /> <a title="Web Analytics" href="http://statcounter.com/p12155641/summary/?guest=1" target="_blank"><img src="https://c.statcounter.com/12155641/0/d640b6a8/0/" alt="Web Analytics" /></a></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both; text-align:center"><font color="white">Copyright &copy;  2019 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

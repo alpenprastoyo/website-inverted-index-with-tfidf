@@ -1,0 +1,14 @@
+<table>
+                    <tbody><tr>
+                    <td> <input required="" type="radio" value="Langsung" name="mengirim"></td>
+                    <td> <p> Langsung </p></td>  
+
+
+                    <td> <input required="" type="radio" value="Website" name="mengirim"></td>
+                    <td> <p> Website </p></td>  
+
+                    <td> <input required="" type="radio" value="Email" name="mengirim"></td>
+                    <td> <p> Email </p></td>  
+                    </tr>
+                    
+                  </tbody></table></br>

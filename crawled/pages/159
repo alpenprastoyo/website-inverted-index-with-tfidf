@@ -1,0 +1,2087 @@
+<!DOCTYPE html><!-- Panoramic -->
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://pasca.uns.ac.id/s3kedokteran/xmlrpc.php">
+
+<title>Website Resmi Program Studi Ilmu Kedokteran S3 Pascasarjana UNS &#8211; Just another Pascasarjana UNS site</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Ilmu Kedokteran S3 Pascasarjana UNS &raquo; Feed" href="https://pasca.uns.ac.id/s3kedokteran/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Ilmu Kedokteran S3 Pascasarjana UNS &raquo; Comments Feed" href="https://pasca.uns.ac.id/s3kedokteran/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pasca.uns.ac.id\/s3kedokteran\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='DOPBSP-css-dopselect-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/libraries/css/jquery.dop.Select.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='smpl_shortcodes-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/css/header-standard.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-otb-font-awesome-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/otb-font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-font-awesome-min-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/style.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Karla%3Aregular%2Citalic%2C700|Alike+Angular%3Aregular%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/libraries/js/dop-prototypes.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://pasca.uns.ac.id/s3kedokteran/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pasca.uns.ac.id/s3kedokteran/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pasca.uns.ac.id/s3kedokteran/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+<style type="text/css">
+
+
+/* Minimum slider width */
+.panoramic-slider-container.default .slider .slide img {
+	min-width: 600px;
+}
+	
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 960px) {
+	.main-navigation.translucent {
+		position: relative;
+	}
+	
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}	
+	
+	.slider-placeholder {
+		display: none;
+	}
+	
+	.header-image .overlay,
+	.panoramic-slider-container.default .slider .slide .overlay {
+		top: 25%;
+    }
+	
+	.panoramic-slider-container.default .prev.top-padded,
+	.panoramic-slider-container.default .next.top-padded{
+		margin-top: -26px;
+	}
+	.header-image .overlay.top-padded,
+	.panoramic-slider-container.default .slider .slide .overlay.top-padded {
+		padding-top: 0;
+	}
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .otb-fa.otb-fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .otb-fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .otb-fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .otb-fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+}
+
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #bcd6ad; }
+</style>
+
+<!-- Begin Custom CSS -->
+<style type="text/css" id="out-the-box-custom-css">
+a,
+				.header-image .overlay .opacity h2,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity h2,
+				.search-btn,
+				.site-title a,
+				.widget-area .widget a,
+                .rpwe-block .rpwe-comment,
+				.search-button .otb-fa-search,
+				.info-text em,
+				.woocommerce .woocommerce-breadcrumb a,
+				.woocommerce-page .woocommerce-breadcrumb a,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+				.color-text{color:#005b2a;}div.wpforms-container form.wpforms-form input[type="text"]:focus,
+				div.wpforms-container form.wpforms-form input[type="email"]:focus,
+				div.wpforms-container form.wpforms-form input[type="tel"]:focus,
+				div.wpforms-container form.wpforms-form input[type="url"]:focus,
+				div.wpforms-container form.wpforms-form input[type="password"]:focus,
+				div.wpforms-container form.wpforms-form input[type="search"]:focus,
+				div.wpforms-container form.wpforms-form select:focus,
+				div.wpforms-container form.wpforms-form textarea:focus,
+				input[type="text"]:focus,
+				input[type="email"]:focus,
+				input[type="tel"]:focus,
+				input[type="url"]:focus,
+				input[type="password"]:focus,
+				input[type="search"]:focus,
+				select:focus,
+				textarea:focus{border-color:#005b2a;}.main-navigation,
+				.main-navigation ul ul,
+				#comments .form-submit #submit,
+				.search-block .search-submit,
+				.no-results-btn,
+				button,
+        		a.button,
+				input[type="button"],
+				input[type="reset"],
+				input[type="submit"],
+				.woocommerce ul.products li.product a.add_to_cart_button,
+				.woocommerce-page ul.products li.product a.add_to_cart_button,
+				.woocommerce ul.products li.product a.button.product_type_simple,
+				.woocommerce-page ul.products li.product a.button.product_type_simple,
+				.woocommerce button.button.alt,
+				.woocommerce a.button.alt,
+				.woocommerce-page button.button.alt,
+				.woocommerce input.button.alt,
+				.woocommerce-page #content input.button.alt,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button,
+				.woocommerce-page a.button,
+				.woocommerce input.button,
+				.woocommerce-page #content input.button,
+				.woocommerce-page input.button,
+				.woocommerce #review_form #respond .form-submit input,
+				.woocommerce-page #review_form #respond .form-submit input,
+				.woocommerce #respond input#submit.alt.disabled,
+				.woocommerce #respond input#submit.alt.disabled:hover,
+				.woocommerce #respond input#submit.alt:disabled,
+				.woocommerce #respond input#submit.alt:disabled:hover,
+				.woocommerce #respond input#submit.alt:disabled[disabled],
+				.woocommerce #respond input#submit.alt:disabled[disabled]:hover,
+				.woocommerce a.button.alt.disabled,
+				.woocommerce a.button.alt.disabled:hover,
+				.woocommerce a.button.alt:disabled,
+				.woocommerce a.button.alt:disabled:hover,
+				.woocommerce a.button.alt:disabled[disabled],
+				.woocommerce a.button.alt:disabled[disabled]:hover,
+				.woocommerce button.button.alt.disabled,
+				.woocommerce button.button.alt.disabled:hover,
+				.woocommerce button.button.alt:disabled,
+				.woocommerce button.button.alt:disabled:hover,
+				.woocommerce button.button.alt:disabled[disabled],
+				.woocommerce button.button.alt:disabled[disabled]:hover,
+				.woocommerce input.button.alt.disabled,
+				.woocommerce input.button.alt.disabled:hover,
+				.woocommerce input.button.alt:disabled,
+				.woocommerce input.button.alt:disabled:hover,
+				.woocommerce input.button.alt:disabled[disabled],
+				.woocommerce input.button.alt:disabled[disabled]:hover,
+				.wpcf7-submit,
+        		div.wpforms-container form.wpforms-form input[type=submit],
+				div.wpforms-container form.wpforms-form button[type=submit],
+				div.wpforms-container form.wpforms-form .wpforms-page-button,
+				.site-footer-bottom-bar,
+        		.testimonials .sow-slider-base .sow-slide-nav{background-color:#005b2a;}.main-navigation.translucent{background-color:rgba(0,91,42, 0.7);}.header-cart-checkout.cart-has-items .otb-fa-shopping-cart{background-color:#005b2a !important;}.woocommerce .woocommerce-info,
+        		.woocommerce .woocommerce-message{border-top-color:#005b2a;}::-moz-selection{background-color:#005b2a;}::selection{background-color:#005b2a;}a:hover,
+				.widget-area .widget a:hover,
+                .rpwe-block .rpwe-comment:hover,
+				.search-btn:hover,
+				.search-button .otb-fa-search:hover,
+				.site-header .site-top-bar-left a:hover,
+				.site-header .site-top-bar-right a:hover,
+				.site-header .site-header-right a:hover,
+				.woocommerce .woocommerce-breadcrumb a:hover,
+				.woocommerce-page .woocommerce-breadcrumb a:hover,
+				.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active{color:#5ad602;}.main-navigation button:hover,
+				#comments .form-submit #submit:hover,
+				.search-block .search-submit:hover,
+				.no-results-btn:hover,
+				button:hover,
+        		a.button:hover,
+				input[type="button"]:hover,
+				input[type="reset"]:hover,
+				input[type="submit"]:hover,
+				.site-header .site-top-bar-right a:hover .header-cart-checkout .otb-fa,
+				.site-header .site-header-right a:hover .header-cart-checkout .otb-fa,
+				.woocommerce input.button.alt:hover,
+				.woocommerce-page #content input.button.alt:hover,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button:hover,
+				.woocommerce-page a.button:hover,
+				.woocommerce input.button:hover,
+				.woocommerce-page #content input.button:hover,
+				.woocommerce-page input.button:hover,
+				.woocommerce ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce-page ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce-page ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce button.button.alt:hover,
+				.woocommerce a.button.alt:hover,
+				.woocommerce-page button.button.alt:hover,
+				.woocommerce #review_form #respond .form-submit input:hover,
+				.woocommerce-page #review_form #respond .form-submit input:hover,
+				.wpcf7-submit:hover,
+        		div.wpforms-container form.wpforms-form input[type=submit]:hover,
+				div.wpforms-container form.wpforms-form button[type=submit]:hover,
+				div.wpforms-container form.wpforms-form .wpforms-page-button:hover,
+        		.testimonials .sow-slider-base .sow-slide-nav:hover{background-color:#5ad602;}.site-footer{background-color:#9dd675;}.site-header .branding .title{font-family:"Karla","Helvetica Neue",sans-serif;}h1, h2, h3, h4, h5, h6,
+				h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+				.site-footer-widgets ul li h2.widgettitle,
+				.header-image .overlay .opacity h2,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity h2,
+				.woocommerce a.button,
+				.woocommerce-page a.button,
+				.woocommerce a.button.alt,
+				.woocommerce table.cart th,
+				.woocommerce-page #content table.cart th,
+				.woocommerce-page table.cart th,
+				.woocommerce input.button.alt,
+				.woocommerce-page #content input.button.alt,
+				.woocommerce table.cart input,
+				.woocommerce-page #content table.cart input,
+				.woocommerce-page table.cart input,
+				.woocommerce #respond input#submit,
+				.woocommerce a.button,
+				.woocommerce button.button,
+				.woocommerce input.button,
+				button,
+    			a.button,
+    			div.wpforms-container form.wpforms-form input[type=submit],
+				div.wpforms-container form.wpforms-form button[type=submit],
+				div.wpforms-container form.wpforms-form .wpforms-page-button,
+    			input[type="button"],
+				input[type="reset"],
+				input[type="submit"]{font-family:Georgia,Times,"Times New Roman",serif;}body,
+				.site-header .site-top-bar-left a,
+				.site-header .site-top-bar-right a,
+				.site-header .site-header-right a,
+				.breadcrumbs,
+	            div.wpforms-container form.wpforms-form .wpforms-field-label,
+				div.wpforms-container form.wpforms-form input[type="text"],
+				div.wpforms-container form.wpforms-form input[type="email"],
+				div.wpforms-container form.wpforms-form input[type="tel"],
+				div.wpforms-container form.wpforms-form input[type="url"],
+				div.wpforms-container form.wpforms-form input[type="password"],
+				div.wpforms-container form.wpforms-form input[type="search"],
+				div.wpforms-container form.wpforms-form select,
+				div.wpforms-container form.wpforms-form textarea,
+				input[type="text"],
+				input[type="email"],
+				input[type="tel"],
+				input[type="url"],
+				input[type="password"],
+				input[type="search"],
+				select,
+				textarea,
+				.site-footer-widgets .widget a,
+				.header-image .overlay .opacity p,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity p{font-family:"Alike Angular","Helvetica Neue",sans-serif;}body,
+				.site-header .site-top-bar-left a,
+				.site-header .site-top-bar-right a,
+				.site-header .site-header-right a,
+				.breadcrumbs,
+				input[type="text"],
+				input[type="email"],
+				input[type="tel"],
+				input[type="url"],
+				input[type="password"],
+				input[type="search"],
+                select,
+				textarea,
+				.search-block .search-field,
+				.select2-drop,
+				.select2-container .select2-choice,
+				.select2-results .select2-highlighted,
+				.woocommerce .woocommerce-breadcrumb,
+				.woocommerce-page .woocommerce-breadcrumb,
+				.header-image .overlay .opacity p,
+				.panoramic-slider-container.default .slider .slide .overlay .opacity p,
+				.woocommerce .woocommerce-ordering select,
+				.woocommerce-page .woocommerce-ordering select,
+				.woocommerce #content .quantity input.qty,
+				.woocommerce .quantity input.qty,
+				.woocommerce-page #content .quantity input.qty,
+				.woocommerce-page .quantity input.qty,
+                .woocommerce ul.products li.product .price,
+				.woocommerce #content ul.products li.product span.price,
+				.woocommerce-page #content ul.products li.product span.price,
+				.woocommerce #content div.product p.price,
+				.woocommerce-page #content div.product p.price,
+				.woocommerce-page div.product p.price,
+				.woocommerce #content div.product span.price,
+				.woocommerce div.product span.price,
+				.woocommerce-page #content div.product span.price,
+				.woocommerce-page div.product span.price,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+                .woocommerce #reviews #comments ol.commentlist li .meta,
+				#add_payment_method #payment div.payment_box,
+				.woocommerce-checkout #payment div.payment_box,
+                .rpwe-block .rpwe-time,
+				.widget-area .widget h2,
+                .testimonials .sow-slider-base ul.sow-slider-images .sow-slider-image-wrapper p{color:#000000;}.select2-default{color:rgba(0,0,0, 0.7) !important;}::-webkit-input-placeholder{color:rgba(0,0,0, 0.7);}:-moz-placeholder{color:rgba(0,0,0, 0.7);}::-moz-placeholder{color:rgba(0,0,0, 0.7);}:-ms-input-placeholder{color:rgba(0,0,0, 0.7);}.header-cart-checkout .otb-fa{background-color:#000000;}
+@media (max-width: 960px){.main-navigation.translucent,
+        		#main-menu.panoramic-mobile-menu-standard-color-scheme{background-color:#005b2a !important;}}
+</style>
+<!-- End Custom CSS -->
+<link rel="icon" href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-logo-universitas-sebelas-maret-surakarta-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-logo-universitas-sebelas-maret-surakarta-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-logo-universitas-sebelas-maret-surakarta-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-logo-universitas-sebelas-maret-surakarta-270x270.png" />
+</head>
+
+<body class="home blog custom-background wp-custom-logo">
+
+<header id="masthead" class="site-header panoramic-header-layout-standard" role="banner">
+
+    
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="https://pasca.uns.ac.id/s3kedokteran/" class="custom-logo-link" rel="home" itemprop="url"><img width="310" height="61" src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-cropped-Doktor-Ilmu-Kedokteran-.png" class="custom-logo" alt="Website Resmi Program Studi Ilmu Kedokteran S3 Pascasarjana UNS" itemprop="logo" srcset="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-cropped-Doktor-Ilmu-Kedokteran-.png 310w, https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/02/cropped-cropped-Doktor-Ilmu-Kedokteran--300x59.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                    <div class="info-text">
+            	            </div>
+			<ul class="social-links">
+<li><i class="otb-fa otb-fa-search search-btn"></i></li></ul>                
+    </div>
+    <div class="clearboth"></div>
+    
+		<div class="search-block">
+		<form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s3kedokteran/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form>	</div>
+	    
+</div>
+
+        
+<nav id="site-navigation" class="main-navigation border-bottom translucent" role="navigation">
+	<span class="header-menu-button"><i class="otb-fa otb-fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="otb-fa otb-fa-angle-right"></i><i class="otb-fa otb-fa-angle-left"></i></div>
+		<div class="main-navigation-inner"><ul id="menu-pertama" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-29"><a href="https://pasca.uns.ac.id/s3kedokteran">Home</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24"><a href="https://pasca.uns.ac.id/s3kedokteran/tentang-kami/">TENTANG KAMI</a>
+<ul  class="sub-menu">
+	<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546"><a href="https://pasca.uns.ac.id/s3kedokteran/sotk/">SOTK</a></li>
+	<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="https://pasca.uns.ac.id/s3kedokteran/profil/">PROFIL</a></li>
+	<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://pasca.uns.ac.id/s3kedokteran/visi-misi/">VISI DAN MISI</a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://pasca.uns.ac.id/s3kedokteran/fasilitas/">FASILITAS</a></li>
+	<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://pasca.uns.ac.id/s3kedokteran/staf-pengajar/">STAF PENGAJAR</a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28"><a href="https://pasca.uns.ac.id/s3kedokteran/akademik/">AKADEMIK</a>
+<ul  class="sub-menu">
+	<li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-176"><a href="https://pasca.uns.ac.id/s3kedokteran/syarat-disertasi/">PERSYARATAN DISERTASI</a></li>
+	<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-56"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/pendaftaran/">PENDAFTARAN</a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-57"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/kurikulum/">KURIKULUM</a></li>
+</ul>
+</li>
+<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-474"><a href="https://pasca.uns.ac.id/s3kedokteran/mahasiswa/">MAHASISWA</a>
+<ul  class="sub-menu">
+	<li id="menu-item-483" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-483"><a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/">DATA MAHASISWA</a></li>
+	<li id="menu-item-484" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-484"><a href="https://pasca.uns.ac.id/s3kedokteran/category/kegiatan-mahasiswa/">KEGIATAN MAHASISWA</a></li>
+	<li id="menu-item-485" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-485"><a href="https://pasca.uns.ac.id/s3kedokteran/category/prestasi-mahasiswa/">PRESTASI MAHASISWA</a></li>
+</ul>
+</li>
+<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-383"><a href="https://pasca.uns.ac.id/s3kedokteran/alumni/">ALUMNI</a>
+<ul  class="sub-menu">
+	<li id="menu-item-638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-638"><a href="https://pasca.uns.ac.id/s3kedokteran/category/kegiatan-alumni/">KEGIATAN ALUMNI</a></li>
+	<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://pasca.uns.ac.id/s3kedokteran/analisa-studi-alumni/">ANALISA STUDI ALUMNI</a></li>
+</ul>
+</li>
+<li id="menu-item-123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123"><a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/">PENGUMUMAN</a></li>
+<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="https://pasca.uns.ac.id/s3kedokteran/p2m/">P2M</a></li>
+<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-543"><a href="https://pasca.uns.ac.id/s3kedokteran/kerja-sama/">KERJA SAMA</a>
+<ul  class="sub-menu">
+	<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="https://pasca.uns.ac.id/s3kedokteran/kerja-sama-nasional/">KERJA SAMA NASIONAL</a></li>
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="https://pasca.uns.ac.id/s3kedokteran/kerja-sama-internasional/">KERJA SAMA INTERNASIONAL</a></li>
+</ul>
+</li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+    
+</header><!-- #masthead -->
+
+<script>
+    var panoramicSliderTransitionSpeed = parseInt(450);
+</script>
+
+<div class="header-image loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/08/cropped-ilmu_kedokteran-1.jpg" alt="" height="223" width="750" />
+	
+		<div class="overlay top-padded">
+		<div class="opacity">
+			SELAMAT DATANG DI WEBSITE PROGRAM STUDI ILMU  KEDOKTERAN S3  PASCASARJANA UNS		</div>
+	</div>	
+		
+</div>
+<div id="content" class="site-content site-container ">
+
+	    
+    
+	<div id="primary" class="content-area ">
+		<main id="main" class="site-main" role="main">
+        
+        
+		
+						
+				
+<article id="post-601" class="blog-post-side-layout left-aligned post-601 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/DSC_1957.jpg" width="614" height="406" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n SRI SUWARNI" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/27/ujian-terbuka-disertasi-a-n-sri-suwarni/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n SRI SUWARNI</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/27/ujian-terbuka-disertasi-a-n-sri-suwarni/" rel="bookmark"><time class="entry-date published" datetime="2019-07-27T08:54:27+00:00">July 27, 2019</time><time class="updated" datetime="2019-07-31T09:00:47+00:00">July 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Sri Suwarni NIM : T501308003 Program Studi  : Ilmu Kedokteran S3 Hari, Tanggal : Jum’at, 26 Juli 2019 <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2019/07/27/ujian-terbuka-disertasi-a-n-sri-suwarni/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-580" class="blog-post-side-layout left-aligned post-580 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-agenda-kegiatan category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/WhatsApp-Image-2019-07-12-at-13.50.11-1024x768.jpeg" width="800" height="600" class="featured-image hideUntilLoaded" alt="SIMULASI VISITASI AKREDITASI" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/15/simulasi-visitasi-akreditasi/" rel="bookmark">SIMULASI VISITASI AKREDITASI</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/15/simulasi-visitasi-akreditasi/" rel="bookmark"><time class="entry-date published" datetime="2019-07-15T03:11:57+00:00">July 15, 2019</time><time class="updated" datetime="2019-07-15T03:13:02+00:00">July 15, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kegiatan: SIMULASI VISITASI AKREDITASI Hari, Tanggal : Jum&#8217;at 12 Juli 2019  </p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/agenda-kegiatan/" rel="category tag">AGENDA KEGIATAN PRODI</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-586" class="blog-post-side-layout left-aligned post-586 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/WhatsApp-Image-2019-07-11-at-21.50.24-576x1024.jpeg" width="576" height="1024" class="featured-image hideUntilLoaded" alt="WROKSHOP &quot;STEM CELL IN CLINICAL  PRACTICE&quot;" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/13/stem-cell-in-clinik-pratices/" rel="bookmark">WROKSHOP &#8220;STEM CELL IN CLINICAL  PRACTICE&#8221;</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/13/stem-cell-in-clinik-pratices/" rel="bookmark"><time class="entry-date published" datetime="2019-07-13T03:39:01+00:00">July 13, 2019</time><time class="updated" datetime="2019-07-15T03:47:28+00:00">July 15, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kegiatan: Kepala Program Studi Ilmu Kedokteran S3 Pascasarjana UNS sebagai Narasumber &#8220;WROKSHOP &#8220;STEM CELL IN CLINICAL  PRACTICE&#8221; &#8221; di RS <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2019/07/13/stem-cell-in-clinik-pratices/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-583" class="blog-post-side-layout left-aligned post-583 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-pengumuman">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/WhatsApp-Image-2019-07-03-at-14.35.57-1024x768.jpeg" width="800" height="600" class="featured-image hideUntilLoaded" alt="SERAH TERIMA SUMBANGAN DARI ALUMNI" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/10/serah-terima-sumbangan-dari-alumni/" rel="bookmark">SERAH TERIMA SUMBANGAN DARI ALUMNI</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/10/serah-terima-sumbangan-dari-alumni/" rel="bookmark"><time class="entry-date published" datetime="2019-07-10T03:16:25+00:00">July 10, 2019</time><time class="updated" datetime="2019-07-15T03:21:56+00:00">July 15, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kegiatan: Serah Terima sarana dan prasarana Belajar mengajar  Sumbangan dari ALUMNI PSIK S3 Pascasarjana UNS Hari, Tanggal: Rabu, 10 Juli <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2019/07/10/serah-terima-sumbangan-dari-alumni/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-597" class="blog-post-side-layout left-aligned post-597 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/WhatsApp-Image-2019-07-15-at-10.48.38-1024x768.jpeg" width="800" height="600" class="featured-image hideUntilLoaded" alt="SEMINAR DAN UJIAN PROPOSAL A.n FITRI HAPSARI" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/01/seminar-dan-ujian-proposal-a-n-fitri-hapsari/" rel="bookmark">SEMINAR DAN UJIAN PROPOSAL A.n FITRI HAPSARI</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/01/seminar-dan-ujian-proposal-a-n-fitri-hapsari/" rel="bookmark"><time class="entry-date published" datetime="2019-07-01T03:50:23+00:00">July 1, 2019</time><time class="updated" datetime="2019-07-15T03:53:32+00:00">July 15, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Pada hari ini  Senin, tanggal, 1 Juli 2019 bertempat di Ruang Kuliah PSIK S3 Gedung G Lantai 2 Fakultas Kedokteran <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2019/07/01/seminar-dan-ujian-proposal-a-n-fitri-hapsari/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-499" class="blog-post-side-layout left-aligned post-499 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/02/WhatsApp-Image-2019-02-02-at-12.17.49.jpeg" width="720" height="407" class="featured-image hideUntilLoaded" alt="Mahasiswa Program Studi Ilmu Kedokteran S3 A.n Susilorini sebagai narasumber &quot;Pembuatan Sabun Cuci dari Jlantah Minyak Goreng&quot;" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/02/04/mahasiswa-program-studi-sains-kedokteran-s3-a-n-susilorini-sebagai-narasumber-pembuatan-sabun-cuci-dari-jlantah-minyak-goreng/" rel="bookmark">Mahasiswa Program Studi Ilmu Kedokteran S3 A.n Susilorini sebagai narasumber &#8220;Pembuatan Sabun Cuci dari Jlantah Minyak Goreng&#8221;</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/02/04/mahasiswa-program-studi-sains-kedokteran-s3-a-n-susilorini-sebagai-narasumber-pembuatan-sabun-cuci-dari-jlantah-minyak-goreng/" rel="bookmark"><time class="entry-date published" datetime="2019-02-04T01:16:52+00:00">February 4, 2019</time><time class="updated" datetime="2019-03-19T06:31:57+00:00">March 19, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Mahasiswa Program Studi Ilmu Kedokteran S3 A.n Susilorini Sebagai Narasumber &#8220;Pembuatan Sabun dari Jlantah Minyak Goreng&#8221; </p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-496" class="blog-post-side-layout left-aligned post-496 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/02/WhatsApp-Image-2019-02-01-at-19.20.21-1024x576.jpeg" width="800" height="450" class="featured-image hideUntilLoaded" alt="Alumni PSIK S3 A.n Dr. Heru Priyanto.,dr.,SpOG (K) Program Studi Ilmu Kedokteran S3 Sebagai Pembicara &quot;Hindari Kanker Serviks&quot;" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/01/26/alumni-mahasiswa-a-n-dr-heru-priyanto-dr-spog-k-program-studi-sains-kedokteran-s3-sebagai-pembicara-hindari-kanker-serviks/" rel="bookmark">Alumni PSIK S3 A.n Dr. Heru Priyanto.,dr.,SpOG (K) Program Studi Ilmu Kedokteran S3 Sebagai Pembicara &#8220;Hindari Kanker Serviks&#8221;</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/01/26/alumni-mahasiswa-a-n-dr-heru-priyanto-dr-spog-k-program-studi-sains-kedokteran-s3-sebagai-pembicara-hindari-kanker-serviks/" rel="bookmark"><time class="entry-date published" datetime="2019-01-26T01:06:32+00:00">January 26, 2019</time><time class="updated" datetime="2019-06-29T04:41:41+00:00">June 29, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Alumni  Program Studi Ilmu Kedokteran S3 A.n Dr. Heru Priyanto.,dr.,SpOG (K)  Sebagai Narasumber &#8220;Hindari Kanker Serviks&#8221; di RSUD Dr Moewardi </p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-453" class="blog-post-side-layout left-aligned post-453 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0372-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Muthmainah" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/01/25/ujian-terbuka-disertasi-a-n-muthmainah/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Muthmainah</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/01/25/ujian-terbuka-disertasi-a-n-muthmainah/" rel="bookmark"><time class="entry-date published" datetime="2019-01-25T02:17:36+00:00">January 25, 2019</time><time class="updated" datetime="2019-03-19T06:33:56+00:00">March 19, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Muthmainah NIM : T501308008 Program Studi           : Sains Kedokteran S3 Hari, Tanggal : Kamis, 24 Januari 2019 Judul <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2019/01/25/ujian-terbuka-disertasi-a-n-muthmainah/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-448" class="blog-post-side-layout left-aligned post-448 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0266-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n IGL. Sukamto" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/01/25/ujian-terbuka-disertasi-a-n-igl-sukamto/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n IGL. Sukamto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2019/01/25/ujian-terbuka-disertasi-a-n-igl-sukamto/" rel="bookmark"><time class="entry-date published" datetime="2019-01-25T02:10:35+00:00">January 25, 2019</time><time class="updated" datetime="2019-01-31T05:13:49+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Ignatius Loyola Sukamto NIM : T501308003 Program Studi           : Sains Kedokteran S3 Hari, Tanggal : Kamis, 24 Januari <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2019/01/25/ujian-terbuka-disertasi-a-n-igl-sukamto/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-387" class="blog-post-side-layout left-aligned post-387 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-kegiatan-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/WhatsApp-Image-2018-12-31-at-17.10.08-1024x682.jpeg" width="800" height="533" class="featured-image hideUntilLoaded" alt="Mahasiswa Program Studi Ilmu Kedokteran S3 Pascasarjana  UNS sebagai speaker dalam panel discusion" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/12/19/dr-susilorini-m-si-med-sppa-mahasiswa-psik-s3-sains-kedokteran-uns-sebagai-speaker-dlm-panel-discusion-dg-tema-patient-transfer-the-obstacle-of-health-tourism-and-toward-planning-dlm-kong/" rel="bookmark">Mahasiswa Program Studi Ilmu Kedokteran S3 Pascasarjana  UNS sebagai speaker dalam panel discusion</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/12/19/dr-susilorini-m-si-med-sppa-mahasiswa-psik-s3-sains-kedokteran-uns-sebagai-speaker-dlm-panel-discusion-dg-tema-patient-transfer-the-obstacle-of-health-tourism-and-toward-planning-dlm-kong/" rel="bookmark"><time class="entry-date published" datetime="2018-12-19T05:33:22+00:00">December 19, 2018</time><time class="updated" datetime="2019-06-29T04:42:24+00:00">June 29, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>dr. Susilorini, M.Si.Med, SpPA., mahasiswa PSSK S3 Pascasarjana UNS sebagai speaker dlm panel discusion dg tema &#8220;Patient transfer, the obstacle <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/12/19/dr-susilorini-m-si-med-sppa-mahasiswa-psik-s3-sains-kedokteran-uns-sebagai-speaker-dlm-panel-discusion-dg-tema-patient-transfer-the-obstacle-of-health-tourism-and-toward-planning-dlm-kong/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/kegiatan-mahasiswa/" rel="category tag">KEGIATAN MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-397" class="blog-post-side-layout left-aligned post-397 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-pengumuman">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_6558-1024x678.jpg" width="800" height="530" class="featured-image hideUntilLoaded" alt="LOKAKARYA PENINJAUAN KURIKULUM, Tanggal 4 Desember 2018" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/12/05/lokakarya-peninjauan-kurikulum/" rel="bookmark">LOKAKARYA PENINJAUAN KURIKULUM, Tanggal 4 Desember 2018</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/12/05/lokakarya-peninjauan-kurikulum/" rel="bookmark"><time class="entry-date published" datetime="2018-12-05T06:38:49+00:00">December 5, 2018</time><time class="updated" datetime="2019-01-31T05:14:57+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-445" class="blog-post-side-layout left-aligned post-445 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0245-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Lilik Wijayanti" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/10/05/ujian-terbuka-disertasi-a-n-lilik-wijayanti/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Lilik Wijayanti</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/10/05/ujian-terbuka-disertasi-a-n-lilik-wijayanti/" rel="bookmark"><time class="entry-date published" datetime="2018-10-05T02:08:34+00:00">October 5, 2018</time><time class="updated" datetime="2019-01-31T05:32:49+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Lilik Wijayanti NIM : T501308007 Program Studi           : Sains Kedokteran S3 (PSSK-S3) Hari, Tanggal : Kamis, 4 Oktober <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/10/05/ujian-terbuka-disertasi-a-n-lilik-wijayanti/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-574" class="blog-post-side-layout left-aligned post-574 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-kegiatan-mahasiswa category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/2-1024x486.jpg" width="800" height="380" class="featured-image hideUntilLoaded" alt="Laboratory Skills Coursework In Departement Of Life Science National Central University, Taiwan" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/30/laboratory-skills-coursework-in-departement-of-life-science-national-central-university-taiwan/" rel="bookmark">Laboratory Skills Coursework In Departement Of Life Science National Central University, Taiwan</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/30/laboratory-skills-coursework-in-departement-of-life-science-national-central-university-taiwan/" rel="bookmark"><time class="entry-date published" datetime="2018-09-30T02:54:29+00:00">September 30, 2018</time><time class="updated" datetime="2019-07-15T02:57:33+00:00">July 15, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kegiatan  : Laboratory Skills Coursework In Departement Of Life Science National Central University, Taiwan Tanggal: 1-30 September 2018 Kegiatan ini <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/09/30/laboratory-skills-coursework-in-departement-of-life-science-national-central-university-taiwan/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/kegiatan-mahasiswa/" rel="category tag">KEGIATAN MAHASISWA</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-418" class="blog-post-side-layout left-aligned post-418 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-prestasi-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/WhatsApp-Image-2019-01-24-at-21.42.01-1024x683.jpeg" width="800" height="534" class="featured-image hideUntilLoaded" alt="Mahasiswa PSSK S3 Pascasarjana UNS sebagai presented" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/20/mahasiswa-pssk-s3-pascasarjana-uns-sebagai-presented/" rel="bookmark">Mahasiswa PSSK S3 Pascasarjana UNS sebagai presented</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/20/mahasiswa-pssk-s3-pascasarjana-uns-sebagai-presented/" rel="bookmark"><time class="entry-date published" datetime="2018-09-20T08:00:15+00:00">September 20, 2018</time><time class="updated" datetime="2019-01-31T05:15:47+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>dr Rivan Danuaji.,SpS  mahasiswa PSSK S3 Pascasarjana UNS sebagai speaker dalam tema &#8221; The role Of Vaspin in the develoment <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/09/20/mahasiswa-pssk-s3-pascasarjana-uns-sebagai-presented/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/prestasi-mahasiswa/" rel="category tag">PRESTASI MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-442" class="blog-post-side-layout left-aligned post-442 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0206-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Siswarni" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/15/ujian-terbuka-disertasi-a-n-siswarni/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Siswarni</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/15/ujian-terbuka-disertasi-a-n-siswarni/" rel="bookmark"><time class="entry-date published" datetime="2018-09-15T02:05:54+00:00">September 15, 2018</time><time class="updated" datetime="2019-01-31T05:15:54+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Siswarni NIM : T501108012 Program Studi           : Sains Kedokteran S3 (PSSK-S3) Hari, Tanggal : Kamis, 13 September 2018 <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/09/15/ujian-terbuka-disertasi-a-n-siswarni/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-508" class="blog-post-side-layout left-aligned post-508 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-agenda-kegiatan">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/02/IMG_20181217_155117_057-1024x614.jpg" width="800" height="480" class="featured-image hideUntilLoaded" alt="KEPALA PROGRAM STUDI SAINS KEDOKTERAN S3 SEBAGAI NARASUMBER &quot;PENATALAKSANAAN TERKINI  DAN SKRINING KOMPILASI HIPERTSENSI" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/04/kepala-program-studi-sains-kedokteran-s3-sebagai-narasumber-penatalaksanaan-terkini-dan-skrining-kompilasi-hipertsensi/" rel="bookmark">KEPALA PROGRAM STUDI SAINS KEDOKTERAN S3 SEBAGAI NARASUMBER &#8220;PENATALAKSANAAN TERKINI  DAN SKRINING KOMPILASI HIPERTSENSI</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/09/04/kepala-program-studi-sains-kedokteran-s3-sebagai-narasumber-penatalaksanaan-terkini-dan-skrining-kompilasi-hipertsensi/" rel="bookmark"><time class="entry-date published" datetime="2018-09-04T02:38:48+00:00">September 4, 2018</time><time class="updated" datetime="2019-02-04T02:45:08+00:00">February 4, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kepala Program Studi Sains Kedokteran S3 Sebagai  Narasumber &#8220;Penatalaksanaan Terkini  Dan Skrining Kompilasi Hipertsensi  di Fakultas Kedokteran Universitas Muhammadiyah Surakarta, <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/09/04/kepala-program-studi-sains-kedokteran-s3-sebagai-narasumber-penatalaksanaan-terkini-dan-skrining-kompilasi-hipertsensi/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/agenda-kegiatan/" rel="category tag">AGENDA KEGIATAN PRODI</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-457" class="blog-post-side-layout left-aligned post-457 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0446-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Widyanti Soewoto" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/08/31/ujian-terbuka-disertasi-a-n-widyanti-soewoto/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Widyanti Soewoto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/08/31/ujian-terbuka-disertasi-a-n-widyanti-soewoto/" rel="bookmark"><time class="entry-date published" datetime="2018-08-31T02:22:51+00:00">August 31, 2018</time><time class="updated" datetime="2019-01-31T05:16:00+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Widyanti Soewoto NIM : T501108016 Program Studi           : Sains Kedokteran S3 (PSSK-S3) Hari, Tanggal : Kamis, 30 Agustus <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/08/31/ujian-terbuka-disertasi-a-n-widyanti-soewoto/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-450" class="blog-post-side-layout left-aligned post-450 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0281-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Retno Setianing" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/08/09/ujian-terbuka-disertasi-a-n-retno-setianing/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Retno Setianing</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/08/09/ujian-terbuka-disertasi-a-n-retno-setianing/" rel="bookmark"><time class="entry-date published" datetime="2018-08-09T02:15:41+00:00">August 9, 2018</time><time class="updated" datetime="2019-01-31T05:16:09+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Retno Setianing NIM : T501108009 Program Studi           : Sains Kedokteran S3 (PSSK-S3) Hari, Tanggal : Rabu, 08 Agustus <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/08/09/ujian-terbuka-disertasi-a-n-retno-setianing/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-401" class="blog-post-side-layout left-aligned post-401 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-pengumuman">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/WhatsApp-Image-2019-01-17-at-13.48.00-768x1024.jpeg" width="768" height="1024" class="featured-image hideUntilLoaded" alt="Kepala Program Studi Sains Kedokteran S3 Pascasarjana UNS, Bersama Mentri Kesehatan RI ,acara KONGGRES NASIONAL AHLI PENYAKIT DALAM di Solo, 14 Juli 2018" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/07/17/kepala-program-studi-sains-kedokteran-s3-pascasarjana-unsbersama-mentri-kesehatan-ri-acara-konggres-nasional-ahli-penyakit-dalam-di-solo-14-juli-2018/" rel="bookmark">Kepala Program Studi Sains Kedokteran S3 Pascasarjana UNS, Bersama Mentri Kesehatan RI ,acara KONGGRES NASIONAL AHLI PENYAKIT DALAM di Solo, 14 Juli 2018</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/07/17/kepala-program-studi-sains-kedokteran-s3-pascasarjana-unsbersama-mentri-kesehatan-ri-acara-konggres-nasional-ahli-penyakit-dalam-di-solo-14-juli-2018/" rel="bookmark"><time class="entry-date published" datetime="2018-07-17T06:49:22+00:00">July 17, 2018</time><time class="updated" datetime="2019-01-31T05:16:20+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>&nbsp;</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-455" class="blog-post-side-layout left-aligned post-455 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0421-1024x685.jpg" width="800" height="535" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Heru Priyanto" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/06/29/ujian-terbuka-disertasi-a-n-heru-priyanto/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Heru Priyanto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/06/29/ujian-terbuka-disertasi-a-n-heru-priyanto/" rel="bookmark"><time class="entry-date published" datetime="2018-06-29T02:19:10+00:00">June 29, 2018</time><time class="updated" datetime="2019-01-31T05:16:29+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Heru Priyanto NIM : T501108005 Program Studi           : Sains Kedokteran S3 (PSSK-S3) Hari, Tanggal : Kamis, 28 Juni <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/06/29/ujian-terbuka-disertasi-a-n-heru-priyanto/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-440" class="blog-post-side-layout left-aligned post-440 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-data-mahasiswa">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/01/DSC_0164-1024x680.jpg" width="800" height="531" class="featured-image hideUntilLoaded" alt="UJIAN TERBUKA DISERTASI A.n Agung Susanto" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/04/26/ujian-terbuka-disertasi-a-n-agung-susanto/" rel="bookmark">UJIAN TERBUKA DISERTASI A.n Agung Susanto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/04/26/ujian-terbuka-disertasi-a-n-agung-susanto/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T01:59:32+00:00">April 26, 2018</time><time class="updated" datetime="2019-01-31T05:16:37+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Nama : Agung Susanto NIM : T501502001 Program Studi           : Sains Kedokteran S3 (PSSK-S3) Hari, Tanggal : Rabu, 25 April <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/04/26/ujian-terbuka-disertasi-a-n-agung-susanto/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-364" class="blog-post-side-layout no-featured-image post-364 post type-post status-publish format-standard sticky hentry category-data-mahasiswa">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/29/seminar-dan-ujian-proposal-a-n-yusuf-alam-romadhon/" rel="bookmark">Seminar dan Ujian Proposal a.n Yusuf Alam Romadhon</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/29/seminar-dan-ujian-proposal-a-n-yusuf-alam-romadhon/" rel="bookmark"><time class="entry-date published" datetime="2018-03-29T04:00:25+00:00">March 29, 2018</time><time class="updated" datetime="2019-01-31T05:16:48+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Seminar dan Ujian Proposal  , Tanggal 21 Maret 20181. Prof. Dr. BAMBANG PURWANTO, dr., Sp.PD-KGH., FINASIM Prof. Dr. Rocmad <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/03/29/seminar-dan-ujian-proposal-a-n-yusuf-alam-romadhon/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-355" class="blog-post-side-layout no-featured-image post-355 post type-post status-publish format-standard sticky hentry category-data-mahasiswa">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/22/seminar-dan-ujian-proposal-a-n-susilorini/" rel="bookmark">Seminar dan Ujian Proposal a.n Susilorini</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/22/seminar-dan-ujian-proposal-a-n-susilorini/" rel="bookmark"><time class="entry-date published" datetime="2018-03-22T03:10:58+00:00">March 22, 2018</time><time class="updated" datetime="2019-01-31T05:33:56+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Seminar dan Ujian Proposal Tanggal 29 Maret 2018 Prof. Dr. BAMBANG PURWANTO, dr., Sp.PD-KGH., FINASIM Prof.Dr. SURADI, dr,Sp.P(K),MARS DONO <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/03/22/seminar-dan-ujian-proposal-a-n-susilorini/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-357" class="blog-post-side-layout no-featured-image post-357 post type-post status-publish format-standard sticky hentry category-data-mahasiswa">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/21/ujian-kelayakan-disertasi-a-n-heru-priyanto/" rel="bookmark">Ujian Kelayakan Disertasi a.n Heru Priyanto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/21/ujian-kelayakan-disertasi-a-n-heru-priyanto/" rel="bookmark"><time class="entry-date published" datetime="2018-03-21T03:12:23+00:00">March 21, 2018</time><time class="updated" datetime="2019-01-31T05:17:10+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Kelayakan Disertasi 28 Maret 2018 Prof. Dr.Agr.Sc. Ir. VITA RATRI CAHYANI, M.P. Prof. Dr. BAMBANG PURWANTO, dr., Sp.PD-KGH., <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/03/21/ujian-kelayakan-disertasi-a-n-heru-priyanto/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-577" class="blog-post-side-layout left-aligned post-577 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-kegiatan-mahasiswa category-uncategorized">
+    
+    
+<div class="featured-image-container loading">
+		
+	<img src="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/07/DSCF4347-1024x576.jpg" width="800" height="450" class="featured-image hideUntilLoaded" alt="“Workshop Flow Cytometri”" />
+</div>
+    
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/07/workshop-flow-cytometri/" rel="bookmark">“Workshop Flow Cytometri”</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/03/07/workshop-flow-cytometri/" rel="bookmark"><time class="entry-date published" datetime="2018-03-07T02:58:09+00:00">March 7, 2018</time><time class="updated" datetime="2019-07-15T03:01:13+00:00">July 15, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kegiatan  : “Workshop Flow Cytometri” Tanggal: 7 Maret 2018 Kegiatan “Workshop Flow Cytometri” dilaksanakan oleh Lab Biomedik bersama dengan S3 <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/03/07/workshop-flow-cytometri/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/kegiatan-mahasiswa/" rel="category tag">KEGIATAN MAHASISWA</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-350" class="blog-post-side-layout no-featured-image post-350 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/30/informasi-jadwal-pembukaan-mahasiswa-baru-tahun-2018/" rel="bookmark">Informasi Jadwal Pembukaan Mahasiswa Baru Tahun 2018</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/30/informasi-jadwal-pembukaan-mahasiswa-baru-tahun-2018/" rel="bookmark"><time class="entry-date published" datetime="2018-01-30T03:16:44+00:00">January 30, 2018</time><time class="updated" datetime="2019-01-31T05:17:27+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Informasi Jadwal Pembukaan Mahasiswa Baru Program Studi Sains Kedokteran S3 Pascasarjana UNS Jadwal SPMB https://spmb.uns.ac.id/jalur-masuk/jenjang?jenjang=s2-s3 Kegiatan Jadwal Pendaftaran dan pembayaran  1.        <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/01/30/informasi-jadwal-pembukaan-mahasiswa-baru-tahun-2018/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/30/informasi-jadwal-pembukaan-mahasiswa-baru-tahun-2018/#comments">1 Comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-361" class="blog-post-side-layout no-featured-image post-361 post type-post status-publish format-standard sticky hentry category-data-mahasiswa">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/24/ujian-seminar-hasil-penelitian-disertasi-a-n-heru-priyanto/" rel="bookmark">Ujian Seminar Hasil Penelitian Disertasi a.n Heru Priyanto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/24/ujian-seminar-hasil-penelitian-disertasi-a-n-heru-priyanto/" rel="bookmark"><time class="entry-date published" datetime="2018-01-24T03:56:49+00:00">January 24, 2018</time><time class="updated" datetime="2019-01-31T05:17:37+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Seminar Hasil Penelitian Disertasi , tanggal 2 Februari 2018 Prof. Dr. BAMBANG PURWANTO, dr., Sp.PD-KGH., FINASIM Prof. Dr. <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/01/24/ujian-seminar-hasil-penelitian-disertasi-a-n-heru-priyanto/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-341" class="blog-post-side-layout no-featured-image post-341 post type-post status-publish format-standard sticky hentry category-pengumuman">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/05/perubahan-nama-program-studi/" rel="bookmark">Perubahan Nama Program Studi</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2018/01/05/perubahan-nama-program-studi/" rel="bookmark"><time class="entry-date published" datetime="2018-01-05T04:07:20+00:00">January 5, 2018</time><time class="updated" datetime="2019-01-31T05:17:44+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Sehubungan dengan diberlakukannya Peraturan Menristekdikti nomor 15 Tahun 2017 tentang Penamaan Program Studi Pada Perguruan Tinggi dan Keputusan Menristekdikti nomor: <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2018/01/05/perubahan-nama-program-studi/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-308" class="blog-post-side-layout no-featured-image post-308 post type-post status-publish format-standard sticky hentry category-data-mahasiswa category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/10/12/ujian-kelayakan-disertasi-a-n-made-kurnia-widiastuti-giri/" rel="bookmark">Ujian Kelayakan Disertasi a.n Made Kurnia Widiastuti Giri</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/10/12/ujian-kelayakan-disertasi-a-n-made-kurnia-widiastuti-giri/" rel="bookmark"><time class="entry-date published" datetime="2017-10-12T06:55:39+00:00">October 12, 2017</time><time class="updated" datetime="2019-01-31T05:17:53+00:00">January 31, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Hasil Penelitian Disertasi Selasa 17 Oktober 2017 Prof. Dr. Bambang Purwanto.,dr.,SpPD (K) KHG, FINASIM Prof. Dr. Muchsin <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/10/12/ujian-kelayakan-disertasi-a-n-made-kurnia-widiastuti-giri/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/data-mahasiswa/" rel="category tag">DATA MAHASISWA</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-305" class="blog-post-side-layout no-featured-image post-305 post type-post status-publish format-standard sticky hentry category-pengumuman">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/10/12/ujian-kualifikasi-a-n-sri-lilianji/" rel="bookmark">Ujian Kualifikasi a.n Sri Lilijanti</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/10/12/ujian-kualifikasi-a-n-sri-lilianji/" rel="bookmark"><time class="entry-date published" datetime="2017-10-12T06:46:53+00:00">October 12, 2017</time><time class="updated" datetime="2018-03-29T03:57:56+00:00">March 29, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Kualifkasi a.n Sri Lilijanti Rabu 18 Oktobe 2017 : Prof. Dr. Bambang Purwanto.,dr.,SpPD (K) KHG, FINASIM Prof. <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/10/12/ujian-kualifikasi-a-n-sri-lilianji/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-278" class="blog-post-side-layout no-featured-image post-278 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/25/kuliah-pendahuluan/" rel="bookmark">Kuliah Pendahuluan Program Studi Ilmu Kedokteran S3 Pascarsajana UNS</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/25/kuliah-pendahuluan/" rel="bookmark"><time class="entry-date published" datetime="2017-08-25T05:38:33+00:00">August 25, 2017</time><time class="updated" datetime="2017-11-23T03:39:19+00:00">November 23, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Mengaharap dengan hormat, atas kehadiran bapak/Ibu/ Saudara: besuk pada: Hari/Tanggal: Rabu, 6 September 2017 Jam: 10.00- Selesai Tempat: Ruang Kuliah <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/08/25/kuliah-pendahuluan/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-212" class="blog-post-side-layout no-featured-image post-212 post type-post status-publish format-standard sticky hentry category-pengumuman">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/14/kuliah-perdana/" rel="bookmark">Kuliah Perdana</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/14/kuliah-perdana/" rel="bookmark"><time class="entry-date published" datetime="2017-08-14T08:11:33+00:00">August 14, 2017</time><time class="updated" datetime="2018-03-29T03:58:04+00:00">March 29, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Mengaharap dengan hormat, atas kehadiran bapak/Ibu/ Saudara: besuk pada: Hari/Tanggal: Selasa, 22 Agustus 2017 Jam: 09.00- Selesai Tempat: Ruang Aula <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/08/14/kuliah-perdana/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-133" class="blog-post-side-layout no-featured-image post-133 post type-post status-publish format-standard sticky hentry category-pengumuman">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/14/kuliah-pakar/" rel="bookmark">Kuliah Pakar  &#8220;Pharmacoeconomic in Review Vaccine and Healt System&#8221;</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/14/kuliah-pakar/" rel="bookmark"><time class="entry-date published" datetime="2017-08-14T02:10:16+00:00">August 14, 2017</time><time class="updated" datetime="2017-08-15T01:19:02+00:00">August 15, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Kuliah Pakar &#8221; Pharmacoeconomic in Review Vaccine and Healt System oleh: Nama: Prof . Maarten J Postma,Phd Institusi: Unit Farmakoepidemiologi <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/08/14/kuliah-pakar/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-162" class="blog-post-side-layout no-featured-image post-162 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/08/ujian-seminar-hasil-penelitian-disertasi-a-n-made-kurnia/" rel="bookmark">Ujian Seminar Hasil Penelitian Disertasi a.n Made Kurnia</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/08/ujian-seminar-hasil-penelitian-disertasi-a-n-made-kurnia/" rel="bookmark"><time class="entry-date published" datetime="2017-08-08T04:25:10+00:00">August 8, 2017</time><time class="updated" datetime="2017-08-14T04:28:09+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Seminar Hasil Penelitian Disertasi Selasa 15 Agustus 2017 Prof. Dr. Bambang Purwanto.,dr.,SpPD (K) KHG, FINASIM Prof. Dr. <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/08/08/ujian-seminar-hasil-penelitian-disertasi-a-n-made-kurnia/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-165" class="blog-post-side-layout no-featured-image post-165 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/07/upacara-penyerahan-mahasiswa-baru/" rel="bookmark">Upacara Penyerahan Mahasiswa Baru</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/07/upacara-penyerahan-mahasiswa-baru/" rel="bookmark"><time class="entry-date published" datetime="2017-08-07T04:32:29+00:00">August 7, 2017</time><time class="updated" datetime="2017-08-14T04:36:23+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>upacara-maru-2017 Uapcara dilaksanakan besuk: Hari/Tanggal: Senin 14 Agustus 2017 Tempat: Halaman Rektorat Acara: Upacara Penyerahan Mahasiswa Baru Tahun 2017 Dimohon <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/08/07/upacara-penyerahan-mahasiswa-baru/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-170" class="blog-post-side-layout no-featured-image post-170 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/01/pengambilan-jaket-almamater-mahasiswa-baru-tahun-2017/" rel="bookmark">Pengambilan Jaket Almamater Mahasiswa 2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/08/01/pengambilan-jaket-almamater-mahasiswa-baru-tahun-2017/" rel="bookmark"><time class="entry-date published" datetime="2017-08-01T05:04:09+00:00">August 1, 2017</time><time class="updated" datetime="2017-08-14T05:06:21+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Di infokan kepada Mahasiswa Baru Program Doktor Ilmu Kedokteran Pascasarjana Universitas Sebelas Maret Surakarta. Pengambilan Jaket Almamater dilayani pada : <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/08/01/pengambilan-jaket-almamater-mahasiswa-baru-tahun-2017/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-144" class="blog-post-side-layout no-featured-image post-144 post type-post status-publish format-standard sticky hentry category-pengumuman">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/07/25/ujian-kualifikasi-a-n-sri-suwarni/" rel="bookmark">Ujian Kualifikasi a.n Sri Suwarni</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/07/25/ujian-kualifikasi-a-n-sri-suwarni/" rel="bookmark"><time class="entry-date published" datetime="2017-07-25T02:28:34+00:00">July 25, 2017</time><time class="updated" datetime="2018-03-29T03:58:14+00:00">March 29, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Kualifikasi, Rabu 2 Agustsu 2017 Prof. Dr. Suradi.,dr.,Sp.P (K) MARS, FIRS Dono Indarto.,dr.,M.BiotechSt., PhD Prof. Dr. Bhisma <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/07/25/ujian-kualifikasi-a-n-sri-suwarni/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-160" class="blog-post-side-layout no-featured-image post-160 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/07/12/ujian-kualifikasi-a-n-susilorini/" rel="bookmark">Ujian Kualifikasi a.n Susilorini</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/07/12/ujian-kualifikasi-a-n-susilorini/" rel="bookmark"><time class="entry-date published" datetime="2017-07-12T04:23:38+00:00">July 12, 2017</time><time class="updated" datetime="2017-08-14T04:24:18+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Kualifikasi RAbu 19 Juli 2017 Prof. Dr. Suradi.,dr.,SpP (K) MARS, FIRS Dono Indarto.,dr.,M.Biotech.,St.,PhD Brian Wasita.,dr.,SpPA.,PhD</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-124" class="blog-post-side-layout no-featured-image post-124 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/06/19/ujian-terbuka-a-n-arief-nurudhin/" rel="bookmark">Ujian Terbuka a.n Arief Nurudhin</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/06/19/ujian-terbuka-a-n-arief-nurudhin/" rel="bookmark"><time class="entry-date published" datetime="2017-06-19T01:48:52+00:00">June 19, 2017</time><time class="updated" datetime="2017-08-14T04:19:52+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Terbuka a.n Arief Nurudhin Rabu, 10 Juli 2017: Prof. Drs. Sutarno, M.Sc.,Ph.D. Pro .Dr. M. Furqon Hidayatullah, <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/06/19/ujian-terbuka-a-n-arief-nurudhin/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-153" class="blog-post-side-layout no-featured-image post-153 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/06/14/ujian-kualifikasi-a-n-danis-pertiwi/" rel="bookmark">Ujian Kualifikasi a.n Danis Pertiwi</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/06/14/ujian-kualifikasi-a-n-danis-pertiwi/" rel="bookmark"><time class="entry-date published" datetime="2017-06-14T04:02:08+00:00">June 14, 2017</time><time class="updated" datetime="2017-08-14T04:10:46+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Kualifikasi Rabu 21 Juni 2017 Prof. Dr. Suradi.,dr.,SpP (K) MARS, FIRS Prof. Dr. Bambang Purwanto.,dr.,SpPD-KGH, FINASIM Ari <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/06/14/ujian-kualifikasi-a-n-danis-pertiwi/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-156" class="blog-post-side-layout no-featured-image post-156 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/05/14/ujian-proposal-disertasi-a-n-r-th-supraptomo/" rel="bookmark">Ujian Proposal Disertasi a.n R.Th Supraptomo</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/05/14/ujian-proposal-disertasi-a-n-r-th-supraptomo/" rel="bookmark"><time class="entry-date published" datetime="2017-05-14T04:13:21+00:00">May 14, 2017</time><time class="updated" datetime="2017-11-23T03:39:40+00:00">November 23, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Proposal Disertasi 22 Mei 2017 Prof. Dr. Suradi.,dr.,SpP (K) MARS.,FIRS Prof. Dr. Suroto.,dr.,SpS (K) FAAN Prof. Dr. <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/05/14/ujian-proposal-disertasi-a-n-r-th-supraptomo/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-148" class="blog-post-side-layout no-featured-image post-148 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/04/14/ujian-kualifikasi-a-n-edy-purwanto/" rel="bookmark">Ujian Kualifikasi a.n Edy Purwanto</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/04/14/ujian-kualifikasi-a-n-edy-purwanto/" rel="bookmark"><time class="entry-date published" datetime="2017-04-14T02:42:36+00:00">April 14, 2017</time><time class="updated" datetime="2017-08-14T02:59:48+00:00">August 14, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tim Penguji Ujian Kualifikasi, 26 April 2017, Prof. Dr. Suradi.,dr.,SpP (K) MARS.,FIRS Dono Indarto.,dr.,M.Biotech.,St., PhD Ari Natalia Probandari.,dr.,MPH.,PhD</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-110" class="blog-post-side-layout no-featured-image post-110 post type-post status-publish format-standard sticky hentry category-pengumuman category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/04/05/ujian-tertutup-disertasi-a-n-arief-nuruhudin/" rel="bookmark">Ujian Tertutup Disertasi a.n Arief Nurudhin</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/04/05/ujian-tertutup-disertasi-a-n-arief-nuruhudin/" rel="bookmark"><time class="entry-date published" datetime="2017-04-05T08:13:03+00:00">April 5, 2017</time><time class="updated" datetime="2017-11-23T03:39:59+00:00">November 23, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Tanggal 28 April 2017 Tim Penguji Ujian Tertutup Disertasi: Prof. Dr. Agr. Sc.Ir. Vita Ratri Cahyani M.P. Prof. Dr. Suradi, <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/04/05/ujian-tertutup-disertasi-a-n-arief-nuruhudin/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/pengumuman/" rel="category tag">PENGUMUMAN</a>, <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-40" class="blog-post-side-layout no-featured-image post-40 post type-post status-publish format-standard sticky hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/pengumuman/" rel="bookmark">PENGUMUMAN</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/pengumuman/" rel="bookmark"><time class="entry-date published" datetime="2017-03-02T01:50:37+00:00">March 2, 2017</time><time class="updated" datetime="2017-05-05T08:48:35+00:00">May 5, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-39" class="blog-post-side-layout no-featured-image post-39 post type-post status-publish format-standard sticky hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/kurikulum/" rel="bookmark">KURIKULUM</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/kurikulum/" rel="bookmark"><time class="entry-date published" datetime="2017-03-02T01:50:37+00:00">March 2, 2017</time><time class="updated" datetime="2019-06-29T04:22:19+00:00">June 29, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>SEMESTER I NO MATA KULIAH   KODE MK SKS I.     Mata Kuliah Umum (Wajib)       1 Filsafat Ilmu <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/kurikulum/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-38" class="blog-post-side-layout no-featured-image post-38 post type-post status-publish format-standard sticky hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/pendaftaran/" rel="bookmark">PENDAFTARAN</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/pendaftaran/" rel="bookmark"><time class="entry-date published" datetime="2017-03-02T01:50:37+00:00">March 2, 2017</time><time class="updated" datetime="2017-08-15T03:15:47+00:00">August 15, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s3kedokteran/author/s3kedokteran/">s3kedokteran</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Syarat Pelamar Dokter atau dokter gigi yang sudah lulus jenjang S2/ Spesialis, atau S2 di bidang kesehatan. Lulus seleksi calon <a class="read-more" href="https://pasca.uns.ac.id/s3kedokteran/2017/03/02/pendaftaran/">Read More</a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s3kedokteran/category/uncategorized/" rel="category tag">Uncategorized</a> </span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<span class="screen-reader-text">Posts navigation</span>
+		<div class="nav-links">
+
+						<div class="nav-previous"><a href="https://pasca.uns.ac.id/s3kedokteran/page/2/" >Older posts <span class="meta-nav">&rarr;</span></a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s3kedokteran/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form></aside><aside id="nav_menu-7" class="widget widget_nav_menu"><h2 class="widget-title">DOWNLOAD</h2><div class="menu-download-container"><ul id="menu-download" class="menu"><li id="menu-item-128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/04/FORMULIR_LAMARAN_S-3.pdf">Formulir Lamaran Program Doktor  (S3) Pascasarjana</a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-140"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2020/09/SK-Kaldik-2020-2021.pdf">Kalender Akdemik 2020-2021</a></li>
+<li id="menu-item-303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-303"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/12/panduan-penulisan-Disertasi-Tesis-20191.pdf">Panduan Disertasi Pascasarjana UNS</a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2017/08/Per-R-585-2016-ttg-Pascasarjana-2-1.pdf">Peraturan Rektor Tentang Pengelolaan dan Penyelenggaraan Pendidikan</a></li>
+<li id="menu-item-331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-331"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2020/08/SERTIFIKAT-LAMPTKES.pdf">Sertifikat Akreditasi LAMPTKES S3 Ilmu Kedokteran</a></li>
+<li id="menu-item-337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2020/10/FORM-MKPD-DAN-PROMOTOR-2020.docx">Form Pengajuan MKPD dan Promotor</a></li>
+<li id="menu-item-741" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-741"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2020/11/berkas-wisuda_220120.doc">PERSYARATAN WISUDA</a></li>
+<li id="menu-item-563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-563"><a href="https://pasca.uns.ac.id/s3kedokteran/wp-content/uploads/sites/52/2019/06/1-POB-Disertasi.pdf">Pedoman Operasional Baku Penyelesaian Disertasi Program Pascasarjana Universitas Sebelas Maret surakarta</a></li>
+</ul></div></aside><aside id="calendar-5" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/">&laquo; Jul</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside></div><!-- #secondary -->
+    
+        
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        
+                        <ul>
+                <li id="text-3" class="widget widget_text"><h2 class="widgettitle">EMAIL</h2>
+			<div class="textwidget">s3ilmukedokteran@fk.uns.ac.id</div>
+		</li>
+<li id="text-4" class="widget widget_text"><h2 class="widgettitle">ALAMAT</h2>
+			<div class="textwidget">Fakultas Kedokteran UNS 
+Ged G Lantai 2
+ Jl. Ir. Sutami 36A, Kentingan, Jebres, Surakarta 57126 </div>
+		</li>
+<li id="text-5" class="widget widget_text"><h2 class="widgettitle">TELEPON</h2>
+			<div class="textwidget">(0271) 7890444</div>
+		</li>
+<li id="calendar-3" class="widget widget_calendar"><h2 class="widgettitle">KALENDER</h2>
+<div class="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://pasca.uns.ac.id/s3kedokteran/2019/07/">&laquo; Jul</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>
+            </ul>
+    		    		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Theme by <a href="http://www.outtheboxthemes.com">Out the Box</a> 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	            <ul id="menu-menu-bawah" class="menu"><li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61"><a href="https://pasca.uns.ac.id/sistanak/">Sistanak UNS</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://pasca.uns.ac.id/hima-pps/">Hima Pasca UNS</a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63"><a href="https://uns.ac.id/id/">Portal UNS</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a href="https://pasca.uns.ac.id/">Portal PPs</a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65"><a href="https://jurnal.uns.ac.id/">E-Jurnal</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66"><a href="https://siakad.uns.ac.id/">Siakad UNS</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="https://digilib.uns.ac.id/">Digital Library UNS</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="https://elearning.uns.ac.id/">E-Learning UNS</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="https://spmb.uns.ac.id/">SPMB UNS</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="https://wisuda.uns.ac.id/">WISUDA UNS</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a href="http://link.springer.com/search?facet-content-type=%22book%22">Springer Link</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="http://search.proquest.com/widget">Proquest</a></li>
+<li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a href="https://www.scopus.com/home.uri">Jurnal Scopus</a></li>
+<li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="http://www.sciencedirect.com/">Jurnal Sciencedirect</a></li>
+</ul>                
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/libraries/js/jquery.dop.Select.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/assets/js/jquery.dop.frontend.BSPCalendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/assets/js/frontend.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/assets/js/deposit/frontend-deposit.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/assets/js/discounts/frontend-discounts.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/assets/js/fees/frontend-fees.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/assets/js/rules/frontend-rules.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/application/assets/js/dot.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/application/assets/js/calendars/calendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-availability.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-days.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-day.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-schedule.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/pasca.uns.ac.id\/s3kedokteran\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/js/navigation.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/js/jquery.touchSwipe.min.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/js/custom.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s3kedokteran/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+
+</body>
+</html>

@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Karya Ilmiah Pendidikan UNS</title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="https://karyaku.uns.ac.id/Logo_UNS.jpeg" />
+    
+</head>
+<body>
+
+<div class="container-scroller">
+<!-- partial:partials/_navbar.html -->
+ <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="navbar-brand-wrapper d-flex justify-content-center">
+        <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">  
+        <a class="navbar-brand brand-logo" href="https://karyaku.uns.ac.id"><p>Karya Ilmiah Pendidikan</p></a>
+        <a class="navbar-brand brand-logo-mini" href="https://karyaku.uns.ac.id"><img src="https://karyaku.uns.ac.id/Logo_UNS.jpeg" alt="logo"/></a>
+          <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="mdi mdi-sort-variant"></span>
+          </button>
+        </div>  
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+      <!-- search -->
+      <ul class="navbar-nav mr-lg-4 w-100">
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                  
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+              </form>
+            </div>
+          </li>
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+              
+                <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+              </form>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <!-- message -->
+          <!-- <li class="nav-item dropdown mr-4">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="mdi mdi-bell mx-0"></i>
+              <span class="count"></span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-success">
+                    <i class="mdi mdi-information mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Application Error</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Just now
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-warning">
+                    <i class="mdi mdi-settings mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Settings</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Private message
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-info">
+                    <i class="mdi mdi-account-box mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">New user registration</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    2 days ago
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li> -->
+         
+                    
+                        
+                  	
+          		
+                    <li class="nav-item nav-profile dropdown">
+               <!-- <a class="btn btn-inverse-primary" href="https://karyaku.uns.ac.id/karyaku-login"> Login </a> -->
+              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
+              <!-- <img src="https://karyaku.uns.ac.id/profil.jpg" alt="profile"/> -->
+              <span class="nav-profile-name">Login</span>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/login-karyaku">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login Karyaku
+                </a>
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/karyaku-old/sso/saml-login.php">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login SSO
+                </a> 
+              
+              </div>
+          </li>
+                  </ul>
+  	<button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="modal" data-target="#exampleModal1">
+          <span class="mdi mdi-magnify"></span>
+        </button>
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+          <span class="mdi mdi-menu"></span>
+        </button>
+      </div>
+    </nav>
+
+
+ <!-- Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Pencarian</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+          </form>
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+            
+            <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+          </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>    
+ <!-- partial -->
+ <div class="container-fluid page-body-wrapper">
+    <!-- partial:partials/_sidebar.html -->
+      <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+                           
+                                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#sidebar13" aria-expanded="false" aria-controls="ui-basic">
+                      <i class="mdi mdi-account menu-icon"></i>
+                      <span class="menu-title">Data Dosen</span>
+                      <i class="menu-arrow"></i>
+                    </a>
+                    <div class="collapse" id="sidebar13">
+                      <ul class="nav flex-column sub-menu">
+                                                                        <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/guru-besar">Guru Besar</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/doktor">Doktor</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/magister">Magister</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/spesialis">Spesialis</a></li>
+                                                                      </ul>
+                    </div>
+                  </li>
+                
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/pohon-harapan">
+                          <i class="mdi mdi-pine-tree menu-icon"></i>
+                          <span class="menu-title">Pohon Harapan</span>
+                        </a>
+                      </li>
+               
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/bantuan">
+                          <i class="mdi mdi-help-circle-outline menu-icon"></i>
+                          <span class="menu-title">Bantuan</span>
+                        </a>
+                      </li>
+               
+                
+                    
+         
+        
+        
+        </ul>
+      </nav>
+      <!-- partial -->
+    <div class="main-panel">
+    
+        <div class="content-wrapper">
+         
+          <div class="row">
+          <div class="col-md-12 stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <!-- <p class="card-title">Home Karyaku</p> -->
+                  <p class="card-description">
+                                              </p>
+                    <div class="row align-items-start">
+                        <div class="col-md-6 row">
+                           <div class="col-md-12 row justify-content-center">
+                                <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/KoHbEbXqnO81HFNu3klrLjflHvlrPSxI.jpeg" class="rounded-circle col-md-3" style="width: 100px;height:100px;" alt="image"/>
+                                <p class="col-md-auto align-self-center mt-3">Prof. Dr. HARTIWININGSIH, S.H., M.Hum.</p>
+                           </div>
+                                                   
+                           <div class="col-md-12 table-responsive mt-3">
+                          
+                           <table class="table table-striped">
+                            <tbody>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    NIP
+                                </td>
+                                <td>
+                                    195702031985032001
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Jabatan Fungsional
+                                </td>
+                                <td>
+                                    Guru Besar
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Fakultas
+                                </td>
+                                <td>
+                                    Fakultas Hukum
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Program Studi
+                                </td>
+                                <td>
+                                    Hukum Pidana
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Tempat/Tanggal Lahir
+                                </td>
+                                <td>
+                                    JAKARTA / 1957-02-03
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Web Blog
+                                </td>
+                                <td>
+                                    <a href="https://civitas.uns.ac.id">https://civitas.uns.ac.id</a>
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Bidang Keahlian
+                                </td>
+                                <td>
+                                    Hukum Pidana
+                                </td>
+                                </tr>
+                            </tbody>
+                            </table>
+                           </div>
+
+                            <div class="col-md-12">
+                                <hr />
+                            </div>
+
+                                                        
+                           <div class="col-md-12 mt-3">
+                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav1" aria-selected="true" aria-controls="#nav1">
+                                        Pendidikan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav2" aria-selected="false" aria-controls="#nav2">
+                                            Jabatan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav3" aria-selected="false" aria-controls="#nav3">
+                                            Penghargaan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav4" aria-selected="false" aria-controls="#nav4">
+                                            Organisasi
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav1" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Riwayat Pendidikan</p>
+                                        <ol>
+                                                                                                                                            <li class="font-weight-bold small">S.H Ilmu Hukum , Universitas Lampung , 1982</li>
+                                                                                                <li class="font-weight-bold small">M.HUM Ilmu Hukum , Universitas Diponegoro , 1996</li>
+                                                                                                <li class="font-weight-bold small">Dr Ilmu Hukum , Universitas Diponegoro , 2007</li>
+                                                                                                                                                                                        <li class="font-weight-bold small">S3 Ilmu Hukum , Universitas Diponegoro Tanggal Ijasah 2007-11-26</li>
+                                                                                            <li class="font-weight-bold small">S2 HUKUM , Universitas Diponegoro Tanggal Ijasah 1996-09-16</li>
+                                                                                            <li class="font-weight-bold small">S1 HUKUM , Universitas Lampung Tanggal Ijasah 1982-04-12</li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav2" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                        <p class="mt-3 text-center">Riwayat Jabatan Fungsional</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Guru Besar ( GURU BESAR/GB-1050 ) SK : 127/E4/KP/GB/2020 TMT SK 2020-03-01</li>
+                                                                                            <li class="font-weight-bold small">Guru Besar ( GURU BESAR MADYA/GB-850 ) SK : 73418/A4.5/KP/2009 TMT SK 2009-07-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor Kepala ( LEKTOR/LEKTOR KEPALA-400 ) SK : 47725/A2.IV.1/KP/1999 TMT SK 1999-10-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MADYA/LEKTOR-300 ) SK : 6704/PT40.H/C/1992 TMT SK 1992-08-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MUDA/LEKTOR-200 ) SK : 9846/PT40.H/C/1989 TMT SK 1989-09-26</li>
+                                                                                            <li class="font-weight-bold small">Asisten Ahli ( ASISTEN AHLI/AA-150 ) SK : 4163/PT40.H2/C/1988 TMT SK 1988-04-27</li>
+                                                                                            <li class="font-weight-bold small">Asisten Ahli ( ASISTEN AHLI MADYA/AA-100 ) SK : 3524/PT40/KP/1985 TMT SK 1985-03-01</li>
+                                                                                            <li class="font-weight-bold small">Tenaga Pengajar ( TENAGA PENGAJAR ) SK : 3524/PT40/KP/1985 TMT SK 1985-03-01</li>
+                                                                                      
+                                        </ol> 
+                                                                                    <p class="mt-3 text-center">Riwayat Jabatan Kelola</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Ketua Komisi Senat ( Ketua Komisi F Senat FH ) SK : 702 A/UN27/KP/2019 TGL 2019-08-01 s.d 2023-07-31</li>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Studi S3 ( Kepala Program Studi S3 Ilmu Hukum ) SK : 5139/UN27/KP/2019 TGL 2019-05-29 s.d 2023-05-28</li>
+                                                                                                    <li class="font-weight-bold small">Ketua Komisi Senat ( Ketua Komisi F Senat FH ) SK : 831/UN27/KP/2015 TGL 2015-07-01 s.d 2019-05-28</li>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Studi S3 ( Kepala Program Studi S3 Ilmu Hukum ) SK : 760/UN27/KP/2015 TGL 2015-06-18 s.d 2019-05-27</li>
+                                                                                            
+                                            </ol> 
+                                                                                                                            <p class="mt-3 text-center">Riwayat Jabatan Lain</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Doktor  , Ilmu Hukum UNS 2015-2019</li>
+                                                                                                    <li class="font-weight-bold small">Dekan , Fakultas Hukum UNS 2011-2015</li>
+                                                                                                    <li class="font-weight-bold small">Program Magister (S2) Ilmu Hukum UNS , Sekretaris  2008-sekarang</li>
+                                                                                                    <li class="font-weight-bold small">Dosen  , Fakultas Hukum UNS 1985-sekarang</li>
+                                                                                                    <li class="font-weight-bold small">Penyiar RRI  , RRI Surakarta 1982-1985</li>
+                                                                                                    <li class="font-weight-bold small">Penyiar RRI Tanjung Karang , RRI Tanjung Karang 1979-1982</li>
+                                                                                            
+                                            </ol> 
+                                                                            </div>
+                                    <div class="tab-pane fade" id="nav3" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Penghargaan</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Satyalencana Karya Satya 20 Tahun  dari Presiden RI ,  ( Internasional ) </li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav4" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Organisasi</p>
+                                        <ol>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                </div>
+                           </div>
+                           
+                            <!-- tambah content di col1 -->
+                        </div> <!-- ini col1 -->
+
+                        <div class="col-md-6">
+                                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav11" aria-selected="true" aria-controls="#nav11">
+                                            Karya Ilmiah
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav22" aria-selected="false" aria-controls="#nav22">
+                                            Publikasi Essai
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav33" aria-selected="false" aria-controls="#nav33">
+                                            Publikasi Jurnal
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav44" aria-selected="false" aria-controls="#nav44">
+                                            Publikasi Buku
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav55" aria-selected="false" aria-controls="#nav55">
+                                            Penelitian
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav66" aria-selected="false" aria-controls="#nav66">
+                                            Pengabdian
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav11" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Karya Ilmiah</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                Pembicara Sidang Senat Terbuka UNS Penegakan Hukum Pidana Lingkungan Hidup Surakarta, 2009
+                                                    <a href="https://si.uns.ac.id/profil/uploadpublikasi/Kegiatan/195702031985032001hartiwi_1.pdf" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 &amp;#77&amp;#97&amp;#107&amp;#97&amp;#108&amp;#97&amp;#104&amp;#32&amp;#100&amp;#105&amp;#115&amp;#97&amp;#106&amp;#105&amp;#107&amp;#97&amp;#110&amp;#32&amp;#112&amp;#97&amp;#100&amp;#97&amp;#32&amp;#83&amp;#69&amp;#77&amp;#73&amp;#78&amp;#65&amp;#82&amp;#32&amp;#78&amp;#65&amp;#83&amp;#73&amp;#79&amp;#78&amp;#65&amp;#76&amp;#58&amp;#32&amp;#32&amp;#8220&amp;#73&amp;#109&amp;#112&amp;#108&amp;#101&amp;#109&amp;#101&amp;#110&amp;#116&amp;#97&amp;#115&amp;#105&amp;#32&amp;#83&amp;#97&amp;#110&amp;#107&amp;#115&amp;#105&amp;#32&amp;#80&amp;#105&amp;#100&amp;#97&amp;#110&amp;#97&amp;#32&amp;#85&amp;#110&amp;#100&amp;#97&amp;#110&amp;#103&amp;#45&amp;#85&amp;#110&amp;#100&amp;#97&amp;#110&amp;#103&amp;#32&amp;#80&amp;#101&amp;#109&amp;#105&amp;#108&amp;#117&amp;#8221&amp;#44&amp;#32&amp;#100&amp;#101&amp;#110&amp;#103&amp;#97&amp;#110&amp;#32&amp;#106&amp;#117&amp;#100&amp;#117&amp;#108&amp;#32&amp;#109&amp;#97&amp;#107&amp;#97&amp;#108&amp;#97&amp;#104&amp;#58&amp;#32&amp;#70&amp;#85&amp;#78&amp;#71&amp;#83&amp;#73&amp;#79&amp;#78&amp;#65&amp;#76&amp;#73&amp;#83&amp;#65&amp;#83&amp;#73&amp;#32&amp;#72&amp;#85&amp;#75&amp;#85&amp;#77&amp;#32&amp;#80&amp;#73&amp;#68&amp;#65&amp;#78&amp;#65&amp;#32&amp;#68&amp;#65&amp;#76&amp;#65&amp;#77&amp;#32&amp;#80&amp;#69&amp;#78&amp;#65&amp;#78&amp;#71&amp;#71&amp;#85&amp;#76&amp;#65&amp;#78&amp;#71&amp;#65&amp;#78&amp;#32&amp;#80&amp;#69&amp;#76&amp;#65&amp;#78&amp;#71&amp;#71&amp;#65&amp;#82&amp;#65&amp;#78&amp;#32&amp;#85&amp;#78&amp;#68&amp;#65&amp;#78&amp;#71&amp;#45&amp;#85&amp;#78&amp;#68&amp;#65&amp;#78&amp;#71&amp;#32&amp;#80&amp;#69&amp;#77&amp;#73&amp;#76&amp;#85&amp;#46&amp;#32&amp;#80&amp;#101&amp;#108&amp;#97&amp;#107&amp;#115&amp;#97&amp;#110&amp;#97&amp;#97&amp;#110&amp;#32&amp;#115&amp;#101&amp;#109&amp;#105&amp;#110&amp;#97&amp;#114&amp;#32&amp;#58&amp;#32&amp;#50&amp;#57&amp;#32&amp;#77&amp;#101&amp;#105&amp;#32&amp;#50&amp;#48&amp;#48&amp;#  , 2004
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Fungsionalisasi Hukum Pidana dalam Penanggulangan Pelanggaran Undang-Undang Pemilu, makalah disampaikan pada Seminar Nasional Implementasi Sanksi Pidana Undang-Undang Pemilu  , 
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 &amp;#77&amp;#97&amp;#107&amp;#97&amp;#108&amp;#97&amp;#104&amp;#32&amp;#100&amp;#105&amp;#115&amp;#97&amp;#106&amp;#105&amp;#107&amp;#97&amp;#110&amp;#32&amp;#112&amp;#97&amp;#100&amp;#97&amp;#32&amp;#83&amp;#101&amp;#109&amp;#105&amp;#110&amp;#97&amp;#114&amp;#32&amp;#78&amp;#97&amp;#115&amp;#105&amp;#111&amp;#110&amp;#97&amp;#108&amp;#58&amp;#32&amp;#32&amp;#8220&amp;#73&amp;#109&amp;#112&amp;#108&amp;#101&amp;#109&amp;#101&amp;#110&amp;#116&amp;#97&amp;#115&amp;#105&amp;#32&amp;#83&amp;#97&amp;#110&amp;#107&amp;#115&amp;#105&amp;#32&amp;#80&amp;#105&amp;#100&amp;#97&amp;#110&amp;#97&amp;#32&amp;#85&amp;#110&amp;#100&amp;#97&amp;#110&amp;#103&amp;#45&amp;#85&amp;#110&amp;#100&amp;#97&amp;#110&amp;#103&amp;#32&amp;#80&amp;#101&amp;#109&amp;#105&amp;#108&amp;#117&amp;#8221&amp;#44&amp;#32&amp;#100&amp;#101&amp;#110&amp;#103&amp;#97&amp;#110&amp;#32&amp;#106&amp;#117&amp;#100&amp;#117&amp;#108&amp;#32&amp;#109&amp;#97&amp;#107&amp;#97&amp;#108&amp;#97&amp;#104&amp;#58&amp;#32&amp;#70&amp;#117&amp;#110&amp;#103&amp;#115&amp;#105&amp;#111&amp;#110&amp;#97&amp;#108&amp;#105&amp;#115&amp;#97&amp;#115&amp;#105&amp;#32&amp;#72&amp;#117&amp;#107&amp;#117&amp;#109&amp;#32&amp;#80&amp;#105&amp;#100&amp;#97&amp;#110&amp;#97&amp;#32&amp;#68&amp;#97&amp;#108&amp;#97&amp;#109&amp;#32&amp;#80&amp;#101&amp;#110&amp;#97&amp;#110&amp;#103&amp;#103&amp;#117&amp;#108&amp;#97&amp;#110&amp;#103&amp;#97&amp;#110&amp;#32&amp;#80&amp;#101&amp;#108&amp;#97&amp;#110&amp;#103&amp;#103&amp;#97&amp;#114&amp;#97&amp;#110&amp;#32&amp;#85&amp;#110&amp;#100&amp;#97&amp;#110&amp;#103&amp;#45&amp;#85&amp;#110&amp;#100&amp;#97&amp;#110&amp;#103&amp;#32&amp;#80&amp;#101&amp;#109&amp;#105&amp;#108&amp;#117&amp;#46&amp;#32&amp;#80&amp;#101&amp;#108&amp;#97&amp;#107&amp;#115&amp;#97&amp;#110&amp;#97&amp;#97&amp;#110&amp;#32&amp;#115&amp;#101&amp;#109&amp;#105&amp;#110&amp;#97  , 
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                            <li class="font-weight-bold small">
+                                               
+                                                 Fungsionalisasi Hukum Pidana dalam Penanggulangan Pelanggaran Undang-Undang Pemilu, makalah disampaikan pada Seminar Nasional Implementasi Sanksi Pidana Undang-Undang Pemilu.  , 
+                                                    <a href="" >(link)</a>
+                                                </li>
+                                                                                    </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav22" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Essai</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Menulis Artikel Pada Majalah Yustisia Judul : Reformulasi Tenaga Honorer Katagori 1 (K1) dan Katagori 2 (K2). Edisi 90 , 2014, 2014<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Menulis  Artikel Pada Majalah Yustisia Judul : Kajian Kritis Penggunaan UU Tindak Pidana Korupsi Untuk Menangani Tinda Pidana Perbankan. Edisi 85, 2013, 2013<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Problema Penegakan Hukum Pidana Lingkungan Hidup Dan Upaya penanggulangannya. Prosiding Seminar Nasional dan Kongres Pembina Hukum Lingkungan se-Indonesia. Deselenggarakan oleh Bagian Hukum Dan pembangunan Masyarakat FH UNPAD,2013 , 2013<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kajian Teoritis Sistem Pertanggungjawaban Pidana Terhadap Korporasi Yang Melakukan Tindak Pidana Lingkungan Hidup. Prosiding MUNASENA MAHUPIKI (Musyawarah Nasional Luar Biasa dan Seminar Nasional Masyarakat Hukum Pidana dan Kriminologi Indonesia) Kerjasama Pengurus Pusat MAHUPIKI dan FH UNS, 2013<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel ilmiah pada Majalah : IPSO JURE  Terbitan III-Volume III- Juni 2008, ISSN  1978-824X, yang diterbitkan oleh : Program Magister Ilmu Hukum Universitas Sebelas Maret Surakarta, dengan judul artikel: &quot;Berbagai Aspek Tindak Pidana  Kekerasan Dalam Rumah Tangga&quot;, 2008<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel pada MAJALAH YUSTISIA Edisi Nomor 74 Tahun XVIII, Mei  Agustus 2008, ISSN No. 0852-0941, Terakreditasi Depdiknas RI SK.No.43/ DIKTI/KEP/2008, 8 Juli 2008 dengan judul: Kebijakan Hukum Pidana Dalam Menanggulangi  Masalah Tindak Pidana Lingkungan Hidup Di Indonesia, 2008<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel pada MAJALAH YUSTISIA Edisi Nomor 57 Tahun XIV, April-Juni 2002, ISSN No. 0852-0941, dengan judul: PELAKSANAAN PENGADILAN HAK ASASI MANUSIA DI INSONESIA, 2002<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel pada MAJALAH YUSTISIA Edisi Nomor 54 Tahun XIII, Desember 2000-Februari 2001, ISSN No. 0852-0941, dengan judul: PROBLEM PENEGAKAN HUKUM LINGKUNGAN DI INSONESIA. (lihat hal: 8  s.d . hal. 19), 2001<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel pada MAJALAH YUSTISIA Edisi Nomor 50 Tahun XIII, Desember 1999-Februari 2000, ISSN No. 0852-0941, dengan judul: PROBLEMA PEMBERANTASAN KORUPSI, KOLUSI DAN NEPOTISME SERTA STRATEGI PENANGGULANGAN­NYA DI INDONESIA.   (lihat hal: 41 s.d  halaman 57), 2000<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel pada MAJALAH YUSTISIA Edisi Nomor 52 Tahun XIII, Juni-Agustus 2000, ISSN No. 0852-0941, dengan judul: PENGARUH GLOBALISASI TERHADAP PERKEMBANGAN SISTEM HUKUM NASIONAL DAN LOKAL.  (lihat hal. 3  s.d. halaman 9), 2000<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel pada MAJALAH YUSTISIA Edisi Nomor 55 Tahun XIII, Maret-Desember  2000, ISSN No. 0852-0941, dengan judul: PEMBERDAYAAN  MAJELIS PERMUSYAWARATAN RAKYAT. (lihat hal: 60 s.d. 67), 2000<sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Artikel Pada Majalah Yustisia Judul; Problema Penetapan Sanksi Pidana dalam Penanggulangan Tindak Pidana Lingkungan yang di Lakukan Korporasi. Majalah Yustisia Fakultas Hukum UNS, <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Menulis Artikel Pada Majalah Yustisia Judul; Problema penetapan sanksi pidana dalam penanggulangan tindak pidana lingkungan yang dilakukan korporasi. Majalah Yustisia Fakultas Hukum UNS , <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav33" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Jurnal</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               PERAN SANKSI PIDANA DALAM MENANGGULANGI PENCEMARAN DAN KERUSAKAN LINGKUNGAN HIDUP (lihat hal: 51  s.d. hal. 58 ), JURNAL ILMIAH LINGKUNGAN HIDUP, ENVIRO Terakreditasi SK.Dirjen Dikti Depdiknas RI No.23a/ DIKTI/ Kep/2004 Vol. 7 No. 1  ISSN: 1441-4402,  , 2006<sup>Jurnal</sup>
+                                                <a target="_blank" href="FqaIgm http://www.FyLitCl7Pf7kjQdDUOLQOuaxTXbj5iNG.com">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               KONFLIK KEPENTINGAN DALAM PENEGAKAN HUKUM LINGKUNGAN. (lihat hal: 1 s.d. 5), JURNAL ILMIAH LINGKUNGAN HIDUP, ENVIRO Vol. 3 No. 1 , ISSN: 1441-4402,  , 2003<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Berbagai Aspek Tindak Pidana Kekerasan Dalam Rumah Tangga 
+, Ipso Jure Vol.3 , 0000<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav44" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Buku</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               HUKUM LINGKUNGAN DALAM PERSPEKTIP KEBIJAKAN HUKUM PIDANA , Sebelas Maret University Press, 2008
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Alasan Penghapus Pidana Tinjauan Praktis dan Teoritis, Sebelas Maret University Press, 2008
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Sejarah Berlakunya KUHP Di Indonesia, Sebelas Maret University Press, 2008
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               PROBLEMA DAN STRATEGI  PEMBERANTASAN KORUPSI,KOLUSI DAN NEPOTISME DI INDONESIA, Sebelas Maret University Press, 2007
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               FAKTOR-FAKTOR YANG MEMPENGARUHI PROSES PENEGAKAN HUKUM PIDANA LINGKUNGAN, Sebelas Maret University Press, 2006
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               HUKUM , BIROKRASI  &amp; KEKUASAAN  DI INDONESIA, dengan judul Tulisan: PERILAKU MENYIMPANG BIROKRASI SERTA UPAYA PERTANGGUNG JAWABANÂ­Â­NYA.  Penulis 19 orang  (lihat halaman: 352 s.d 374), Walisongo Research Instituse (WRI), 
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav55" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Penelitian</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Sistem Peradilan Pidana Terpadu Dalam Menanggulangi Tindak Pidana Pembakaran Hutan Yang Dilakukan Oleh Korporasi Dalam Rangka Mewujudkan Criminal Law Enforcement menuju Good Forest Governance and Green Corporate (Studi Kasus Di Propinsi Riau) , dana Non PNBP, Tahun ke 2 Trans Lanjutan, Anggota , 2016
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penanggulangan Kejahatan Kekerasan Seksual Terhadap Anak Melalui Pendekatan Kebijakan Integral Berbasis Kepentingan Perlindungan Anak, dana Non PNBP, Tahun ke 2 PUPT Lanjutan, Anggota, 2016
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Sistem Peradilan Pidana Terpadu Dalam Menanggulangi Tindak Pidana  Pembakaran Hutan Yang Dilakukan Oleh Korporasi  Dalam Rangka Mewujudkan Criminal Law Enforcement  menuju Good Forest Governance and Green Corporate  (Studi Kasus Di Propinsi Riau), 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penanggulangan Kejahatan Kekerasan Seksual Terhadap  Anak Melalui Pendekatan Kebijakan Integral Berbasis Kepentingan Perlindungan Anak, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Evaluasi Kebijakan PROPER Oleh Kementerian Lingkungan Hidup Dalam rangka Mewujudkan Criminal Law Enforcement Dibidang lingkungan Hidup Menuju Green Corporate, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Reformulasi Pengangkatan Tenaga Honorer Katagori 1 (K1) dan Katagori 2 (K2) Provinsi Jawa Tengah, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Reformulasi Legal Drafting Undang-Undang Perbankan Dalam Rangka Mewujudkan Penegakan Hukum Yang Efektif, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Problema Dan Strategi Kebijakan Penanganan Tindak Pidana Perbankan (Studi Kasus Bank Century), 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Problema Dan Strategi Kebijakan Penanganan Tindak Pidana Perbankan (Studi Kasus Bank Century), 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penggunaan Undang-Undang Tindak Pidana Korupsi Dalam Menangani Tindak Pidana Perbankan Perspektif Penegakan Hukum, 2011
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Babat Bayu Urip ( Babat Modern Dengan Fungsi Tradisional ), 2009
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pendapatan Ahli dalam Perkara Pidana (Studi Mengenai Kedudukan dan Peran Ahli dalam Peradilan Tindak Pidana Khusus), 2008
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kebijakan Hukum Pidana dalam Menanggulangi Masalah Tindak Pidana Lingkungan Hidup di  Indonesia, 2007
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kebijakan Pengendalian Pencemaran Air akibat Kegiatan Industri di KaBupaten Karanganyar, 2004
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Perbandingan Sikap Kepatuhan Masyarakat Terhadap Hukum Lingkungan sesudah dan Sebelum Penyuluhan Hukum, 1998
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hubungan Antar Tingkat Pendidikan dengan Ketaatan Mengemudi Terhadap UU No. 14 tahun 1992 (Studi terhadap Pengemudi Bus Jurusan Solo-Wonogiri, 1998
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penerapan Azas-Azas Alasan penghapus Pidana Dalam Praktek Peradilan (studi kasus di Pengadilan Negeri Surakarta, 1997
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelaksanaan PP No. 51 Tahun 1993 Tentang AMDAL oleh Aparat Pemda Tingkat I Jawa Tengah, 1997
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penegakan Hukum Lingkungan untuk Mengantisipasi Tindak Pidana Lingkungan yang Dilakukan Korporasi, 1996
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelaksanaan Kepres RI No. 5 Tahun 1987 Tentang Remisi di Lembaga Pemasyarakatan Surarta, 1995
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peranan Pusat Studi Lingkungan Hidup UNS Dalam Ikut Serta Menyebarluaskan Perlindungan Lingkungan Hidup, 1995
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Perbandingan Pengaturan Parnografi dalam KUHP Indonesia dengan Malaysia , 1994
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Pendidikan Pengemudi dalam Ketaatannya Terhadap UU No.3 tahun 1965, 1994
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelaksanaan Perda No.4 Tahun 1987 Beserta Penerapan Sanksinya di Daerah Tingkat II Surakarta, 1987
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Inventarisasi Terhadap Beberapa Surat Edaran Mahkamah Agung Yang Berkaitan Dengan Pelaksanaan KUHP, 1984
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kebijakan Hukum Pidana dalam Menanggulangi Masalah Tindak Pidana Lingkungan Hidup di  Indonesia,  2007., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kebijakan Pengendalian Pencemaran Air akibat Kegiatan Industri di KaBupaten Karanganyar, Sumber Dana DIK, 2004., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Perbandingan Sikap Kepatuhan Masyarakat Terhadap Hukum Lingkungan sesudah dan Sebelum Penyuluhan Hukum, Sumber Dana DPP, 1998., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hubungan Antar Tingkat Pendidikan dengan Ketaatan Mengemudi Terhadap UU No. 14 tahun 1992 (Studi terhadap Pengemudi Bus Jurusan Solo-Wonogiri, Sumber Dana DPP, 1998., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penerapan Azas-Azas Alasan penghapus Pidana Dalam Praktek Peradilan (studi kasus di Pengadilan Negeri Surakarta, Sumber Dana DPP, 1997., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelaksanaan PP No. 51 Tahun 1993 Tentang AMDAL oleh Aparat Pemda Tingkat I Jawa Tengah, Sumber Dana, DPP, 1997., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penegakan Hukum Lingkungan untuk Mengantisipasi Tindak Pidana Lingkungan yang Dilakukan Korporasi, Sumber Dana BPPS, 1996., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelaksanaan Kepres RI No. 5 Tahun 1987 Tentang Remisi di Lembaga Pemasyarakatan Surarta, Sumber Dana DPP, 1995., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peranan Pusat Studi Lingkungan Hidup UNS Dalam Ikut Serta Menyebarluaskan Perlindungan Lingkungan Hidup, Sumber Dana Mandiri, 1995., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pengaruh Pendidikan Pengemudi dalam Ketaatannya Terhadap UU No.3 tahun 1965, Sumber Dana DPP, 1994., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Inventarisasi Terhadap Beberapa Surat Edaran Mahkamah Agung Yang Berkaitan Dengan Pelaksanaan KUHP, Sumber Dana DPP, 1994., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelaksanaan Perda No.4 Tahun 1987 Beserta Penerapan Sanksinya di Daerah Tingkat II Surakarta, Sumber Dana DPP, 1987., 0000
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav66" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Pengabdian</p>
+                                        <ol>
+                                                                                </ol> 
+                                    </div>
+
+                                </div>
+                            <!--  -->
+                        </div>
+                    </div>
+
+                <!-- card -->
+                </div>
+              </div>
+            </div>
+          </div>  <!-- row -->
+                                      </div>    <!-- content-wrapper ends -->
+
+         
+
+<footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="" target="_blank">Dokumentasi Karya Ilmiah Pendidik Universitas Sebelas Maret</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">email: karyailmiah@mail.uns.ac.id<i class="mdi mdi-heart text-danger"></i></span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- plugins:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/chart.js/Chart.min.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+  <!-- End plugin js for this page-->
+  <!-- inject:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/off-canvas.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/hoverable-collapse.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/templateku.js"></script>
+  <!-- endinject -->
+  <!-- Custom js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dashboard.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/data-table.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dataTables.bootstrap4.js"></script>
+  <!-- End custom js for this page-->
+    
+   <script>
+
+ </script>
+</body>
+
+</html>

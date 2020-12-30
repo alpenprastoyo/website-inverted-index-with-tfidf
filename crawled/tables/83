@@ -1,0 +1,31 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S-3 <a href="https://pasca.uns.ac.id/s3pppm/" target="_blank" rel="noopener noreferrer">Penyuluhan Pembangunan/ Pemberdayaan Masyarakat</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>S-3 <a href="https://pasca.uns.ac.id/s3ilmulingkungan" target="_blank" rel="noopener noreferrer">Ilmu Lingkungan</a></td>
+<td>B</td>
+</tr>
+<tr>
+<td>3</td>
+<td>S-3 <a href="https://pasca.uns.ac.id/s3kajianbudaya/" target="_blank" rel="noopener noreferrer">Kajian Budaya</a></td>
+<td>B</td>
+</tr>
+<tr>
+<td>4</td>
+<td>S-3 <a href="https://pasca.uns.ac.id/s3ikm/" target="_blank" rel="noopener noreferrer">Ilmu Kesehatan Masyarakat</a></td>
+<td>B</td>
+</tr>
+</tbody>
+</table></br>

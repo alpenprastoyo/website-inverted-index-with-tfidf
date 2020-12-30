@@ -1,0 +1,253 @@
+<!DOCTYPE html><!-- HTML 5 -->
+<html lang="id-ID">
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://ppkn.fkip.uns.ac.id/xmlrpc.php" />
+
+<title>INSTRUKSI KERJA (SOP) &#8211; Program Studi PPKn FKIP UNS</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Program Studi PPKn FKIP UNS &raquo; Feed" href="https://ppkn.fkip.uns.ac.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Program Studi PPKn FKIP UNS &raquo; Umpan Komentar" href="https://ppkn.fkip.uns.ac.id/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ppkn.fkip.uns.ac.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='leeway-custom-fonts-css'  href='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/css/custom-fonts.css?ver=20180413' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ppkn.fkip.uns.ac.id/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='leeway-stylesheet-css'  href='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/style.css?ver=1.4' type='text/css' media='all' />
+<style id='leeway-stylesheet-inline-css' type='text/css'>
+.site-title, .site-description {
+	position: absolute;
+	clip: rect(1px, 1px, 1px, 1px);
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/css/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='leeway-flexslider-css'  href='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/css/flexslider.css?ver=20160421' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://ppkn.fkip.uns.ac.id/wp-content/plugins/tablepress/css/default.min.css?ver=1.11' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://ppkn.fkip.uns.ac.id/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://ppkn.fkip.uns.ac.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/js/navigation.js?ver=20160719'></script>
+<script type='text/javascript' src='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/js/jquery.flexslider-min.js?ver=2.6.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var leeway_slider_params = {"animation":"slide","speed":"7000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ppkn.fkip.uns.ac.id/wp-content/themes/leeway/js/slider.js?ver=2.6.0'></script>
+<link rel='https://api.w.org/' href='https://ppkn.fkip.uns.ac.id/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ppkn.fkip.uns.ac.id/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ppkn.fkip.uns.ac.id/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.4" />
+<link rel="canonical" href="https://ppkn.fkip.uns.ac.id/instruksi-kerja-sop/" />
+<link rel='shortlink' href='https://ppkn.fkip.uns.ac.id/?p=546' />
+<link rel="alternate" type="application/json+oembed" href="https://ppkn.fkip.uns.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fppkn.fkip.uns.ac.id%2Finstruksi-kerja-sop%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ppkn.fkip.uns.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fppkn.fkip.uns.ac.id%2Finstruksi-kerja-sop%2F&#038;format=xml" />
+<link rel="icon" href="https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-5-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-5-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-5-180x180.png" />
+<meta name="msapplication-TileImage" content="https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-5-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-546 wp-custom-logo elementor-default">
+
+	<div id="topheader-wrap">
+		
+	<div id="topheader" class="clearfix">
+
+		
+	</div>	</div>
+
+	<div id="wrapper" class="container hfeed">
+
+		<div id="header-wrap">
+
+			<header id="header" class="clearfix" role="banner">
+
+				<div id="logo" class="clearfix">
+
+					<a href="https://ppkn.fkip.uns.ac.id/" class="custom-logo-link" rel="home"><img width="1270" height="250" src="https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-3-3.jpg" class="custom-logo" alt="Program Studi PPKn FKIP UNS" srcset="https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-3-3.jpg 1270w, https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-3-3-300x59.jpg 300w, https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-3-3-768x151.jpg 768w, https://ppkn.fkip.uns.ac.id/wp-content/uploads/2017/05/cropped-Untitled-3-3-1024x202.jpg 1024w" sizes="(max-width: 1270px) 100vw, 1270px" /></a>					
+		<p class="site-title"><a href="https://ppkn.fkip.uns.ac.id/" rel="home">Program Studi PPKn FKIP UNS</a></p>
+
+						
+			<p class="site-description">Official Website Program Studi Pendidikan Pancasila dan Kewarganegaraan FKIP UNS</p>
+
+		
+				</div>
+
+				<nav id="mainnav" class="clearfix" role="navigation">
+					<ul id="mainnav-menu" class="main-navigation-menu"><li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-188"><a href="http://ppkn.fkip.uns.ac.id">BERANDA</a></li>
+<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-247"><a href="https://ppkn.fkip.uns.ac.id/profil/">PROFIL</a>
+<ul class="sub-menu">
+	<li id="menu-item-812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-812"><a href="https://ppkn.fkip.uns.ac.id/visi-misi-tujuan-sasaran/">VISI MISI, TUJUAN DAN SASARAN</a></li>
+	<li id="menu-item-245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://ppkn.fkip.uns.ac.id/profil/prodi/">PROFIL PRODI</a></li>
+	<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://ppkn.fkip.uns.ac.id/profil/dosen/">PROFIL DOSEN</a></li>
+</ul>
+</li>
+<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-412"><a href="https://ppkn.fkip.uns.ac.id/akademik/">PENDIDIKAN</a>
+<ul class="sub-menu">
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="https://ppkn.fkip.uns.ac.id/unduh/jadwal/">JADWAL KULIAH</a></li>
+	<li id="menu-item-879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-879"><a href="https://ppkn.fkip.uns.ac.id/penelitian-dosen/">PENELITIAN</a></li>
+	<li id="menu-item-871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-871"><a href="https://ppkn.fkip.uns.ac.id/rencana-pembelajaran-semester-rps/">RENCANA PEMBELAJARAN SEMESTER (RPS)</a></li>
+	<li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="https://ppkn.fkip.uns.ac.id/survey-layanan-prodi/">SURVEY LAYANAN PROGRAM STUDI</a></li>
+</ul>
+</li>
+<li id="menu-item-876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-876"><a href="https://ppkn.fkip.uns.ac.id/penelitian-dan-pengabdian-kepada-masyarakat/">P2M</a>
+<ul class="sub-menu">
+	<li id="menu-item-882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-882"><a href="https://ppkn.fkip.uns.ac.id/pengabdian-kepada-masyarakat/">PENGABDIAN KEPADA MASYARAKAT</a></li>
+</ul>
+</li>
+<li id="menu-item-530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-530"><a href="http://ppkn.fkip.uns.ac.id/jurnal/">PUBLIKASI DOSEN</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-529"><a href="http://jurnal.uns.ac.id/pknprogresif">JURNAL PKN PROGRESIF</a></li>
+<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-472"><a href="https://ppkn.fkip.uns.ac.id/laboratorium-ppkn-fkip-uns/">LABORATORIUM</a>
+<ul class="sub-menu">
+	<li id="menu-item-478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-478"><a href="http://ppkn.fkip.uns.ac.id/laboratorium-ppkn-fkip-uns/">Ruang Baca</a></li>
+	<li id="menu-item-479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-479"><a href="http://ppkn.fkip.uns.ac.id/?s=struktur+organisasi">Laboratorium</a>
+	<ul class="sub-menu">
+		<li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-900"><a href="https://ppkn.fkip.uns.ac.id/video-profil-laboratorium-ppkn-fkip-uns/">Profil Laboratorium PPKn FKIP UNS</a></li>
+	</ul>
+</li>
+	<li id="menu-item-480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480"><a href="http://ppkn.fkip.uns.ac.id/struktur-organisasi-laboratorium-dan-ruang-baca/">Penerbitan</a></li>
+</ul>
+</li>
+<li id="menu-item-509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-509"><a href="http://ppKN.fkip.uns.ac.id">PROSIDING SEMINAR NASIONAL</a>
+<ul class="sub-menu">
+	<li id="menu-item-1181" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1181"><a href="https://ppkn.fkip.uns.ac.id/materi-seminar-nasional-ppkn-2020-arah-baru-pendidikan-kewarganegaraan-di-indonesia/">2020</a></li>
+	<li id="menu-item-958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-958"><a href="https://ppkn.fkip.uns.ac.id/prosiding-20145/">2019</a></li>
+	<li id="menu-item-511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-511"><a href="http://ppkn.fkip.uns.ac.id/proseding-seminar-nasional-ppkn-2018/">2018</a></li>
+	<li id="menu-item-510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510"><a href="http://ppkn.fkip.uns.ac.id/proseding-seminar-nasional-ppkn-2017/">2017</a></li>
+</ul>
+</li>
+<li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="https://ppkn.fkip.uns.ac.id/publikasi-mahasiswa/">PUBLIKASI MAHASISWA</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-199"><a href="https://ppkn.fkip.uns.ac.id/unduh/">UNDUH</a>
+<ul class="sub-menu">
+	<li id="menu-item-1152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1152"><a href="https://ppkn.fkip.uns.ac.id/akreditasi/">AKREDITASI</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://ppkn.fkip.uns.ac.id/unduh/materi/">MATERI</a></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-546 current_page_item menu-item-550"><a href="https://ppkn.fkip.uns.ac.id/instruksi-kerja-sop/" aria-current="page">INSTRUKSI KERJA (SOP)</a></li>
+</ul>
+</li>
+<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="https://ppkn.fkip.uns.ac.id/alumni/">ALUMNI</a></li>
+<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="http://demokratia.fkip.uns.ac.id/">HMP DEMOKRATIA</a></li>
+<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://ppkn.fkip.uns.ac.id/pendaftaran-ujian-skripsi/">PENDAFTARAN JUDUL DAN UJIAN  SKRIPSI</a></li>
+<li id="menu-item-1263" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1263"><a href="https://ppkn.fkip.uns.ac.id/category/kkncovid19/">PRESS RELEASE KKN COVID-19</a></li>
+<li id="menu-item-1381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1381"><a href="https://ppkn.fkip.uns.ac.id/prosiding-seminar-virtual-nasional-ppkn-2020/">PROSIDING SEMINAR VIRTUAL NASIONAL PPKN 2020</a></li>
+</ul>				</nav>
+
+			</header>
+
+		</div>
+
+		
+	<div id="wrap" class="clearfix">
+		
+		<section id="content" class="primary" role="main">
+		
+					
+		
+	<div id="post-546" class="post-546 page type-page status-publish hentry">
+				
+		<h1 class="page-title">INSTRUKSI KERJA (SOP)</h1>
+		<div class="entry clearfix">
+			<p><a href="http://ppkn.fkip.uns.ac.id/instruksi-kerja-sop/ik-09-penilaian-tugas-akhir-skripsi_ppkn-revisi/" rel="attachment wp-att-547">IK.09 PENILAIAN TUGAS AKHIR (SKRIPSI)_PPKn Revisi</a></p>
+<p><a href="http://ppkn.fkip.uns.ac.id/instruksi-kerja-sop/ik-13-pasca-tugas-akhir-skripsi_ppkn/" rel="attachment wp-att-548">IK.13 PASCA TUGAS AKHIR (SKRIPSI)_PPKn</a></p>
+<p><a href="http://ppkn.fkip.uns.ac.id/instruksi-kerja-sop/ik-18-penulisan-artikel-jurnal_ppkn/" rel="attachment wp-att-549">IK.18 PENULISAN ARTIKEL JURNAL_PPKn</a></p>
+<p><a href="http://ppkn.fkip.uns.ac.id/instruksi-kerja-sop/ik-19-validasi-karya_ppkn/" rel="attachment wp-att-579">IK.19 VALIDASI KARYA_PPKN</a></p>
+		
+		</div>
+		
+	</div>		
+		
+
+		
+		</section>
+		
+		
+	<section id="sidebar" class="secondary clearfix" role="complementary">
+
+		<aside id="search-3" class="widget widget_search clearfix">
+	<form role="search" method="get" class="search-form" action="https://ppkn.fkip.uns.ac.id/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+		</label>
+		<button type="submit" class="search-submit">
+			<span class="genericon-search"></span>
+		</button>
+	</form>
+
+</aside>		<aside id="recent-posts-4" class="widget widget_recent_entries clearfix">		<h3 class="widgettitle"><span>POS TERBARU</span></h3>		<ul>
+											<li>
+					<a href="https://ppkn.fkip.uns.ac.id/berita/">Berita PPKn FKIP UNS</a>
+									</li>
+											<li>
+					<a href="https://ppkn.fkip.uns.ac.id/jadwal-kuliah-semester-ganjil-agustus-2020-januari-2021-program-studi-ppkn-fkip-uns/">JADWAL KULIAH SEMESTER GANJIL AGUSTUS 2020-JANUARI 2021 PROGRAM STUDI PPKN FKIP UNS</a>
+									</li>
+											<li>
+					<a href="https://ppkn.fkip.uns.ac.id/materi-webinar-kewarganegaraan-lingkungan-ecological-citizenship/">Materi Webinar Kewarganegaraan Lingkungan (Ecological Citizenship)</a>
+									</li>
+											<li>
+					<a href="https://ppkn.fkip.uns.ac.id/materi-narasumber-dan-buku-abstrak-pemakalah-webinar-lab-ppkn-fkip-uns-edisi-dua-sabtu-4-juli-2020/">Materi Narasumber dan Buku Abstrak Pemakalah Webinar Lab PPKn FKIP UNS Edisi Dua, Sabtu 4 Juli 2020</a>
+									</li>
+											<li>
+					<a href="https://ppkn.fkip.uns.ac.id/materi-narasumber-panelis-webinar-diskusi-panel-lab-ppkn-fkip-uns-edisi-satu-rabu-17-juni-2020/">Materi Narasumber / Panelis Webinar Diskusi Panel Lab PPKn FKIP UNS Edisi Satu, Rabu 17 Juni 2020.</a>
+									</li>
+					</ul>
+		</aside><aside id="custom_html-2" class="widget_text widget widget_custom_html clearfix"><h3 class="widgettitle"><span>GOOGLE MAPS</span></h3><div class="textwidget custom-html-widget"><div class="mapouter"><div class="gmap_canvas"><iframe width="250" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=Ppkn%20fkip%20uns&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://ppkn.fkip.uns.ac.id">wordpres wordpress</a></div><style>.mapouter{position:relative;text-align:right;height:250px;width:250px;}.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:250px;}</style></div></div></aside><aside id="calendar-6" class="widget widget_calendar clearfix"><h3 class="widgettitle"><span>KALENDER</span></h3><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>Desember 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Senin">S</th>
+		<th scope="col" title="Selasa">S</th>
+		<th scope="col" title="Rabu">R</th>
+		<th scope="col" title="Kamis">K</th>
+		<th scope="col" title="Jumat">J</th>
+		<th scope="col" title="Sabtu">S</th>
+		<th scope="col" title="Minggu">M</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Bulan sebelumnya dan selanjutnya" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://ppkn.fkip.uns.ac.id/2020/09/">&laquo; Sep</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></aside>
+	</section>		
+	</div>
+	

@@ -1,0 +1,74 @@
+<table width="250" border="0" align="left" cellpadding="10" cellspacing="0">
+          <tbody><tr>
+            <td width="226"><table width="250" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="280"><div class="urbangreymenu">
+
+<h3 class="headerbar">Profil</h3>
+<ul>
+		<li>
+        <a href="?profil=10&amp;act=98792734971209374017203009955" title="Visi &amp; Misi">Visi &amp; Misi</a>
+        </li>
+        		<li>
+        <a href="?profil=15&amp;act=98792734971209374017203009955" title="Sejarah Jurusan Seni Rupa Murni">Sejarah Jurusan Seni Rupa Murni</a>
+        </li>
+        		<li>
+        <a href="?profil=11&amp;act=98792734971209374017203009955" title="Tujuan">Tujuan</a>
+        </li>
+        </ul>
+
+<h3 class="headerbar">Akademik</h3>
+<ul>
+    			<li><a href="?akademi=1&amp;act=98792734971209374017203009955" title="Akademik">Penerimaan Mahasiswa Baru</a></li>
+        		<li><a href="?akademi=6&amp;act=98792734971209374017203009955" title="Akademik">Kalendar Akademik UNS 2011/2012</a></li>
+        </ul>
+
+<h3 class="headerbar">Dosen</h3>
+<ul>
+                <li>
+            <a href="index.php?menu=dosen_profil&amp;act=98792734971209374017203009955" title="Dosen">Profil</a>
+        </li>
+        <li>
+            <a href="index.php?menu=dosen_pendidikan&amp;act=98792734971209374017203009955" title="Dosen">Pendidikan dan Pengajaran</a>
+        </li>
+        <li>
+            <a href="index.php?menu=dosen_pengabdian&amp;act=98792734971209374017203009955" title="Dosen">Penelitian dan Pengabdian</a>
+        </li>
+        <li>
+            <a href="index.php?menu=dosen_penunjang&amp;act=98792734971209374017203009955" title="Dosen">Penunjang Akademik dan Dosen
+</a>
+        </li>
+</ul>
+
+<h3 class="headerbar">Kemahasiswaan</h3>
+<ul>
+    			<li><a href="?mhs=1&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Badan Eksekutif Mahasiswa</a></li>
+        		<li><a href="?mhs=2&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Kegiatan Mahasiswa</a></li>
+        		<li><a href="?mhs=3&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Keringanan SPP &amp; BPI</a></li>
+        		<li><a href="?mhs=8&amp;act=98792734971209374017203009955" title="Kemahasiswaan">Coba</a></li>
+        </ul>
+
+<h3 class="headerbar">Fasilitas</h3>
+<ul>
+				<li><a href="?fasilitas=1&amp;act=98792734971209374017203009955" title="Fasilitas">Perpustakaan</a></li>
+        		<li><a href="?fasilitas=2&amp;act=98792734971209374017203009955" title="Fasilitas">Mushola</a></li>
+        		<li><a href="?fasilitas=7&amp;act=98792734971209374017203009955" title="Fasilitas">Hotspot</a></li>
+        </ul>
+
+<h3 class="headerbar">Link Akademik</h3>
+<ul>
+		<li><a href="http://uns.ac.id" target="_blank" title="VISI">UNS</a></li>
+        		<li><a href="http://siakad.uns.ac.id" target="_blank" title="VISI">Siakad UNS</a></li>
+        		<li><a href="http://elearning.uns.ac.id" target="_blank" title="VISI">Elearning</a></li>
+        </ul>
+
+</div></td>
+  </tr>
+</tbody></table>
+
+</td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+        </tbody></table></br>

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <title>Biro Perencanaan dan Informasi</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet"/>
+    <link href="cssa/plugins/iCheck/custom.css" rel="stylesheet"/>
+    <link href="cssa/animate.css" rel="stylesheet"/>
+    <link href="cssa/style.css" rel="stylesheet"/>
+    <link href="cssa/plugins/datapicker/datepicker3.css" rel="stylesheet"/>
+    <link href="cssa/plugins/footable/footable.core.css" rel="stylesheet"/>
+    <link href="cssa/plugins/steps/jquery.steps.css" rel="stylesheet"/>
+    <link href="cssa/plugins/chosen/chosen.css" rel="stylesheet"/>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+
+</head>
+<style>
+
+    .wizard > .content > .body { position: relative; }
+
+</style>
+<body class="top-navigation">
+        <div id="wrapper">
+        <div id="page-wrapper" class="gray-bg">
+            <div class="row border-bottom white-bg">
+
+                <nav class="navbar navbar-static-top" role="navigation">
+                    <div class="navbar-header">
+                        <table>
+                            <tr>
+                                <td bgcolor="#f3f3f4" width="10">&nbsp;</td>
+                                <td bgcolor="#f3f3f4"><img src="logo_uns_biru.png" width="160" height="70"/> </td>
+                                <td width="5" bgcolor="#f3f3f4">&nbsp;</td>
+                                <td width="490" align="center" bgcolor="#1c84c6"><strong><font color="white" size="2px">
+                                Sistem Perencanaan dan Evaluasi Kinerja Terpadu</font></strong></td>
+                                                            </tr>
+                            <tr><td colspan="6">&nbsp;</td></tr>
+                        </table>
+                                                </div>
+                    </nav>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-lg-12">
+                        <a name="menu"></a>
+                        <!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Login Page - Ace Admin</title>
+
+		<meta name="description" content="User login page" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+		<!-- basic styles -->
+
+		<link href="../assets/css/bootstrap.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="../assets/css/font-awesome.min.css" />
+
+		<!--[if IE 7]>
+		  <link rel="stylesheet" href="../assets/css/font-awesome-ie7.min.css" />
+		<![endif]-->
+
+		<!-- page specific plugin styles -->
+
+		<!-- fonts -->
+
+		<link rel="stylesheet" href="../assets/css/ace-fonts.css" />
+
+		<!-- ace styles -->
+
+		<link rel="stylesheet" href="../assets/css/ace.min.css" />
+		<link rel="stylesheet" href="../assets/css/ace-rtl.min.css" />
+
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" href="../assets/css/ace-ie.min.css" />
+		<![endif]-->
+
+		<!-- inline styles related to this page -->
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+		<!--[if lt IE 9]>
+		<script src="../assets/js/html5shiv.js"></script>
+		<script src="../assets/js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+
+	<body class="login-layout">
+    		<div class="main-container">
+			<div class="main-content">
+				<div class="row">
+					<div class="col-sm-10 col-sm-offset-1">
+						<div class="login-container">							
+                        <div class="space-12"></div>
+							<div class="position-relative">
+								<div id="login-box" class="login-box visible widget-box no-border">
+									<div class="widget-body">
+										<div class="widget-main">
+                                            <div class="row">
+                                            <div class="col-sm-12">
+											<h4 class="header blue lighter bigger">
+                                            <div align="center">
+                                            <img src="logo_uns_biru.png" width="200" height="90"/>
+                                            </div>
+											</h4>
+                                                
+											<div class="space-12"></div>
+											<form class="m-t" action="?menu=ANG001&log=1" method="post">
+                                                <div class="form-group">
+                                                    <input type="text" name="pemakai" class="form-control" placeholder="Username" required="">
+                                                </div>
+                                                <div class="form-group">
+                                                    <input type="password" name="sandi" class="form-control" placeholder="Passwords" required="">
+                                                </div>
+                                                <label class="block clearfix">    
+                                                <span class="block input-icon input-icon-right">                      
+                                                <img src="captcha/captcha.php?date=20201230130613" alt="security image" width="100"/><br />
+                                                <input id="security_pin" name="pin" class="form-control"  type="text"  placeholder="Ketikkan Kode">
+                                                                                                       
+                                                </span> 
+                                                </label>
+                                                <button type="submit" class="btn btn-primary block full-width m-b">Login</button>
+                        
+                                                
+                                            </form>
+                                            </div>
+                                            </div>
+                                            </div><!-- /widget-main -->
+
+										
+									</div><!-- /widget-body -->
+								</div><!-- /login-box -->
+
+							</div><!-- /position-relative -->
+							                     
+						</div>
+					</div><!-- /.col -->
+				</div><!-- /.row -->
+			</div>
+		</div><!-- /.main-container -->
+
+		<!-- basic scripts -->
+
+		<!--[if !IE]> -->
+
+		<script type="text/javascript">
+			window.jQuery || document.write("<script src='../assets/js/jquery-2.0.3.min.js'>"+"<"+"/script>");
+		</script>
+
+		<!-- <![endif]-->
+
+		<!--[if IE]>
+        <script type="text/javascript">
+         window.jQuery || document.write("<script src='../assets/js/jquery-1.10.2.min.js'>"+"<"+"/script>");
+        </script>
+        <![endif]-->
+
+		<script type="text/javascript">
+			if("ontouchend" in document) document.write("<script src='../assets/js/jquery.mobile.custom.min.js'>"+"<"+"/script>");
+		</script>
+
+		<!-- inline scripts related to this page -->
+
+		<script type="text/javascript">
+			function show_box(id) {
+			 jQuery('.widget-box.visible').removeClass('visible');
+			 jQuery('#'+id).addClass('visible');
+			}
+		</script>
+	</body>
+</html>
+                    </div>
+                </div>
+                <br />
+                <div class="footer">
+                    <div>
+                        <strong>@Bagian Perencanaan | Biro Perencanaan dan Informasi | Universitas Sebelas Maret</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <script src="js/jquery-2.1.1.js"></script> -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+        <script src="js/plugins/fullcalendar/moment.min.js"></script>
+
+        <!-- Mainly scripts -->
+        <script src="js/jquery-2.1.1.js"></script>
+        <!-- Data picker -->
+        <script src="js/plugins/datapicker/bootstrap-datepicker.js"></script>
+        <!-- Input Mask-->
+        <script src="js/plugins/jasny/jasny-bootstrap.min.js"></script>
+
+        <!-- Jquery Validate -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/chosen/1.8.7/chosen.jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+        <!-- <script src="js/plugins/chosen/chosen.jquery.js"></script> -->
+        <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '22bc3d6b-d63e-44f9-adb6-05d54d72c345', f: true }); done = true; } }; })();</script>
+        <!-- iCheck -->
+        <script src="js/plugins/iCheck/icheck.min.js"></script>
+        <script type="text/javascript">
+            $(".chosen-select").chosen({width: "100%"}); 
+        </script>
+        <script>
+            $(document).ready(function(){
+                $('#date_modifiedb').datepicker({
+                    todayBtn: "linked",
+                    keyboardNavigation: false,
+                    forceParse: false,
+                    calendarWeeks: true,
+                    autoclose: true,
+                    format: "yyyy-mm-dd"
+                });
+                $('#date_modifieda').datepicker({
+                    todayBtn: "linked",
+                    keyboardNavigation: false,
+                    forceParse: false,
+                    calendarWeeks: true,
+                    autoclose: true,
+                    format: "yyyy-mm-dd"
+                });
+
+            });
+            var config = {
+                '.chosen-select'           : {},
+                '.chosen-select-deselect'  : {allow_single_deselect:true},
+                '.chosen-select-no-single' : {disable_search_threshold:10},
+                '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+                '.chosen-select-width'     : {width:"95%"}
+            }
+            for (var selector in config) {
+                $(selector).chosen(config[selector]);
+            }
+        </script>
+
+    </body>
+
+    </html>

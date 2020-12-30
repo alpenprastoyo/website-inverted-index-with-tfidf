@@ -1,0 +1,855 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="id-ID" xml:lang="id-ID">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>AgriHealth: Journal of Agri-food, Nutrition and Public Health</title>
+        <meta name="description" content="AgriHealth: Journal of Agri-food, Nutrition and Public Health" />
+        <meta name="keywords" content="Journal; Agri-food; Nutrition; Public Health; comunity service" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/363/journalFavicon_id_ID.gif" type="image/gif" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = '##form.dataHasChanged##';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "id_ID"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/public/journals/363/journalStyleSheet.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                            
+                            
+	<link rel="alternate" type="application/atom+xml" href="https://jurnal.uns.ac.id/agrihealth/gateway/plugin/AnnouncementFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" href="https://jurnal.uns.ac.id/agrihealth/gateway/plugin/AnnouncementFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" href="https://jurnal.uns.ac.id/agrihealth/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2" />
+	<link rel="alternate" type="application/atom+xml" title="AgriHealth: Journal of Agri-food, Nutrition and Public Health (atom+xml)" href="https://jurnal.uns.ac.id/agrihealth/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="AgriHealth: Journal of Agri-food, Nutrition and Public Health (rdf+xml)" href="https://jurnal.uns.ac.id/agrihealth/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="AgriHealth: Journal of Agri-food, Nutrition and Public Health (rss+xml)" href="https://jurnal.uns.ac.id/agrihealth/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/agrihealth/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/agrihealth/user/register">Daftar</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/363/homeHeaderTitleImage_id_ID.png" alt="Header Halaman" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/agrihealth/index">Beranda</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/agrihealth/about">Tentang Kami</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/agrihealth/issue/current">Terkini</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/agrihealth/issue/archive">Arsip</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/agrihealth/announcement">Informasi</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/agrihealth/statistics" target="_parent">Statistik</a></li>
+
+                                                                                    <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/agrihealth/issue/view/3175">In Press</a></li>
+                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/agrihealth/pages/view/Indexing">Pengindeks</a></li>
+                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/agrihealth/about/submissions#onlineSubmissions">Penyerahan Naskah</a></li>
+                                                            
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/agrihealth/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/agrihealth/user/register">Daftar</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/agrihealth/index">Beranda</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/agrihealth/about">Tentang Kami</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/agrihealth/search">Cari</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/agrihealth/issue/current">Terkini</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/agrihealth/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/agrihealth/announcement">Informasi</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/agrihealth/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/agrihealth/statistics" target="_parent">Statistik</a></li>
+
+                                                                                                                        <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/agrihealth/issue/view/3175">In Press</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/agrihealth/pages/view/Indexing">Pengindeks</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/agrihealth/about/submissions#onlineSubmissions">Penyerahan Naskah</a></li>
+                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/agrihealth/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Cari" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                    <div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+					<p>2722-0656 (Print)</p>
+						<p>2722-0648 (Online)</p>
+	</div>
+
+<div class="block custom" id="customblock-About-AgriHealth">
+	<div class="sidebar-block">
+<p><span class="blockTitle">About AgriHealth</span></p>
+<div class="sidebar-block">
+<ul>
+<li><a href="/agrihealth/about/editorialPolicies#focusAndScope" target="_self">Focus and Scope</a></li>
+<li><a href="/agrihealth/about/editorialTeam">Editorial Team</a></li>
+<li><a href="/agrihealth/about/contact" target="_self">Contact</a></li>
+<li><a title="ethics" href="/agrihealth/about/editorialPolicies#custom-0" target="_self">Publication Ethics</a></li>
+<li><a href="/agrihealth/about/displayMembership/944">Peer Reviewers</a></li>
+<li><a href="/agrihealth/about/editorialPolicies#custom-1">Copy Right Notice</a></li>
+</ul>
+</div>
+</div>
+</div>	<div class="block custom" id="customblock-Information-for-Author">
+	<div class="sidebar-block">
+<p><span class="blockTitle">Information for Author</span></p>
+<div class="sidebar-block">
+<ul>
+<li><a title="Author Guidelines" href="/agrihealth/about/submissions#authorGuidelines" target="_self">Author Guidelines</a></li>
+<li><a title="Template AgriHealth" href="http://bit.ly/templateagrihealth" target="_blank">Template</a></li>
+<li><a href="/agrihealth/about/submissions#authorFees" target="_self">Author Fees</a></li>
+</ul>
+</div>
+</div>
+</div>	<div class="block custom" id="customblock-Citation-Analysis">
+	<div class="sidebar-block">
+<p><span class="blockTitle">Citation Analisys</span></p>
+<div class="sidebar-block">
+<ul>
+<li><a title="AgriHealth in Scopus" href="/agrihealth/pages/view/SCOPUS%20Citation%20Analysis" target="_blank">Scopus</a></li>
+<li><a title="AgriHealth in Google Scholar" href="https://scholar.google.co.id/schhp?hl=id" target="_blank">Google Scholar</a></li>
+</ul>
+</div>
+</div>
+</div>	<div class="block custom" id="customblock-Indexing">
+	<div class="sidebar-block">
+<p><span class="blockTitle">Indexing</span></p>
+<p style="text-align: center;" align="center"><a href="https://scholar.google.co.id/citations?hl=id&amp;user=sy-Pi_oAAAAJ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Scholar_logo_2015.PNG" alt="Google schoolar" width="201" height="77" /></a></p>
+<p style="text-align: center;" align="center">&nbsp;<a href="https://search.crossref.org/?q=agrihealth" target="_blank"><img style="width: 70%;" src="https://assets.crossref.org/logo/crossref-logo-landscape-200.png" alt="crossref; agrihealth" /></a></p>
+<p style="text-align: center;" align="center">&nbsp;</p>
+<p style="text-align: center;" align="center">&nbsp;&nbsp;<a href="http://garuda.ristekbrin.go.id/journal/view/19576" target="_blank"><img style="width: 75%;" src="http://garuda.ristekdikti.go.id/assets/img/garuda1.png" alt="GARUDA; agrihealth" /></a></p>
+<div class="sidebar-block" style="text-align: center;">&nbsp;</div>
+</div>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">Pengguna</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/agrihealth/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Nama Pengguna</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Kata Sandi</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Ingat Saya</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Isi Jurnal</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/agrihealth/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Cari <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Lingkup Pencarian
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="Semua" value="query">Semua</option>
+<option label="Penulis" value="authors">Penulis</option>
+<option label="Judul" value="title">Judul</option>
+<option label="Sari" value="abstract">Sari</option>
+<option label="Indeks" value="indexTerms">Indeks</option>
+<option label="Teks Lengkap" value="galleyFullText">Teks Lengkap</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Cari" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Telusuri</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/agrihealth/issue/archive">Berdasarkan Terbitan</a></li>
+		<li><a href="https://jurnal.uns.ac.id/agrihealth/search/authors">Berdasarkan Penulis</a></li>
+		<li><a href="https://jurnal.uns.ac.id/agrihealth/search/titles">Berdasarkan Judul</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Jurnal Lain</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Kategori</a></li>			</ul>
+	</div>
+<div class="block" id="sidebarKeywordCloud">
+	<span class="blockTitle">Kata Kunci</span>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=AgriHealth"><span style="font-size: 150%;">AgriHealth</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=Gizi"><span style="font-size: 150%;">Gizi</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=Karanganyar"><span style="font-size: 100%;">Karanganyar</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=Kesehatan%20Masyarakat"><span style="font-size: 150%;">Kesehatan Masyarakat</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=Pangan"><span style="font-size: 150%;">Pangan</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=Pengabdian"><span style="font-size: 125%;">Pengabdian</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=UKM"><span style="font-size: 75%;">UKM</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=abon"><span style="font-size: 100%;">abon</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=adaptasi"><span style="font-size: 75%;">adaptasi</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=adaptation"><span style="font-size: 75%;">adaptation</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=beef%20cattle"><span style="font-size: 100%;">beef cattle</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=biogas"><span style="font-size: 150%;">biogas</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=business"><span style="font-size: 75%;">business</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=education"><span style="font-size: 100%;">education</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=edukasi"><span style="font-size: 100%;">edukasi</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=empowerment"><span style="font-size: 100%;">empowerment</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=innovation"><span style="font-size: 75%;">innovation</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=new%20normal"><span style="font-size: 75%;">new normal</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=pemberdayaan"><span style="font-size: 100%;">pemberdayaan</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=sapi%20potong"><span style="font-size: 125%;">sapi potong</span></a>
+			<a href="https://jurnal.uns.ac.id/agrihealth/search?subject=stunting"><span style="font-size: 100%;">stunting</span></a>
+	</div><div class="block custom" id="customblock-Visitors">
+	<p><span class="blockTitle">Visitors</span></p>
+<p><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img src="https://c.statcounter.com/12207526/0/c87d4be3/0/" alt="Web Analytics" /></a></p>
+<p><a title="AgriHealth Visitors" href="https://statcounter.com/p12207526/?guest=1" target="_blank">View My Stats</a></p>
+</div>	 <div class="block" id="notification">
+	<span class="blockTitle">Notifikasi</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/agrihealth/notification">Lihat</a></li>
+			<li><a href="https://jurnal.uns.ac.id/agrihealth/notification/subscribeMailList">Langganan</a></li>
+			</ul>
+</div>
+<div class="block" id="sidebarFlagcounter">
+    <span class="blockTitle" >Flagcounter</span>
+    <a href="https://s09.flagcounter.com/more/yMdb/" target="_blank"><img style="width: 100%;" src="https://s09.flagcounter.com/map/yMdb/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Journal Flag Counter" border="0"></a>
+</div>
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/agrihealth/index">Beranda</a> &#47;
+			<a href="https://jurnal.uns.ac.id/agrihealth" class="current">Vol 1, No 2 (2020)</a></div>
+
+                                                        <h2>AgriHealth: Journal of Agri-food, Nutrition and Public Health</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+
+
+<table>
+    <tr>
+        
+                    <td rowspan="2">
+                <div id="journalDescription"><p><span><strong>P-ISSN <a title="p ISSN" href="http://u.lipi.go.id/1583917503" target="_blank">2272-0656</a> </strong>| <strong>E-ISSN <a title="e ISSN" href="http://u.lipi.go.id/1583917392" target="_blank">2272-0648</a></strong></span></p><p>AgriHealth: <em>Journal of Agri-food, Nutrition and Public Health</em>, diterbitkan oleh Pusat Penelitian dan Pengembangan Pangan, Gizi dan Kesehatan Masyarakat (P4GKM) LPPM UNS, merupakan jurnal yang memuat artikel ilmiah hasil kajian penerapan ilmu pengetahuan dan teknologi kepada para pemangku kepentingan (<em>stakeholder</em>) di bidang pertanian ramah lingkungan, pangan, gizi dan kesehatan masyarakat. AgriHealth terbit 2 (dua) kali setiap tahun pada bulan April dan Oktober.</p><p> </p></div>
+            </td>
+                
+    </tr>
+</table>
+        <div id="announcementsHome">
+        <h3><a href="https://jurnal.uns.ac.id/agrihealth/announcement">Informasi</a></h3>
+            <table class="announcements">
+	<tr>
+		<td colspan="2" class="headseparator">&nbsp;</td>
+	</tr>
+
+
+			<tr class="title">
+					<td class="title"><h4>AgriHealth Terindeks GARUDA: Garba Rujukan Digital</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description"><p>Dewan Redaksi mengucapkan syukur dan selamat AgriHealth: <em>Journal of Agri-food, Nutrition and Public Health</em> telah diterima di indeks <a title="GARUDA" href="http://garuda.ristekbrin.go.id/journal/view/19576" target="_blank">GARUDA: Garba Rujukan Digital</a> sejak tanggal 10 November 2020.</p></td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Dikirimkan: 2020-11-10</td>
+					</tr>
+		<tr>
+		<td colspan="2" class="separator">&nbsp;</td>
+	</tr>
+	
+			<tr class="title">
+					<td class="title"><h4>AgriHealth Edisi Kedua Volume 1 Nomor 2 Oktober 2020</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description"><p>Dewan Redaksi AgriHealth: <em>Journal of Agri-food, Nutrition and Public Health</em> mengucapkan puji syukur Alhamdulillaahi rabbil ’aalamiin kehadirat Allah SWT yang telah melimpahkan rahmat dan hidayah-Nya, sehingga edisi kedua <a title="Vol. 1 No. 2 Oktober 2020" href="/agrihealth/issue/view/3024" target="_blank">Volume 1 Nomor 2 Oktober 2020</a> dapat terbit sesuai rencana dan harapan.</p></td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Dikirimkan: 2020-11-01</td>
+					</tr>
+		<tr>
+		<td colspan="2" class="separator">&nbsp;</td>
+	</tr>
+	
+			<tr class="title">
+					<td class="title"><h4>Indeksasi dan Akreditasi AgriHealth</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description"><p>Dewan Redaksi AgriHealth: <em>Journal of Agri-food, Nutrition and Public Health </em>mengucapkan puji syukur Alhamdulillaahi rabbil ’aalamiin kehadirat Allah SWT yang telah melimpahkan rahmat dan hidayah-Nya, sehingga edisi perdana Volume 1 Nomor 1 April 2020 dapat terbit sesuai rencana dan harapan.</p><p>Edisi perdana ini akan menjadi pijakan awal bagi Dewan Redaksi untuk mengupayakan proses secara bertahap dan sistematis agar AgriHealth: <em>Journal of Agri-food, Nutrition and Public Health</em> menjadi jurnal terakreditasi nasional yang terindeks di GARUDA (Garba Rujukan Digital <a href="http://garuda.ristekbrin.go.id/">http://garuda.ristekbrin.go.id</a>) dan SINTA (Science and Technology Index <a href="http://sinta.ristekbrin.go.id/">http://sinta.ristekbrin.go.id</a>).</p></td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Dikirimkan: 2020-04-01</td>
+					</tr>
+		<tr>
+		<td colspan="2" class="endseparator">&nbsp;</td>
+	</tr>
+	
+</table>	
+        <!-- <table class="announcementsMore">
+                <tr>
+                        <td><a href="https://jurnal.uns.ac.id/agrihealth/announcement">Lebih banyak informasi...</a></td>
+                </tr>
+        </table> -->
+    </div>
+
+        <br />
+    <h3 class="issueTitle"><a href="https://jurnal.uns.ac.id/agrihealth/issue/current">Vol 1, No 2 (2020): Oktober</a></h3>
+    	<div id="issueDescription" class="block"></div>
+		<h3 class="issue">Daftar Isi</h3>
+	
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/41226">Sinergi Dosen dan Mahasiswa dalam Pemberdayaan Wanita di Desa Koripan, Kecamatan Matesih, Kabupaten Karanganyar</a>
+					</div>
+		<div class="tocAuthors">
+												Dimas Rahadian Aji Muhammad,									Fanny Widadie,									Bambang Sigit Amanto									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.41226">https://dx.doi.org/10.20961/agrihealth.v1i2.41226</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/41226/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			47-54
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/42481">Peningkatan Indeks Pertanaman Padi pada Musim Tanam ke Dua di Kecamatan Ngawen, Kabupaten Gunungkidul, Provinsi Daerah Istimewa Yogyakarta</a>
+					</div>
+		<div class="tocAuthors">
+												Arif Anshori,									Damasus Riyanto,									Suradal Suradal									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.42481">https://dx.doi.org/10.20961/agrihealth.v1i2.42481</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/42481/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			55-61
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44239">Implementasi Evaluasi Lahan untuk Pengembangan Komoditas Tanaman berdasarkan Kesesuaian Agroklimat</a>
+					</div>
+		<div class="tocAuthors">
+												Mujiyo Mujiyo,									Rahayu Rahayu,									Novi Rahmawati Sutopo									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.44239">https://dx.doi.org/10.20961/agrihealth.v1i2.44239</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44239/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			62-70
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44700">Pengaruh Lokasi Geografis dan Vegetasi terhadap Sifat Fisikokimia Madu dari Ciwidey dan Bogor</a>
+					</div>
+		<div class="tocAuthors">
+												Emanuela Rae Alodia,									Anas Bunyamin,									Efri Mardawati									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.44700">https://dx.doi.org/10.20961/agrihealth.v1i2.44700</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44700/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			71-80
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44034">Inovasi Bisnis : Upaya Adaptasi UKM Werkudoro di Era Adaptasi Kebiasaan Baru</a>
+					</div>
+		<div class="tocAuthors">
+												Kusnandar Kusnandar,									Mohamad Harisudin,									Nuning Setyowati,									Raden Kunto Adi,									Raden Rara Aulia Qonita,									Isti Khomah									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.44034">https://dx.doi.org/10.20961/agrihealth.v1i2.44034</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44034/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			81-88
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44389">Peningkatan Kinerja Kelompok Usaha Pengolahan Ikan Air Tawar di Kabupaten Sleman</a>
+					</div>
+		<div class="tocAuthors">
+												Wiwit Rahayu,									Sri Marwanti,									Agustono Agustono,									Minar Ferichani,									Refa&#039;ul Khairiyakh,									Indah Nurhidayati									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.44389">https://dx.doi.org/10.20961/agrihealth.v1i2.44389</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44389/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			89-95
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44736">Pemberdayaan Peternak dalam Usaha Penggemukan Sapi Potong di Desa Kenteng, Kecamatan Nogosari, Kabupaten Boyolali</a>
+					</div>
+		<div class="tocAuthors">
+												Shanti Emawati,									Sudiyono Sudiyono,									Sutrisno Hadi Purnomo,									Suwarto Suwarto,									Ayu Intan Sari,									Endang Tri Rahayu									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.44736">https://dx.doi.org/10.20961/agrihealth.v1i2.44736</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/44736/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			96-102
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/43949">Pengembangan Potensi Usaha Abon untuk Meningkatkan Daya Saing Produk di UMKM Ksatria Kelurahan Jagalan, Kecamatan Jebres, Surakarta</a>
+					</div>
+		<div class="tocAuthors">
+												Adi Magna Patriadi Nuhriawangsa,									Lilik Retna Kartikasari,									Agung Budiharjo,									Winny Swastike,									Bayu Setya Hertanto									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.43949">https://dx.doi.org/10.20961/agrihealth.v1i2.43949</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/43949/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			103-109
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/agrihealth/article/view/43622">Edukasi Kesehatan Reproduksi Wanita pada Pengajian Aisyiyah Turisari, Desa Palur Kulon, Kecamatan Mojolaban, Kabupaten Sukoharjo</a>
+					</div>
+		<div class="tocAuthors">
+												Ropitasari Ropitasari,									Rachmi Fauziyah Rahayu,									Retno Tri Astuti Ramadhana									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.43622">https://dx.doi.org/10.20961/agrihealth.v1i2.43622</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/43622/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			110-106
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+<div class="separator"></div>
+<h4 class="tocSectionTitle">Editorial</h4>
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							Front Matter
+					</div>
+		<div class="tocAuthors">
+												AgriHealth AgriHealth									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.45445">https://dx.doi.org/10.20961/agrihealth.v1i2.45445</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/45445/28535" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							Back Matter
+					</div>
+		<div class="tocAuthors">
+												AgriHealth AgriHealth									</div>																								<div class="tocDoi">
+						<span><a href="https://dx.doi.org/10.20961/agrihealth.v1i2.45446">https://dx.doi.org/10.20961/agrihealth.v1i2.45446</a></span>
+						</div>
+										</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/agrihealth/article/view/45446/28536" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><table style="height: 36px; border-color: #000000;" width="505" border="2"><tbody><tr><td style="width: 495px; text-align: center;"><strong><span style="color: #f5effb;"> We would like to thank the following organizations for their support : </span></strong> <br /><a title="LPPM UNS" href="https://lppm.uns.ac.id/id/" rel="Sponsored" target="_blank">Lembaga Penelitian dan Pengabdian kepada Masyarakat, Universitas Sebelas Maret</a> <br /><br /><div style="text-align: center;"><a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a></div><div style="text-align: center;"> </div><strong><span style="color: #f5effb;">This work is licensed under a </span></strong><div style="text-align: center;"><a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a></div></td></tr></tbody></table><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both; text-align:center"><font color="white">Copyright &copy;  2019 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

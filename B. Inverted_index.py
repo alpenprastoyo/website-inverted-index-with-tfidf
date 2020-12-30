@@ -10,18 +10,28 @@ import sys
 from statistics import mean
 import json
 from bs4 import BeautifulSoup
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+
+
 nltk.download('punkt')
 
 
 def tokenize_and_remove_punctuations(s):
     s = BeautifulSoup(s, "lxml").text
+    #Stemming With Sastrawi
+    factory = StemmerFactory()
+    stemmer = factory.create_stemmer()
+    s   = stemmer.stem(s)
+    #Remove Punctuation
     translator = str.maketrans('','',string.punctuation)
     modified_string = s.translate(translator)
     modified_string = ''.join([i for i in modified_string if not i.isdigit()])
     return nltk.word_tokenize(modified_string)
 
 def get_stopwords():
-    stop_words = [word for word in open('stopwords.txt','r').read().split('\n')]
+    factory = StopWordRemoverFactory()
+    stop_words = factory.get_stop_words()
     return stop_words
 
 def parse_data(contents):
@@ -35,9 +45,12 @@ def parse_data(contents):
     return title+" "+text
 
 def stem_words(tokens):
-    stemmer = PorterStemmer()
-    stemmed_words = [stemmer.stem(token) for token in tokens]
-    return stemmed_words
+    # print(tokens)
+    # stemmer = PorterStemmer()
+    # stemmed_words = [stemmer.stem(token) for token in tokens]
+    # print(stemmed_words)
+    # sys.exit()
+    return tokens
 
 def remove_stop_words(tokens):
     stop_words = get_stopwords()
@@ -67,19 +80,24 @@ def get_vocabulary(data):
 
 def preprocess_data(contents):
     dataDict = {}
+    i=1
     for content in contents:
+        print(str(i)+'/'+str(len(contents)))
+        i=i+1
         tokens = tokenize_and_remove_punctuations(content[1])
         filtered_tokens = remove_stop_words(tokens)
-        stemmed_tokens = stem_words(filtered_tokens)
-        filtered_tokens1 = remove_stop_words(stemmed_tokens)
-        dataDict[content[0]] = filtered_tokens1
+        # stemmed_tokens = stem_words(filtered_tokens)
+        # filtered_tokens1 = remove_stop_words(stemmed_tokens)
+        dataDict[content[0]] = filtered_tokens
     return dataDict
 
 def calculate_idf(data):
     idf_score = {}
     N = len(data)
     all_words = get_vocabulary(data)
+    i=1
     for word in all_words:
+        i=i+1
         word_count = 0
         for token_list in data.values():
             if word in token_list:
@@ -168,23 +186,28 @@ with open('1. data.json') as json_file:
     data = json.load(json_file)
 
 #Preprocessed Data
+print('Preprocessed Data')
 preprocessed_data = preprocess_data(data)
-# with open('2. preprocess_data.json', 'w') as outfile:
-#     json.dump(preprocess_data, outfile)
+# print(preprocess_data)
+with open('2. preprocess_data.json', 'w') as outfile:
+    print(get_vocabulary(preprocessed_data), file=outfile)
+    #json.dump(get_vocabulary(preprocess_data), outfile)
 
 #Inverted Index
+print('Inverted Index')
 inverted_index = generate_inverted_index(preprocessed_data)
 with open('3. inverted_index.json', 'w') as outfile:
     json.dump(inverted_index, outfile)
 
 #Skor IDF
+print('IDF')
 idf_scores = calculate_idf(preprocessed_data)
 with open('4. idf_scores.json', 'w') as outfile:
     json.dump(idf_scores, outfile)
 
 #Skor TFIDF
+print('TFIDF')
 scores = calculate_tfidf(preprocessed_data,idf_scores)
-print(scores[0])
 with open('5. scores.json', 'w') as outfile:
     json.dump(scores, outfile)
 

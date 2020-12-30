@@ -1,0 +1,445 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>PHEDHERAL</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/357/journalFavicon_en_US.ico" type="image/x-icon" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                            
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/phedheral/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/phedheral/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/357/homeHeaderTitleImage_en_US.jpg" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/phedheral/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/phedheral/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/phedheral/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/phedheral/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/phedheral/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/phedheral/statistics" target="_parent">Statistics</a></li>
+
+                                                                                    <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/phedheral/pages/view/ethics">Publication Ethics</a></li>
+                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/phedheral/about/editorialTeam">Editorial Team</a></li>
+                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/phedheral/about/editorialPolicies#focusAndScope">Focus &amp; Scope</a></li>
+                                                            
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/phedheral/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/phedheral/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/phedheral/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/phedheral/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/phedheral/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/phedheral/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/phedheral/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/phedheral/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/phedheral/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/phedheral/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                        <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/phedheral/pages/view/ethics">Publication Ethics</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/phedheral/about/editorialTeam">Editorial Team</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/phedheral/about/editorialPolicies#focusAndScope">Focus &amp; Scope</a></li>
+                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/phedheral/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                            <p>1979-3103 (Print)</p>
+                                                                                                                                                                                </div>
+                                                                                                        <div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block custom" id="customblock-indexing">
+	<p><strong><span style="font-size: medium;">INDEXING</span></strong></p>
+<p><a href="http://garuda.ristekbrin.go.id/journal/view/4082?issue=Vol%209,%20No%202%20(2014):%20Jurnal%20Phedheral" target="_blank"><img src="/public/site/images/admin/GARUDA3.png" alt="" /></a></p>
+<p><a href="https://scholar.google.com/citations?user=kIA2n_QAAAAJ" target="_blank"><img src="/public/site/images/admin/GS2.png" alt="" /></a></p>
+<p><a href="https://www.neliti.com/journals/phederal-pendidikan-jasmani-kesehatan-dan-rekreasi" target="_blank"><img src="/public/site/images/admin/neliti.png" alt="" /></a></p>
+</div>	<div class="block custom" id="customblock-template">
+	<p><span style="font-size: medium;"><strong>DOWNLOAD TEMPLATE</strong></span></p>
+<p>&nbsp;<a href="https://drive.google.com/file/d/1eK4dEuINatQOc1liPWMqyOJIAlFJ4yyL/view?usp=sharing" target="_blank"><img src="/public/site/images/admin/images1.png" alt="" /></a></p>
+</div>	<div class="block custom" id="customblock-visitor">
+	<p><span style="font-size: medium;"><strong>VISITORS</strong></span></p>
+<p><a href="https://statcounter.com/p12414964/?guest=1" target="_blank"><img src="/public/site/images/admin/download1.jpg" alt="" /></a></p>
+</div>	<div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/phedheral/help/view/user/topic/000001')">Journal Help</a>
+</div><div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+					<p>1979-3103 (Print)</p>
+		</div>
+<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/phedheral/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div> <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/phedheral/notification">View</a></li>
+			<li><a href="https://jurnal.uns.ac.id/phedheral/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarLanguageToggle">
+	<script type="text/javascript">
+		<!--
+		function changeLanguage() {
+			var e = document.getElementById('languageSelect');
+			var new_locale = e.options[e.selectedIndex].value;
+
+			var redirect_url = 'https://jurnal.uns.ac.id/phedheral/user/setLocale/NEW_LOCALE?source=%2Fphedheral';
+			redirect_url = redirect_url.replace("NEW_LOCALE", new_locale);
+
+			window.location.href = redirect_url;
+		}
+		//-->
+	</script>
+	<span class="blockTitle">Language</span>
+	<form action="#">
+		<label for="languageSelect">Select Language</label>
+		<select id="languageSelect" size="1" name="locale" class="selectMenu"><option label="Bahasa Indonesia" value="id_ID">Bahasa Indonesia</option>
+<option label="English" value="en_US" selected="selected">English</option>
+</select>
+		<input type="submit" class="button" value="Submit" onclick="changeLanguage(); return false;" />
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/phedheral/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/phedheral/issue/archive">By Issue</a></li>
+		<li><a href="https://jurnal.uns.ac.id/phedheral/search/authors">By Author</a></li>
+		<li><a href="https://jurnal.uns.ac.id/phedheral/search/titles">By Title</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Other Journals</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>			</ul>
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br /><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/phedheral/information/readers">For Readers</a></li>		<li><a href="https://jurnal.uns.ac.id/phedheral/information/authors">For Authors</a></li>		<li><a href="https://jurnal.uns.ac.id/phedheral/information/librarians">For Librarians</a></li>	</ul>
+</div>
+
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/phedheral/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/phedheral" class="current">PHEDHERAL</a></div>
+
+                                                        <h2>PHEDHERAL</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+
+
+<table>
+    <tr>
+                    <td>
+                <br>
+                <div id="homepageImage"><img src="https://jurnal.uns.ac.id/public/journals/357/homepageImage_en_US.jpg" width="304" height="383" alt="Journal Homepage Image" /></div>
+            </td>
+        
+                    <td rowspan="2">
+                <div id="journalDescription"><p><strong>PHEDERAL: Physical Education, Health, and Recreation Journal</strong> (ISSN: <a href="http://issn.pdii.lipi.go.id/issn.cgi?daftar&amp;1324547657&amp;1&amp;&amp;" target="_blank">1979-3103</a>) is open to seeking innovation, creativity, and novelty. <strong>PHEDHERAL</strong> Journal is a peer-review journal published by the Universitas Sebelas Maret Surakarta. The aim of the journal is to facilitate scientific publication of the results of researches in Indonesia and participate to boost the quality and quantity of research for academics and researchers. <span>This journal accepts manuscripts in <strong>Bahasa</strong> or <strong>English</strong>.</span></p><p><strong>PHEDHERAL</strong> Journal published twice a year, in May and November by publishing research results and critical analysis studies in the field of Physical Education, Sports Tourism, Sports Coaching, Physical Activity, Sports Biomechanics, Sports Pedagogy, Sports Physiology, Sports Psychology, and Traditional Sports.</p></div>
+            </td>
+                
+    </tr>
+</table>
+        <div id="announcementsHome">
+        <h3><a href="https://jurnal.uns.ac.id/phedheral/announcement">Announcements</a></h3>
+            <table class="announcements">
+	<tr>
+		<td colspan="2" class="headseparator">&nbsp;</td>
+	</tr>
+
+
+	<tr>
+		<td colspan="2" class="nodata">No announcements have been published.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="endseparator">&nbsp;</td>
+	</tr>
+</table>	
+        <!-- <table class="announcementsMore">
+                <tr>
+                        <td><a href="https://jurnal.uns.ac.id/phedheral/announcement">More Announcements...</a></td>
+                </tr>
+        </table> -->
+    </div>
+
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p><!-- Default Statcounter code for PHEDERAL Journal
+https://jurnal.uns.ac.id/phedheral --><script type="text/javascript">// <![CDATA[
+var sc_project=12414964; 
+var sc_invisible=0; 
+var sc_security="b8d65f98"; 
+var sc_https=1; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+// ]]></script><noscript><div class="statcounter"><a title="web statistics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/12414964/0/b8d65f98/0/" alt="web statistics"></a></div></noscript><!-- End of Statcounter Code --> <a href="https://statcounter.com/p12414964/?guest=1" target="_blank">View My Stats</a></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

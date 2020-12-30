@@ -1,0 +1,31 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S-1 <a href="https://komunikasi.fisip.uns.ac.id/" target="_blank" rel="noopener noreferrer">Ilmu Komunikasi</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>S-1 <a href="https://an.fisip.uns.ac.id/" target="_blank" rel="noopener noreferrer">Ilmu Administrasi Negara</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>3</td>
+<td>S-1 <a href="https://hi.fisip.uns.ac.id/" target="_blank" rel="noopener noreferrer">Hubungan Internasional</a></td>
+<td>Baik</td>
+</tr>
+<tr>
+<td>4</td>
+<td>S-1 <a href="https://sosiologi.fisip.uns.ac.id" target="_blank" rel="noopener noreferrer">Sosiologi</a></td>
+<td>A</td>
+</tr>
+</tbody>
+</table></br>

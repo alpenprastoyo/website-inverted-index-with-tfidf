@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<title>Fakultas Kedokteran UNS | Diploma III Hiperkes &amp; Keselamatan Kerja</title>
+	<meta name="keywords" content="pendidikan dokter,swadana,fakultas kedokteran uns,kedokteran uns,medical faculty uns,uns,kedokteran,ppds uns,ppds,bhisma murti,jurnal kedokteran indonesia,JKI,fakultas kedokteran,universitas sebelas maret,surakarta,solo,universitas,uns.ac.id" />
+	<meta name="description" content="Website Resmi Fakultas Kedokteran Universitas Sebelas Maret" />
+	<meta name="author" content="arif wicahyanto" />
+	<meta name="alexaVerifyID" content="ZiLE1bkZ9p2uesbBYCGUWlJJUPo" />
+	<meta name="google-site-verification" content="pf3s0E_ntcmM6LbZ2hoJjaHuZZi-L7solLmMQWyHGq8" />	
+	<!-- Favicons -->
+	<link href="/static/flt/assets/img/favicon.png" rel="icon">
+	<link href="/static/flt/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Muli:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	<!-- Vendor CSS Files -->
+	<link href="/static/flt/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/static/flt/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+	<link href="/static/flt/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+	<link href="/static/flt/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+	<link href="/static/flt/assets/vendor/venobox/venobox.css" rel="stylesheet">
+	<link href="/static/flt/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+	<link href="/static/flt/assets/vendor/aos/aos.css" rel="stylesheet">
+	<link href="/static/flt/assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+	<!-- ======= Top Bar ======= -->
+	<section id="topbar" class="d-none d-lg-block">
+		<div class="container d-flex">
+			<div class="contact-info mr-auto">
+				<i class="icofont-envelope"></i><a href="mailto:contact@example.com"> fk@fk.uns.ac.id</a>
+				<i class="icofont-phone"></i> +62 271 6441785
+			</div>
+			<div class="social-links">
+				<a href="https://www.instagram.com/fk.uns/" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
+											<!--
+							<a href="https://fk.uns.ac.id/index.php/utama/switchlang/en" > <img src="/static/style/img/flag_en.png"> english </i></a>
+							!-->
+							<a href="https://en.fk.uns.ac.id" > <img src="/static/style/img/flag_en.png"> english </i></a>
+							</div>
+		</div>
+	</section>
+
+  	<!-- ======= Header ======= -->
+  	<header id="header">
+		<div class="container d-flex">
+			<div class="logo mr-auto">
+			<a href="index.html"><img src="/static/flt/assets/img/logo_id.png" alt="" class="img-fluid"></a>			</div>
+			<nav class="nav-menu d-none d-lg-block">
+				<ul>
+					<li  ><a href="https://fk.uns.ac.id/index.php/">Beranda</a></li>
+					<li  class="drop-down "><a class="drop-down" href="#">Tentang</a>
+						<ul>
+															<li><a href="https://fk.uns.ac.id/index.php/tentang/detail/sejarah">Sejarah</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/tentang/detail/visi-misi-dan-tujuan">Visi, Misi dan Tujuan</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/tentang/detail/senat">Senat</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/tentang/detail/pimpinan-fakultas">Pimpinan Fakultas</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/tentang/detail/staff-pengajar">Staff Pengajar</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/tentang/detail/kerja-sama">Kerja Sama</a></li>
+													</ul>
+					</li>
+					<li  class="drop-down active">
+						 <a href="#">Program Studi</a>
+						 <ul >
+																<li><a href="https://fk.uns.ac.id/index.php/prodi/detail/program-studi-kedokteran">Program Studi Kedokteran</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/prodi/detail/program-studi-profesi-dokter">Program Studi Profesi Dokter</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/prodi/detail/pendidikan-dokter-spesialis">Pendidikan Dokter Spesialis</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/prodi/detail/s1-psikologi">S1 Psikologi</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/prodi/detail/program-doktor-ilmu-kedokteran">Program Doktor Ilmu Kedokteran</a></li>
+													 </ul>
+					</li>
+					<li class="drop-down ">
+						 <a href="#">Fasilitas</a>
+						 <ul >
+																<li><a href="https://fk.uns.ac.id/index.php/fasilitas/detail/laboratorium"> Laboratorium</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/fasilitas/detail/rumah-sakit-pendidikan"> Rumah Sakit Pendidikan</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/fasilitas/detail/fasilitas-lain"> Fasilitas Lain</a></li>
+																<li><a href="https://fk.uns.ac.id/index.php/fasilitas/detail/cbt-computer-based-testing"> CBT (Computer Based Testing) </a></li>
+													 </ul>
+					</li>
+					<li class="drop-down "><a href="#">Administrasi</a>
+						<ul >
+							<li><a target="_blank" href="https://akademik.fk.uns.ac.id">Sub Bagian Akademik</a></li>
+							<li><a target="_blank" href="https://kemahasiswaan.fk.uns.ac.id">Sub Bagian Kemahasiswaan dan Alumni</a></li>
+						</ul>
+					</li>
+					<li class="drop-down ">
+						<a href="#">Publikasi</a>
+						<ul>
+							<li><a href="https://fk.uns.ac.id/index.php/tentang/publikasijurnal">Jurnal</a></li>
+							<li><a href="https://fk.uns.ac.id/index.php/tentang/publikasipaten">Paten</a></li>
+							<li><a href="https://fk.uns.ac.id/index.php/tentang/publikasibuku">Buku / Modul</a></li>
+							<li class="drop-down"><a href="#">Media Publikasi</a>
+								<ul>
+									<li><a target="_blank" href="https://jurnal.uns.ac.id/SMedJour">Smart Medical Jurnal</a></li>
+									<li><a target="_blank" href="https://jurnal.fk.uns.ac.id">Jurnal Nexus</a></li>
+									<li><a target="_blank" href="https://jurnalwacana.psikologi.fk.uns.ac.id">Jurnal Wacana</a></li>
+								</ul>
+							</li>
+						</ul>						 	
+					</li>
+					<li class="drop-down "><a href="#">Alumni</a>
+						<ul>
+							<li><a href="https://fk.uns.ac.id/index.php/alumni/dataalumni/">Data Alumni</a></li>
+							<li><a href="https://fk.uns.ac.id/index.php/alumni/tambah/">Tambah Data</a></li>
+							<li><a href="https://fk.uns.ac.id/index.php/alumni/perubahandata/">Perubahan Data</a></li>
+							<li><a href="http://legalisir.fk.uns.ac.id" target="_blank">Legalisir</a></li>
+						</ul>
+					</li>
+					<li class="nav-item "><a href="https://fk.uns.ac.id/index.php/kontak/">Kontak</a></li>
+					<li class="drop-down d-lg-none d-xl-none"><a href="#">Pilih Bahasa</a>
+						<ul>
+							<li><a href="https://fk.uns.ac.id/index.php/utama/switchlang/id">Bahasa Indonesia</a></li>
+							<li><a href="https://fk.uns.ac.id/index.php/utama/switchlang/en">English</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav><!-- .nav-menu -->
+		</div>
+	</header><!-- End Header -->
+
+	<section id="breadcrumbs" class="breadcrumbs">
+	<div class="container">
+		<div class="d-flex justify-content-between align-items-center">
+			<h2></h2>
+			<ol>
+				<li><a href="https://fk.uns.ac.id/">Beranda</a></li>
+				<li>Diploma III Hiperkes & Keselamatan Kerja</li>
+			</ol>
+		</div>
+	</div>
+</section>
+<section id="blog" class="blog">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 entries">
+				<article class="entry entry-single" data-aos="fade-up">
+					<div class="entry-content">
+										<h2>Diploma III Hiperkes &amp; Keselamatan Kerja<o:p></o:p></h2>
+<p><strong>JATI DIRI</strong><o:p></o:p></p>
+<p>Program D.III Hiperkes dan Keselamatan Kerja Fakultas Kedokteran Universitas Sebelas Maret (FK UNS) mendapatkan ijin penyelenggaraan dari Dirjen Dikti Depdiknas pada tanggal 26 Desember 2006, dengan dasar hukum Dirjen Dikti Nomor: 4922/DT/T/2006, tanggal 26 Desember 2006. Menurut sejarah berdirinya Program Studi ini merupakan kerjasama antara Departemen Tenaga Kerja (Depnaker) dan Departemen Pendidikan Nasional (Depdiknas), dimana kebutuhan tenaga ahli madya Hiperkes dan Keselamatan Kerja sangat dibutuhkan Depnaker, sedangkan Depdiknas cq Fakultas Kedokteran UNS selaku penyelenggara pendidikan. Hasil lulusan angkatan pertama dan kedua semuanya diserap oleh Departemen Tenaga Kerja, selanjutnya hasil lulusan sebagian diserap Depnaker dan yang lainnya diserap oleh perusahaan yang berlokasi hampir di setiap propinsi di Indonesia. <br />
+<br />
+Saat ini Program D.III Hiperkes dan Keselamatan Kerja FK UNS berfokus dan bertekad mempertahankan dan mengembangkan peningkatan kualitas institusi agar tetap memiliki mutu yang baik dengan daya saing tinggi. Pada tahun 2005, dengan SK nomor 015/BAN-PT/Ak-V/Dpl-III/XII/2005 tanggal 27 Desember 2005, mendapatkan akreditasi peringkat A, dan pada tahun 2016 ini akan melakukan reakreditasi.<o:p></o:p></p>
+<p><br />
+Beban studi yang harus diselesaikan 110 SKS yang ditempuh dalam 6 semester. Tingkat kelulusan mahasiswa tepat waktu sebesar 98%; hal ini disebabkan karena salah satu penyebabnya ada mahasiswa yang sudah direkrut perusahaan yang menjalin kerjasama perekrutan lulusan sebelum mereka lulus atau bersamaan dengan program magang.<br />
+Dalam menjalankannya perannya sebagai pencetak ahli madya hiperkes dan keselamatan kerja, Program Studi ini mengembangkan dirinya dengan berkonsentrasi kepada pembentukan lulusan yang lebih berorientasi kepada pengelolaan Sistem Manajemen Keselamatan dan Kesehatan Kerja berfokus pada kemampuan profesional dalam higiene perusahaan. Hal ini didukung dengan mata kuliah bidang Higiene Perusahaan (fisika, kimia, dasar hiperkes, sanitasi industri dan kesehatan lingkungan, manajemen B3, pengukuran dan pemantauan faktor fisika-kimia, PKL, magang) yang kemudian merupakan jati diri Program D.III Hiperkes dan Keselamatan Kerja Fakultas Kedokteran UNS. <o:p></o:p></p>
+<p><br />
+<strong>VISI PROGRAM STUDI</strong><o:p></o:p></p>
+<p>Visi, Misi dan Tujuan FK UNS disusun oleh segenap unsur, meliputi Ketua Program, Pimpinan Fakultas (Dekan, PD I, II, III), Dosen, Mahasiswa, Kepala bagian (laboratorium), Unit kerja, Pihak Luar (Alumni, Dinas Tenaga Kerja, Ahli Keselamatan dan Kesehatan Kerja (AK3) dari perusahaan). Penyusunan Tim Penyusun visi-misi ditetapkan berdasarkan SK Dekan FK UNS. Kemudian Tim tersebut merumuskan visi, misi, tujuan serta sasaran FK UNS melalui suatu lokakarya yang melibatkan semua unsur internal dan eksternal.<o:p></o:p></p>
+<p>Hasil akhir perumusan visi, misi, tujuan dan sasaran tersebut kemudian disahkan oleh Dekan Fakultas Kedokteran UNS untuk kemudian disosialisasikan kepada seluruh civitas akademika. Monitoring dan evaluasi mengenai Visi Misi selalu dilakukan pada saat penyusunan Renstra Program Studi D.III Hiperkes dan Keselamatan Kerja FK UNS, setiap 5 tahun sekali.<o:p></o:p></p>
+<p><strong>VISI :</strong><br />
+<br />
+Menjadi Program Studi vokasi Hiperkes Dan Keselamatan Kerja bereputasi internasional, menghasilkan lulusan ahli Madya Hiperkes Dan Keselamatan Kerja dengan keunggulan dibidang Higiene perusahaan.<o:p></o:p></p>
+<p><br />
+<strong>MISI :</strong>&nbsp;</p>
+<ol>
+    <li>Menyelenggarakan pendidikan vokasi bidang Hiperkes dan Keselamatan Kerja bereputasi internasional dengan penekanan keunggulan di bidang higiene perusahaan. <o:p></o:p></li>
+    <li>Mengembangkan pengetahuan, teknologi Hiperkes Dan Keselamatan Kerja yang bereputasi internasional melalui penelitian untuk menunjang peningkatan kesehatan dan keselamatan kerja masyarakat.<o:p></o:p></li>
+    <li>Melaksanakan pengabdian masyarakat di bidang higiene perusahaan, kesehatan dan keselamatan kerja yang sesuai dengan kebutuhan masyarakat pekerja dan masyarakat pada umumnya.<o:p></o:p></li>
+    <li>Menyelenggarakan tata kelola Program Diploma III Hiperkes dan Keselamatan Kerja berazaskan Good Governance<o:p></o:p></li>
+    <li>Meningkatkan kerjasama dengan berbagai institusi didalam negeri dan di luar negeri.<o:p></o:p></li>
+</ol>
+<p><br />
+<strong>TUJUAN</strong><o:p></o:p></p>
+<p>Program Studi D.III Hiperkes dan Keselamatan Kerja FK UNS bertekad membentuk peserta didik yang mempunyai pengetahuan, ketrampilan dan sikap sesuai bidang profesinya. Secara umum tujuan PS ini adalah :&nbsp;</p>
+<ol>
+    <li>Menghasilkan lulusan ahli madya Hiperkes dan Keselamatan Kerja dengan keunggulan di bidang Higiene Perusahaan.<o:p></o:p></li>
+    <li>Dihasilkannya publikasi penelitian bereputasi internasional<o:p></o:p></li>
+    <li>Terciptanya pengembangkan IPTEK di bidang Hiperkes dan Keselamatan Kerja yang berdaya guna dan berhasil guna bagi komunitas masyarakat pekerja melalui kegiatan pengabdian kepada masyarakat<o:p></o:p></li>
+    <li>Terwujudnya Program Studi D.III Hiperkes dan Keselamatan Kerja Fakultas Kedokteran Universitas Sebelas Maret sebagai institusi pendidikan bereputasi internasional<o:p></o:p></li>
+    <li>Terwujudnya kerjasama dengan berbagai institusi di dalam negeri dan di luar negeri<o:p></o:p></li>
+</ol>
+<p><strong>SASARAN PROGRAM STUDI DAN STRATEGI PENCAPAIAN SASARAN</strong><o:p></o:p></p>
+<p>Aspek Keunggulan dan Sasaran Strategis Program Studi D.III Hiperkes Dan Keselamatan Kerja Fakultas Kedokteran Universitas Sebelas Maret Tahun 2019.<o:p></o:p></p>
+<div>
+<table border="1" cellspacing="0" cellpadding="0">
+    <thead>
+        <tr>
+            <td>
+            <p>ASPEK KEUNGGULAN<o:p></o:p></p>
+            </td>
+            <td>
+            <p>SASARAN STRATEGIS<o:p></o:p></p>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2">
+            <p>A. Sasaran Bidang Pendidikan dan Kemahasiswaan<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="5">
+            <p><!--[if !supportLists]-->1.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan Dalam Pendidikan dan Kemahasiswaan<o:p></o:p></p>
+            </td>
+            <td>
+            <p>1.1&nbsp;   Pengembangan Mutu Pendidikan, Pengalaman Belajar, Dan Perluasan Akses   Belajar.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>1.2&nbsp; Peningkatan Kapasitas Penguasaan Ilmu Melalui Penataan Satuan Pendidikan Berbasis Riset.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>1.3&nbsp; Peningkatan Kapasitas Pendidikan Vokasi <o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>1.4&nbsp;   Pengembangan academic atmosfer<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>1.5&nbsp;   Pengembangan dan Pembinaan   kemahasiswaan dan hubungan alumni yang sinergis<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p>B. Sasaran Bidang Penelitian<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p><!--[if !supportLists]-->2.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan dalam riset<o:p></o:p></p>
+            </td>
+            <td>
+            <p>2.1 Peningkatan produktivitas dan kualitas riset.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p>C. Sasaran Bidang Pengabdian Pada Masyarakat<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p><!--[if !supportLists]-->3.&nbsp;&nbsp;&nbsp; <!--[endif]-->Keunggulan Dalam   Transfer &amp; Pengembangan Ilmu Pengetahuan<o:p></o:p></p>
+            </td>
+            <td>
+            <p>3.1 Pembangunan kemitraan dan kolaborasi yang efektif.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p>D. Sasaran Bidang Sarana dan Prasarana<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+            <p><!--[if !supportLists]-->4.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan dalam manajemen pengetahuan<o:p></o:p></p>
+            <p>&nbsp;</p>
+            </td>
+            <td>
+            <p>4.1&nbsp;   Pengembangan perpustakaan standar internasional.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>4.2&nbsp;   Pembangunan manajemen pengetahuan berbasis teknologi informasi dan   komunikasi.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>4.3 Pengembangan sarana fisik.<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p>E. Sasaran Bidang Sumber Daya Manusia<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+            <p><!--[if !supportLists]-->5.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan dalam sumberdaya manusia<o:p></o:p></p>
+            </td>
+            <td>
+            <p>5.1&nbsp;   Penguatan dan pengembangan kapasitas staf pendidik<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>5.2&nbsp;   Penguatan Dan Pengembangan Tenaga Kependidikan<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>5.3&nbsp;   Pembangunan Kapasitas Kepemimpinan Dan Manajemen<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+            <p>F. Sasaran Bidang Tata Kelola, Organisasi dan Manajemen<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">
+            <p><!--[if !supportLists]-->6.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan dalam tata kelola<o:p></o:p></p>
+            </td>
+            <td>
+            <p>6.1&nbsp; Pengembangan   sistem akuntansi<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>6.2&nbsp; Pengembangan tata kelola asset<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>6.3&nbsp; Penguatan implementasi sistem informasi<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+            <p><!--[if !supportLists]-->7.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan dalam manajemen mutu dan layanan<o:p></o:p></p>
+            </td>
+            <td>
+            <p>7.1&nbsp; Penguatan sistem manajemen mutu<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>7.2&nbsp; Penguatan proses monitoring, assessment, dan   evaluasi internal standar mutu<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+            <p><!--[if !supportLists]-->8.&nbsp;&nbsp;&nbsp;   <!--[endif]-->Keunggulan dalam internasionalisasi dan pencitraan public<o:p></o:p></p>
+            </td>
+            <td>
+            <p>8.1&nbsp; Penguatan posisi, diferensiasi dan citra   Prodi D.III Hiperkes FK UNS dengan mempromosikan kesempatan belajar dan nilai   diversitas<o:p></o:p></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p>8.2&nbsp; Internasionalisasi Prodi D.III Hiperkes FK   UNS UNS<o:p></o:p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p><br />
+<strong>STRUKTUR ORGANISASI</strong><o:p></o:p></p>
+<br />
+Struktur Organisasi Program Studi D. III Hiperkes Dan Keselamatan Kerja (SK Dekan No. 152/UN27.06/OT/2015)<br />
+<img src="http://fk.uns.ac.id/static/file/struktur-hiperkes.jpg&#9;" alt="" />
+<p><br />
+<br />
+TABEL DATA TERKAIT PEMINATAN MAHASISWA PROGRAM D III HIPERKES DAN KESELAMATAN KERJA FK UNS&nbsp;<o:p></o:p></p>
+<p>&nbsp;<img src="http://fk.uns.ac.id/static/file/d3hiperkes-mahasiswa.jpg&#9;" alt="" /></p>
+<p>&nbsp;Selengkapnya silahkan membuka alamat : <a href="http://d3hiperkes.fk.uns.ac.id">http://d3hiperkes.fk.uns.ac.id</a></p>			
+					</div>
+				</article>
+			</div>
+		</div>
+	</div>
+</section>
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+	 <div class="footer-top">
+		<div class="container">
+		  <div class="row">
+			 <div class="col-lg-4 col-md-6 footer-contact">
+				<h3>Fakultas <br>Kedokteran <br>UNS</h3>				<p>
+					Jalan Ir. Sutami 36A <br> Surakarta <br> Jawa Tengah <br> Indonesia <br> Kode Pos : 57126 <br>				  <strong>Phone:</strong> +62 271 644178<br>
+				  <strong>Email:</strong> fk@fk.uns.ac.id<br>
+				</p>
+			 </div>
+			 <div class="col-lg-4 col-md-6 footer-links">
+				<h4>Tautan Universitas</h4>
+				<ul>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://uns.ac.id/" target="_blank"></a>Universitas Sebelas Maret</li>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://spmb.uns.ac.id/" target="_blank">Seleksi Penerimaan Mahasiswa Baru</a></li>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://akademik.uns.ac.id/" target="_blank">Akademik</a></li>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://kepeg.auk.uns.ac.id/" target="_blank">Kepegawaian</a></li>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://mawa.uns.ac.id/" target="_blank">Kemahasiswaan</a></li>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://rs.uns.ac.id/" target="_blank">Rumah Sakit UNS</a></li>
+				  <li><i class="bx bx-chevron-right"></i> <a href="https://alumni.uns.ac.id/" target="_blank">Alumni</a></li>
+				</ul>
+				<h4>Tautan Program Studi</h4>
+				<ul>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://prodikedokteran.fk.uns.ac.id">Pendidikan Dokter</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://psikologi.fk.uns.ac.id">Psikologi</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://ppds.fk.uns.ac.id/">Pendidikan Dokter Spesialis</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://kardiologi.fk.uns.ac.id">PPDS Ilmu Penyakit Jantung</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://pulmonologi.fk.uns.ac.id">PPDS Pulmonologi dan Kedokteran Respirasi</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://ortopedi.fk.uns.ac.id">PPDS Orthopedi & Traumatologi</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://anestesi.fk.uns.ac.id/">PPDS Anestesi & Terapi Intensive</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://thtkl.fk.uns.ac.id">PPDS Ilmu Kesehatan THT-KL</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://dv.fk.uns.ac.id/">PPDS Ilmu Kesehatan Kulit dan Kelamin</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://bedah.fk.uns.ac.id/">PPDS Ilmu Bedah</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://pediatricfkuns.ac.id/">PPDS Ilmu Kesehatan Anak</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://neurologi-uns.org/">PPDS Ilmu Penyakit Syaraf</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://psikiatri.fk.uns.ac.id/">PPDS Ilmu Kedokteran Jiwa</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://ppdsinternasolo.id/">PPDS Ilmu Penyakit Dalam</a></li>
+					<li><i class="bx bx-chevron-right"></i> <a target="_blank" href="https://pasca.uns.ac.id/s3kedokteran/">S3 Kedokteran</a></li>
+				</ul>				
+			 </div>
+			 <div class="col-lg-4 col-md-6 footer-links">
+				<h4>Tautan Pendukung KBM & Lab</h4>
+				<ul>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://akademik.fk.uns.ac.id/">Sub Bagian Akademik</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://jadwal.prodikedokteran.fk.uns.ac.id/">Jadwal Prodi Kedokteran</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://kemahasiswaan.fk.uns.ac.id/">Kemahasiswaan dan Alumni</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://ikm.fk.uns.ac.id/">Ilmu Kesehatan Masyarakat</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://farmako.fk.uns.ac.id/">Farmako</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://skillslab.fk.uns.ac.id/">Skills Lab</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://fieldlab.fk.uns.ac.id/">Field Lab</a></li>
+				</ul>			 	
+				<h4>Tautan Unit Kegiatan Mahasiswa</h4>
+				<ul>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://bem.fk.uns.ac.id">Badan Eksekutif Mahasiswa</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://dema.fk.uns.ac.id/">Dewan Mahasiswa</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://ski.fk.uns.ac.id">Sentra Kegiatan Islam</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://scarta.fk.uns.ac.id">Scarta</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://kastrat.fk.uns.ac.id">Kastrat</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://lpmerythro.fk.uns.ac.id">Lembaga Pers Mahasiswa Erythro</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://vagus.fk.uns.ac.id/">Vagus</a></li>
+				</ul>
+				<h4>Tautan Himpunan Mahasiswa</h4>
+				<ul>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://hmpd.fk.uns.ac.id/">Himpunan Mahasiswa Pendidikan Dokter</a></li>
+					<li><i class="bx bx-chevron-right"></i><a target="_blank" href="https://himapsi.fk.uns.ac.id/">Himpunan Mahasiswa Psikologi</a></li>
+				</ul>
+			 </div>
+		  </div>
+		</div>
+	 </div>
+	 <div class="container d-md-flex py-4">
+		<div class="mr-md-auto text-center text-md-left">
+		  <div class="copyright">
+			&copy Hak Cipta 2010-2020 Fakultas Kedokteran Universitas Sebelas Maret Surakarta		  </div>
+		</div>
+		<div class="social-links text-center text-md-right pt-3 pt-md-0">
+		  <a href="https://www.instagram.com/fk.uns/" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+		</div>
+	 </div>
+  </footer><!-- End Footer -->
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+  <!-- Vendor JS Files -->
+  <script src="/static/flt/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="/static/flt/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/static/flt/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="/static/flt/assets/vendor/php-email-form/validate.js"></script>
+  <script src="/static/flt/assets/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="/static/flt/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/static/flt/assets/vendor/venobox/venobox.min.js"></script>
+  <script src="/static/flt/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/static/flt/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/static/flt/assets/vendor/aos/aos.js"></script>
+  <script src="/static/flt/assets/vendor/counterup/counterup.min.js"></script>
+  <!-- Template Main JS File -->
+  <script src="/static/flt/assets/js/main.js"></script>
+</body>
+</html>

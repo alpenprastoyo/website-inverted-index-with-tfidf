@@ -1,0 +1,15 @@
+<table width="100%" class="notifications">
+	<tbody><tr>
+		<td width="25"><div class="notifyIcon notifyIconPublished">&nbsp;</div></td>
+		<td class="notificationContent" colspan="2" width="80%">
+			08 Mei 2020 03:39:12
+		</td>
+					<td class="notificationFunction" style="min-width:60px"><a href="https://jurnal.uns.ac.id/matriks/issue/current">Pergi ke URL</a></td>
+					</tr>
+	<tr>
+		<td width="25">&nbsp;</td>
+		<td class="notificationContent">
+			<p>Sebuah terbitan telah terbit.
+		</p></td>
+	</tr>
+</tbody></table></br>

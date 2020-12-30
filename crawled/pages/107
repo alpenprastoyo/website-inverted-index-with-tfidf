@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>
+Program Studi Agroteknologi | Fakultas Pertanian Universitas Sebelas Maret Surakarta	</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="https://agroteknologi.fp.uns.ac.id/wp-content/themes/twentyten/style.css" />
+<link rel="pingback" href="https://agroteknologi.fp.uns.ac.id/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Program Studi Agroteknologi &raquo; Feed" href="https://agroteknologi.fp.uns.ac.id/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Program Studi Agroteknologi &raquo; Comments Feed" href="https://agroteknologi.fp.uns.ac.id/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/agroteknologi.fp.uns.ac.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://agroteknologi.fp.uns.ac.id/wp-includes/css/dist/block-library/style.min.css?ver=5.1.2' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://agroteknologi.fp.uns.ac.id/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://agroteknologi.fp.uns.ac.id/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://agroteknologi.fp.uns.ac.id/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.2" />
+<link rel="icon" href="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2019/11/Logo_UNS.png" sizes="32x32" />
+<link rel="icon" href="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2019/11/Logo_UNS.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2019/11/Logo_UNS.png" />
+<meta name="msapplication-TileImage" content="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2019/11/Logo_UNS.png" />
+</head>
+
+<body class="home blog">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="https://agroteknologi.fp.uns.ac.id/" title="Program Studi Agroteknologi" rel="home">Program Studi Agroteknologi</a>
+					</span>
+				</h1>
+				<div id="site-description">Fakultas Pertanian Universitas Sebelas Maret Surakarta</div>
+
+										<img src="https://agroteknologi.fp.uns.ac.id/wp-content/themes/twentyten/images/headers/path.jpg" width="940" height="198" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+								<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-agroteknologi" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-8"><a href="http://agroteknologi.fp.uns.ac.id" aria-current="page">Home</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126"><a>Profil</a>
+<ul class="sub-menu">
+	<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=69">Visi dan Misi</a></li>
+	<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=91">Struktur Organisasi</a></li>
+	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=93">Staff Pengajar</a></li>
+	<li id="menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2000"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=1994">Renstra Program Studi Agroteknologi</a></li>
+</ul>
+</li>
+<li id="menu-item-152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-152"><a href="https://agroteknologi.fp.uns.ac.id/?cat=3">Berita</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158"><a>Akademik</a>
+<ul class="sub-menu">
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=87">Kurikulum</a></li>
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=89">Silabus</a></li>
+</ul>
+</li>
+<li id="menu-item-251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-251"><a href="https://agroteknologi.fp.uns.ac.id/?cat=13">Fasilitas</a>
+<ul class="sub-menu">
+	<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=260">Lab. EMPT</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-265"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=257">Lab. Pemuliaan Tanaman</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=252">Lab. Hama Penyakit Tanaman</a></li>
+	<li id="menu-item-662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-662"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=644">Lab. Fisiologi Tumbuhan dan Bioteknologi</a></li>
+</ul>
+</li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-116"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=114">Publikasi</a>
+<ul class="sub-menu">
+	<li id="menu-item-277" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-277"><a href="https://agroteknologi.fp.uns.ac.id/?cat=10">Jurnal Jurnal</a></li>
+	<li id="menu-item-813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-813"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=811">Journal of Agronomy Research</a></li>
+	<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=477">Buku Dosen</a></li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-82"><a href="https://agroteknologi.fp.uns.ac.id/?cat=6">Kemahasiswaan</a>
+<ul class="sub-menu">
+	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=405">Forum Agroteknologi Faperta UNS</a></li>
+	<li id="menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-819"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=817">Bidang</a>
+	<ul class="sub-menu">
+		<li id="menu-item-824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-824"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=822">Sekretaris dan Bendahara</a></li>
+		<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=825">Pembinaan dan Kaderisasi</a></li>
+		<li id="menu-item-830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-830"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=828">Pengabdian Masyarkat</a></li>
+		<li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=831">Hubungan Masyarakat</a></li>
+		<li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=834">Keilmiahan</a></li>
+		<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-840"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=838">Keprofesian</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-541"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=502">UKK</a>
+<ul class="sub-menu">
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=509">Hidroponik</a></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=505">Klinik Tanaman</a></li>
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=507">Kultur Jaringan</a></li>
+	<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=513">Tanaman Obat</a></li>
+	<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=511">Tanaman Hias</a></li>
+	<li id="menu-item-543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-543"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=519">Pupuk Organik</a></li>
+	<li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-542"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=521">Peta dan Terasering</a></li>
+	<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=517">Pupuk Hayati</a></li>
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=515">Manajemen Landscape</a></li>
+</ul>
+</li>
+<li id="menu-item-704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-704"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=701">Komisi Sarjana</a></li>
+<li id="menu-item-1506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1506"><a href="https://agroteknologi.fp.uns.ac.id/?page_id=1504">Alumni</a></li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+	<div id="nav-above" class="navigation">
+		<div class="nav-previous"><a href="https://agroteknologi.fp.uns.ac.id/?paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		<div class="nav-next"></div>
+	</div><!-- #nav-above -->
+
+
+
+
+			<div id="post-2155" class="post-2155 post type-post status-publish format-standard hentry category-berita tag-webinar">
+			<h2 class="entry-title"><a href="https://agroteknologi.fp.uns.ac.id/?p=2155" rel="bookmark">Seminar Online Laboratorium Pemuliaan Tanaman Seri #2</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://agroteknologi.fp.uns.ac.id/?p=2155" title="23:22" rel="bookmark"><span class="entry-date">14/07/2020</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://agroteknologi.fp.uns.ac.id/?author=1" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				
+<p style="text-align:center">
+
+DAFTAR PESERTA PENERIMA SERTIFIKAT 
+
+</p>
+
+
+
+<p style="text-align:center"> Seminar Online Laboratorium Pemuliaan Tanaman Seri #2 <br>&#8220;Penerapan Pemuliaan Tanaman dalam New Normal Life&#8221;  <br>Program Studi Agroteknologi Fakultas Pertanian Universitas Sebelas Maret  <br> Selasa, 21 Juli 2020   </p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://agroteknologi.fp.uns.ac.id/?cat=3" rel="category">Berita</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="tag-links">
+					<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="https://agroteknologi.fp.uns.ac.id/?tag=webinar" rel="tag">webinar</a>				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Seminar Online Laboratorium Pemuliaan Tanaman Seri #2</span></span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2128" class="post-2128 post type-post status-publish format-standard hentry category-berita tag-webinar">
+			<h2 class="entry-title"><a href="https://agroteknologi.fp.uns.ac.id/?p=2128" rel="bookmark">Webinar Laboratorium Pemuliaan Tanaman Seri #1</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://agroteknologi.fp.uns.ac.id/?p=2128" title="17:28" rel="bookmark"><span class="entry-date">24/06/2020</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://agroteknologi.fp.uns.ac.id/?author=1" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				
+<p style="text-align:center">DAFTAR PESERTA PENERIMA SERTIFIKAT </p>
+
+
+
+<p style="text-align:center">Webinar Laboratorium Pemuliaan Tanaman Seri #1<br>&#8220;Peran Pemuliaan Tanaman dalam Masa Pandemi Covid-19&#8221;  <br>Program Studi Agroteknologi Fakultas Pertanian Universitas Sebelas Maret  <br> Kamis, 25 Juni 2020  <br></p>
+
+
+
+<p style="text-align:center">
+
+Sertifikat Webinar dalam Ruang Lingkup Program Studi Agroteknologi
+
+</p>
+
+
+
+<div class="wp-block-file"><a href="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2020/07/DAFTAR-PESERTA-PENERIMA-SERTIFIKAT-1.pdf">DAFTAR PESERTA PENERIMA SERTIFIKAT</a><a href="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2020/07/DAFTAR-PESERTA-PENERIMA-SERTIFIKAT-1.pdf" class="wp-block-file__button" download>Download</a></div>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://agroteknologi.fp.uns.ac.id/?cat=3" rel="category">Berita</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="tag-links">
+					<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="https://agroteknologi.fp.uns.ac.id/?tag=webinar" rel="tag">webinar</a>				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Webinar Laboratorium Pemuliaan Tanaman Seri #1</span></span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2114" class="post-2114 post type-post status-publish format-standard hentry category-berita tag-webinar">
+			<h2 class="entry-title"><a href="https://agroteknologi.fp.uns.ac.id/?p=2114" rel="bookmark">Webinar Laboratorium EMPT Seri 2#</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://agroteknologi.fp.uns.ac.id/?p=2114" title="00:00" rel="bookmark"><span class="entry-date">18/06/2020</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://agroteknologi.fp.uns.ac.id/?author=1" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				
+<p style="text-align:center"> DAFTAR PESERTA PENERIMA SERTIFIKAT <br><br> Webinar Laboratorium EMPT <br>&#8220;Menumbuhkembangkan Petani Milenial untuk Mendukung Ketahanan Pangan&#8221; Seri 2#<br>Program Studi Agroteknologi Universitas Sebelas Maret  <br>  Sabtu, 20 Juni 2020  </p>
+
+
+
+<p style="text-align:center"> <br>Sertifikat Webinar dalam Ruang Lingkup Program Studi Agroteknologi<br></p>
+
+
+
+<table class="wp-block-table aligncenter is-style-regular"><tbody><tr><td><strong>N</strong></td><td><strong>Nama</strong></td><td> <strong>Asal Institusi</strong> </td></tr><tr><td>1.</td><td>Prof. Dr. Ir. MTh. Sri Budiastuti, M.Si.</td><td>Universitas Sebelas Maret</td></tr><tr><td>2.</td><td>Prof. Dr. Ir. Bambang Pujiasmanto, M.S</td><td>Universitas Sebelas Maret </td></tr><tr><td>3</td><td>Prof. Dr. Ir. Supriyono, M.S.</td><td>Universitas Sebelas Maret  </td></tr><tr><td>4. </td><td>Prof. Dr. Ir. Sulandjari, M.S.</td><td> Universitas Sebelas Maret   </td></tr><tr><td>5. </td><td>Dr. Ir. Pardono, M.S.</td><td> Universitas Sebelas Maret  </td></tr><tr><td>6.</td><td>Dr. Ir. Eddy Tri Haryanto, M.P. </td><td>Universitas Sebelas Maret   </td></tr><tr><td>7. </td><td>Dr. Ir. Puji Harsono, M.P.</td><td>Universitas Sebelas Maret  </td></tr><tr><td>8. </td><td> <br>Ir. Trijono Djoko Sulistyo, M.P. </td><td>Universitas Sebelas Maret   </td></tr><tr><td>9. </td><td>Ir. Sri Nyoto, M.S.</td><td>Universitas Sebelas Maret    </td></tr><tr><td>10.</td><td>Aprilia Ike Nurmalasari, S.P., M.Sc</td><td>Universitas Sebelas Maret   </td></tr><tr><td>11.</td><td>Mercy Bientri Y, S.P., M.Si</td><td>Universitas Sebelas Maret    </td></tr><tr><td>12</td><td>Warsito</td><td>Universitas Sebelas Maret  </td></tr><tr><td>13</td><td>Prof. Dr. Ir. Darsono, M.Si.</td><td>Universitas Sebelas Maret  </td></tr><tr><td>14. </td><td>Ida Rumia Manurung, S.P., M.Agr</td><td>Universitas Sebelas Maret   </td></tr><tr><td>15. </td><td> Dr. Ir. Susilawati, M.Si </td><td>Universitas Sriwijaya </td></tr><tr><td>16. </td><td>Dewi Fitriyanti.,S.P.,M.P </td><td></td></tr><tr><td>17. </td><td>Dr. Laela Sari </td><td></td></tr><tr><td>18. </td><td>Nur Azizah Uswatun Hasanah </td><td></td></tr><tr><td>19.</td><td> Moh. Ali Hamidy Ekopranoto A.F., S.Pt., M.Si. </td><td></td></tr><tr><td>20.</td><td>Sunarto, S.E., M.M.</td><td></td></tr><tr><td>21.</td><td>Ir. Bambang Nugroho, MP </td><td></td></tr><tr><td>22.</td><td>Dr. Ir. Adelina Siregar, M.Sc </td><td></td></tr><tr><td>23.</td><td>Mansur Ma’shum </td><td></td></tr><tr><td>24.</td><td>Henny Rosmawati, S.P., M.Si </td><td></td></tr><tr><td>25. </td><td>Iin Siti Aminah </td><td></td></tr><tr><td>26.</td><td>Wahyu Indra Astuti, S.T.P. </td><td></td></tr><tr><td>27.</td><td>SUDARMANTO, A.Md </td><td></td></tr><tr><td>28.</td><td>Anny Yanuriati </td><td>Universitas Sriwijaya </td></tr><tr><td>29. </td><td>Sulastri isminingsih </td><td>Universitas Sultan Agung Tirtayasa</td></tr><tr><td>30. </td><td>Ir. Fitri Yetty Zairani, M.P. </td><td>Universitas Palembang </td></tr><tr><td>31. </td><td>Florentina Heningtyas Listyorini </td><td>Universitas Papua </td></tr><tr><td>32. </td><td>Dr.Ir. Ni Made Laksmi Ernawati, MP. </td><td></td></tr><tr><td>33. </td><td>Ir. Luh Kartini, M.Si </td><td></td></tr><tr><td>34.</td><td>Suyatno, S.TP.  </td><td>BPP Kab. Grobogan</td></tr><tr><td>35. </td><td>Budi Fachrudin </td><td></td></tr><tr><td>36. </td><td>Dr. Ir. Yakup, M.S. </td><td></td></tr><tr><td>37. </td><td>Sri Wahyuni, SP., MSi </td><td>Dinas Tanaman Pangan, Hortikultura, dan Perkebunan, Kab. Jember</td></tr><tr><td>38. </td><td>Yogi Nirwanto, S.Hut., M.P. </td><td>Universitas Siliwangi</td></tr><tr><td>39. </td><td>Faridatul Mukminah </td><td></td></tr><tr><td>40. </td><td>Puspitahati </td><td>Universitas Sriwijaya </td></tr><tr><td>41.</td><td>Gabriella Clariscia Tanoto </td><td></td></tr><tr><td>42. </td><td>IRFAN AFANDI, SP </td><td></td></tr><tr><td>43. </td><td>Rihlah indraswary </td><td></td></tr><tr><td>44. </td><td>Ika Cartika, SP. MP. </td><td>PNS </td></tr><tr><td>45. </td><td>Yuni Agung Nugroho, SP., MP </td><td>Dosen </td></tr><tr><td>46. </td><td>Ir.  Agus Nugroho Setiawan, MP </td><td>Universitas Muhammadiyah Yogyakarta</td></tr><tr><td>47. </td><td>Putri Sari SEPTIARILDAH, STP </td><td>PNS Penyuluh Pertanian </td></tr><tr><td>48.</td><td>Arrin Rosmala, S.P., M.Si. </td><td>Dosen </td></tr><tr><td>49.</td><td>Noor Khamidah, S.Si.,M.P </td><td>Dosen </td></tr><tr><td>50.</td><td>BETARIA SEPTIANA, SST., M.Si. </td><td>PNS </td></tr><tr><td>51.</td><td>AHMADI RAMLI, SST </td><td>Polbangtan Kab. Gowa </td></tr><tr><td>52.</td><td>Eka Mulyana.SP.,M.Si </td><td>Universitas Sriwijaya </td></tr><tr><td>53. </td><td>Ir. M. Adri Budi S., MP </td><td>Universitas Wisnuwardhana Malang </td></tr><tr><td>54.</td><td>Ir. Bambang Wahyudi M.S.  </td><td>UPN Jawa Timur</td></tr><tr><td>55.</td><td>PURWANTO, S.P. </td><td>Penyuluh Pertanian, Kab. Sragen</td></tr><tr><td>56. </td><td>Susanti Indriya Wati, SP., MP </td><td>PNS, Manokwari, Papua Barat </td></tr><tr><td>57. </td><td>Erwan joko sutoro, SP </td><td>Dinas Pertanian dan Pangan, Kab. Wonogiri</td></tr><tr><td>58. </td><td>Dr. Eka Lidiasari, S. TP., M.Si.</td><td>Universitas Sriwijaya </td></tr><tr><td>59. </td><td>Indra Purnomo </td><td>Penyuluh Pertanian Kab. Purbalingga </td></tr><tr><td>60.</td><td>Muhammad Ammar  </td><td></td></tr><tr><td>61.</td><td>RATNA DWI LESTARI</td><td>Penyuluh Pertanian, Kab. Sidoarjo</td></tr><tr><td>62. </td><td>NESIA DIANTI PUTRI </td><td></td></tr><tr><td>63. </td><td>Faillah </td><td>Wiraswasta </td></tr><tr><td>64. </td><td>SUSY SYAHRUL, SP </td><td>PNS </td></tr><tr><td>65. </td><td>Salmita Salman  </td><td>Dosen </td></tr><tr><td>66.</td><td>Gema Iftitah Anugerah Yekti </td><td>Dosen</td></tr><tr><td>67. </td><td>Dr. Ir. Endang Suhesti, MP </td><td>Unars, Situbondo</td></tr><tr><td>68.</td><td>Paulus Chadikun </td><td>Dosen, Manokwari</td></tr><tr><td>70.</td><td>Yasmini Suryaningsih </td><td>Unars, Situbondo</td></tr><tr><td>71. </td><td>Susanti</td><td>Badan Pusat Statistik, Bangka Belitung </td></tr><tr><td>72. </td><td>Harun Pratama, SP </td><td>Penyuluh, DKI Jakarta</td></tr><tr><td>73. </td><td>Muji Rahayu </td><td>Universitas Sebelas Maret</td></tr><tr><td>74. </td><td>Bintang Fortuna Permataningsih </td><td>Mahasiswa, UNS</td></tr><tr><td>75. </td><td>Dr. Ir. Yaya Hasanah, MSi. </td><td>Universitas Sumatera Utara</td></tr><tr><td>76. </td><td>DR.sc.agr. NENNY NURLAENY, Ir., MS. </td><td>Universitas Padjajaran </td></tr><tr><td>77. </td><td>Resa Ana Dina, SKM, M.Epid </td><td>Dosen </td></tr><tr><td>78. </td><td>Dr. Eka Purna Yudha, SP., M.Si </td><td>Universitas Padjajaran</td></tr><tr><td>79. </td><td>Akhmad Jaeroni </td><td>Dosen</td></tr><tr><td>80.</td><td>Suprih Handayani </td><td>Badan Pusat Statistik, Kab. Purbalingga </td></tr><tr><td>81.</td><td>Putu Fajar Kartika Lestari </td><td>Dosen, Denpasar Barat</td></tr><tr><td>82. </td><td>Amalia Tetrani Sakya </td><td>Universitas Sebelas Maret</td></tr><tr><td>83. </td><td>MARIYATUL QIBTIYAH, SP., MP </td><td>UNISDA</td></tr><tr><td>84. </td><td>Irdayanti, SP </td><td>Penyuluh Pertanian, Bengkalis Riau</td></tr><tr><td>85. </td><td>Yolanda</td><td></td></tr><tr><td>86.</td><td>Dr. Rokhani, SP., M.Si. </td><td></td></tr><tr><td>87. </td><td>Melissa Catherine Lusiana, S.Si </td><td></td></tr><tr><td>88. </td><td>Nurul Khomariyah </td><td>Penyuluh Pertanian</td></tr><tr><td>89. </td><td>Sekar Nur Wulandari, S.E, M.Si </td><td>Peneliti</td></tr><tr><td>90.</td><td>Dwi Rakhmawati,SP </td><td>PNS </td></tr><tr><td>91.</td><td>Rohmatulloh S.Pd.I </td><td></td></tr><tr><td>92.</td><td>Mira Yulianti,SP, M.Si </td><td>Universitas Lambung Mangkurat</td></tr><tr><td>93. </td><td>INDIRA CHRISTI NUGRAHENI, S.P. </td><td>Penyuluh Pertanian, Semarang</td></tr><tr><td>94. </td><td>Ratih Damayanti, S.P </td><td>Penyuluh Pertanian, Kab. Banyumas</td></tr><tr><td>95. </td><td>Dr. Catur Wasonowati, SP Msi </td><td>Universitas Trunojoyo Madura</td></tr><tr><td>96.</td><td>Endah Rahmawati, S.Pt. </td><td>Penyuluh Pertanian, Kab. Demak</td></tr><tr><td>97. </td><td>DENI HESTINA, S.Pt </td><td> <br>Penyuluh Pertanian, Kab. Demak </td></tr><tr><td>98. </td><td>Angela Merici Intan Permatasari </td><td></td></tr><tr><td>99. </td><td>JULIATI PRIHATINI </td><td>IPDN, Jatinangor</td></tr><tr><td>100.</td><td>Nanang Kuswendi, S.St.Pi. </td><td></td></tr></tbody></table>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://agroteknologi.fp.uns.ac.id/?cat=3" rel="category">Berita</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="tag-links">
+					<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="https://agroteknologi.fp.uns.ac.id/?tag=webinar" rel="tag">webinar</a>				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Webinar Laboratorium EMPT Seri 2#</span></span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-2101" class="post-2101 post type-post status-publish format-standard hentry category-uncategorized">
+			<h2 class="entry-title"><a href="https://agroteknologi.fp.uns.ac.id/?p=2101" rel="bookmark">PENGUMUMAN PENYESUAIAN SYARAT-SYARAT ADMINISTRASI PENYELESAIAN TUGAS AKHIR PADA KONDISI DARURAT PANDEMI COVID-19 PRODI AGROTEKNOLOGI</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://agroteknologi.fp.uns.ac.id/?p=2101" title="01:31" rel="bookmark"><span class="entry-date">23/05/2020</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://agroteknologi.fp.uns.ac.id/?author=1" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				
+<figure class="wp-block-image"><img src="https://agroteknologi.fp.uns.ac.id/wp-content/uploads/2020/05/Screenshot_20200516_103046.jpg" alt="" class="wp-image-2102"/></figure>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://agroteknologi.fp.uns.ac.id/?cat=1" rel="category">Uncategorized</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on PENGUMUMAN PENYESUAIAN SYARAT-SYARAT ADMINISTRASI PENYELESAIAN TUGAS AKHIR PADA KONDISI DARURAT PANDEMI COVID-19 PRODI AGROTEKNOLOGI</span></span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+
+			<div id="post-1808" class="post-1808 post type-post status-publish format-standard hentry category-volume-5-no-2-desember-2016">
+			<h2 class="entry-title"><a href="https://agroteknologi.fp.uns.ac.id/?p=1808" rel="bookmark">KULTUR IN VITRO STERCULIA FOETIDA LINN. DENGAN MACAM KONSENTRASI BAP DAN IAA</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://agroteknologi.fp.uns.ac.id/?p=1808" title="03:24" rel="bookmark"><span class="entry-date">20/02/2018</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://agroteknologi.fp.uns.ac.id/?author=1" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2018/02/5.-agro-cicilia.pdf">KULTUR IN VITRO STERCULIA FOETIDA LINN. DENGAN MACAM KONSENTRASI BAP DAN IAA</a></p>
+<p>Oleh: Cicilia Epriliana Widodo, Endang Yuniastuti, Samanhudi</p>
+<p>Universitas Sebelas Maret</p>
+<p>Kontak Penulis: ciciliawidodo@student.uns.ac.id</p>
+<p>ABSTRACT</p>
+<p>Sterculia foetida Linn. is an oval seed plants that can be used as biofuel, which one of the enviromentally friendly fuel. This plant is quite hard to find because not many people who cultivate these plants. Tissue culture is one way to help preserve these plants. This research aims to determine optimum concentration of BAP and IAA to proppagate S. foetida Linn. by in vitro. Results show that 4 ppm BAP and 0.5 ppm IAA is able to produce complete plantlet, whereas 4 ppm BAP and 1 ppm IAA has the best growth of shoot and leaves. Keywords: Sterculia foetida Linn, tissue culture, BAP, IAA</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://agroteknologi.fp.uns.ac.id/?cat=224" rel="category">Volume 5 No. 2 : Desember 2016</a>					</span>
+					<span class="meta-sep">|</span>
+												<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on KULTUR IN VITRO STERCULIA FOETIDA LINN. DENGAN MACAM KONSENTRASI BAP DAN IAA</span></span></span>
+							</div><!-- .entry-utility -->
+		</div><!-- #post-## -->
+
+		
+	
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="https://agroteknologi.fp.uns.ac.id/?paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://agroteknologi.fp.uns.ac.id/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="text-3" class="widget-container widget_text"><h3 class="widget-title">Pengantar Ketua Prodi</h3>			<div class="textwidget"><p>                <img src="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2019/08/Parjanto.jpeg" class="alignleft" width="125" height="125" /></p>
+<p style="text-align: justify;font-size: 11px;line-height: 16px; ">Pertama - tama marilah kita panjatkan puji syukur kehadirat Allah SWT atas terbitnya website Prodi Agroteknologi Faperta Universitas Sebelas Maret. Seiring dengan era transformasi dewasa ini, kehadiran website Agroteknologi sangat diperlukan. Hal ini penting untuk media komunikasi dan informasi dalam berbagai bidang pertanian, khususnya Tridharma Perguruan Tinggi (Pendidikan, Penelitian, dan Pengabdian kepada Masyarakat). <br />
+Dengan ridho Allah SWT, Semoga website ini bermanfaat bagi masyarakat yang memerlukan informasi.<br />
+<br />
+Ketua Prodi Agroteknologi<br />
+Dr. Ir. Parjanto, M.P.            </p>
+</div>
+		</li><li id="text-2" class="widget-container widget_text"><h3 class="widget-title">Link Agroteknologi</h3>			<div class="textwidget"><marquee onmouseover="this.stop()" onmouseout="this.start()" scrollamount="3" direction="up" height="200" align="center">
+<div style="text-align: center;">
+
+<a href="http://pendidikan.fp.uns.ac.id/" target="_blank"><img src="http://fp.uns.ac.id/wp-content/themes/PrintDesign/images/banner/pendidikan.jpg" align="middle"></a>
+
+<a href="http://staff.pertanian.uns.ac.id/" target="_blank"><img src="http://fp.uns.ac.id/wp-content/themes/PrintDesign/images/banner/blog_staff.jpg"></a>
+
+<a href="http://digilib.fp.uns.ac.id/" target="_blank"><img src="http://fp.uns.ac.id/wp-content/themes/PrintDesign/images/banner/digilib.jpg"></a>
+
+<a href="http://pertanian.uns.ac.id/jurnal" target="_blank"><img src="http://fp.uns.ac.id/wp-content/themes/PrintDesign/images/banner/jurnal.jpg"></a>
+
+<a href="http://fp.uns.ac.id/legalisir/" target="_blank"><img src="http://fp.uns.ac.id/wp-content/themes/PrintDesign/images/banner/legalisir.jpg"></a>
+
+<a href="http://fp.uns.ac.id/magang/" target="_blank"><img src="http://fp.uns.ac.id/wp-content/themes/PrintDesign/images/banner/magang.jpg"></a>
+
+<a href="http://ikagt.fp.uns.ac.id/" target="_blank"><img src="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2012/11/logo-ikagt.jpg"></a>
+
+
+</div>
+</marquee></div>
+		</li><li id="linkcat-2" class="widget-container widget_links"><h3 class="widget-title">E-Jurnal Agroteknologi</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://digilib.fp.uns.ac.id/jurnal-1412-033x.html">Agri Texts</a></li>
+<li><a href="https://jurnal.uns.ac.id/agrosains">Agrosains: Jurnal Penelitian Agronomi</a></li>
+<li><a href="https://jurnal.uns.ac.id/arj">Agrotechnology Research Journal (ARJ)</a></li>
+<li><a href="http://agroteknologi.fp.uns.ac.id/index.php/category/journal-agronomy-research/" title="Vol 1 No 1">Journal Agronomy Research</a></li>
+<li><a href="http://digilib.fp.uns.ac.id/jurnal-1411-321x.html">Sains Tanah</a></li>
+<li><a href="http://digilib.fp.uns.ac.id/jurnal-1412-9999.html">SEPA</a></li>
+<li><a href="http://www.jsspn.cl/index.php?option=com_docman">Soil Science And Plant Nutrition</a></li>
+
+	</ul>
+</li>
+<li id="text-4" class="widget-container widget_text"><h3 class="widget-title">GALLERY AGROTEKNOLOGI</h3>			<div class="textwidget"><br/><div style="text-align: center;"><a href="http://agroteknologi.fp.uns.ac.id/index.php/gallery-agroteknologi/" target="_blank"><img src="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2012/11/gallery-copy.jpg" alt="" width="200" height="104"></a></div>
+		</li><li id="text-8" class="widget-container widget_text"><h3 class="widget-title">CONTACT</h3>			<div class="textwidget"><p style="font-size: 12px;line-height: 16px; "><strong>Program Studi Agroteknologi Fakultas Pertanian, UNS</strong><br />
+Ruang Prodi Agroteknologi Gedung C,  Lantai 1, Fakultas Pertanian - UNS, Jl. Ir. Sutami 36A Kentingan<br />
+Surakarta - 57126<br />
+<a href="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2013/07/phone.gif" rel="lightbox[278]" title="email-icon"><img class="alignleft size-full wp-image-707" style="border: 0px none;" title="email-icon" src="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2013/07/phone.gif" alt="" width="20" height="15" /></a> Phone/Fax FP UNS : (0271) 637457<br />
+<a href="http://fp.uns.ac.id/wp-content/uploads/2011/11/email-icon.gif" rel="lightbox[278]" title="email-icon"><img class="alignleft size-full wp-image-707" style="border: 0px none;" title="email-icon" src="http://fp.uns.ac.id/wp-content/uploads/2011/11/email-icon.gif" alt="" width="20" height="15" /></a> E-mail: agroteknologi@uns.ac.id</p>
+</div>
+		</li><li id="text-6" class="widget-container widget_text">			<div class="textwidget"><!-- Histats.com  START  (standard)-->
+<br/><div style="text-align: center;"><script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="stat counter" ><script  type="text/javascript" >
+try {Histats.start(1,2193591,4,437,112,75,"00011110");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?2193591&101" alt="stat counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+		</li><li id="text-7" class="widget-container widget_text">			<div class="textwidget"><a href='http://agroteknologi.fp.uns.ac.id/index.php/contact' style='display:scroll;position:fixed;bottom:0px;left:0px;' title='Agroteknologi'><img src="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2012/11/guestbook1.gif" /></a></div>
+		</li><li id="text-9" class="widget-container widget_text"><h3 class="widget-title">Akreditasi Prodi</h3>			<div class="textwidget"><center>Download Sertifikat Akreditasi Agroteknologi <br>
+<img src="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2018/01/AKREDITASI-AGROTEKNOLOGI.jpg" width = "150"><br>
+(<a href ="http://agroteknologi.fp.uns.ac.id/wp-content/uploads/2018/01/AKREDITASI-AGROTEKNOLOGI.jpg" target="_balnk"> Download Here </a>)</center></div>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<a href="https://agroteknologi.fp.uns.ac.id/" title="Program Studi Agroteknologi" rel="home">
+					Program Studi Agroteknologi				</a>
+							</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="https://wordpress.org/" class="imprint" title="Semantic Personal Publishing Platform">
+					Proudly powered by WordPress.				</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+<script type='text/javascript' src='https://agroteknologi.fp.uns.ac.id/wp-includes/js/wp-embed.min.js?ver=5.1.2'></script>
+</body>
+</html>

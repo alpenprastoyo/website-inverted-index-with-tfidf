@@ -1,0 +1,13 @@
+<table class="announcements">
+	<tbody><tr>
+		<td colspan="2" class="headseparator">&nbsp;</td>
+	</tr>
+
+
+	<tr>
+		<td colspan="2" class="nodata">No announcements have been published.</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="endseparator">&nbsp;</td>
+	</tr>
+</tbody></table></br>

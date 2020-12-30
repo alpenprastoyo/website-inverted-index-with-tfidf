@@ -1,0 +1,32 @@
+<table class="table table-striped" style="width: 70%; margin: 0px auto; border: 0px;">
+    <tbody><tr>
+        <th colspan="3" style="text-align: center;">Login UNS Digilib</th>
+    </tr>
+    <tr>
+        <td style="text-align: right; width: 25%;">Username :</td>
+        <td style="width: 65%;">
+            <input type="text" name="username" class="form-control" required="required">
+        </td>
+		<td style="width: 10%;"></td>
+    </tr>
+    <tr>
+        <td style="text-align: right; width: 25%;">Password :</td>
+        <td style="width: 65%;">
+            <input type="password" name="password" class="form-control" required="required">
+        </td>
+		<td style="width: 10%;"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="width: 65%;">
+            <input type="submit" class="btn btn-primary" value="Login">
+			<a href="https://digilib.uns.ac.id/user/forgot_password">Lupa Password ?</a>        </td>
+        <td>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" align="center">
+            Anggota baru ? <a href="https://digilib.uns.ac.id/user/register">Klik di sini untuk mendaftar menjadi anggota.</a>        </td>
+    </tr>
+    
+</tbody></table></br>

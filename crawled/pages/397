@@ -1,0 +1,864 @@
+<!DOCTYPE html><!-- Panoramic -->
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://pasca.uns.ac.id/s2ilmufisika/xmlrpc.php">
+
+<title>Magister Ilmu Fisika UNS &#8211; Physics Department, Grauate Program</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Magister Ilmu Fisika UNS &raquo; Feed" href="https://pasca.uns.ac.id/s2ilmufisika/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Magister Ilmu Fisika UNS &raquo; Comments Feed" href="https://pasca.uns.ac.id/s2ilmufisika/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pasca.uns.ac.id\/s2ilmufisika\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='DOPBSP-css-dopselect-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/libraries/css/jquery.dop.Select.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='smpl_shortcodes-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/css/header-standard.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-otb-font-awesome-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/otb-font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-font-awesome-min-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/style.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3Aregular|Raleway%3Aregular%2C700|Lato%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/libraries/js/dop-prototypes.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://pasca.uns.ac.id/s2ilmufisika/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pasca.uns.ac.id/s2ilmufisika/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pasca.uns.ac.id/s2ilmufisika/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+<style type="text/css">
+
+
+/* Minimum slider width */
+.panoramic-slider-container.default .slider .slide img {
+	min-width: 600px;
+}
+	
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 960px) {
+	.main-navigation.translucent {
+		position: relative;
+	}
+	
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}	
+	
+	.slider-placeholder {
+		display: none;
+	}
+	
+	.header-image .overlay,
+	.panoramic-slider-container.default .slider .slide .overlay {
+		top: 25%;
+    }
+	
+	.panoramic-slider-container.default .prev.top-padded,
+	.panoramic-slider-container.default .next.top-padded{
+		margin-top: -26px;
+	}
+	.header-image .overlay.top-padded,
+	.panoramic-slider-container.default .slider .slide .overlay.top-padded {
+		padding-top: 0;
+	}
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .otb-fa.otb-fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .otb-fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .otb-fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .otb-fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+}
+
+</style>
+
+<!-- Begin Custom CSS -->
+<style type="text/css" id="out-the-box-custom-css">
+a:hover,
+				.widget-area .widget a:hover,
+                .rpwe-block .rpwe-comment:hover,
+				.search-btn:hover,
+				.search-button .otb-fa-search:hover,
+				.site-header .site-top-bar-left a:hover,
+				.site-header .site-top-bar-right a:hover,
+				.site-header .site-header-right a:hover,
+				.woocommerce .woocommerce-breadcrumb a:hover,
+				.woocommerce-page .woocommerce-breadcrumb a:hover,
+				.woocommerce #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active,
+				.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active{color:#3f84a4;}.main-navigation button:hover,
+				#comments .form-submit #submit:hover,
+				.search-block .search-submit:hover,
+				.no-results-btn:hover,
+				button:hover,
+        		a.button:hover,
+				input[type="button"]:hover,
+				input[type="reset"]:hover,
+				input[type="submit"]:hover,
+				.site-header .site-top-bar-right a:hover .header-cart-checkout .otb-fa,
+				.site-header .site-header-right a:hover .header-cart-checkout .otb-fa,
+				.woocommerce input.button.alt:hover,
+				.woocommerce-page #content input.button.alt:hover,
+				.woocommerce .cart-collaterals .shipping_calculator .button,
+				.woocommerce-page .cart-collaterals .shipping_calculator .button,
+				.woocommerce a.button:hover,
+				.woocommerce-page a.button:hover,
+				.woocommerce input.button:hover,
+				.woocommerce-page #content input.button:hover,
+				.woocommerce-page input.button:hover,
+				.woocommerce ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce-page ul.products li.product a.add_to_cart_button:hover,
+				.woocommerce ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce-page ul.products li.product a.button.product_type_simple:hover,
+				.woocommerce button.button.alt:hover,
+				.woocommerce a.button.alt:hover,
+				.woocommerce-page button.button.alt:hover,
+				.woocommerce #review_form #respond .form-submit input:hover,
+				.woocommerce-page #review_form #respond .form-submit input:hover,
+				.wpcf7-submit:hover,
+        		div.wpforms-container form.wpforms-form input[type=submit]:hover,
+				div.wpforms-container form.wpforms-form button[type=submit]:hover,
+				div.wpforms-container form.wpforms-form .wpforms-page-button:hover,
+        		.testimonials .sow-slider-base .sow-slide-nav:hover{background-color:#3f84a4;}
+</style>
+<!-- End Custom CSS -->
+<link rel="icon" href="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-270x270.png" />
+</head>
+
+<body class="home blog wp-custom-logo">
+
+<header id="masthead" class="site-header panoramic-header-layout-standard" role="banner">
+
+    
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="https://pasca.uns.ac.id/s2ilmufisika/" class="custom-logo-link" rel="home" itemprop="url"><img width="310" height="62" src="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/Magister-Ilmu-Fisika-.png" class="custom-logo" alt="Magister Ilmu Fisika UNS" itemprop="logo" srcset="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/Magister-Ilmu-Fisika-.png 310w, https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2016/09/Magister-Ilmu-Fisika--300x60.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                    <div class="info-text">
+            	<strong><em>CALL US:</em></strong> 555-PANORAMIC            </div>
+			<ul class="social-links">
+<li><a href="mailto:&#115;%32&#105;%6c%6d&#117;f&#105;%73&#105;%6b%61%40%6d&#097;%69&#108;%2eu%6e&#115;%2e&#097;%63%2e&#105;d" title="Send us an email" class="social-email"><i class="otb-fa otb-fa-envelope-o"></i></a></li><li><i class="otb-fa otb-fa-search search-btn"></i></li></ul>                
+    </div>
+    <div class="clearboth"></div>
+    
+		<div class="search-block">
+		<form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s2ilmufisika/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form>	</div>
+	    
+</div>
+
+        
+<nav id="site-navigation" class="main-navigation border-bottom translucent" role="navigation">
+	<span class="header-menu-button"><i class="otb-fa otb-fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="otb-fa otb-fa-angle-right"></i><i class="otb-fa otb-fa-angle-left"></i></div>
+		<div class="main-navigation-inner"><ul id="menu-home-menu" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="https://pasca.uns.ac.id/s2ilmufisika/">Home</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-64"><a>Profil</a>
+<ul  class="sub-menu">
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://pasca.uns.ac.id/s2ilmufisika/sekapur-sirih/">Sekapur Sirih</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="https://pasca.uns.ac.id/s2ilmufisika/sejarah-singkat/">Sejarah Singkat</a></li>
+	<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60"><a href="https://pasca.uns.ac.id/s2ilmufisika/visi-misi/">Visi Misi</a></li>
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="https://pasca.uns.ac.id/s2ilmufisika/staff-pengajar/">Staff Pengajar</a></li>
+	<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://pasca.uns.ac.id/s2ilmufisika/fasilitas/">Fasilitas</a></li>
+</ul>
+</li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="https://pasca.uns.ac.id/s2ilmufisika/pendaftaran/">Pendaftaran</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://siakad.uns.ac.id">siakad</a></li>
+<li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-89"><a>Publication</a>
+<ul  class="sub-menu">
+	<li id="menu-item-88" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-88"><a href="https://jurnal.uns.ac.id/prosidingsnfa">Prosiding SNFA 2016</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90"><a href="http://iopscience.iop.org/issue/1742-6596/795/1">ICSAS 2016 (IOP Publisher)</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="https://jurnal.uns.ac.id/ijsascs/">IJSASCS</a></li>
+	<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158"><a href="https://jurnal.uns.ac.id/jphystheor-appl">JPhysTheor-Appl</a></li>
+</ul>
+</li>
+<li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-91"><a>Conference</a>
+<ul  class="sub-menu">
+	<li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a href="https://icsas.uns.ac.id/">ICSAS 2017</a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-159"><a href="https://snfa.uns.ac.id/">SNFA 2017</a></li>
+</ul>
+</li>
+<li id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-125"><a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/">Berita</a>
+<ul  class="sub-menu">
+	<li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/">Pengumuman</a></li>
+</ul>
+</li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+    
+</header><!-- #masthead -->
+
+<script>
+    var panoramicSliderTransitionSpeed = parseInt(450);
+</script>
+
+<div class="header-image loading">
+		
+	<img src="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2017/02/slider-1.jpg" alt="" height="445" width="1500" />
+	
+		
+</div>
+<div id="content" class="site-content site-container ">
+
+	    
+    
+	<div id="primary" class="content-area ">
+		<main id="main" class="site-main" role="main">
+        
+        
+		
+						
+				
+<article id="post-200" class="blog-post-side-layout no-featured-image post-200 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2019/02/12/jadwal-kuliah-periode-februari-juli-tahun-ajaran-20182019/" rel="bookmark">Jadwal Kuliah Periode Februari-Juli Tahun Ajaran 2018/2019</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2019/02/12/jadwal-kuliah-periode-februari-juli-tahun-ajaran-20182019/" rel="bookmark"><time class="entry-date published" datetime="2019-02-12T08:09:13+00:00">February 12, 2019</time><time class="updated" datetime="2019-02-12T08:11:48+00:00">February 12, 2019</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Diumumkan kepada seluruh mahasiswa Prodi Ilmu Fisika Pascasarjana Universitas Sebelas Maret , bahwa pelaksanaan perkuliahan semester Pebruari-Juli 2019 dimulai pada tanggal 5 Maret 2019 dengan jadwal <a href="https://pasca.uns.ac.id/s2ilmufisika/2019/02/12/jadwal-kuliah-periode-februari-juli-tahun-ajaran-20182019/#more-200" class="more-link">Continue reading <span class="screen-reader-text">&#8220;Jadwal Kuliah Periode Februari-Juli Tahun Ajaran 2018/2019&#8221;</span> <span class="meta-nav">&rarr;</span></a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/uncategorized/" rel="category tag">Uncategorized</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2019/02/12/jadwal-kuliah-periode-februari-juli-tahun-ajaran-20182019/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-166" class="blog-post-side-layout no-featured-image post-166 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/05/19/jadwal-kuliah-perdana-angkatan-pebruari-2017/" rel="bookmark">Jadwal Kuliah Perdana Angkatan Pebruari 2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/05/19/jadwal-kuliah-perdana-angkatan-pebruari-2017/" rel="bookmark"><time class="entry-date published" datetime="2017-05-19T18:27:38+00:00">May 19, 2017</time><time class="updated" datetime="2017-05-19T18:30:33+00:00">May 19, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Diumumkan kepada seluruh mahasiswa baru pascasarjana Universitas Sebelas Maret angkatan Pebruari 2017 tahun akademik 2016/2017, bahwa program studi yang menyelenggarakan perkuliahan semester gasal Pebruari-Juli 2017 untuk <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/02/kulperfeb17.pdf" target="_blank" rel="noopener noreferrer">selengkapnya klik disini” </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/uncategorized/" rel="category tag">Uncategorized</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/05/19/jadwal-kuliah-perdana-angkatan-pebruari-2017/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-163" class="blog-post-side-layout no-featured-image post-163 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/05/19/pemberitahuan-libur-nasional-tanggal-15-februari-2017/" rel="bookmark">Pemberitahuan Libur Nasional Tanggal 15 Februari 2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/05/19/pemberitahuan-libur-nasional-tanggal-15-februari-2017/" rel="bookmark"><time class="entry-date published" datetime="2017-05-19T18:25:28+00:00">May 19, 2017</time><time class="updated" datetime="2017-05-19T18:29:19+00:00">May 19, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Pemberitahuan Libur Nasional Tanggal 15 Februari 2017 <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/02/edaran_libur.pdf" target="_blank" rel="noopener noreferrer">selengkapnya klik di sini” </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/uncategorized/" rel="category tag">Uncategorized</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/05/19/pemberitahuan-libur-nasional-tanggal-15-februari-2017/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-118" class="blog-post-side-layout no-featured-image post-118 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/10/surat-peringatan-akademik-januari-2017/" rel="bookmark">Surat Peringatan Akademik I Januari 2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/10/surat-peringatan-akademik-januari-2017/" rel="bookmark"><time class="entry-date published" datetime="2017-02-10T05:10:10+00:00">February 10, 2017</time><time class="updated" datetime="2017-02-11T05:11:17+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Surat Peringatan Akademik I bagi mahasiswa Program Doktor (S3) Angkatan 2010/2011 dan Surat Peringatan Akademik I bagi mahasiswa Program Magister (S2) Angkatan 2013/2014 <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/02/srt_pr_akad1_s2_a1314_s3_a1011.pdf" target="_blank">selengkapnya klik disini” </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/10/surat-peringatan-akademik-januari-2017/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-80" class="blog-post-side-layout no-featured-image post-80 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/07/pengisian-krs-perkuliahan-februari-juli-tahun-ajaran-20162017/" rel="bookmark">Pengisian KRS Perkuliahan Februari-Juli Tahun Ajaran 2016/2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/07/pengisian-krs-perkuliahan-februari-juli-tahun-ajaran-20162017/" rel="bookmark"><time class="entry-date published" datetime="2017-02-07T04:08:14+00:00">February 7, 2017</time><time class="updated" datetime="2017-02-11T05:12:58+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Diberitahukan kepada Mahasiswa Pascasarjana UNS Program Studi S2 Ilmu Fisika bahwa: pengisian KRS untuk Periode Perkuliahan Februari-Juli Tahun Ajaran 2016/2017 sudah dapat dilakukan melalui <a href="https://siakad.uns.ac.id/">siakad.uns.ac.id</a>. Masa pengisian KRS dapat dilakukan tanggal 7 Februari sampai 21 Februari 2017. Jangan lupa untuk Registrasi online sebelum mengisi KRS.</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/07/pengisian-krs-perkuliahan-februari-juli-tahun-ajaran-20162017/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-116" class="blog-post-side-layout no-featured-image post-116 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/03/persyaratan-layanan-akademik/" rel="bookmark">Persyaratan Layanan Akademik</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/03/persyaratan-layanan-akademik/" rel="bookmark"><time class="entry-date published" datetime="2017-02-03T05:09:07+00:00">February 3, 2017</time><time class="updated" datetime="2017-02-11T05:13:12+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Diberitahukan kepada semua mahasiswa program Magister dan program Doktor Pascasarjana UNS bahwa persyaratan layanan akademik pascasarjana ialah <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/02/edaran_no250un27.pdf" target="_blank">selengkapnya klik disini </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/03/persyaratan-layanan-akademik/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-113" class="blog-post-side-layout no-featured-image post-113 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/01/penyelesaian-studi-mahasiswa-program-magister-angkatan-20122013-doktor-angkatan-20092010-dan-angkatan-angkatan-sebelumnya/" rel="bookmark">Penyelesaian Studi Mahasiswa Program Magister Angkatan 2012/2013, Doktor Angkatan 2009/2010 dan Angkatan-Angkatan Sebelumnya</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/01/penyelesaian-studi-mahasiswa-program-magister-angkatan-20122013-doktor-angkatan-20092010-dan-angkatan-angkatan-sebelumnya/" rel="bookmark"><time class="entry-date published" datetime="2017-02-01T05:04:50+00:00">February 1, 2017</time><time class="updated" datetime="2017-02-11T05:06:25+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Penyelesaian Studi Mahasiswa Program Magister Angkatan 2012/2013 &amp; Doktor Angkatan 2009/2010 dan Angkatan-Angkatan Sebelumnya <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/peny.study_.mgterdoktor.pdf" target="_blank">selengkapnya klik disini </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/02/01/penyelesaian-studi-mahasiswa-program-magister-angkatan-20122013-doktor-angkatan-20092010-dan-angkatan-angkatan-sebelumnya/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-111" class="blog-post-side-layout no-featured-image post-111 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/24/tahap-penyelesaian-tesis-dan-disertasi/" rel="bookmark">Tahap Penyelesaian Tesis dan Disertasi</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/24/tahap-penyelesaian-tesis-dan-disertasi/" rel="bookmark"><time class="entry-date published" datetime="2017-01-24T05:03:27+00:00">January 24, 2017</time><time class="updated" datetime="2017-02-11T05:04:36+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Mempertimbangkan Peraturan Menteri pendidikan dan Kebudayaan No. 82 Tahun 2014 tentang organisasi dan tata kerja Universitas Sebelas Maret, dan Peraturan Rektor Universitas Sebelas Maret <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/thp_peny_tesisdandisertasi.pdf" target="_blank">selengkapnya klik disini </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/24/tahap-penyelesaian-tesis-dan-disertasi/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-109" class="blog-post-side-layout no-featured-image post-109 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/20/batas-pembayaran-biaya-pendidikan-2017/" rel="bookmark">BATAS PEMBAYARAN BIAYA PENDIDIKAN 2017</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/20/batas-pembayaran-biaya-pendidikan-2017/" rel="bookmark"><time class="entry-date published" datetime="2017-01-20T05:00:49+00:00">January 20, 2017</time><time class="updated" datetime="2017-02-11T05:13:22+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Sesuai dengan kalender akademik No. 584/UN27/HK/2016, tentang jadwal pelaksanaan kegiatan <a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/batas-pem17.pdf" target="_blank">selengkapnya klik disini </a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/20/batas-pembayaran-biaya-pendidikan-2017/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-107" class="blog-post-side-layout no-featured-image post-107 post type-post status-publish format-standard hentry category-berita category-pengumuman-berita">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/05/daftar-predatory-journal/" rel="bookmark">Daftar Predatory Journal</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/05/daftar-predatory-journal/" rel="bookmark"><time class="entry-date published" datetime="2017-01-05T04:58:59+00:00">January 5, 2017</time><time class="updated" datetime="2017-02-11T05:00:30+00:00">February 11, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2ilmufisika/author/s2ilmufisika/">s2ilmufisika</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<section class="article_content clearfix">Inilah daftar beberapa journal internasional yang palsu dan predator sehingga patut diwaspadai bagi Anda yang sedang publishing jurnal ilmiah.</p>
+<ul>
+<li><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/LIST-OF-PREDATORY-PUBLISHERS-_-Scholarly-Open-Access.pdf">Beall’s Predatory Journal List (Jeffrey Beall, 2016)</a></li>
+<li><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/criteria-2015.pdf">Predatory Criteria (Jeffrey Beall, 2015)</a></li>
+<li><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/JURNAL_MASUK_BLACK_LIST_DIKTI.pdf">Daftar Jurnal Predator (DIKTI, 2013)</a></li>
+</ul>
+</section>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="cat-links">Posted in <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" rel="category tag">Berita</a>, <a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" rel="category tag">Pengumuman</a> </span><span class="comments-link"><a href="https://pasca.uns.ac.id/s2ilmufisika/2017/01/05/daftar-predatory-journal/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				<nav class="navigation paging-navigation" role="navigation">
+		<span class="screen-reader-text">Posts navigation</span>
+		<div class="nav-links">
+
+						<div class="nav-previous"><a href="https://pasca.uns.ac.id/s2ilmufisika/page/2/" >Older posts <span class="meta-nav">&rarr;</span></a></div>
+			
+			
+		</div><!-- .nav-links -->
+	</nav><!-- .navigation -->
+	
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s2ilmufisika/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Download</h2><div class="menu-download-container"><ul id="menu-download" class="menu"><li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a href="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2017/12/akreditasi-2017-S2-Fisika-11.pdf">Akreditasi 2017-2022 S2 Ilmu Fisika</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171"><a href="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2017/09/Akreditasi-S2-Ilmu-Fisika-2012-2017.pdf">Akreditasi 2012-2017 S2 Ilmu Fisika</a></li>
+<li id="menu-item-191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191"><a href="https://pasca.uns.ac.id/s2ilmufisika/wp-content/uploads/sites/13/2017/12/akreditasi-uns-2014-.pdf">Akreditasi Universitas Sebelas Maret</a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/02/srt_pr_akad1_s2_a1314_s3_a1011.pdf">Surat Peringatan Akademik I</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-144"><a href="https://pasca.uns.ac.id/wp-content/uploads/2016/07/SK-R-584-kaldik-pasca-OK-lampiran-5fix.pdf">Kalender Akademik 2016-2017</a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-145"><a href="https://pasca.uns.ac.id/wp-content/uploads/2016/10/alur-siakad-2016.pdf">Alur Siakad</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/03/Berkas-Pesyaratan-Ujian-Thesis-baru.doc">Persyaratan Ujian Tesis</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-147"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/berkas-persyaratan-wisuda17.docx">Persyaratan Wisuda</a></li>
+<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="https://pasca.uns.ac.id/wp-content/uploads/2016/10/form-persetujuan-semhas-tesis.docx">Form Persetujuan Semhas Tesis</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="https://pasca.uns.ac.id/wp-content/uploads/2016/10/form-persetujuan-semprop-tesis.docx">Form Persetujuan Semprop Tesis</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-150"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/03/formsurat-ijinpenelitian17.docx">Surat Ijin Penelitian</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-151"><a href="https://pasca.uns.ac.id/wp-content/uploads/2016/10/pedoman-penulisan-tesis-2013.pdf">Pedoman Penulisan Tesis</a></li>
+<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/01/surat-keterangan-mahasiswa.doc">Surat Keterangan Aktif Kuliah</a></li>
+<li id="menu-item-153" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-153"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/03/00k-PRektor585-revisi-7Maret2017.pdf">Peraturan Rektor Tentang Pascasarjana</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-154"><a href="https://pasca.uns.ac.id/wp-content/uploads/2016/08/FORMULIR_BUDI_DN_2016.pdf">Formulir Budi DN</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-155"><a href="https://drive.google.com/open?id=0Bzcy6DDAq04TMmg0cHd1R2E2S0E">Pedoman Akademik 2016</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-156"><a href="https://goo.gl/Mqc3AP">Surat Keterangan Publikasi Jurnal &amp; Prosiding Seminar</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157"><a href="https://pasca.uns.ac.id/blog/2017/03/14/rekap-data-verifikasi-publikasi-jurnal-prosiding-seminar-pascasarjana-uns/">Form Rekap Data Verifikasi Publikasi Jurnal &amp; Prosiding Seminar</a></li>
+</ul></div></aside><aside id="archives-3" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+			<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2019/02/'>February 2019</a></li>
+	<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2017/05/'>May 2017</a></li>
+	<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2017/02/'>February 2017</a></li>
+	<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2017/01/'>January 2017</a></li>
+	<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2016/12/'>December 2016</a></li>
+	<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2016/11/'>November 2016</a></li>
+	<li><a href='https://pasca.uns.ac.id/s2ilmufisika/2015/09/'>September 2015</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+	<li class="cat-item cat-item-15"><a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/" >Berita</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://pasca.uns.ac.id/s2ilmufisika/category/berita/pengumuman-berita/" >Pengumuman</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://pasca.uns.ac.id/s2ilmufisika/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</aside></div><!-- #secondary -->
+    
+        
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        
+                        <ul>
+                <li id="meta-4" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>
+			<ul>
+						<li><a href="https://pasca.uns.ac.id/s2ilmufisika/wp-login.php">Log in</a></li>
+			<li><a href="https://pasca.uns.ac.id/s2ilmufisika/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://pasca.uns.ac.id/s2ilmufisika/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</li>
+<li id="calendar-3" class="widget widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="https://pasca.uns.ac.id/s2ilmufisika/2019/02/">&laquo; Feb</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>
+<li id="nav_menu-2" class="widget widget_nav_menu"><h2 class="widgettitle">Internal Link UNS</h2>
+<div class="menu-internal-link-uns-container"><ul id="menu-internal-link-uns" class="menu"><li id="menu-item-93" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"><a href="http://uns.ac.id/">Universitas Sebelas Maret</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a href="https://lppm.uns.ac.id/">LPPM UNS</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"><a href="https://webmail.uns.ac.id/">Webmail UNS</a></li>
+<li id="menu-item-96" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-96"><a href="https://library.uns.ac.id/">Perpustakaan UNS</a></li>
+<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a href="https://wisuda.uns.ac.id/">Portal Wisuda UNS</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a href="https://spmb.uns.ac.id/">SPMB UNS</a></li>
+</ul></div></li>
+            </ul>
+    		    		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Theme by <a href="http://www.outtheboxthemes.com">Out the Box</a> 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	                            
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/libraries/js/jquery.dop.Select.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/assets/js/jquery.dop.frontend.BSPCalendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/assets/js/frontend.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/assets/js/deposit/frontend-deposit.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/assets/js/discounts/frontend-discounts.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/assets/js/fees/frontend-fees.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/assets/js/rules/frontend-rules.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/application/assets/js/dot.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/application/assets/js/calendars/calendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-availability.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-days.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-day.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-schedule.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/pasca.uns.ac.id\/s2ilmufisika\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/js/navigation.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/js/jquery.touchSwipe.min.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/js/custom.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2ilmufisika/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<table class="table">
+                            <tbody><tr>
+                                <td>
+                                    <a href="/site/staff/aktivasi">Aktivasi Email Staff</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="/site/student/aktivasi">Aktivasi Email Student</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <a href="/site/alumni/aktivasi">Aktivasi Email Alumni</a>
+                                </td>
+                            </tr>
+                        </tbody></table></br>

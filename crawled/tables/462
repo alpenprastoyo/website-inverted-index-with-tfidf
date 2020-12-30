@@ -1,0 +1,58 @@
+<table id="dataTables" class="table-bordered table-striped" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th style="width:750px">Nama File</th>
+                <th>Hits</th>
+                <th>Download</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                            <td>1</td>
+                            <td style="width:750px;">Sertifikat AUNQA Agribisnis S1</td>
+                            <td>3 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/Sertifikat_AUNQA_Agribisnis_S1.pdf"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>2</td>
+                            <td style="width:750px;">Sertifikat Akreditasi (2017-2022)</td>
+                            <td>3 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/sertifikat_akred2017-2022.pdf"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>3</td>
+                            <td style="width:750px;">PANDUAN SKRIPSI AGRIBISNIS 2017 </td>
+                            <td>10 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/PANDUAN-SKRIPSI-AGRIBISNIS-2017.doc"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>4</td>
+                            <td style="width:750px;">sertifikat akreditasi jur SOSEK 2003</td>
+                            <td>5 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/sertifikat_akreditasi_jur_SOSEK_2003.pdf"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>5</td>
+                            <td style="width:750px;">SERTIFIKAT AKREDITASI (2013-2018)</td>
+                            <td>2 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/Agribisnis-S1_25-Januari-2013-2018.pdf"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>6</td>
+                            <td style="width:750px;">akreditasi 2008-2013</td>
+                            <td>6 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/akreditasi_2008-20130001.pdf"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>7</td>
+                            <td style="width:750px;">Form Ajuan Judul Semhas</td>
+                            <td>10 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/form_ajuan_jdl_-_sem_hasil.docx"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>8</td>
+                            <td style="width:750px;">Blanko Yudisium</td>
+                            <td>11 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/blanko_yudisium.docx"><i class="icofont-download"></i> Download</a></td>
+                            </tr><tr>
+                            <td>9</td>
+                            <td style="width:750px;">Blanko Ujian Skripsi</td>
+                            <td>11 Kali</td>
+                            <td><a href="https://agribisnis.fp.uns.ac.id/download/file/blanko_ujian_skripsi.docx"><i class="icofont-download"></i> Download</a></td>
+                            </tr>              </tbody>
+              </table></br>

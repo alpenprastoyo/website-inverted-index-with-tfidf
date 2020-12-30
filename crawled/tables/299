@@ -1,0 +1,30 @@
+<table style="width: 99.6839%;" width="100%">
+<thead>
+<tr>
+<th style="width: 8.47269%; text-align: center;" align="left">No</th>
+<th style="width: 53.6232%; text-align: center;" align="left">Faculty</th>
+<th style="width: 35.34%; text-align: center;" align="left">Study Program</th>
+<th style="width: 3.63181%; text-align: center;">Accreditation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 8.47269%; text-align: center;">1</td>
+<td style="width: 53.6232%; text-align: center;">Medical Faculty</td>
+<td style="width: 35.34%; text-align: center;">Professional Doctor</td>
+<td style="width: 3.63181%; text-align: center;">A</td>
+</tr>
+<tr>
+<td style="width: 8.47269%; text-align: center;">2</td>
+<td style="width: 53.6232%; text-align: center;">Faculty of Teacher Training and Education</td>
+<td style="width: 35.34%; text-align: center;">Professional Teacher</td>
+<td style="width: 3.63181%; text-align: center;">Good</td>
+</tr>
+<tr>
+<td style="width: 8.47269%; text-align: center;">3</td>
+<td style="width: 53.6232%; text-align: center;">Faculty of Engineering</td>
+<td style="width: 35.34%; text-align: center;">Professional Engineer</td>
+<td style="width: 3.63181%; text-align: center;">*</td>
+</tr>
+</tbody>
+</table></br>

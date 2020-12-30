@@ -1,0 +1,316 @@
+<table class="tribe-mini-calendar" data-count="5" data-eventdate="2020-12-01" data-tax-query="" data-nonce="830919616a">
+				<thead class="tribe-mini-calendar-nav">
+		<tr>
+			<td colspan="7">
+				<div>
+					<a class="tribe-mini-calendar-nav-link prev-month" href="#" data-month="2020-11-01" title="November"><span>«</span></a>					<span id="tribe-mini-calendar-month-0">December 2020</span>
+					<a class="tribe-mini-calendar-nav-link next-month" href="#" data-month="2021-01-01" title="January"><span>»</span></a>					<img id="ajax-loading-mini" src="https://lppmp.uns.ac.id/wp-content/plugins/the-events-calendar/src/resources/images/tribe-loading.gif" alt="loading...">
+				</div>
+			</td>
+		</tr>
+						<tr>
+							<th class="tribe-mini-calendar-dayofweek">M</th>
+							<th class="tribe-mini-calendar-dayofweek">T</th>
+							<th class="tribe-mini-calendar-dayofweek">W</th>
+							<th class="tribe-mini-calendar-dayofweek">T</th>
+							<th class="tribe-mini-calendar-dayofweek">F</th>
+							<th class="tribe-mini-calendar-dayofweek">S</th>
+							<th class="tribe-mini-calendar-dayofweek">S</th>
+			
+		</tr>
+		</thead>
+
+		<tbody>
+
+		<tr>
+									<td class="tribe-events-othermonth tribe-events-past mobile-trigger tribe-event-day-30">
+				
+
+
+	<div id="daynum-30-0">
+		<span class="tribe-mini-calendar-no-event">30</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-01">
+				
+
+
+	<div id="daynum-1-0">
+		<span class="tribe-mini-calendar-no-event">1</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-02">
+				
+
+
+	<div id="daynum-2-0">
+		<span class="tribe-mini-calendar-no-event">2</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-03">
+				
+
+
+	<div id="daynum-3-0">
+		<span class="tribe-mini-calendar-no-event">3</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-04 tribe-events-right">
+				
+
+
+	<div id="daynum-4-0">
+		<span class="tribe-mini-calendar-no-event">4</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-05 tribe-events-right">
+				
+
+
+	<div id="daynum-5-0">
+		<span class="tribe-mini-calendar-no-event">5</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-06 tribe-events-right">
+				
+
+
+	<div id="daynum-6-0">
+		<span class="tribe-mini-calendar-no-event">6</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-07">
+				
+
+
+	<div id="daynum-7-0">
+		<span class="tribe-mini-calendar-no-event">7</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-08">
+				
+
+
+	<div id="daynum-8-0">
+		<span class="tribe-mini-calendar-no-event">8</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-09">
+				
+
+
+	<div id="daynum-9-0">
+		<span class="tribe-mini-calendar-no-event">9</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-10">
+				
+
+
+	<div id="daynum-10-0">
+		<span class="tribe-mini-calendar-no-event">10</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-11 tribe-events-right">
+				
+
+
+	<div id="daynum-11-0">
+		<span class="tribe-mini-calendar-no-event">11</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-12 tribe-events-right">
+				
+
+
+	<div id="daynum-12-0">
+		<span class="tribe-mini-calendar-no-event">12</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-13 tribe-events-right">
+				
+
+
+	<div id="daynum-13-0">
+		<span class="tribe-mini-calendar-no-event">13</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-14">
+				
+
+
+	<div id="daynum-14-0">
+		<span class="tribe-mini-calendar-no-event">14</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-15">
+				
+
+
+	<div id="daynum-15-0">
+		<span class="tribe-mini-calendar-no-event">15</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-16">
+				
+
+
+	<div id="daynum-16-0">
+		<span class="tribe-mini-calendar-no-event">16</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-17">
+				
+
+
+	<div id="daynum-17-0">
+		<span class="tribe-mini-calendar-no-event">17</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-18 tribe-events-right">
+				
+
+
+	<div id="daynum-18-0">
+		<span class="tribe-mini-calendar-no-event">18</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-19 tribe-events-right">
+				
+
+
+	<div id="daynum-19-0">
+		<span class="tribe-mini-calendar-no-event">19</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-20 tribe-events-right">
+				
+
+
+	<div id="daynum-20-0">
+		<span class="tribe-mini-calendar-no-event">20</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-21">
+				
+
+
+	<div id="daynum-21-0">
+		<span class="tribe-mini-calendar-no-event">21</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-22">
+				
+
+
+	<div id="daynum-22-0">
+		<span class="tribe-mini-calendar-no-event">22</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-23">
+				
+
+
+	<div id="daynum-23-0">
+		<span class="tribe-mini-calendar-no-event">23</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-24">
+				
+
+
+	<div id="daynum-24-0">
+		<span class="tribe-mini-calendar-no-event">24</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-25 tribe-events-right">
+				
+
+
+	<div id="daynum-25-0">
+		<span class="tribe-mini-calendar-no-event">25</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-26 tribe-events-right">
+				
+
+
+	<div id="daynum-26-0">
+		<span class="tribe-mini-calendar-no-event">26</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-27 tribe-events-right">
+				
+
+
+	<div id="daynum-27-0">
+		<span class="tribe-mini-calendar-no-event">27</span>	</div>
+
+			</td>
+								</tr>
+		<tr>
+						<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-28">
+				
+
+
+	<div id="daynum-28-0">
+		<span class="tribe-mini-calendar-no-event">28</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-past mobile-trigger tribe-event-day-29">
+				
+
+
+	<div id="daynum-29-0">
+		<span class="tribe-mini-calendar-no-event">29</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-present mobile-trigger tribe-event-day-30">
+				
+
+
+	<div id="daynum-30-1">
+		<span class="tribe-mini-calendar-no-event">30</span>	</div>
+
+			</td>
+									<td class="tribe-events-thismonth tribe-events-future mobile-trigger tribe-event-day-31">
+				
+
+
+	<div id="daynum-31-0">
+		<span class="tribe-mini-calendar-no-event">31</span>	</div>
+
+			</td>
+									<td class="tribe-events-othermonth tribe-events-future mobile-trigger tribe-event-day-01 tribe-events-right">
+				
+
+
+	<div id="daynum-1-1">
+		<span class="tribe-mini-calendar-no-event">1</span>	</div>
+
+			</td>
+									<td class="tribe-events-othermonth tribe-events-future mobile-trigger tribe-event-day-02 tribe-events-right">
+				
+
+
+	<div id="daynum-2-1">
+		<span class="tribe-mini-calendar-no-event">2</span>	</div>
+
+			</td>
+									<td class="tribe-events-othermonth tribe-events-future mobile-trigger tribe-event-day-03 tribe-events-right">
+				
+
+
+	<div id="daynum-3-1">
+		<span class="tribe-mini-calendar-no-event">3</span>	</div>
+
+			</td>
+					</tr>
+		</tbody>
+			</table></br>

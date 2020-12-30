@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Program Studi Ilmu Teknologi Pangan UNS</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+<meta name="google-site-verification" content="0IMXUsS4eSF45MrU6HjoDjY2vEBPy4eePCYoTiVrfSE" />
+
+  <!-- Favicons -->
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="icon">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://ilmupangan.fp.uns.ac.id/asset/prodi/css/baguetteBox.min.css">
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/css/gallery-grid.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="https://ilmupangan.fp.uns.ac.id/asset/prodi/css/style.css" rel="stylesheet">
+  
+
+  <!-- =======================================================
+  * Template Name: Company - v2.1.0
+  * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+        <div class="container-fluid d-flex align-items-center">
+
+      <!-- <h1 class="logo mr-auto"><a href="index.html"><span>Com</span>pany</a></h1> -->
+
+      <a href="https://ilmupangan.fp.uns.ac.id/"><img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/logo-ilmu-tanah.png" style="width: 70%; padding: 5px"></a>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        
+        <ul>
+                              <li><a href='https://ilmupangan.fp.uns.ac.id/' style='background: url(https://ilmupangan.fp.uns.ac.id/asset/images/home.png) no-repeat center; font-size:0; width:34px;'><br></a></li><li><a href='https://ilmupangan.fp.uns.ac.id/'>Beranda</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/pengumuman'>Pengumuman</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/download'>Download</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita'>Semua Berita</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/albums'>Galeri</a></li></ul>
+        
+      
+     <!--   <div style="padding-left:20px;">
+        <form class="form-search form-inline" method="POST" action="http://ilmupangan.fp.uns.ac.id/berita">
+          <div class="input-group">
+            <input type="text" name="kata" class="form-control search-query" placeholder="Cari.." /> <span class="input-group-btn">
+              <button type="submit" class="btn btn-outline-success"><i class="icofont-search-1"></i></button>
+            </span>
+ 
+          </div>
+        </form>
+      </div> -->
+      </ul>
+
+      </nav>
+   
+     
+      <!-- .nav-menu -->
+
+     <!--  <div>
+          <form class="" method="POST" action="http://ilmupangan.fp.uns.ac.id/berita">
+            <div>
+                <input class="" name="kata" type="text" value="" size="16" tabindex="1" required/>
+                <input type="submit" class="button" value="Search" tabindex="2" />
+            </div>
+          </form>
+      </div> -->
+      <div class="header-social-links">
+        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://www.instagram.com/foodtech_uns/" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+      <!-- </div>
+        <div class="cari">
+        <form class="form-inline" method="POST" action="http://ilmupangan.fp.uns.ac.id/berita">
+            <input  class="form-control mr-sm-2" name="kata" type="search" size="10" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div> -->
+      
+
+    </div>
+
+  </header><!-- End Header -->
+<hr>
+
+
+  <main id="main">
+
+      <div class="container-fluid" style="width: 95% ">
+    <dic class="row">
+      <div id="hero" class="col-md-3 sidebar" style="padding: 0">
+        <nav id="sidebar1" class="nav-menu-side" data-aos="fade-up">
+  <div class="cari" style="padding: 5px">
+        <form class="form-inline" method="POST" action="https://ilmupangan.fp.uns.ac.id/berita">
+            <center><input  class="form-control mr-sm-2" name="kata" type="search" size="14" placeholder="Search" aria-label="Search"></center>
+            <button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+             <ul class="list-unstyled">
+              <li> <a href='#profil-prodi-itp' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PROFIL PRODI ITP</a>
+                          <ul class='collapse list-unstyled' id='profil-prodi-itp'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/pengantar-kaprodi-itp'>PENGANTAR KAPRODI ITP</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/visi-misi-dan-tujuan-prodi-itp'>VISI, MISI, DAN TUJUAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/	page/detail/budaya-kerja-prodi-itp'>BUDAYA KERJA</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/organisasi-prodi-itp'>ORGANISASI</a></li></ul>
+                        </li><li> <a href='#pendidikan' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PENDIDIKAN</a>
+                          <ul class='collapse list-unstyled' id='pendidikan'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/kurikulum-s1itp'>KURIKULUM</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/	page/detail/kalender-akademik-tahun-ajar-20202021'>KALENDER AKADEMIK</a></li><li><a href='https://siakad-old.uns.ac.id/' target='_blank'>SISTEM INFORMASI AKADEMIK</a></li></ul>
+                        </li><li> <a href='#penelitian' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PENELITIAN</a>
+                          <ul class='collapse list-unstyled' id='penelitian'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/grup-riset-prodi-itp'>GRUP RISET</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/kegiatan-penelitian'>KEGIATAN PENELITIAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/kegiatan-dan-mitra-kerjasama-prodi-itp-'>KERJASAMA</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/publikasi-dosen'>PUBLIKASI DOSEN</a></li><li><a href='https://jurnal.uns.ac.id/ilmupangan' target='_blank'>JURNAL THP</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/seminar'>SEMINAR</a></li></ul>
+                        </li><li> <a href='#pengabdian-masyarakat' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> PENGABDIAN MASYARAKAT</a>
+                          <ul class='collapse list-unstyled' id='pengabdian-masyarakat'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/layanan-analisis-pangan'>LAYANAN UMUM</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/pengabdian'>KEGIATAN PENGABDIAN</a></li></ul>
+                        </li><li> <a href='#dosen' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> DOSEN</a>
+                          <ul class='collapse list-unstyled' id='dosen'><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-kimia-pangan-dan-biokimia'>KIMIA PANGAN DAN BIOKIMIA</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-rekayasa-pangan'>REKAYASA PROSES PANGAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-mikrobiologi-pangan'>MIKROBIOLOGI PANGAN</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/lab-pangan-dan-gizi'>PANGAN DAN GIZI</a></li></ul>
+                        </li><li> <a href='#mahasiswa' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> MAHASISWA</a>
+                          <ul class='collapse list-unstyled' id='mahasiswa'><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/himaghita'>HIMPUNAN MAHASISWA</a></li><li><a href='https://sibea.mawa.uns.ac.id/' target='_blank'>INFORMASI BEASISWA</a></li><li><a href='https://magang.fp.uns.ac.id/' target='_blank'>INFORMASI MAGANG</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/mobilitas-internasional-mahasiswa'>MOBILITAS INTERNASIONAL</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/berita/kategori/mahasiswa'>PRESTASI MAHASISWA</a></li></ul>
+                        </li><li> <a href='#alumni' data-toggle='collapse' aria-expanded='false' class='dropdown-toggle collapsed'> ALUMNI</a>
+                          <ul class='collapse list-unstyled' id='alumni'><li><a href='https://www.facebook.com/groups/116594215044824/' target='_blank'>HIMPUNAN ALUMNI</a></li><li><a href='https://ilmupangan.fp.uns.ac.id/lowongan'>LOWONGAN KERJA</a></li></ul>
+                        </li><li><a href='https://ilmupangan.fp.uns.ac.id/page/detail/fasilitas'>FASILITAS</a></li>          </ul>
+      </nav>      </div>
+      <div class="col-md-9" style="padding-left: 10px">
+        <section id="hero">
+        
+<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+            <ol class="carousel-indicators">
+        <li data-target="#heroCarousel" data-slide-to="0" class="active"></li><li data-target="#heroCarousel" data-slide-to="1" class=""></li><li data-target="#heroCarousel" data-slide-to="2" class=""></li><li data-target="#heroCarousel" data-slide-to="3" class=""></li><li data-target="#heroCarousel" data-slide-to="4" class=""></li>      </ol>
+
+      <div class="carousel-inner" role="listbox">        <!-- Slide 1 -->
+
+ 
+                 <div class="carousel-item active" style="background-image: url(https://ilmupangan.fp.uns.ac.id/asset/foto_berita/aims_logo.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>AIMS Webinar by Universiti Malaya</h5>                               
+                                <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/aims-webinar-by-universiti-malaya" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmupangan.fp.uns.ac.id/asset/foto_berita/unnamed3.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>AIMS Webinar by University of Mindanao and Saint Louis University of Philippines</h5>                               
+                                <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/aims-webinar-by-university-of-mindanao-and-saint-louis-university-of-philippines" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmupangan.fp.uns.ac.id/asset/foto_berita/pandu.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Tim Semar Clean Up, Raih 1st Winner National Creative Video Competition Nasional Greneeration</h5>                               
+                                <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/tim-semar-clean-up-raih-1st-winner-national-creative-video-competition-nasional-greneeration" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmupangan.fp.uns.ac.id/asset/foto_berita/IMG-20201102-WA0057.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Tim Mahasiswi Pertanian UNS Raih Juara 1 dan 3 di LKTI Nasional PEKTIN 2020</h5>                               
+                                <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/tim-mahasiswi-pertanian-uns-raih-juara-1-dan-3-di-lkti-nasional-pektin-2020" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmupangan.fp.uns.ac.id/asset/foto_berita/c.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Penyelenggaraan Pengembangan Pribadi dan Karakter untuk Mahasiswa Baru ITP</h5>                               
+                                <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/penyelenggaraan-pengembangan-pribadi-dan-karakter-untuk-mahasiswa-baru-itp" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div>
+        
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon icofont-simple-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon icofont-simple-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+      
+
+    </div>
+      </section>
+      </div>
+    </dic>
+  </div>
+
+<!-- ======= About Us Section ======= -->
+   
+
+    <section id="about-us" class="about-us">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2><i class="icofont-teacher"></i>Sambutan Kepala Prodi ITP</strong></h2>
+          <hr>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-4" data-aos="fade-right">
+            <center><img src="https://ilmupangan.fp.uns.ac.id//asset/prodi/img/kaprodi.jpeg" class="img-fluid img-thumbnail"></center>
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0" data-aos="fade-left">
+            <p>
+             
+
+          Puji syukur kehadirat Allah SWT atas semua anugerah berupa semangat, kemudahan, kelapangan dan lain-lain sehingga terwujud website Program Studi Ilmu dan Teknologi Pangan ini. Website ini dipersembahkan teruntuk semua khalayak (audience) guna sebagai salah satu sumber informasi terkait Prodi ITP dan atau bidang Ilmu Pangan. Sebuah kebanggaan bagi kami dapat melayani kebutuhan informasi seluruh audience.Website ini disusun setulus hati dengan harapan akan bermanfaat dan memberi berkah pada setiap perjalanan kita.
+          <br><br>
+          <b>Danar Praseptiangga, S.T.P., M.Sc., Ph.D.</b>
+
+            </p>
+            
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h2><i class="icofont-news"></i> Berita Terbaru</strong></h2>
+          <p>Berita Terbaru Prodi ITP Fakultas Pertanian Universitas Sebelas Maret</p>
+          <hr>
+        </div>
+        <div class="row" style="padding-top: 10px;">
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/aims-webinar-by-universiti-malaya">AIMS Webinar by Universiti Malaya</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Kamis, 19 Nov 2020 <i class="icofont-eye"></i>71 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmupangan.fp.uns.ac.id/asset/foto_berita/aims_logo.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p>Dear AIMS Family, Friends and Colleagues</p>
+
+<p>Warmest greetings from Universiti Malaya (UM), Malaysia! May this email find you in good health.</p>
+
+<p>Despite the COVID-19 pandemic, the inte</p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/aims-webinar-by-universiti-malaya" class="btn btn-success">Read More</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/aims-webinar-by-university-of-mindanao-and-saint-louis-university-of-philippines">AIMS Webinar by University of Mindanao and Saint Louis University of Philippines</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Kamis, 19 Nov 2020 <i class="icofont-eye"></i>48 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmupangan.fp.uns.ac.id/asset/foto_berita/unnamed3.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p>Dear AlMS family,&nbsp;</p>
+
+<p>Greetings from the Unversity of Mindanao and Saint Louis University!&nbsp;</p>
+
+<p>We are inviting everyone to a Webinar entitled: &quot;It&#39;s Okay not to be </p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/aims-webinar-by-university-of-mindanao-and-saint-louis-university-of-philippines" class="btn btn-success">Read More</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/tim-semar-clean-up-raih-1st-winner-national-creative-video-competition-nasional-greneeration">Tim Semar Clean Up, Raih 1st Winner National Creative Video Competition Nasional Greneeration</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Rabu, 11 Nov 2020 <i class="icofont-eye"></i>56 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmupangan.fp.uns.ac.id/asset/foto_berita/pandu.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p>Satu tim yang solid terdiri dari Tiga Mahasiswa Universitas Sebelas Maret (UNS) Kembali menorehkan prestasi dalam Creative Video Competition rangkaian acara Greeneration 2020 antara lain: Alifiati </p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/tim-semar-clean-up-raih-1st-winner-national-creative-video-competition-nasional-greneeration" class="btn btn-success">Read More</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/tim-mahasiswi-pertanian-uns-raih-juara-1-dan-3-di-lkti-nasional-pektin-2020">Tim Mahasiswi Pertanian UNS Raih Juara 1 dan 3 di LKTI Nasional PEKTIN 2020</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Selasa, 27 Okt 2020 <i class="icofont-eye"></i>39 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmupangan.fp.uns.ac.id/asset/foto_berita/IMG-20201102-WA0057.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p style="text-align:justify">Enam mahasiswa Universitas Sebelas Maret (UNS) Surakarta yang tergabung ke dalam 2 tim kembali menorehkan prestasi pada ajang Pekan Karya Tulis Ilmiah Nasional 2020 atau </p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/tim-mahasiswi-pertanian-uns-raih-juara-1-dan-3-di-lkti-nasional-pektin-2020" class="btn btn-success">Read More</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/penyelenggaraan-pengembangan-pribadi-dan-karakter-untuk-mahasiswa-baru-itp">Penyelenggaraan Pengembangan Pribadi dan Karakter untuk Mahasiswa Baru ITP</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Sabtu, 24 Okt 2020 <i class="icofont-eye"></i>53 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmupangan.fp.uns.ac.id/asset/foto_berita/c.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p style="text-align:justify">Setiap tahun, Program Studi (Prodi) prodi Ilmu Teknologi Pangan menerima mahasiswa &ndash; mahasiswa baru yang datang dari berbagai macam daerah. Prodi ITP merupakan sala</p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/penyelenggaraan-pengembangan-pribadi-dan-karakter-untuk-mahasiswa-baru-itp" class="btn btn-success">Read More</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/introduksi-teknologi-tepat-guna-dan-cppob-pada-industri-minuman-rempah-serbuk-ud-polanmadu-klaten">Introduksi Teknologi Tepat Guna dan CPPOB pada Industri Minuman Rempah Serbuk UD Polanmadu Klaten</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Selasa, 20 Okt 2020 <i class="icofont-eye"></i>64 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmupangan.fp.uns.ac.id/asset/foto_berita/UD_Polanmadu_Klaten2.png" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p style="text-align:justify">Penerapan Cara Produksi Makanan dan Minuman yang baik merupakan kunci keberhasilan usaha dan menjaga kualitas produk agar konsumen tetap menjadi pelanggan setia, bahkan t</p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmupangan.fp.uns.ac.id/berita/detail/introduksi-teknologi-tepat-guna-dan-cppob-pada-industri-minuman-rempah-serbuk-ud-polanmadu-klaten" class="btn btn-success">Read More</a></div>
+                            </div>
+                          </div>         
+        </div>    </section><!-- End Services Section -->
+
+
+     <section id="services" class="services section-bg">
+      <div class="container">
+        <div class="row">
+            
+            <div class="col-md-6" style="padding-top: 20px">
+                       <center><div class="section-title" data-aos="fade-up">               
+                      <h2><i class="icofont-video-alt"></i> Video Profile</h2> <hr>
+                      </div> </center>
+                      <div class="justify-content-center" data-aos="fade-up">
+                       <iframe src="https://www.youtube.com/embed/-ZtWYSWdX9E?controls=1&mute=1&showinfo=0&rel=0&autoplay=1&loop=1" width="100%" height="380px"  frameborder="0" allowfullscreen></iframe>
+                      </div>
+            </div>
+            <div class="col-md-6" style="padding-top: 20px">
+                    <center><div class="section-title" data-aos="fade-up">               
+                      <h2><i class="icofont-certificate"></i> Akreditasi</h2> <hr>
+                      </div> </center>
+    <div class="tz-gallery" data-aos="fade-up">
+
+        <div class="row">
+            <div class="col-md-12">
+                <a class="lightbox" href="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/sertifikasi.jpg">
+                    <img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/sertifikasi.jpg">
+                </a>
+            </div>
+            
+        </div>
+
+    </div>
+
+</div>
+
+            </div>
+            </div>
+                      
+        </div>
+      </div>
+    </section>
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <div class="container">
+        <div class="row" data-aos="fade-up">
+          <div class="col-md-4 d-flex justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+            <div class="list-group" style="padding-top: 20px">
+            <div class="section-title" data-aos="fade-up">
+               
+            <h2><i class="icofont-ui-calendar"></i> Agenda</h2> <hr>
+            </div>
+
+              <a href="agenda/detail/ghent-university-master-day" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                              <table class="table table-striped table-success"  style="margin-bottom: 0rem;">
+                              <tbody>
+                                <tr>
+                                  <td><i class="icofont-ui-calendar"></td>
+                                  <td><h5 class="mb-1">Ghent University Master Day</h5></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-clock-time"></i></td>
+                                  <td><p> 08 Des 2020 s/d 08 Des 2020</p></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-location-pin"></i></td>
+                                  <td><small>The International Training Centre of Ghent University would like to call on y </small></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </a><a href="agenda/detail/webinar-implementation--internal-audit-fssc-22000-version-51" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                              <table class="table table-striped table-success"  style="margin-bottom: 0rem;">
+                              <tbody>
+                                <tr>
+                                  <td><i class="icofont-ui-calendar"></td>
+                                  <td><h5 class="mb-1">WEBINAR: IMPLEMENTATION & INTERNAL AUDIT FSSC 22000 VERSION 5.1</h5></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-clock-time"></i></td>
+                                  <td><p> 08 Des 2020 s/d 10 Des 2020</p></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-location-pin"></i></td>
+                                  <td><small>Kuota terbatas 150 peserta
+
+Fasilitas:&nbsp;
+- Presentat </small></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </a><a href="agenda/detail/aims-webinar-by-universiti-malaya" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                              <table class="table table-striped table-success"  style="margin-bottom: 0rem;">
+                              <tbody>
+                                <tr>
+                                  <td><i class="icofont-ui-calendar"></td>
+                                  <td><h5 class="mb-1">AIMS Webinar by Universiti Malaya</h5></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-clock-time"></i></td>
+                                  <td><p> 23 Nov 2020 s/d 27 Nov 2020</p></td>
+                                </tr>
+                                <tr>
+                                  <td scope="row"><i class="icofont-location-pin"></i></td>
+                                  <td><small>Zoom Meeting and YouTube Live
+
+
+ </small></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </a>              
+              </div>          </div>
+          <div class="col-md-4 d-flex justify-content-center" data-aos="fade-up" data-aos-delay="200">
+            
+            <div class="list-group" style="padding-top: 20px">
+              <div class="section-title" data-aos="fade-up">
+            <h2><i class="icofont-bullhorn"></i> Pengumuman</h2> <hr>
+            </div>
+            
+                   
+                            <a href="berita/detail_pengumuman/aims-webinar-by-university-of-mindanao-and-saint-louis-university-of-philippines" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                            <table class="table table-striped table-info" style="margin-bottom: 0rem;">
+                                    <tbody>
+                                      <tr>                      
+                                        <td><i class="icofont-bullhorn"></i></td>
+                                        <td><h5>AIMS Webinar by University of Mindanao and Saint Louis University of Philippines</h5></td>                      
+                                      </tr>
+                                      <tr>                      
+                                        <td><i class="icofont-clock-time"></i></td>
+                                        <td>19 Nov 2020</td>                      
+                                      </tr>
+                                     </tbody>
+                                  </table></a>
+                            <a href="berita/detail_pengumuman/aims-webinar-by-universiti-malaya" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                            <table class="table table-striped table-info" style="margin-bottom: 0rem;">
+                                    <tbody>
+                                      <tr>                      
+                                        <td><i class="icofont-bullhorn"></i></td>
+                                        <td><h5>AIMS Webinar by Universiti Malaya</h5></td>                      
+                                      </tr>
+                                      <tr>                      
+                                        <td><i class="icofont-clock-time"></i></td>
+                                        <td>19 Nov 2020</td>                      
+                                      </tr>
+                                     </tbody>
+                                  </table></a>
+                            <a href="berita/detail_pengumuman/food-crisis-feed-for-love-charity-concert" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                            <table class="table table-striped table-info" style="margin-bottom: 0rem;">
+                                    <tbody>
+                                      <tr>                      
+                                        <td><i class="icofont-bullhorn"></i></td>
+                                        <td><h5>FOOD CRISIS: Feed for love charity concert</h5></td>                      
+                                      </tr>
+                                      <tr>                      
+                                        <td><i class="icofont-clock-time"></i></td>
+                                        <td>13 Nov 2020</td>                      
+                                      </tr>
+                                     </tbody>
+                                  </table></a>
+                            <a href="berita/detail_pengumuman/international-guest-lecture-week-2020" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                            <table class="table table-striped table-info" style="margin-bottom: 0rem;">
+                                    <tbody>
+                                      <tr>                      
+                                        <td><i class="icofont-bullhorn"></i></td>
+                                        <td><h5>International Guest Lecture Week 2020</h5></td>                      
+                                      </tr>
+                                      <tr>                      
+                                        <td><i class="icofont-clock-time"></i></td>
+                                        <td>11 Okt 2020</td>                      
+                                      </tr>
+                                     </tbody>
+                                  </table></a>
+                            <a href="berita/detail_pengumuman/maltodekstrin-mengantarkan-mahasiwa-itp-uns-juara" class="list-group-item list-group-item-action flex-column align-items-start" style="padding: 10px">
+                            <table class="table table-striped table-info" style="margin-bottom: 0rem;">
+                                    <tbody>
+                                      <tr>                      
+                                        <td><i class="icofont-bullhorn"></i></td>
+                                        <td><h5>Maltodekstrin Mengantarkan Mahasiwa ITP UNS Juara</h5></td>                      
+                                      </tr>
+                                      <tr>                      
+                                        <td><i class="icofont-clock-time"></i></td>
+                                        <td>29 Sep 2018</td>                      
+                                      </tr>
+                                     </tbody>
+                                  </table></a>                
+                
+              </div>          </div>
+          <div class="col-md-4 d-flex justify-content-center" data-aos="zoom-in" data-aos-delay="300">
+            <div class="list-group" style="padding-top: 20px">
+              <div class="section-title" data-aos="fade-up">
+            <h2><i class="icofont-instagram"></i> Instagram</h2> <hr>
+            </div>
+                <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CGQlJkWMfp4/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="12" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CFjSqqKsGNM/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> Lihat postingan ini di Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CFjSqqKsGNM/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Sebuah kiriman dibagikan oleh FoodTech UNS (@foodtech_uns)</a> pada <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-09-25T07:38:58+00:00">25 Sep 2020 jam 12:38 PDT</time></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>    
+            </div>          </div>
+        </div>
+
+       </div>
+    </section><!-- End Portfolio Section -->
+
+    	
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <a href="https://fp.uns.ac.id/"><img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/gold.png" style="width: 30%; padding-bottom: 10px"></a>
+            <h5>Program Studi<br>  Ilmu  Teknologi Pangan UNS </h5>
+            <p>
+              Jalan Ir. Sutami 36 Kentingan <br>
+              Jebres, Surakarta 57126<br><br>
+              <strong>Phone:</strong> 0271637457 ext 170<br>
+              <strong>Email:</strong> itpuns@unit.uns.ac.id<br>
+            </p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Tautan</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://uns.ac.id/" target="_blank">Universitas Sebelas Maret</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://fp.uns.ac.id/" target="_blank">Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/" target="_blank">Jurnal UNS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.fp.uns.ac.id/ilmupangan" target="_blank">Jurnal Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/ilmupangan" target="_blank">Jurnal Teknologi Hasil Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://ilmupangan.fp.uns.ac.id/page/detail/himaghita" target="_blank">HIMAGHITA</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4></h4>
+            <ul>
+	      <li></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#" target="_blank">Unit Magang Fakultas</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.youtube.com/channel/UCiDBeedOtqth4wcliC4bcLw" target="_blank">I-Great</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://icfse.uns.ac.id" target="_blank">ICFSE</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jpfoundation.or.id/event/icepti-2019" target="_blank">ICePTi</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://siakad-old.uns.ac.id" target="_blank">Siakad (Old)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://spada.uns.ac.id" target="_blank">SPADA</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>I-Great</h4>
+            <a href="https://ilmupangan.fp.uns.ac.id/"><img src="https://ilmupangan.fp.uns.ac.id/asset/prodi/img/great_background.png" style="width: 55%; padding: 5px"></a>
+<br><br>     
+<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4460738,4,3021,130,80,00011010']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4460738&101" alt="counter customizable free hit" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Fakultas Pertanian UNS 2020</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/company-free-html-bootstrap-template/ -->
+          <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://www.instagram.com/foodtech_uns/" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/jquery/jquery.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/php-email-form/validate.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://ilmupangan.fp.uns.ac.id/asset/prodi/js/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
+</body>
+
+</html>

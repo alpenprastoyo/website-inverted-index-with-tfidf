@@ -1,0 +1,399 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>About the Journal</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="konseling, psikoedukasi, psikologi, pendidikan, keguruan, sosial" />
+        <meta name="generator" content=" 2.4.7.1" />
+        <meta name="google-site-verification" content="wabgxnh6BzqmCe6CklWjBDEw6-GUGkRaVsd_SPRaZvc" />
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/148/journalFavicon_en_US.png" type="image/png" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/uns/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/uns/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                            
+                            
+                        </head>
+                        <body id="pkp-about-aboutTheJournal">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/jpk/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/jpk/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/148/pageHeaderTitleImage_en_US.jpg" alt="Jurnal Psikoedukasi dan Konseling" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/jpk/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/jpk/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/jpk/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/jpk/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/jpk/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/jpk/statistics" target="_parent">Statistics</a></li>
+
+                                                                                    <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/jpk/about/contact">Contact</a></li>
+                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/jpk/about/editorialTeam">Editorial Team</a></li>
+                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/jpk/about/submissions#onlineSubmissions">Author Guidelines</a></li>
+                                                                                                                        <li class="navItem" id="navItem-3"><a href="https://drive.google.com/file/d/0B2xBPm--H1xWQUdHOEltQnhndzQ/view?usp=sharing">Reviewer Guidelines</a></li>
+                                                                                                                        <li class="navItem" id="navItem-4"><a href="https://jurnal.uns.ac.id/jpk/pages/view/Indexing%20Site">Indexing</a></li>
+                                                                                                                        <li class="navItem" id="navItem-5"><a href="https://jurnal.uns.ac.id/jpk/about/displayMembership/246">##Reviewer##</a></li>
+                                                            
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/jpk/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/jpk/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/jpk/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/jpk/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/jpk/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/jpk/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/jpk/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/jpk/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/jpk/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/jpk/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                        <li class="navItem" id="navItem-0"><a href="https://jurnal.uns.ac.id/jpk/about/contact">Contact</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/jpk/about/editorialTeam">Editorial Team</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-2"><a href="https://jurnal.uns.ac.id/jpk/about/submissions#onlineSubmissions">Author Guidelines</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-3"><a href="https://drive.google.com/file/d/0B2xBPm--H1xWQUdHOEltQnhndzQ/view?usp=sharing">Reviewer Guidelines</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-4"><a href="https://jurnal.uns.ac.id/jpk/pages/view/Indexing%20Site">Indexing</a></li>
+                                                                                                                                                                        <li class="navItem" id="navItem-5"><a href="https://jurnal.uns.ac.id/jpk/about/displayMembership/246">##Reviewer##</a></li>
+                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/jpk/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                                                                                        <p>2580-4545 (Online)</p>
+                                                                                                                    </div>
+                                                                                                        <div class="block custom" id="customblock-Manuscript-Template">
+	<p><a href="https://drive.google.com/file/d/0Bx6fczp4Ylu4dS0xdXdseExQVjg/view?usp=sharing"><img src="https://image.ibb.co/ngQJjF/template.png" alt="template" border="0" /></a></p>
+<p><br /><strong> CITATION MANAGER <strong> <a href="https://www.mendeley.com/profiles/jurnal-psikoedukasi-da-konseling"><img src="https://preview.ibb.co/juFFya/citation_mendeley.png" alt="citation_mendeley" width="197" height="39" border="0" /></a></strong></strong></p>
+</div>	<div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/jpk/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block custom" id="customblock-Indexing-Site">
+	
+</div>	<div class="block custom" id="customblock-Editorial-Team">
+	
+</div>	<div class="block custom" id="customblock-Reviewer-Guidelines">
+	
+</div>	<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/jpk/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/jpk/issue/archive">By Issue</a></li>
+		<li><a href="https://jurnal.uns.ac.id/jpk/search/authors">By Author</a></li>
+		<li><a href="https://jurnal.uns.ac.id/jpk/search/titles">By Title</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Other Journals</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>			</ul>
+	</div>
+<div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/jpk/help/view/user/topic/000002')">Journal Help</a>
+</div><div class="block" id="sidebarInformation">
+	<span class="blockTitle">Information</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/jpk/information/readers">For Readers</a></li>		<li><a href="https://jurnal.uns.ac.id/jpk/information/authors">For Authors</a></li>		<li><a href="https://jurnal.uns.ac.id/jpk/information/librarians">For Librarians</a></li>	</ul>
+</div>
+ <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/jpk/notification">View</a></li>
+			<li><a href="https://jurnal.uns.ac.id/jpk/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block custom" id="customblock-Visitors">
+	<p><a href="http://s11.flagcounter.com/more/Jeyz"><img src="https://s11.flagcounter.com/count2/Jeyz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_30/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0" /></a></p>
+</div>	
+
+                                                </div>
+                                                                                                                                
+
+                                                                                                                                                <div id="main" style="width:78%;" role="main" tabindex="-1">
+                                                                                                                
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/jpk/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/jpk/about/index" class="current">About the Journal</a></div>
+
+                                                        <h2>About the Journal</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+<div id="aboutPeople" class="block pseudoMenu">
+<h3>People</h3>
+<ul>
+			<li><a href="https://jurnal.uns.ac.id/jpk/about/contact">Contact</a></li>
+		<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialTeam">Editorial Team</a></li>
+						<li><a href="https://jurnal.uns.ac.id/jpk/about/displayMembership/246">Reviewer</a></li>
+				
+</ul>
+</div>
+<div id="aboutPolicies" class="block pseudoMenu">
+<h3>Policies</h3>
+<ul>
+	<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialPolicies#focusAndScope">Focus and Scope</a></li>	<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialPolicies#sectionPolicies">Section Policies</a></li>
+	<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialPolicies#peerReviewProcess">Peer Review Process</a></li>		<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialPolicies#openAccessPolicy">Open Access Policy</a></li>	<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialPolicies#archiving">Archiving</a></li>					<li><a href="https://jurnal.uns.ac.id/jpk/about/editorialPolicies#custom-0">Publication Ethics</a></li>					
+</ul>
+</div>
+<div id="aboutSubmissions" class="block pseudoMenu">
+<h3>Submissions</h3>
+<ul>
+	<li><a href="https://jurnal.uns.ac.id/jpk/about/submissions#onlineSubmissions">Online Submissions</a></li>	<li><a href="https://jurnal.uns.ac.id/jpk/about/submissions#authorGuidelines">Author Guidelines</a></li>	<li><a href="https://jurnal.uns.ac.id/jpk/about/submissions#copyrightNotice">Copyright Notice</a></li>	<li><a href="https://jurnal.uns.ac.id/jpk/about/submissions#privacyStatement">Privacy Statement</a></li>	<li><a href="https://jurnal.uns.ac.id/jpk/about/submissions#authorFees">Author Fees</a></li>	
+</ul>
+</div>
+<div id="aboutOther" class="block pseudoMenu">
+<h3>Other</h3>
+<ul>
+	<li><a href="https://jurnal.uns.ac.id/jpk/about/journalSponsorship">Journal Sponsorship</a></li>		<li><a href="https://jurnal.uns.ac.id/jpk/about/siteMap">Site Map</a></li>
+	<li><a href="https://jurnal.uns.ac.id/jpk/about/aboutThisPublishingSystem">About this Publishing System</a></li>
+		
+</ul>
+</div>
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><!-- Google Analytics -->
+<script src="//www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-105999735-1";
+urchinTracker();
+</script>
+<!-- /Google Analytics -->
+<div id="standardFooter"><div id="right"><h3>UNS Internal Link</h3><ul><li><a href="https://uns.ac.id">Universitas Sebelas Maret</a></li><li><a href="http://lppm.uns.ac.id">LPPM UNS</a></li><li><a href="https://webmail.uns.ac.id">Webmail UNS</a></li><li><a href="https://library.uns.ac.id">Perpustakaan UNS</a></li></ul></div><div id="center"><a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a> <br /> Jurnal Psikoedukasi dan Konseling is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution 4.0 International License</a>.</div><div id="left"><h3>Designed By:</h3><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/uns/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/uns/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

@@ -1,0 +1,169 @@
+<table width="502">
+<tbody>
+<tr>
+<td width="76">
+<p style="text-align: center"><strong>Kode</strong></p>
+</td>
+<td style="text-align: center" width="198"><strong>Mata Kuliah</strong></td>
+<td style="text-align: center" width="60"><strong>SKS<sup>**</sup></strong></td>
+<td style="text-align: center" width="54"><strong>Semester</strong></td>
+<td width="114">
+<p style="text-align: center"><strong>Keterangan (wajib/pilihan</strong>)</p>
+</td>
+</tr>
+<tr>
+<td width="76">IPN8102</td>
+<td width="198">Filsafat Ilmu dan Metodologi Penelitian</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Prodi)</td>
+</tr>
+<tr>
+<td width="76">IPN8104</td>
+<td width="198">Topik Khusus Kajian Disertasi</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Prodi)</td>
+</tr>
+<tr>
+<td width="76">IPN8001</td>
+<td width="198">Disertasi&nbsp; (kajian sesuai pilihan minat)</td>
+<td width="60">28</td>
+<td width="54">–</td>
+<td width="114">Wajib (Prodi)</td>
+</tr>
+<tr>
+<td width="76">IPN8002</td>
+<td width="198">Seminar</td>
+<td width="60">4</td>
+<td width="54">&nbsp;&nbsp;&nbsp; –</td>
+<td width="114">Wajib&nbsp; (Prodi)</td>
+</tr>
+<tr>
+<td width="76">IPT8110</td>
+<td width="198">Ekofisiologi Tanaman</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Minat Ilmu Tanaman)</td>
+</tr>
+<tr>
+<td width="76">IPT8211</td>
+<td width="198">Biologi Molekular dan Rekayasa Genetika</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPT8212</td>
+<td width="198">Manajemen Produksi Tanaman Tropis dan Perubahan Iklim</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPP8120</td>
+<td width="198">Sifat Tanah Tropika dan Pengelolaannya</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Minat Ilmu Tanah)</td>
+</tr>
+<tr>
+<td width="76">IPP8221</td>
+<td width="198">Evaluasi dan Manajemen Sumber Daya Lahan</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPP8222</td>
+<td width="198">Bioteknologi Tanah dan Lingkungan</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPH8130</td>
+<td width="198">Pengelolaan Hama Terpadu</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Minat Perlindungan Tan.)</td>
+</tr>
+<tr>
+<td width="76">IPH8231</td>
+<td width="198">Epidemiologi Penyakit Tumbuhan</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPH8232</td>
+<td width="198">Hubungan serangga dan Tumbuhan</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPE8140</td>
+<td width="198">Ekonomi Internasi-onal dan Perkem-bangan Pertanian</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Minat Ilmu Ekonomi Pert.)</td>
+</tr>
+<tr>
+<td width="76">IPE8241</td>
+<td width="198">Analisis Sistem dan Pemodelan dalam Pertanian</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPE8242</td>
+<td width="198">Manajemen Strategi dan Pengambilan Keputusan</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPF8150</td>
+<td width="198">Ilmu dan Teknologi Pangan Lanjut</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Minat Ilmu dan Teknologi Pangan)</td>
+</tr>
+<tr>
+<td width="76">IPF8251</td>
+<td width="198">Pangan Fungsional dan Nutrasetika</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPF8252</td>
+<td width="198">Teknik Pangan</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPR8160</td>
+<td width="198">Manajemen Produksi Ternak</td>
+<td width="60">3</td>
+<td width="54">I</td>
+<td width="114">Wajib (Minat Ilmu Peternakan )</td>
+</tr>
+<tr>
+<td width="76">IPR8261</td>
+<td width="198">Ilmu Nutrisi Ternak</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+<tr>
+<td width="76">IPR8262</td>
+<td width="198">Manajemen Teknologi Pengolahan Hasil dan Ikutan Ternak</td>
+<td width="60">2</td>
+<td width="54">II</td>
+<td width="114">Pilihan</td>
+</tr>
+</tbody>
+</table></br>

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta name="google-site-verification" content="0IMXUsS4eSF45MrU6HjoDjY2vEBPy4eePCYoTiVrfSE" />
+  <title>Halaman Download</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="icon">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://agribisnis.fp.uns.ac.id/asset/prodi/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://agribisnis.fp.uns.ac.id/asset/prodi/css/baguetteBox.min.css">
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/css/gallery-grid.css" rel="stylesheet">
+
+
+
+  <!-- Template Main CSS File -->
+  <link href="https://agribisnis.fp.uns.ac.id/asset/prodi/css/style.css" rel="stylesheet">
+  
+
+  <!-- =======================================================
+  * Template Name: Company - v2.1.0
+  * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+        <div class="container-fluid" style="padding: 0;">
+      <nav class="upnav">
+        <ul>
+          <li><a href="https://uns.ac.id/" target="_blank">UNS</a></li>
+          <li><a href="https://fp.uns.ac.id/" target="_blank">Fakultas Pertanian</a></li>
+          <li><a href="https://library.uns.ac.id/" target="_blank">Perpustakaan</a></li>
+        </ul>        
+      </nav>
+      
+    </div>
+    <div class="container-fluid d-flex align-items-center">
+
+      <!-- <h1 class="logo mr-auto"><a href="index.html"><span>Com</span>pany</a></h1> -->
+
+      <a href="https://agribisnis.fp.uns.ac.id/"><img src="https://agribisnis.fp.uns.ac.id/asset/prodi/img/logo-ilmu-tanah.png" style="width: 70%; padding: 5px"></a>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        
+        <ul>
+                              <li><a href='https://agribisnis.fp.uns.ac.id/' style='background: url(https://agribisnis.fp.uns.ac.id/asset/images/home.png) no-repeat center; font-size:0; width:34px;'><br></a></li><li><a href='https://agribisnis.fp.uns.ac.id/'>Beranda</a></li><li class='drop-down'><a href='https://agribisnis.fp.uns.ac.id/#'><span>Profile</span></a><ul><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/sambutan-kepala-program-studi'>Pengantar Kaprodi</a></li><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/visi-misi-dan-tujuan-prodi-agribisnis'>Visi, Misi dan Tujuan</a></li></ul></li><li class='drop-down'><a href='https://agribisnis.fp.uns.ac.id/#'><span>Pendidikan</span></a><ul><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/kurukulum-pendidikan-tinggi--program-studi-agribisnis'>Kurikulum</a></li><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/kalender-akademik'>Kalender Akademik</a></li><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/komisi-sarjana'>Komisi Sarjana</a></li><li><a target='_BLANK' href='https://siakad.uns.ac.id/'>SIAKAD</a></li><li><a target='_BLANK' href='https://kamagrista.fp.uns.ac.id/'>KAMAGRISTA</a></li><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/alumni'>Alumni</a></li></ul></li><li class='drop-down'><a href='https://agribisnis.fp.uns.ac.id/#'><span>Dosen</span></a><ul><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/lab-ekonomi-pertanian'>Ekonomi Pertanian</a></li><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/lab-manajemen-agribisnis'>Manajemen Agribisnis</a></li><li><a href='https://agribisnis.fp.uns.ac.id/page/detail/kegiatan-publikasi-ilmiah--dosen-agribisnis'>Kegiatan Ilmiah Dosen</a></li></ul></li><li class='drop-down'><a href='https://agribisnis.fp.uns.ac.id/#'><span>Publikasi</span></a><ul><li><a target='_BLANK' href='https://jurnal.uns.ac.id/sepa'>Jurnal SEPA</a></li><li><a target='_BLANK' href='https://jurnal.uns.ac.id/agrista'>Jurnal Agrista</a></li></ul></li><li><a href='https://agribisnis.fp.uns.ac.id/berita/kategori/pengumuman'>Pengumuman</a></li><li><a href='https://agribisnis.fp.uns.ac.id/albums'>Gallery</a></li><li><a href='https://agribisnis.fp.uns.ac.id/berita'>Semua Berita</a></li><li><a href='https://agribisnis.fp.uns.ac.id/download'>Download</a></li></ul>
+        
+      
+     <!--   <div style="padding-left:20px;">
+        <form class="form-search form-inline" method="POST" action="http://agribisnis.fp.uns.ac.id/berita">
+          <div class="input-group">
+            <input type="text" name="kata" class="form-control search-query" placeholder="Cari.." /> <span class="input-group-btn">
+              <button type="submit" class="btn btn-outline-success"><i class="icofont-search-1"></i></button>
+            </span>
+ 
+          </div>
+        </form>
+      </div> -->
+      </ul>
+
+      </nav>
+   
+     
+      <!-- .nav-menu -->
+
+     <!--  <div>
+          <form class="" method="POST" action="http://agribisnis.fp.uns.ac.id/berita">
+            <div>
+                <input class="" name="kata" type="text" value="" size="16" tabindex="1" required/>
+                <input type="submit" class="button" value="Search" tabindex="2" />
+            </div>
+          </form>
+      </div> -->
+      <div class="header-social-links">
+        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="https://instagram.com/agribisnisfpuns?igshid=1lwk16914tbqq" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="https://www.youtube.com/channel/UCx0LEdY1akC20v4dXrvdo8g" target="_blank" class="linkedin"><i class="icofont-youtube-play"></i></i></a>
+      <!-- </div>
+        <div class="cari">
+        <form class="form-inline" method="POST" action="http://agribisnis.fp.uns.ac.id/berita">
+            <input  class="form-control mr-sm-2" name="kata" type="search" size="10" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div> -->
+      
+
+    </div>
+
+  </header><!-- End Header -->
+
+
+
+<main id="main">
+ <section id="blog" class="blog">
+  <div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-9" style="background-color: white;">        
+         <section id="breadcrumbs" class="breadcrumbs" data-aos="fade-up">
+      <div class="container-fluid">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h1><i class="icofont-download"></i> File Download</h1>
+          <ol>
+            <li><a href="index.html">Home</a></li>
+            <li>File Download</li>
+          </ol>
+        </div>
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+<section id="blog" class="blog" data-aos="zoom-in" data-aos-delay="100">
+        <div class="container-fluid">
+        <div class="row">
+        <table id="dataTables" class="table-bordered table-striped" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th style='width:750px'>Nama File</th>
+                <th>Hits</th>
+                <th>Download</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                            <td>1</td>
+                            <td style='width:750px;'>Sertifikat AUNQA Agribisnis S1</td>
+                            <td>3 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/Sertifikat_AUNQA_Agribisnis_S1.pdf'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>2</td>
+                            <td style='width:750px;'>Sertifikat Akreditasi (2017-2022)</td>
+                            <td>3 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/sertifikat_akred2017-2022.pdf'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>3</td>
+                            <td style='width:750px;'>PANDUAN SKRIPSI AGRIBISNIS 2017 </td>
+                            <td>10 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/PANDUAN-SKRIPSI-AGRIBISNIS-2017.doc'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>4</td>
+                            <td style='width:750px;'>sertifikat akreditasi jur SOSEK 2003</td>
+                            <td>5 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/sertifikat_akreditasi_jur_SOSEK_2003.pdf'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>5</td>
+                            <td style='width:750px;'>SERTIFIKAT AKREDITASI (2013-2018)</td>
+                            <td>2 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/Agribisnis-S1_25-Januari-2013-2018.pdf'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>6</td>
+                            <td style='width:750px;'>akreditasi 2008-2013</td>
+                            <td>6 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/akreditasi_2008-20130001.pdf'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>7</td>
+                            <td style='width:750px;'>Form Ajuan Judul Semhas</td>
+                            <td>10 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/form_ajuan_jdl_-_sem_hasil.docx'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>8</td>
+                            <td style='width:750px;'>Blanko Yudisium</td>
+                            <td>11 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/blanko_yudisium.docx'><i class='icofont-download'></i> Download</a></td>
+                            </tr><tr>
+                            <td>9</td>
+                            <td style='width:750px;'>Blanko Ujian Skripsi</td>
+                            <td>11 Kali</td>
+                            <td><a href='https://agribisnis.fp.uns.ac.id/download/file/blanko_ujian_skripsi.docx'><i class='icofont-download'></i> Download</a></td>
+                            </tr>              </tbody>
+              </table>
+
+          
+          <tbody>
+            
+          </tbody>
+        
+        </table>
+
+      </div>
+  </section>          
+        </div>
+        <div class="col-lg-3" style="background-color: white;">
+           <center><div class="section-title" data-aos="fade-up" style="padding-top: 10px">               
+                        <h5>Berita Populer</h5>
+                        </div>
+                  </center>
+                  <div class="kegiatan" data-aos="zoom-in">
+                    <table class="table">
+                                                    
+                                      <tr>
+                                        <td><a href="https://agribisnis.fp.uns.ac.id/berita/detail/program-studi-agribisnis-meraih-sertifikasi-internasional-aunqa">Program Studi Agribisnis Meraih Sertifikasi Internasional AUN-QA</a></td>
+                                      </tr>                              
+                                      <tr>
+                                        <td><a href="https://agribisnis.fp.uns.ac.id/berita/detail/webinar-seri-2-open-talk-program-studi-s1-dan-s2-agribisnis-uns-bersama-wujudkan-agribisnis-indonesi">Webinar Seri 2: Open Talk Program Studi S1 Dan S2 Agribisnis Uns: Bersama Wujudkan Agribisnis Indonesia Unggul</a></td>
+                                      </tr>                              
+                                      <tr>
+                                        <td><a href="https://agribisnis.fp.uns.ac.id/berita/detail/penelitian-mandiri-pemanfaatan-batu-tourmaline-sebagai-batu-penyubur-tanaman-obat">Penelitian Mandiri Pemanfaatan Batu Tourmaline sebagai Batu Penyubur Tanaman Obat</a></td>
+                                      </tr>                              
+                                      <tr>
+                                        <td><a href="https://agribisnis.fp.uns.ac.id/berita/detail/enam-mahasiswa-agribisnis-mengikuti-permatasakti-2020">Enam Mahasiswa Agribisnis Mengikuti PERMATA-SAKTI 2020</a></td>
+                                      </tr>                              
+                                      <tr>
+                                        <td><a href="https://agribisnis.fp.uns.ac.id/berita/detail/tim-pkmm-microgreen-mengadakan-edukasi-pertanian-anak-usia-dini-di-sd-muhammadiyah-3-surakarta">Tim PKM-M Microgreen Mengadakan Edukasi Pertanian Anak Usia Dini di SD Muhammadiyah 3 Surakarta</a></td>
+                                      </tr>                    </table>
+                  </div>
+
+                  <center><div class="section-title" data-aos="fade-up" style="margin-top: 12px;">               
+                        <h5>Kategori</h5>
+                        </div>
+                  </center>
+                  <div class="kegiatan" data-aos="zoom-in">
+                    <table class="table">
+                                                    
+                                        <tr>
+                                          <td><a href="https://agribisnis.fp.uns.ac.id/berita/kategori/beasiswa">Beasiswa</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="https://agribisnis.fp.uns.ac.id/berita/kategori/kegiatan-mahasiswa">Kegiatan Mahasiswa</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="https://agribisnis.fp.uns.ac.id/berita/kategori/kegiatan-dosen">Kegiatan Dosen</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="https://agribisnis.fp.uns.ac.id/berita/kategori/pengumuman">Pengumuman</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="https://agribisnis.fp.uns.ac.id/berita/kategori/ukm">UKM</a></td>
+                                        </tr>                    </table>
+                  </div>
+        </div>
+        
+    </div>
+  </div>
+</section>
+
+    
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+ <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+           <div class="col-lg-3 col-md-6 footer-contact">
+            <a href="https://fp.uns.ac.id/"><img src="https://agribisnis.fp.uns.ac.id/asset/prodi/img/gold.png" style="width: 40%; padding-bottom: 10px"></a>
+            <h5 style="color: white">Program Studi<br>  Agribisnis UNS </h5>
+            <p>Fakultas Pertanian Gedung B Lt. 1<br>
+              Jalan Ir. Sutami 36 Kentingan <br>
+              Jebres, Surakarta 57126<br><br>
+              <strong>Phone:</strong><br>
+              <strong>Fax: </strong><br>
+              <strong>Email:</strong><br>
+            </p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Tautan</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://uns.ac.id/" target="_blank">Universitas Sebelas Maret</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://fp.uns.ac.id/" target="_blank">Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/" target="_blank">Jurnal UNS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#" target="_blank">Kalender Akademik</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4></h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#" target="_blank">Unit Magang Fakultas</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://siakad-old.uns.ac.id" target="_blank">Siakad (Old)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://spada.uns.ac.id" target="_blank">SPADA</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Visitor</h4>
+            	
+   <!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4492378,4,3026,130,80,00011010']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+_Hasync.push(['Histats.framed_page', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4492378&101" alt="counter hit xanga" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Fakultas Pertanian UNS 2020</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/company-free-html-bootstrap-template/ -->
+          <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/jquery/jquery.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/php-email-form/validate.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/js/main.js"></script>
+
+   <!-- DataTables -->
+  
+  <!-- <script src="http://agribisnis.fp.uns.ac.id/asset/prodi/jquery-1.12.0.min.js"></script> -->
+  <script src="https://agribisnis.fp.uns.ac.id/asset/prodi/jquery.dataTables.min.js"></script>
+  <script>
+  $(document).ready(function() {
+    $('#dataTables').DataTable();
+  } );
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
+</body>
+
+</html>

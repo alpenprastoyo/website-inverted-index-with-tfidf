@@ -1,0 +1,145 @@
+<table id="alumnii" class="table table-bordered table-striped">
+                      <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Nama</th>
+                            <th>Fakultas</th>
+                            <th>Tahun Masuk</th>
+                            <th>Provinsi</th>
+                            <th>Nama Instansi</th>
+                            <th>Aksi</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                                                                    <tr>
+                            <td>1</td>
+                            <td>Sudirman</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="95029" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>2</td>
+                            <td>'Ishmah Zahro'l Firdausi</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="74799" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>3</td>
+                            <td>'Izzi Safir</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="71171" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>4</td>
+                            <td>A. Aktananda Pratama</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="10449" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>5</td>
+                            <td>A. Bob Yusup Widjaya</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="73579" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>6</td>
+                            <td>A. Herlin Deslia Dita Soekirman</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="75992" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>7</td>
+                            <td>A. Riza Nugraha</td>
+                            <td>FEB</td>
+                            <td>2003</td>
+                            <td>Aceh</td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="2193" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>8</td>
+                            <td>A. Sri Wahyuni Wijayanti</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="74875" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>9</td>
+                            <td>A. Tri Kaning Prihatini Sukmo Dewi Nugrahaningdyah</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="75207" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>10</td>
+                            <td>A.M. Jati Prakoso</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="71147" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                            </tbody>
+                    </table></br>

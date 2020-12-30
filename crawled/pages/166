@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Repository Policies - UNS Institutional Repository</title>
+  <script type="text/javascript" src="/javascript/not_logged_in.js"><!-- padder --></script>
+	<style type="text/css">@import url(/style/not_logged_in.css);</style>
+    <script type="text/javascript" src="/javascript/auto.js"><!-- padder --></script>
+    <style type="text/css" media="screen">@import url(/style/auto.css);</style>
+    <style type="text/css" media="print">@import url(/style/print.css);</style>
+      <style type="text/css" media="screen">@import url(/style/wa2n.css);</style>  
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="Top" href="https://eprints.uns.ac.id/" />
+    <link rel="Search" href="https://eprints.uns.ac.id/cgi/search" />
+    
+    <style type="text/css" media="screen">@import url(/style/nojs.css);</style>
+    <script type="text/javascript" src="/javascript/jscss.js"><!-- padder --></script>
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    
+    <div class="ep_tm_header ep_noprint">
+      <div class="ep_tm_logo"><a href="https://eprints.uns.ac.id/"><img alt="Logo" src="/images/uns_repository.jpg" /></a></div>
+      <div></div>
+
+  <ul class="menuku"><li><a href="https://eprints.uns.ac.id">Home</a></li><li><a href="https://eprints.uns.ac.id/information.html">About</a></li><li><a href="https://eprints.uns.ac.id/view/year/">Browse by Year</a></li><li><a href="https://eprints.uns.ac.id/view/subjects/">Browse by Subject</a></li><li><a href="https://eprints.uns.ac.id/view/divisions/">Browse by Division</a></li><li><a href="https://eprints.uns.ac.id/view/creators/">Browse by Author</a></li><li><a href="http://www.uns.ac.id" target="_blank">UNS Website</a></li><li><a href="http://digilib.uns.ac.id" target="_blank">UNS Digital Library</a></li></ul>
+
+  <table class="ep_tm_searchbar" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="left"><ul class="ep_tm_key_tools"><li><a href="https://eprints.uns.ac.id/cgi/users/home">Login</a></li><li><a href="/cgi/register">Create Account</a></li></ul></td>
+      <td align="right" style="white-space: nowrap">
+      
+        <form method="get" accept-charset="utf-8" action="https://eprints.uns.ac.id/cgi/search" style="display:inline">
+          <input class="ep_tm_searchbarbox" size="20" type="text" name="q" />
+          <input class="ep_tm_searchbarbutton" value="Search" type="submit" name="_action_search" />
+          <input type="hidden" name="_action_search" value="Search" />
+          <input type="hidden" name="_order" value="bytitle" />
+          <input type="hidden" name="basic_srchtype" value="ALL" />
+          <input type="hidden" name="_satisfyall" value="ALL" />
+        </form>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  
+  <table width="720" class="ep_tm_main"><tr><td align="left">
+    <h1 class="ep_tm_pagetitle">Repository Policies</h1>
+    
+
+<h2>Metadata Policy</h2> for information describing items in the repository
+<ol>
+  <li>Anyone may access the metadata free of charge.</li>
+  <li>No metadata re-use policy defined. Assume no rights at all have been granted.</li>
+</ol>
+<h2>Data Policy</h2> for full-text and other full data items
+<ol>
+  <li>Anyone may access full items free of charge.</li>
+  <li>Copies of full items generally can be:
+    <ul>
+      <li> reproduced, displayed or performed, given to third parties, and stored in a database in any format or medium</li>
+      <li>for personal research or study, educational, or not-for-profit purposes without prior permission or charge.</li>
+    </ul>
+  provided:
+    <ul>
+      <li> the authors, title and full bibliographic details are given</li>
+      <li> a hyperlink and/or URL are given for the original metadata page</li>
+      <li> the original copyright statement is given</li>
+      <li> the content is not changed in any way</li>
+    </ul>
+  </li>
+  <li>Full items must not be harvested by robots</li>
+  <li> Full items must not be sold commercially in any format or medium without formal permission of the copyright holders.</li>
+  <li> Some full items are individually tagged with different rights permissions and conditions.</li>
+</ol>
+<h2>Content Policy</h2> for types of document &amp; data set held
+<ol>
+  <li>This is an institutional or departmental repository.</li>
+  <li>The repository holds all types of materials.</li>
+  <li>Deposited items may include published versions (publisher-created files)</li>
+  <li>Items are individually tagged with their publication status.</li>
+</ol>
+<h2>Submission Policy</h2> concerning depositors, quality &amp; copyright
+<ol>
+  <li>Items may only be deposited by academic staff, registered students, and employees of the department</li>
+  <li>Authors may only submit their own work for archiving.</li>
+  <li>Eligible depositors must deposit bibliographic metadata for all their publications.</li>
+  <li>No moderation policy defined. Assume nothing has been vetted.</li>
+  <li>The validity and authenticity of the content of submissions is <b>not</b> checked.</li>
+  <li>No embargo policy defined.</li>
+  <li>Any copyright violations are entirely the responsibility of the authors/depositors.</li>
+  <li>If the repository receives proof of copyright violation, the relevant item will be removed immediately.</li>
+</ol>
+<h2>Preservation Policy</h2>
+<ol>
+  <li>Items will be retained indefinitely.</li>
+  <li>The repository will try to ensure continued readability and accessibility.</li>
+  <li>The repository regularly backs up its files according to current best practice.</li>
+  <li>Items may not normally be removed from the repository.</li>
+  <li>Acceptable reasons for withdrawal include:
+    <ul>
+      <li>Proven copyright violation or plagiarism</li>
+      <li>Legal requirements and proven violations</li>
+      <li>National Security</li>
+      <li>Falsified research</li>
+    </ul>
+  </li>
+  <li>Withdrawn items are not deleted <i>per se</i>, but are removed from public view. </li>
+  <li>Withdrawn items' identifiers/URLs are retained indefinitely.</li>
+  <li>URLs will continue to point to 'tombstone' citations, to avoid broken links and to retain item histories.  </li>
+  <li>Changes to deposited items are <b>not</b> permitted.</li>
+  <li>If necessary, an updated version may be deposited.  </li>
+  <li>In the event of the repository being closed down, the database will be transferred to another appropriate archive.</li>
+</ol>
+
+
+  </td></tr></table>
+</div>
+
+
+<div class="ep_tm_footer ep_noprint">
+  <hr noshade="noshade" class="ep_ruler" />
+  <hr class="ep_tm_last" />
+  <div style="float: right; margin-left: 1em"><a href="https://eprints.org/software/"><img alt="EPrints Logo" src="/images/eprintslogo.gif" border="0" /></a></div>
+  <div style="font-size: 80%;">
+  <div>UNS Institutional Repository is powered by <em><a href="http://eprints.org/software/">EPrints 3</a></em> which is developed by the <a href="http://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="https://eprints.uns.ac.id/eprints/">More information and software credits</a>.</div>
+  </div>
+</div>
+
+
+  </body>
+</html>

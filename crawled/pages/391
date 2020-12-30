@@ -1,0 +1,794 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Jurnal Olahraga dan Prestasi</title>
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+                <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/leftSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/bothSidebars.css" type="text/css" /> -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                                                                                                                                        
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/unsbaru/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/externalFeed/externalFeed.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/blocks/languageToggle/styles/languageToggle.css" type="text/css" />
+                                                            
+                            
+	<link rel="alternate" type="application/atom+xml" title="Jurnal Olahraga dan Prestasi (atom+xml)" href="https://jurnal.uns.ac.id/smartsport/gateway/plugin/WebFeedGatewayPlugin/atom" />
+	<link rel="alternate" type="application/rdf+xml" title="Jurnal Olahraga dan Prestasi (rdf+xml)" href="https://jurnal.uns.ac.id/smartsport/gateway/plugin/WebFeedGatewayPlugin/rss" />
+	<link rel="alternate" type="application/rss+xml" title="Jurnal Olahraga dan Prestasi (rss+xml)" href="https://jurnal.uns.ac.id/smartsport/gateway/plugin/WebFeedGatewayPlugin/rss2" />
+                        </head>
+                        <body id="pkp-common-openJournalSystems">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/smartsport/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/smartsport/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/358/homeHeaderTitleImage_en_US.jpg" alt="Page Header" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/smartsport/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/smartsport/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/smartsport/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/smartsport/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/smartsport/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/smartsport/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                                        
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/smartsport/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/smartsport/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/smartsport/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/smartsport/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/smartsport/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/smartsport/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/smartsport/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/smartsport/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/smartsport/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/smartsport/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/smartsport/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                                                                            <div class="block" id="issn">
+                                                            <span class="blockTitle">ISSN</span>
+                                                                                                                                                                                            <p>1979-0465 (Print)</p>
+                                                                                                                                                                                                                                                        <p>2723-3081 (Online)</p>
+                                                                                                                    </div>
+                                                                                                        <div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ojs/" id="developedBy">Open Journal Systems</a>
+</div><div class="block custom" id="customblock-Logo">
+	<table width="200" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><a href="https://fkor.uns.ac.id/jurnal/template.pdf" target="_blank"><img src="https://fkor.uns.ac.id/jurnal/template.png" alt="" border="0" /></a></td>
+</tr>
+<tr>
+<td><a href="http://garuda.ristekbrin.go.id" target="_blank"><img src="https://fkor.uns.ac.id/jurnal/garuda.png" alt="" border="0" /></a></td>
+</tr>
+<tr>
+<td><a href="https://www.mendeley.com" target="_blank"><img src="https://fkor.uns.ac.id/jurnal/mendeley.png" alt="" border="0" /></a></td>
+</tr>
+<tr>
+<td><a href="https://www.turnitin.com" target="_blank"><img src="https://fkor.uns.ac.id/jurnal/turnitin.png" alt="" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>	<div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://jurnal.uns.ac.id/smartsport/help/view/user/topic/000001')">Journal Help</a>
+</div><div class="block" id="sidebarFlagcounter">
+    <span class="blockTitle" >Flagcounter</span>
+    <a href="https://s09.flagcounter.com/more/yMdb/" target="_blank"><img style="width: 100%;" src="https://s09.flagcounter.com/map/yMdb/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_3/flags_0/" alt="Journal Flag Counter" border="0"></a>
+</div><div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+					<p>1979-0465 (Print)</p>
+						<p>2723-3081 (Online)</p>
+	</div>
+ <div class="block" id="notification">
+	<span class="blockTitle">Notifications</span>
+	<ul>
+					<li><a href="https://jurnal.uns.ac.id/smartsport/notification">View</a></li>
+			<li><a href="https://jurnal.uns.ac.id/smartsport/notification/subscribeMailList">Subscribe</a></li>
+			</ul>
+</div>
+
+<div class="block" id="sidebarLanguageToggle">
+	<script type="text/javascript">
+		<!--
+		function changeLanguage() {
+			var e = document.getElementById('languageSelect');
+			var new_locale = e.options[e.selectedIndex].value;
+
+			var redirect_url = 'https://jurnal.uns.ac.id/smartsport/user/setLocale/NEW_LOCALE?source=%2Fsmartsport';
+			redirect_url = redirect_url.replace("NEW_LOCALE", new_locale);
+
+			window.location.href = redirect_url;
+		}
+		//-->
+	</script>
+	<span class="blockTitle">Language</span>
+	<form action="#">
+		<label for="languageSelect">Select Language</label>
+		<select id="languageSelect" size="1" name="locale" class="selectMenu"><option label="Bahasa Indonesia" value="id_ID">Bahasa Indonesia</option>
+<option label="English" value="en_US" selected="selected">English</option>
+</select>
+		<input type="submit" class="button" value="Submit" onclick="changeLanguage(); return false;" />
+	</form>
+</div>
+<div class="block" id="sidebarNavigation">
+	<span class="blockTitle">Journal Content</span>
+
+	<form id="simpleSearchForm" action="https://jurnal.uns.ac.id/smartsport/search/search">
+		<table id="simpleSearchInput">
+			<tr>
+				<td>
+													<label for="simpleQuery">Search <br />
+					<input type="text" id="simpleQuery" name="simpleQuery" size="15" maxlength="255" value="" class="textField" /></label>
+								</td>
+			</tr>
+			<tr>
+				<td><label for="searchField">
+				Search Scope
+				<br />
+				<select id="searchField" name="searchField" size="1" class="selectMenu">
+					<option label="All" value="query">All</option>
+<option label="Authors" value="authors">Authors</option>
+<option label="Title" value="title">Title</option>
+<option label="Abstract" value="abstract">Abstract</option>
+<option label="Index terms" value="indexTerms">Index terms</option>
+<option label="Full Text" value="galleyFullText">Full Text</option>
+
+				</select></label>
+				</td>
+			</tr>
+			<tr>
+				<td><input type="submit" value="Search" class="button" /></td>
+			</tr>
+		</table>
+	</form>
+
+	<br />
+
+		<span class="blockSubtitle">Browse</span>
+	<ul>
+		<li><a href="https://jurnal.uns.ac.id/smartsport/issue/archive">By Issue</a></li>
+		<li><a href="https://jurnal.uns.ac.id/smartsport/search/authors">By Author</a></li>
+		<li><a href="https://jurnal.uns.ac.id/smartsport/search/titles">By Title</a></li>
+		
+					<li><a href="https://jurnal.uns.ac.id/index">Other Journals</a></li>
+			<li><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>			</ul>
+	</div>
+
+<!-- Add javascript required for font sizer -->
+<script type="text/javascript">
+	<!--
+	$(function(){
+		fontSize("#sizer", "body", 9, 16, 32, ""); // Initialize the font sizer
+	});
+	// -->
+</script>
+
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br />
+                                                </div>
+                                                                                                                                        <div id="leftSidebar" class="slide" role="complementary">
+                                                    
+
+<div class="block" id="sidebarWebFeed">
+	<span class="blockTitle">Current Issue</span>
+	<a href="https://jurnal.uns.ac.id/smartsport/gateway/plugin/WebFeedGatewayPlugin/atom">
+	<img src="https://jurnal.uns.ac.id/plugins/generic/webFeed/templates/images/atom10_logo.gif" alt="Atom logo" border="0" /></a>
+	<br/>
+	<a href="https://jurnal.uns.ac.id/smartsport/gateway/plugin/WebFeedGatewayPlugin/rss2">
+	<img src="https://jurnal.uns.ac.id/plugins/generic/webFeed/templates/images/rss20_logo.gif" alt="RSS2 logo" border="0" /></a>
+	<br/>
+	<a href="https://jurnal.uns.ac.id/smartsport/gateway/plugin/WebFeedGatewayPlugin/rss">
+	<img src="https://jurnal.uns.ac.id/plugins/generic/webFeed/templates/images/rss10_logo.gif" alt="RSS1 logo" border="0" /></a>
+</div><div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/smartsport/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block custom" id="customblock-Menu-Kiri">
+	<table width="90%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><a href="/smartsport/announcement" target="_self">Publication Ethics</a></td>
+</tr>
+<tr>
+<td><a href="/smartsport/pages/view/peer_review_process" target="_parent">Peer Review Process</a></td>
+</tr>
+<tr>
+<td><a href="/smartsport/about/editorialPolicies#focusAndScope" target="_self">Focus and Scope</a></td>
+</tr>
+<tr>
+<td><a href="/smartsport/pages/view/plagiarism_and_retraction_policy" target="_parent">Plagiarism and Rretraction Policy</a></td>
+</tr>
+<tr>
+<td><a href="/smartsport/index" target="_self">Copyright Notice</a></td>
+</tr>
+<tr>
+<td><a href="https://fkor.uns.ac.id/jurnal/template.pdf" target="_blank">Template</a></td>
+</tr>
+<tr>
+<td><a href="/smartsport/about/editorialTeam" target="_self">Editoral Team</a></td>
+</tr>
+<tr>
+<td><a href="/smartsport/pages/view/team_viewer" target="_self">Team Reviewer</a></td>
+</tr>
+</tbody>
+</table>
+</div>	
+                                                </div>
+                                                                                    
+
+                                                                                    <div id="main" role="main" tabindex="-1">
+                                            
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/smartsport/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/smartsport" class="current">Vol 17, No 1 (2020)</a></div>
+
+                                                        <h2>Jurnal Olahraga dan Prestasi</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+
+
+<table>
+    <tr>
+        
+                    <td rowspan="2">
+                <div id="journalDescription"><strong>SMART SPORT Jurnal Olahraga dan Prestasi</strong> diterbitkan oleh Program Studi Pendidikan dan Kepelatihan Olahraga, Fakultas Keolahragaan, Universitas Sebelas Maret Surakarta. Terbit dua kali dalam setahun pada bulan Februari dan Oktober, berisi naskah hasil penelitian, gagasan konseptual, kajian dan aplikasi teori maupun Ilmu Pengetahuan dan Teknologi Olahraga.</div>
+            </td>
+                        </tr>
+        <tr>
+            <td>
+                <div id="additionalHomeContent">
+
+<div id="externalFeedsHome"></div></div>
+            </td>
+        
+    </tr>
+</table>
+        <div id="announcementsHome">
+        <h3><a href="https://jurnal.uns.ac.id/smartsport/announcement">Announcements</a></h3>
+            <table class="announcements">
+	<tr>
+		<td colspan="2" class="headseparator">&nbsp;</td>
+	</tr>
+
+
+			<tr class="title">
+					<td class="title"><h4>Publication Ethics</h4></td>
+					<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="description">
+			<td class="description">Kode etik publikasi merupakan norma yang harus dipatuhi oleh penulis yang akan mempublikasikan karya ilmiahnya dalam media publikasi. Norma dasar dalam melakukan publikasi adalah mengutamakan moral, integritas ilmiah, dan kejujuran penulis.</td>
+			<td class="more">&nbsp;</td>
+		</tr>
+		<tr class="details">
+			<td class="posted">Posted: 2020-07-29</td>
+							<td class="more"><a href="https://jurnal.uns.ac.id/smartsport/announcement/view/254">More...</a></td>
+					</tr>
+		<tr>
+		<td colspan="2" class="endseparator">&nbsp;</td>
+	</tr>
+	
+</table>	
+        <!-- <table class="announcementsMore">
+                <tr>
+                        <td><a href="https://jurnal.uns.ac.id/smartsport/announcement">More Announcements...</a></td>
+                </tr>
+        </table> -->
+    </div>
+
+        <br />
+    <h3 class="issueTitle"><a href="https://jurnal.uns.ac.id/smartsport/issue/current">Vol 17, No 1 (2020): SMARTSPORT</a></h3>
+        	<div id="issueDescription" class="block"></div>
+		<h3 class="issue">Table of Contents</h3>
+	<h4 class="tocSectionTitle">Articles</h4>
+<table class="tocArticle">
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45338">Pengaruh Metode Senam dan Kelentukan Terhadap Penurunan Lemak Tubuh Pada Ibu-Ibu Pada Sanggar Sushi Kabupaten Kabupaten Semarang</a>
+					</div>
+		<div class="tocAuthors">
+												Eva Faridah -,									Soegiyanto Ks,									Nasuka -,									Sulaiman -									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45338/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45339">Pengaruh Metode Latihan dan Motor Educability terhadap Ketepatan Sepak Mula pada Permainan Sepak Takraw</a>
+					</div>
+		<div class="tocAuthors">
+												Hendrig Joko Prasetyo,									Haris Nugroho,									Islahuzzaman -,									Slamet Widodo,									Sugiyoto -									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45339/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45340">Korelasi Kecerdasan Emosi Dengan Hasil Pukulan Gating Dalam Permainan Woodball Pada Atlet Junior Pamulang Woodball Club (PWBC)</a>
+					</div>
+		<div class="tocAuthors">
+												Ika Yulianingsih,									Doby Parlindungan,									M. Al Ghani									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45340/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45341">TINGKAT KEBUGARAN JASMANI MASYARAKAT KABUPATEN BIMA DITINJAU DARI SPORT DEVELOPMENT INDEX</a>
+					</div>
+		<div class="tocAuthors">
+												Khairul Amar,									Eva Farida,									Irfan -,									Rabwan Satriawan									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45341/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45342">PARTISIPASI OLAHRAGA MASYARAKAT KABUPATEN BIMA DITINJAU DARI INDEKS PEMBANGUNAN OLAHRAGA</a>
+					</div>
+		<div class="tocAuthors">
+												Khairul Amar									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45342/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45344">SURVEY STUDY: ANALISIS KOMPETENSI PELATIH KEBUGARAN FITNESS CENTER DI WILAYAH JAKARTA SELATAN</a>
+					</div>
+		<div class="tocAuthors">
+												Miftah Fariz,									Mahendra Wahyu Dewangga									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45344/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45345">PERBEDAAN PENGARUH LATIHAN SERVIS KETINGGIAN NET TETAP   DAN   BERTAHAP  TERHADAP   KEMAMPUAN SERVIS  ATAS  BOLAVOLI  PADA  PESERTA  DIDIK  PUTRA EKSTRAKURIKULER BOLAVOLI MTS NEGERI 4 SRAGEN TAHUN PELAJARAN 2019/2020</a>
+					</div>
+		<div class="tocAuthors">
+												Muhammad Rochman Aji,									Teguh Santosa,									Ratna Kumala Setyaningrum									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45345/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45346">PETA MUTU PENDIDIKAN KOTA PONTIANAK</a>
+					</div>
+		<div class="tocAuthors">
+												Nursandi Mulato,									Ahmad Setiandika Adirahma									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45346/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45347">PERBEDAAN PENGARUH LATIHAN TENDANGAN MENGGUNAKAN KAKI DALAM DAN PUNGGUNG KAKI TERHADAP KETEPATAN SHOOTING KE GAWANG PADA SSB BINTANG BOLA SRAGEN TAHUN 2019</a>
+					</div>
+		<div class="tocAuthors">
+												Ratna Kumala Setyaningrum,									Muhammad Koirul anwar									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45347/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+		
+				
+				
+				
+
+<tr valign="top" class="TOC">
+	<td class="tocArticleCoverImage">
+			</td>
+
+	
+
+	<td class="tocArticleTitleAuthors">
+		<div class="tocTitle">
+							<a href="https://jurnal.uns.ac.id/smartsport/article/view/45348">EKSISTENSI  MUHAMMADIYAH DALAM PEMBINAAN SEPAKBOLA USIA DINI DI PAPUA BARAT MELALUI UNIVERSITAS PENDIDIKAN MUHAMMADIYAH (UNIMUDA) SORONG BERKOLABORASI DENGAN PSSI PROVINSI PAPUA BARAT</a>
+					</div>
+		<div class="tocAuthors">
+												Waskito Aji Rustamaji									</div>									</td>
+
+	<td class="tocArticleGalleysPages">
+		<div class="tocGalleys">
+												<a href="https://jurnal.uns.ac.id/smartsport/article/view/45348/pdf" class="file">PDF</a>
+																		</div>
+		<div class="tocPages">
+			
+		</div>
+	</td>
+</tr>
+
+
+</table>
+
+    
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><div id="right"><p><font color=#FFFFFF>Alamat </font></p><p><font color=#FFFFFF>Jalan Ir. Sutami 36 A, Surakarta, 57126 </font></p><p><font color=#FFFFFF>(0271) 638959 </font></p></div><div id="center"><p><font color="white">Copyright &copy;  2017 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></p></div><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both"></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

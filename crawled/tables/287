@@ -1,0 +1,18 @@
+<table id="signinTable" class="data">
+	<tbody><tr>
+		<td class="label"><label for="loginUsername">Username</label></td>
+		<td class="value"><input type="text" id="loginUsername" name="username" value="" size="20" maxlength="32" class="textField"></td>
+	</tr>
+	<tr>
+		<td class="label"><label for="loginPassword">Password</label></td>
+		<td class="value"><input type="password" id="loginPassword" name="password" value="" size="20" class="textField"></td>
+	</tr>
+		<tr valign="middle">
+		<td></td>
+		<td class="value"><input type="checkbox" id="loginRemember" name="remember" value="1"> <label for="loginRemember">Remember my username and password</label></td>
+	</tr>
+		<tr>
+		<td></td>
+		<td><input type="submit" value="Login" class="button"></td>
+	</tr>
+	</tbody></table></br>

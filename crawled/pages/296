@@ -1,0 +1,6511 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta charset="utf-8">
+		<meta name="distribution" content="global" />
+		<meta name="robots" content="follow, all" />
+		<meta name="language" content="en, sv" />
+		<meta name="google-site-verification" content="sDkjkHlZkLCg_93NJIwpC-GhT_OuB5HSe0iHlkN7Hwk" />
+		<meta name="description" content="Halaman Statistik User Akses Digital Library UNS" />
+		<meta name="keywords" content="Statistik, User Akses, Digital Library UNS, Digilib UNS" />
+		<meta name="author" content="UPT PERPUSTAKAAN UNS" />
+		<link rel="Top" href="https://digilib.uns.ac.id/" />
+		<link rel="Search" href="https://digilib.uns.ac.id/dokumen/search" />
+		<link rel="icon" type="image/png" href="https://digilib.uns.ac.id/dist/img/logo-uns.png">
+		<link rel="stylesheet" href="https://digilib.uns.ac.id/dist/css/style.css">
+		<link rel="stylesheet" href="https://digilib.uns.ac.id/dist/css/bootstrap.css">
+		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="https://digilib.uns.ac.id/dist/css/datepicker3.css">
+	<!--link rel="stylesheet" href="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js">
+	<link rel="stylesheet" href="//cdn.datatables.net/plug-ins/f2c75b7247b/integration/bootstrap/3/dataTables.bootstrap.js"-->
+		<script type="text/javascript" src="https://digilib.uns.ac.id/dist/js/jquery.js"></script>
+		<script type="text/javascript" src="https://digilib.uns.ac.id/dist/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://digilib.uns.ac.id/dist/js/bootstrap-datepicker3.js"></script>
+	<title>Statistik | UNS Digital Library</title></head>
+    <body>
+        <section id="header">
+            <div id="container" style="width: 100%; margin: 0px; padding: 0px;">
+                <div class="col-md-2 col-xs-2" style="background-color: #17365D; height: 130px; padding-left: 62px; padding-top: 15px;">
+                    <a href="https://digilib.uns.ac.id/"><img src="https://digilib.uns.ac.id/dist/img/uns-active.png" height="101px" width="141px"></a>
+				</div>
+				<div class="col-md-8 col-xs-8" style="background-color: #17365D; height: 130px; padding-left: 20px; padding-top: 20px; color:#FFF; font-size:32px;">
+                    UPT Perpustakaan<br>Universitas Sebelas Maret
+				</div>
+				<div class="col-md-2 col-xs-2" style="background-color: #17365D; height: 130px; padding-left: 40px; padding-top: 5px;">
+                    <a href="https://library.uns.ac.id"><img src="https://digilib.uns.ac.id/dist/img/logo-perpus.png" height="120px" width="100px"></a>
+				</div>
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px;">
+					
+                </div>
+            </div>
+        </section>
+        <section id="menu">
+            <div id="container" style="width: 100%;">
+                <div class="col-md-12 col-xs-18" style="background-color: #17365D; height: auto; color: #FFF;">
+                    <div class="row">
+                        <div class="col-md-4 col-xs-4" style="font-size: 32px;">
+                            <div style="padding: 10px;">Digital Library</div>
+                        </div>
+                        <div class="col-md-8 col-xs-8">
+                            <!--<div class="top-menu">-->
+    <nav class="navbar navbar-default navbar-right" role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" 
+                    data-target="#example-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="example-navbar-collapse">
+            <ul class="nav navbar-nav">
+                                        <li><a href="https://digilib.uns.ac.id/">Home</a></li>
+                				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        Dokumen <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/fakultas/">Fakultas</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/jenis">Jenis Dokumen</a></li>
+                        <li class="divider"></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/recent/">Dokumen Terbaru</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/most_viewed">Dokumen Terbanyak di baca</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/tahun/">Dokumen Per Tahun</a></li>
+					</ul>
+                </li>
+				<li><a href="https://digilib.uns.ac.id/user/register">Register</a></li>
+                        <li><a href="https://digilib.uns.ac.id/auth/login">Login</a></li>
+        <!--                <li><a href="https://digilib.uns.ac.id/dokumen/cari">Search</a></li>-->
+                <li><a href="https://digilib.uns.ac.id/kontak">Kontak</a></li>
+				<li><a href="https://digilib.uns.ac.id/bebas">Bebas Perpus</a></li>
+				<!--li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        Bebas Perpus <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas">Bebas Peminjaman Perpustakaan dan Penyerahan TA/Skripsi/Tesis/Disertasi</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas/sumbangan_buku">Penyerahan Sumbangan Buku dari FKIP (S1)</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas/non_wisuda">Bebas Peminjaman Perpustakaan untuk Profesi / Pengunduran Diri</a></li>
+                        <li class="divider"></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas/kerja_praktik">Penyerahan Laporan Kerja Praktik / Laporan Magang</a></li>
+					</ul>
+                </li-->
+                    </ul>
+        </div>
+    </nav>
+<!--</div>-->                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px;">
+                </div>  
+            </div>
+        </section>
+        <section id="search" style="background-color: #F9F8F5;">
+            <div id="container" style="width: 80%; margin: 0px auto;">
+                <div class="row" style="background-color: #FFF;">
+                    <div class="col-md-12 col-xs-18" style="padding: 25px 50px 0px 50px;;">
+                        <div id="simply-search">
+                            <form action="https://digilib.uns.ac.id/dokumen/search" method="post" accept-charset="utf-8">
+                            <input type="text" name="keyword" class="input-simple-search" placeholder="Keyword" required="required">
+                            <button type="submit" class="submit-simple-search">Search</button>
+                            </form>                        </div>
+                        
+                        <div id="advance-search" style="display:none;">
+                            <script language="JavaScript" type="text/JavaScript">
+function showProdi(){
+ if (document.adv.fakultas.value == "1"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+if (document.adv.fakultas.value == "2"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='F01'>Ekonomi  Pembangunan</option><option value='F02'>Manajemen</option><option value='F03'>Akuntansi</option><option value='F11'>S-1 Ekonomi Pembangunan NR</option><option value='F12'>S-1 Manajemen NR</option><option value='F13'>S-1 Akuntansi NR</option><option value='F23'>Pendidikan Profesi Akuntansi</option><option value='F31'>D3 Bisnis Internasional</option><option value='F32'>D3 Manajemen Pemasaran</option><option value='F33'>D3 Akuntansi</option><option value='F34'>D3 Perpajakan</option><option value='F35'>D3 Manajemen Industri</option><option value='F36'>D3 KEU PERBANKAN</option>"}
+if (document.adv.fakultas.value == "3"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='M01'>Matematika</option><option value='M02'>Fisika</option><option value='M03'>Kimia</option><option value='M04'>Biologi</option><option value='M05'>Informatika</option><option value='M06'>Farmasi</option><option value='M21'>Informatika PPD</option><option value='M31'>D3 Ilkom Teknik Informatika</option><option value='M32'>D3 Ilkom Manajemen Informatika</option><option value='M33'>D3 Ilkom Teknik Komputer</option><option value='M34'>D3 TEKNIK KOMPUTER JAR</option><option value='M35'>D3 Farmasi</option><option value='M07'>Statistika</option>"}
+if (document.adv.fakultas.value == "4"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='I01'>Teknik Sipil</option><option value='I02'>Arsitektur</option><option value='I03'>Teknik Industri</option><option value='I04'>Teknik Mesin</option><option value='I05'>Teknik Kimia</option><option value='I06'>Perencanaan Wilayah dan Kota</option><option value='I11'>Teknik Sipil Transfer</option><option value='I13'>Teknik Industri</option><option value='I14'>Teknik Mesin Transfer</option><option value='I15'>Teknik Kimia</option><option value='I81'>D3 Teknik Mesin Produksi</option><option value='I82'>D3 Teknik sipil Transportasi</option><option value='I83'>D3 Teknik Kimia Produksi</option><option value='I84'>D3 Teknik Mesin Industri</option><option value='I85'>D3 Teknik Sipil Bangunan Gedun</option><option value='I86'>D3 Teknik Mesin Otomotif</option><option value='I87'>D3 Teknik Sipil Infra Struktur</option><option value='I88'>D3 Teknik Kimia Lingkun</option><option value='I91'>D3 Pend. Ket. T. Sipil</option><option value='I92'>D2 Pend. Ket. T. Arsite</option><option value='I93'>D3 Pend. Ket. T. Mesin</option><option value='I94'>D3 Teknik Kimia</option><option value='I95'>D2 Pend. Ket. T. Inform</option><option value='I96'>D2 Pend. Ket. T. Indust</option><option value='I07'>Teknik Elektro</option>"}
+if (document.adv.fakultas.value == "5"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='G00'>Pendidikan Dokter</option><option value='G01'>Psikologi</option><option value='G99'>Kedokteran Koasistensi</option>"}
+if (document.adv.fakultas.value == "6"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='E00'>Ilmu Hukum</option><option value='E11'>Hukum NR</option>"}
+if (document.adv.fakultas.value == "7"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='K33'>Pend. Kimia</option><option value='K34'>PDU Tata Niaga</option><option value='K35'>Pendidikan Tek. informasi dan </option><option value='K36'>Pend. Kesehatan dan Rek</option><option value='K40'>Akta/IV</option><option value='K42'>Sastra Jawa</option><option value='K43'>Pend. Biologi</option><option value='K44'>Pend. Sejarah</option><option value='K46'>Pend. Jas. Kes. & Rekreasi</option><option value='K51'>Pend. Khusus/Luar Biasa</option><option value='K54'>Pend. Geografi</option><option value='K56'>Pend. Kepelatihan OR</option><option value='K61'>PGPLB</option><option value='K64'>Pend.Pancasila & Kewgn./PPKN</option><option value='K71'>Pend. Guru Sekolah Dasar (PGSD</option><option value='K72'>PGSD Kebumen</option><option value='K74'>Pend. Ekonomi</option><option value='K81'>S-1 Pendidikan Anak Usia Dini</option><option value='K84'>Pend. Sosiologi Antropologi</option><option value='K12'>Pend. Bhs. & Sastra Ind. & Dae</option><option value='K13'>Pend. Matematika</option><option value='K14'>PDU Akuntansi</option><option value='K15'>Pend. Teknik Bangunan</option><option value='K22'>Pend. Bhs. Inggris</option><option value='K23'>Pend. Fisika</option><option value='K24'>PDU Administrasi Perkantoran</option><option value='K25'>Pend. Teknik Mesin</option><option value='K30'>Akta/III</option><option value='K31'>Bimbingan Konseling</option><option value='K32'>Pend. Seni Rupa</option>"}
+if (document.adv.fakultas.value == "8"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='D01'>Ilmu Administrasi Negara</option><option value='D02'>Ilmu Komunikasi</option><option value='D03'>Sosiologi</option><option value='D04'>Hubungan Internasional</option><option value='D11'>S-1 Administrasi Negara NR</option><option value='D12'>S-1 Ilmu Komunikasi NR</option><option value='D13'>D3 Periklanan</option><option value='D14'>D3 Penyiaran</option><option value='D15'>D3 Manajemen administrasi</option><option value='D16'>D3 Public Relation</option><option value='D17'>D3 Riset dan Pemberdaya</option><option value='D18'>D3 Perpustakaan</option><option value='D32'>Sosiologi NR</option>"}
+if (document.adv.fakultas.value == "9"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='H01'>Agronomi</option><option value='H02'>Ilmu Tanah</option><option value='H03'>Sosial Ekonomi Pertanian</option><option value='H04'>Penyuluhan & Komunikasi Pertan</option><option value='H05'>Produksi Ternak</option><option value='H06'>Teknologi Hasil Pertanian</option><option value='H07'>S-1 Agroekoteknologi</option><option value='H08'>S-1 Agribisnis</option><option value='H09'>Ilmu Dan Teknologi Pangan</option><option value='H11'>Agronomi</option><option value='H12'>Ilmu Tanah</option><option value='H13'>Sosial Ekonomi Pertanian</option><option value='H14'>Teknologi Hasil Pertanian</option><option value='H18'>S-1 Agribisnis Transfer</option><option value='H19'>Ilmu Dan Teknologi Pang</option><option value='H21'>Pertanian PPD</option><option value='H31'>D3 Teknologi Hasil Pertanian</option><option value='H32'>D3 Agribisnis Tanaman Pangan</option><option value='H33'>D3 Agribisnis Hortikultura</option><option value='H34'>D3 Agribisnis Peternakan</option><option value='H35'>D3 Agribisnis Agrofarmaka</option>"}
+if (document.adv.fakultas.value == "11"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='A11'>S-2 Ilmu Lingkungan</option><option value='A12'>S-2 Ilmu Olahraga</option><option value='S94'>S-2 Teknik Sipil</option><option value='S95'>S-2 Teknik Mesin</option><option value='S99'>S-2 Pendidikan Ekonomi</option><option value='T11'>S-3 Linguistik (Linguistik</option><option value='T12'>Linguistik (Pengajaran</option><option value='T13'>S-3 LINGUISTIK PRAGMATIK</option><option value='T14'>S-3 LINGUISTIK PENERJEM</option><option value='T15'>S-3 KAJIAN BUDAYA</option><option value='T31'>S-3 ILMU HUKUM</option><option value='T40'>ILMU EKONOMI</option><option value='T50'>S-3 Ilmu Kedokteran</option><option value='T51'>S3 Ilmu Kesehatan Masyarakat</option><option value='T61'>PENYULUHAN PEMBANGUNAN</option><option value='T62'>S-3 PENYULUHAN PEMBANGUNAN</option><option value='T63'>S-3 PENYULUHAN PEMBANGUNAN</option><option value='T64'>S-3 PENYULUHAN PEMBANGUNAN</option><option value='T65'>S-3 Ilmu Pertanian</option><option value='T71'>ILMU LINGKUNGAN</option><option value='T72'>S-3 ILMU LINGKUNGAN</option><option value='T73'>S-3 ILMU LINGKUNGAN</option><option value='T74'>S-3 ILMU LINGKUNGAN</option><option value='T81'>S-3 ILMU PENDIDIKAN</option><option value='T84'>S-3 PENDIDIKAN BAHASA INDON</option><option value='S01'>S-2 Magister Seni</option><option value='S02'>S2 Ilmu Kesehatan Masyarakat</option><option value='S11'>S-2 Linguistik (Ling. Deskr</option><option value='S12'>Linguistik (Pengembanga</option><option value='S13'>S-2 Linguistik Penerjemahan</option><option value='S15'>S-2 Pendidikan Bahasa Indonesi</option><option value='S20'>Penyakit Kulit dan Kelamin</option><option value='S22'>S-2 Ilmu Komunikasi (Teori</option><option value='S23'>S-2 Ilmu Komunikasi  Manajemen</option><option value='S24'>S-2 Magister Administrasi Publ</option><option value='S25'>S-2 Sosiologi</option><option value='S31'>S-2 Ilmu Hukum (Hukum Kebij</option><option value='S32'>S-2 Ilmu Hukum (Konsentrasi</option><option value='S33'>S-2 Ilmu Hukum Pidana EK</option><option value='S34'>Hukum Islam</option><option value='S35'>S-2 Notariat</option><option value='S41'>S-2 Magister Manajemen</option><option value='S42'>S-2 EKONOMI PEMBANGUNAN</option><option value='S43'>S-2 AKUNTANSI</option><option value='S50'>BIOMEDIK</option><option value='S51'>Ilmu Pendidikan Jiwa PP</option><option value='S52'>S-2 Magister Kedokteran Kel</option><option value='S53'>S-2 Ilmu Gizi</option><option value='S54'>S-2 Magister Kedokteran Kel</option><option value='S55'>Obstetri Ginekologi PPD</option><option value='S56'>Ilmu Bedah</option><option value='S57'>Psikistri</option><option value='S58'>Obsgin PPDS-I</option><option value='S59'>Ilmu Kesehatan Anak PPD</option><option value='S61'>S-2 Agronomi</option><option value='S62'>S-2 Ilmu Peny. Pemb. (Penyu</option><option value='S63'>S-2 Ilmu Peny. Pemb. (Manaj</option><option value='S64'>S-2 Agribisnis</option><option value='S70'>S-2 Kajian Budaya</option><option value='S81'>S-2 Teknologi Pendidikan</option><option value='S82'>S-2 Pend.Kependudukan & Lin</option><option value='S83'>S-2 Pendidikan Sains</option><option value='S84'>S-2 Pendidikan Bahasa Indon</option><option value='S85'>S-2 Pendidikan Matematika</option><option value='S86'>S-2 Pendidikan Sejarah</option><option value='S87'>Med. Education</option><option value='S88'>S-2 Pend.Kependudukan & Lin</option><option value='S89'>S-2 Pendidikan Bhs. Inggris</option><option value='S90'>S-2 Biosains</option><option value='S91'>S-2 Ilmu Fisika</option><option value='S92'>PPDS THT</option><option value='A13'>S-2 Ilmu Lingkungan</option>"}
+if (document.adv.fakultas.value == "12"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+if (document.adv.fakultas.value == "13"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='C06'>Seni Rupa Murni</option><option value='C07'>Desain Komunikasi Visual</option><option value='C08'>Desain Interior</option><option value='C09'>Kriya Seni</option><option value='C95'>D3 Desain Komunikasi Visual</option>"}
+if (document.adv.fakultas.value == "14"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='C01'>Sastra Jawa</option><option value='C02'>Sastra Indonesia</option><option value='C03'>Sastra Inggris</option><option value='C05'>Ilmu Sejarah</option><option value='C10'>S-1 Sastra Arab</option><option value='C13'>S-1 Sastra Inggris NR</option><option value='C93'>D3 Sastra Inggris</option><option value='C94'>D3 Usaha Perjalanan wisata</option><option value='C96'>D3 Sastra Tionghwa</option><option value='B01'>S-1 Sastra Jawa</option><option value='B02'>S-1 Sastra Indonesia</option><option value='B03'>S-1 Sastra Inggris</option><option value='B04'>S-1 Ilmu Sejarah</option><option value='B05'>S-1 Sastra Arab</option><option value='B31'>D3 Bahasa Inggris</option>"}
+if (document.adv.fakultas.value == "15"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+if (document.adv.fakultas.value == "16"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+ }
+</script>
+
+<form action="https://digilib.uns.ac.id/dokumen/advanced_search" name="adv" method="post" accept-charset="utf-8">
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    Jenis Dokumen : 
+</div>
+<div class="col-md-8 col-xs-8">
+    <select name="jenis" class="form-control">
+<!--        <option value="">-- Jenis Dokumen --</option>-->
+        <option value="semua">Semua Jenis Dokumen</option>
+                    <option value="10220">Artikel Jurnal Non UNS</option>
+                    <option value="10246">Artikel Jurnal UNS</option>
+                    <option value="10188">Artikel Populer</option>
+                    <option value="10247">Artikel Prosiding</option>
+                    <option value="10285">Book Chapter</option>
+                    <option value="10255">Buku Ajar</option>
+                    <option value="10189">Disertasi</option>
+                    <option value="10186">E-book</option>
+                    <option value="10281">Katalog</option>
+                    <option value="10286">Laporan Magang</option>
+                    <option value="10152">Laporan Penelitian Dosen</option>
+                    <option value="1">Laporan Tugas Akhir (D III)</option>
+                    <option value="1254">Laporan Tugas Akhir (D IV)</option>
+                    <option value="888">Makalah</option>
+                    <option value="10284">Paten</option>
+                    <option value="8472">Pengukuhan Guru Besar</option>
+                    <option value="10282">Poster</option>
+                    <option value="10136">Proposal Skripsi</option>
+                    <option value="10283">Prosiding</option>
+                    <option value="261">Skripsi</option>
+                    <option value="494">Tesis</option>
+            </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    Fakultas : 
+</div>
+<div class="col-md-8 col-xs-8">
+    <select name="fakultas" id="fakultas" onchange="showProdi()" class="form-control">
+<!--        <option value="">-- Fakultas --</option>-->
+        <option value="semua">Semua Fakultas</option>
+                    <option value="7">Fak. KIP</option>
+                    <option value="2">Fak. Ekonomi dan Bisnis</option>
+                    <option value="11">Pascasarjana</option>
+                    <option value="8">Fak. ISIP</option>
+                    <option value="4">Fak. Teknik</option>
+                    <option value="5">Fak. Kedokteran</option>
+                    <option value="1">Fak. Sastra dan Seni Rupa</option>
+                    <option value="6">Fak. Hukum</option>
+                    <option value="3">Fak. MIPA</option>
+                    <option value="9">Fak. Pertanian</option>
+                    <option value="14">Fak. Ilmu Budaya</option>
+                    <option value="13">Fak. Seni Rupa dan Desain</option>
+                    <option value="12">Staf</option>
+                    <option value="15">Non UNS</option>
+                    <option value="16">Fak. Keolahragaan</option>
+            </select>
+</div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    Prodi : 
+</div>
+<div class="col-md-8 col-xs-8">
+    <!--input type="text" name="prodi" class="form-control" /-->
+	<!--div id="prodi"></div-->
+	<select name="prodi" id="prodi" class="form-control">
+		<option value="">Semua Prodi</option>
+    </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    <select name="option1" class="form-control">
+        <option value="judul" selected="selected">Judul</option>
+        <option value="penulis">Penulis</option>
+        <!--option value="penulis_tmb">Penulis Tambahan</option-->
+        <option value="subyek">Subyek</option>
+    </select>
+</div>
+<div class="col-md-6 col-xs-6">
+    <input type="text" name="keyword1" class="form-control">
+</div>
+<div class="col-md-2 col-xs-2">
+    <select name="operator1" class="form-control">
+        <option value="and">AND</option>
+        <option value="or">OR</option>
+        <option value="not">NOT</option>
+    </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    <select name="option2" class="form-control">
+        <option value="judul">Judul</option>
+        <option value="penulis" selected="selected">Penulis</option>
+        <!--option value="penulis_tmb">Penulis Tambahan</option-->
+        <option value="subyek">Subyek</option>
+    </select>
+</div>
+<div class="col-md-6 col-xs-6">
+    <input type="text" name="keyword2" class="form-control">
+</div>
+<div class="col-md-2 col-xs-2">
+    <select name="operator2" class="form-control">
+        <option value="and">AND</option>
+        <option value="or">OR</option>
+        <option value="not">NOT</option>
+    </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    <select name="option3" class="form-control">
+        <option value="judul">Judul</option>
+        <option value="penulis">Penulis</option>
+        <!--option value="penulis_tmb">Penulis Tambahan</option-->
+        <option value="subyek" selected="selected">Subyek</option>
+    </select>
+</div>
+<div class="col-md-6 col-xs-6">
+    <input type="text" name="keyword3" class="form-control">
+</div>
+<div class="col-md-2 col-xs-2">
+    <button type="submit" class="submit-advanced-search">Search</button>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+</form>                        </div>
+                        
+                        <br>
+                        <div id="show_advance" align="center">
+                            <a href="#"><span style="font-size:16px;">Advanced Search</span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px; margin-top: 10px;">
+
+                    </div> 
+                </div> 
+            </div>
+        </section>
+        <section id="main" style="background-color: #F9F8F5;">
+            <div id="container" style="width: 80%; margin: 0px auto;">
+                <div class="row" style="padding: 0px 20px; background-color:#FFF;">
+
+                    <!--    ------------------------------ SIDE BAR  ---------------------------------------   -->
+                                            <div class="col-md-4 col-xs-6" style="width: 26%; margin-bottom: 30px;">
+                            <div style="height: 25px;"></div>
+<div class="row">
+    <div class="col-md-12 box-left" style="padding: 0px;">
+        <div class="head-left">
+            Informasi
+        </div>
+        <div class="body-left">
+            <a href="https://digilib.uns.ac.id/informasi/view/10/Legal-Warning">Legal Warning </a><br><a href="https://digilib.uns.ac.id/informasi/view/11/Cara-Menjadi-Anggota">Cara Menjadi Anggota</a><br><a href="https://digilib.uns.ac.id/informasi/view/12/Cara-Akses">Cara Akses</a><br><a href="https://digilib.uns.ac.id/informasi/view/13/Lupa-Password">Lupa Password</a><br><!--            <a href="">Accessibility</a><br>
+            <a href="">Cara Menjadi Anggota</a><br>
+            <a href="">Legal Warning</a>-->
+        </div>
+    </div>
+</div>
+<div style="height: 30px;"></div>
+    <div style="height: 30px;"></div><div class="row">
+    <div class="col-md-12 box-left" style="padding: 0px;">
+        <div class="head-left">
+            Jenis Dokumen
+        </div>
+        <div class="body-left">
+            					<a href="https://digilib.uns.ac.id/dokumen/jenis/10220/Artikel-Jurnal-Non-UNS" data-toggle="tooltip" class="tip-bottom" data-original-title="Artikel yang dipublish di jurnal terbitan kerjasama antara UNS dan luar UNS serta artikel yang dipublish di jurnal terbitan luar UNS.">Artikel Jurnal Non UNS (140)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10246/Artikel-Jurnal-UNS" data-toggle="tooltip" class="tip-bottom" data-original-title="Artikel yang dipublish di jurnal terbitan UNS">Artikel Jurnal UNS (132)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10188/Artikel-Populer" data-toggle="tooltip" class="tip-bottom" data-original-title="Hasil tulisan/artikel yang dipublish di surat kabar atau majalah populer">Artikel Populer (18)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10247/Artikel-Prosiding" data-toggle="tooltip" class="tip-bottom" data-original-title="Artikel yang diterbitkan di prosiding.">Artikel Prosiding (443)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10255/Buku-Ajar" data-toggle="tooltip" class="tip-bottom" data-original-title="Buku ajar karya dosen, disajikan fulltext.">Buku Ajar (28)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10189/Disertasi" data-toggle="tooltip" class="tip-bottom" data-original-title="">Disertasi (375)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10186/E-book" data-toggle="tooltip" class="tip-bottom" data-original-title="Karya ilmiah dosen, disajikan hanya bagian tertentu dari keseluruhan isi buku.">E-book (172)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10281/Katalog" data-toggle="tooltip" class="tip-bottom" data-original-title="Meta data dari karya ilmiah sivitas akademika UNS">Katalog (4)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10152/Laporan-Penelitian-Dosen" data-toggle="tooltip" class="tip-bottom" data-original-title="">Laporan Penelitian Dosen (66)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/1/Laporan-Tugas-Akhir-D-III" data-toggle="tooltip" class="tip-bottom" data-original-title="">Laporan Tugas Akhir (D III) (16865)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/1254/Laporan-Tugas-Akhir-D-IV" data-toggle="tooltip" class="tip-bottom" data-original-title="">Laporan Tugas Akhir (D IV) (917)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/888/Makalah" data-toggle="tooltip" class="tip-bottom" data-original-title="Karya ilmiah yang dipresentasikan dalam pertemuan ilmiah">Makalah (236)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10284/Paten" data-toggle="tooltip" class="tip-bottom" data-original-title="">Paten (3)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/8472/Pengukuhan-Guru-Besar" data-toggle="tooltip" class="tip-bottom" data-original-title="Naskah disampaikan dalam sidang senat terbuka UNS">Pengukuhan Guru Besar (68)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10282/Poster" data-toggle="tooltip" class="tip-bottom" data-original-title="">Poster (4)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10136/Proposal-Skripsi" data-toggle="tooltip" class="tip-bottom" data-original-title="">Proposal Skripsi (13)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10283/Prosiding" data-toggle="tooltip" class="tip-bottom" data-original-title="">Prosiding (9)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/261/Skripsi" data-toggle="tooltip" class="tip-bottom" data-original-title="">Skripsi (46370)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/494/Tesis" data-toggle="tooltip" class="tip-bottom" data-original-title="">Tesis (10877)</a>
+					<br>        </div>
+    </div>
+</div>
+<div style="height: 30px;"></div><div class="row">
+    <div class="col-md-12 box-left" style="padding: 0px;">
+        <div class="head-left">
+            Fakultas
+        </div>
+        <div class="body-left">
+            <a href="https://digilib.uns.ac.id/dokumen/fakultas/7/Fak-KIP">Fak. KIP (16204)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/2/Fak-Ekonomi-dan-Bisnis">Fak. Ekonomi dan Bisnis (11098)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/8/Fak-ISIP">Fak. ISIP (7556)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/4/Fak-Teknik">Fak. Teknik (5794)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/5/Fak-Kedokteran">Fak. Kedokteran (5579)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/1/Fak-Sastra-dan-Seni-Rupa">Fak. Sastra dan Seni Rupa (4722)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/6/Fak-Hukum">Fak. Hukum (4009)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/3/Fak-MIPA">Fak. MIPA (3859)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/9/Fak-Pertanian">Fak. Pertanian (3736)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/14/Fak-Ilmu-Budaya">Fak. Ilmu Budaya (1529)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/13/Fak-Seni-Rupa-dan-Desain">Fak. Seni Rupa dan Desain (745)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/15/Non-UNS">Non UNS (5)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/16/Fak-Keolahragaan">Fak. Keolahragaan ()</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/11/Pascasarjana">Pascasarjana (10645)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/12/Staf">Staf (58)</a><br>        </div>
+    </div>
+</div>
+                        </div>
+                           
+                    <!--    ------------------------------ END OF SIDE BAR  ---------------------------------   -->
+
+                    <!--    ------------------------------ MAIN PAGE  ---------------------------------------   -->
+                                            <div class="col-md-8 col-xs-12" style="width: 74%; margin-bottom: 20px;">
+                            <div class="body-main">
+                                <div class="page-header" align="center">
+    <h1>Statistik</h1>
+</div>
+<ul class="nav nav-tabs nav-justified" role="tablist">
+	<li class="active"><a href="https://digilib.uns.ac.id/statistik/user_akses">User Akses</a></li>
+    <li><a href="https://digilib.uns.ac.id/statistik/dokumen_dibaca">Dokumen dibaca</a></li>
+    <li><a href="https://digilib.uns.ac.id/statistik/jumlah_dokumen">Dokumen per Fakultas</a></li>
+    <li><a href="https://digilib.uns.ac.id/statistik/dokumen_prodi">Dokumen per Prodi</a></li>
+</ul>
+<table class="table table-hover table-striped">
+    <tr>
+        <th>No</th>
+        <th>Nama</th>
+        <th>Status</th>
+        <th>Jumlah Login</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>perpustakaan hukum</td>
+        <td>Dosen UNS</td>
+        <td>7952</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Anita Retno Mulat</td>
+        <td>Mahasiswa UNS</td>
+        <td>541</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>aluisius hari setias</td>
+        <td>Lain-Lain</td>
+        <td>521</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Tika Sukma Ningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>508</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Iori Kogawa</td>
+        <td>Dosen Luar UNS</td>
+        <td>502</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>NONIK AYU WARDANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>496</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>yaskinul anwar</td>
+        <td>Mahasiswa UNS</td>
+        <td>493</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>aziz thaba</td>
+        <td>Lain-Lain</td>
+        <td>488</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>TIARA FATMA KUMALA</td>
+        <td>Mahasiswa UNS</td>
+        <td>408</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Erni dwi Lestari</td>
+        <td>Mahasiswa UNS</td>
+        <td>401</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Anggit Nanda Puspita Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>386</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Tri Wibowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>379</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Prasetyo Adi Wisnu W</td>
+        <td>Dosen UNS</td>
+        <td>373</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Prasetiya yudistira</td>
+        <td>Dosen UNS</td>
+        <td>359</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>lianggi agustina</td>
+        <td>Mahasiswa UNS</td>
+        <td>357</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>abid suyuti ridlwan</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>352</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>Danda</td>
+        <td>Lain-Lain</td>
+        <td>346</td>
+    </tr>
+    <tr>
+        <td>18</td>
+        <td>Langgeng widi tyasmoro</td>
+        <td>Dosen Luar UNS</td>
+        <td>344</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>Nuning Rusi Astuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>342</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>fajar faizin</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>342</td>
+    </tr>
+    <tr>
+        <td>21</td>
+        <td>nur luthfi rizqa h</td>
+        <td>Dosen UNS</td>
+        <td>340</td>
+    </tr>
+    <tr>
+        <td>22</td>
+        <td>Bujang Sembiring</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>323</td>
+    </tr>
+    <tr>
+        <td>23</td>
+        <td>raditio</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>322</td>
+    </tr>
+    <tr>
+        <td>24</td>
+        <td>M Ferry Rahman</td>
+        <td>Mahasiswa UNS</td>
+        <td>296</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>Ryana Putri</td>
+        <td>Mahasiswa UNS</td>
+        <td>291</td>
+    </tr>
+    <tr>
+        <td>26</td>
+        <td>indra pangestu</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>290</td>
+    </tr>
+    <tr>
+        <td>27</td>
+        <td>Eris Isnaini</td>
+        <td>Dosen UNS</td>
+        <td>289</td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td>Budi Santoso</td>
+        <td>Lain-Lain</td>
+        <td>284</td>
+    </tr>
+    <tr>
+        <td>29</td>
+        <td>irwadi nur hidayat</td>
+        <td>Mahasiswa UNS</td>
+        <td>283</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td>chairul huda atma d</td>
+        <td>Mahasiswa UNS</td>
+        <td>278</td>
+    </tr>
+    <tr>
+        <td>31</td>
+        <td>Novrian Panji</td>
+        <td>Mahasiswa UNS</td>
+        <td>275</td>
+    </tr>
+    <tr>
+        <td>32</td>
+        <td>gunawan tarjo</td>
+        <td>Mahasiswa UNS</td>
+        <td>275</td>
+    </tr>
+    <tr>
+        <td>33</td>
+        <td>Aulia Ar Rakhman A</td>
+        <td>Mahasiswa UNS</td>
+        <td>272</td>
+    </tr>
+    <tr>
+        <td>34</td>
+        <td>Mushoffiana Audina</td>
+        <td>Mahasiswa UNS</td>
+        <td>267</td>
+    </tr>
+    <tr>
+        <td>35</td>
+        <td>nurdin bramono</td>
+        <td>Dosen UNS</td>
+        <td>265</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>AGUNG HERI JUNIANTO</td>
+        <td>Mahasiswa UNS</td>
+        <td>261</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>PartTime Perpustakaan</td>
+        <td>Karyawan UNS</td>
+        <td>258</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>muhammad</td>
+        <td>Dosen UNS</td>
+        <td>258</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>eko susanto</td>
+        <td>Lain-Lain</td>
+        <td>255</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>nahya zee</td>
+        <td>Dosen UNS</td>
+        <td>255</td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>Nashikhul Hakim</td>
+        <td>Mahasiswa UNS</td>
+        <td>255</td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td>Annisa Nur Putri</td>
+        <td>Karyawan Luar UNS</td>
+        <td>252</td>
+    </tr>
+    <tr>
+        <td>43</td>
+        <td>isna ayu natasya</td>
+        <td>Mahasiswa UNS</td>
+        <td>250</td>
+    </tr>
+    <tr>
+        <td>44</td>
+        <td>muhammad mar'ie</td>
+        <td>Mahasiswa UNS</td>
+        <td>243</td>
+    </tr>
+    <tr>
+        <td>45</td>
+        <td>ANASTASIA ANGGAR</td>
+        <td>Mahasiswa UNS</td>
+        <td>242</td>
+    </tr>
+    <tr>
+        <td>46</td>
+        <td>afrianis marwanti</td>
+        <td>Lain-Lain</td>
+        <td>239</td>
+    </tr>
+    <tr>
+        <td>47</td>
+        <td>Anindita Kusuma Wardhani Iskabul</td>
+        <td>Mahasiswa UNS</td>
+        <td>238</td>
+    </tr>
+    <tr>
+        <td>48</td>
+        <td>dyah trimardani</td>
+        <td>Dosen UNS</td>
+        <td>237</td>
+    </tr>
+    <tr>
+        <td>49</td>
+        <td>Budi Ramdha Setiawan</td>
+        <td>Lain-Lain</td>
+        <td>235</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>hardi santoso</td>
+        <td>Mahasiswa UNS</td>
+        <td>228</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>suherman</td>
+        <td>Mahasiswa UNS</td>
+        <td>226</td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>nafi handa yuliani</td>
+        <td>Mahasiswa UNS</td>
+        <td>225</td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>Muhammad Anggie Farizqi Prasadana</td>
+        <td>Mahasiswa UNS</td>
+        <td>222</td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>hesti indah mifta n</td>
+        <td>Mahasiswa UNS</td>
+        <td>222</td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>shirohige whitebeard</td>
+        <td>Mahasiswa UNS</td>
+        <td>220</td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>ikadamayanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>219</td>
+    </tr>
+    <tr>
+        <td>57</td>
+        <td>Yeni  Rahmawati</td>
+        <td>Dosen UNS</td>
+        <td>218</td>
+    </tr>
+    <tr>
+        <td>58</td>
+        <td>Roni</td>
+        <td>Mahasiswa UNS</td>
+        <td>217</td>
+    </tr>
+    <tr>
+        <td>59</td>
+        <td>aulia nur fadhilah</td>
+        <td>Mahasiswa UNS</td>
+        <td>214</td>
+    </tr>
+    <tr>
+        <td>60</td>
+        <td>jatmiko</td>
+        <td>Mahasiswa UNS</td>
+        <td>213</td>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>mulyadi</td>
+        <td>Lain-Lain</td>
+        <td>213</td>
+    </tr>
+    <tr>
+        <td>62</td>
+        <td>tian setyanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>211</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>mujahid zenul ambiya</td>
+        <td>Dosen UNS</td>
+        <td>210</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>riandita succi</td>
+        <td>Mahasiswa UNS</td>
+        <td>210</td>
+    </tr>
+    <tr>
+        <td>65</td>
+        <td>Candra Kurniawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>209</td>
+    </tr>
+    <tr>
+        <td>66</td>
+        <td>mh amin mardhatillah</td>
+        <td>Mahasiswa UNS</td>
+        <td>209</td>
+    </tr>
+    <tr>
+        <td>67</td>
+        <td>Widiarini</td>
+        <td>Mahasiswa UNS</td>
+        <td>208</td>
+    </tr>
+    <tr>
+        <td>68</td>
+        <td>moris virgiawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>208</td>
+    </tr>
+    <tr>
+        <td>69</td>
+        <td>erni rahayu</td>
+        <td>Mahasiswa UNS</td>
+        <td>207</td>
+    </tr>
+    <tr>
+        <td>70</td>
+        <td>achmad yusuf udy n</td>
+        <td>Mahasiswa UNS</td>
+        <td>207</td>
+    </tr>
+    <tr>
+        <td>71</td>
+        <td>maya iriana sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>205</td>
+    </tr>
+    <tr>
+        <td>72</td>
+        <td>Affi Zakiyya</td>
+        <td>Mahasiswa UNS</td>
+        <td>203</td>
+    </tr>
+    <tr>
+        <td>73</td>
+        <td>alva kurniawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>203</td>
+    </tr>
+    <tr>
+        <td>74</td>
+        <td>m. hery yuli s</td>
+        <td>Mahasiswa UNS</td>
+        <td>202</td>
+    </tr>
+    <tr>
+        <td>75</td>
+        <td>fakultas mipa</td>
+        <td>Karyawan UNS</td>
+        <td>201</td>
+    </tr>
+    <tr>
+        <td>76</td>
+        <td>Ilham Aryo Pamungkas</td>
+        <td>Mahasiswa UNS</td>
+        <td>198</td>
+    </tr>
+    <tr>
+        <td>77</td>
+        <td>Yuniarta Ita Purnama</td>
+        <td>Mahasiswa UNS</td>
+        <td>198</td>
+    </tr>
+    <tr>
+        <td>78</td>
+        <td>HERRI FAZRY</td>
+        <td>Karyawan Luar UNS</td>
+        <td>197</td>
+    </tr>
+    <tr>
+        <td>79</td>
+        <td>Siska Septy A</td>
+        <td>Mahasiswa UNS</td>
+        <td>195</td>
+    </tr>
+    <tr>
+        <td>80</td>
+        <td>tika fardina</td>
+        <td>Mahasiswa UNS</td>
+        <td>195</td>
+    </tr>
+    <tr>
+        <td>81</td>
+        <td>Ashlihna R. Mufida</td>
+        <td>Mahasiswa UNS</td>
+        <td>194</td>
+    </tr>
+    <tr>
+        <td>82</td>
+        <td>Arka Suta</td>
+        <td>Mahasiswa UNS</td>
+        <td>193</td>
+    </tr>
+    <tr>
+        <td>83</td>
+        <td>Pratiwi Ks</td>
+        <td>Mahasiswa UNS</td>
+        <td>193</td>
+    </tr>
+    <tr>
+        <td>84</td>
+        <td>Fitriana Dwi Utari</td>
+        <td>Mahasiswa UNS</td>
+        <td>193</td>
+    </tr>
+    <tr>
+        <td>85</td>
+        <td>PRISSILIA PRAHESTA W</td>
+        <td>Mahasiswa UNS</td>
+        <td>192</td>
+    </tr>
+    <tr>
+        <td>86</td>
+        <td>zahra fizty f</td>
+        <td>Mahasiswa UNS</td>
+        <td>191</td>
+    </tr>
+    <tr>
+        <td>87</td>
+        <td>ratmawan ari kusnand</td>
+        <td>Mahasiswa UNS</td>
+        <td>191</td>
+    </tr>
+    <tr>
+        <td>88</td>
+        <td>Iwan Hariyanto</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>190</td>
+    </tr>
+    <tr>
+        <td>89</td>
+        <td>indung wijayanto</td>
+        <td>Dosen Luar UNS</td>
+        <td>190</td>
+    </tr>
+    <tr>
+        <td>90</td>
+        <td>DHIMAS MUH YASIN</td>
+        <td>Mahasiswa UNS</td>
+        <td>190</td>
+    </tr>
+    <tr>
+        <td>91</td>
+        <td>widarso</td>
+        <td>Lain-Lain</td>
+        <td>189</td>
+    </tr>
+    <tr>
+        <td>92</td>
+        <td>alfan zidni ilman </td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>189</td>
+    </tr>
+    <tr>
+        <td>93</td>
+        <td>Rangga Darmajati</td>
+        <td>Mahasiswa UNS</td>
+        <td>188</td>
+    </tr>
+    <tr>
+        <td>94</td>
+        <td>Rudi Zulfikar</td>
+        <td>Dosen UNS</td>
+        <td>187</td>
+    </tr>
+    <tr>
+        <td>95</td>
+        <td>murniaty</td>
+        <td>Dosen UNS</td>
+        <td>187</td>
+    </tr>
+    <tr>
+        <td>96</td>
+        <td>ening nanda rama</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>187</td>
+    </tr>
+    <tr>
+        <td>97</td>
+        <td>eko prasetyo utomo</td>
+        <td>Dosen UNS</td>
+        <td>186</td>
+    </tr>
+    <tr>
+        <td>98</td>
+        <td>Badrus Sholeh</td>
+        <td>Lain-Lain</td>
+        <td>186</td>
+    </tr>
+    <tr>
+        <td>99</td>
+        <td>elina nur azizah</td>
+        <td>Mahasiswa UNS</td>
+        <td>186</td>
+    </tr>
+    <tr>
+        <td>100</td>
+        <td>Faozan</td>
+        <td>Mahasiswa UNS</td>
+        <td>186</td>
+    </tr>
+    <tr>
+        <td>101</td>
+        <td>fatia azzahrah</td>
+        <td>Mahasiswa UNS</td>
+        <td>186</td>
+    </tr>
+    <tr>
+        <td>102</td>
+        <td>Ign K Narendra S</td>
+        <td>Mahasiswa UNS</td>
+        <td>186</td>
+    </tr>
+    <tr>
+        <td>103</td>
+        <td>ahmad romli</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>185</td>
+    </tr>
+    <tr>
+        <td>104</td>
+        <td>wahyu karminah</td>
+        <td>Karyawan Luar UNS</td>
+        <td>185</td>
+    </tr>
+    <tr>
+        <td>105</td>
+        <td>herlina mahayani</td>
+        <td>Mahasiswa UNS</td>
+        <td>185</td>
+    </tr>
+    <tr>
+        <td>106</td>
+        <td>aprin wahyu w.</td>
+        <td>Mahasiswa UNS</td>
+        <td>185</td>
+    </tr>
+    <tr>
+        <td>107</td>
+        <td>binarfika magfiroh </td>
+        <td>Mahasiswa UNS</td>
+        <td>185</td>
+    </tr>
+    <tr>
+        <td>108</td>
+        <td>Aditya Wahyu D</td>
+        <td>Lain-Lain</td>
+        <td>184</td>
+    </tr>
+    <tr>
+        <td>109</td>
+        <td>agus rangkuti</td>
+        <td>Dosen UNS</td>
+        <td>184</td>
+    </tr>
+    <tr>
+        <td>110</td>
+        <td>ridya</td>
+        <td>Mahasiswa UNS</td>
+        <td>184</td>
+    </tr>
+    <tr>
+        <td>111</td>
+        <td>Ismanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>184</td>
+    </tr>
+    <tr>
+        <td>112</td>
+        <td>Dwi Puji Astuti</td>
+        <td>Lain-Lain</td>
+        <td>182</td>
+    </tr>
+    <tr>
+        <td>113</td>
+        <td>essy dian pratiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>181</td>
+    </tr>
+    <tr>
+        <td>114</td>
+        <td>Anggun Budi Satriya</td>
+        <td>Mahasiswa UNS</td>
+        <td>181</td>
+    </tr>
+    <tr>
+        <td>115</td>
+        <td>Naily Nur Kholidah</td>
+        <td>Mahasiswa UNS</td>
+        <td>180</td>
+    </tr>
+    <tr>
+        <td>116</td>
+        <td>Muhammad Nasir Nippi</td>
+        <td>Lain-Lain</td>
+        <td>180</td>
+    </tr>
+    <tr>
+        <td>117</td>
+        <td>viny nosa sustria</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>179</td>
+    </tr>
+    <tr>
+        <td>118</td>
+        <td>monica ayu nugraheni</td>
+        <td>Mahasiswa UNS</td>
+        <td>179</td>
+    </tr>
+    <tr>
+        <td>119</td>
+        <td>meritha saraswati</td>
+        <td>Mahasiswa UNS</td>
+        <td>179</td>
+    </tr>
+    <tr>
+        <td>120</td>
+        <td>Gunasih</td>
+        <td>Mahasiswa UNS</td>
+        <td>178</td>
+    </tr>
+    <tr>
+        <td>121</td>
+        <td>Herlina Kusuma W</td>
+        <td>Mahasiswa UNS</td>
+        <td>178</td>
+    </tr>
+    <tr>
+        <td>122</td>
+        <td>Wawan Kurniawan</td>
+        <td>Dosen UNS</td>
+        <td>178</td>
+    </tr>
+    <tr>
+        <td>123</td>
+        <td>pamorti parasista</td>
+        <td>Mahasiswa UNS</td>
+        <td>177</td>
+    </tr>
+    <tr>
+        <td>124</td>
+        <td>Rosita Kurnia Putri</td>
+        <td>Mahasiswa UNS</td>
+        <td>176</td>
+    </tr>
+    <tr>
+        <td>125</td>
+        <td>Aditya Pratama</td>
+        <td>Mahasiswa UNS</td>
+        <td>176</td>
+    </tr>
+    <tr>
+        <td>126</td>
+        <td>yogi ismana</td>
+        <td>Mahasiswa UNS</td>
+        <td>176</td>
+    </tr>
+    <tr>
+        <td>127</td>
+        <td>hasrullah</td>
+        <td>Mahasiswa UNS</td>
+        <td>175</td>
+    </tr>
+    <tr>
+        <td>128</td>
+        <td>muhammad mahruf nasution</td>
+        <td>Dosen Luar UNS</td>
+        <td>174</td>
+    </tr>
+    <tr>
+        <td>129</td>
+        <td>lutfi mutiara</td>
+        <td>Mahasiswa UNS</td>
+        <td>173</td>
+    </tr>
+    <tr>
+        <td>130</td>
+        <td>kiki holmes</td>
+        <td>Dosen UNS</td>
+        <td>173</td>
+    </tr>
+    <tr>
+        <td>131</td>
+        <td>yogaardianferiandi</td>
+        <td>Dosen UNS</td>
+        <td>173</td>
+    </tr>
+    <tr>
+        <td>132</td>
+        <td>gentur jalunggono</td>
+        <td>Karyawan Luar UNS</td>
+        <td>173</td>
+    </tr>
+    <tr>
+        <td>133</td>
+        <td>yosy ferdinand</td>
+        <td>Mahasiswa UNS</td>
+        <td>173</td>
+    </tr>
+    <tr>
+        <td>134</td>
+        <td>Brian Anggriawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>172</td>
+    </tr>
+    <tr>
+        <td>135</td>
+        <td>M Rendrawan S N</td>
+        <td>Mahasiswa UNS</td>
+        <td>171</td>
+    </tr>
+    <tr>
+        <td>136</td>
+        <td>Edy Yulianto</td>
+        <td>Mahasiswa UNS</td>
+        <td>171</td>
+    </tr>
+    <tr>
+        <td>137</td>
+        <td>Hanifah Nur N. K.</td>
+        <td>Dosen UNS</td>
+        <td>169</td>
+    </tr>
+    <tr>
+        <td>138</td>
+        <td>M Ibnu Sina</td>
+        <td>Lain-Lain</td>
+        <td>169</td>
+    </tr>
+    <tr>
+        <td>139</td>
+        <td>Arif  Wahyu Wahyu</td>
+        <td>Mahasiswa UNS</td>
+        <td>169</td>
+    </tr>
+    <tr>
+        <td>140</td>
+        <td>Yoga Dwi Wibowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>169</td>
+    </tr>
+    <tr>
+        <td>141</td>
+        <td>rudy hartanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>169</td>
+    </tr>
+    <tr>
+        <td>142</td>
+        <td>annisa utari</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>167</td>
+    </tr>
+    <tr>
+        <td>143</td>
+        <td>nika dwi rismawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>167</td>
+    </tr>
+    <tr>
+        <td>144</td>
+        <td>anita rusjayanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>167</td>
+    </tr>
+    <tr>
+        <td>145</td>
+        <td>Presiden Republik Indonesia</td>
+        <td>Lain-Lain</td>
+        <td>167</td>
+    </tr>
+    <tr>
+        <td>146</td>
+        <td>asma himmatul</td>
+        <td>Mahasiswa UNS</td>
+        <td>167</td>
+    </tr>
+    <tr>
+        <td>147</td>
+        <td>Nur Tia Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>166</td>
+    </tr>
+    <tr>
+        <td>148</td>
+        <td>Dyah Ayu Widyawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>166</td>
+    </tr>
+    <tr>
+        <td>149</td>
+        <td>Fadilah Nur Sugiyanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>166</td>
+    </tr>
+    <tr>
+        <td>150</td>
+        <td>septiana astira</td>
+        <td>Mahasiswa UNS</td>
+        <td>165</td>
+    </tr>
+    <tr>
+        <td>151</td>
+        <td>Anton Sugiyarto</td>
+        <td>Mahasiswa UNS</td>
+        <td>165</td>
+    </tr>
+    <tr>
+        <td>152</td>
+        <td>Ahmad</td>
+        <td>Mahasiswa UNS</td>
+        <td>164</td>
+    </tr>
+    <tr>
+        <td>153</td>
+        <td>edi wibowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>164</td>
+    </tr>
+    <tr>
+        <td>154</td>
+        <td>Neneng Rika Jazilatul Kholidah,S.Pd.,M.H</td>
+        <td>Karyawan Luar UNS</td>
+        <td>164</td>
+    </tr>
+    <tr>
+        <td>155</td>
+        <td>devy ristiana</td>
+        <td>Mahasiswa UNS</td>
+        <td>164</td>
+    </tr>
+    <tr>
+        <td>156</td>
+        <td>ichsan fauzi rachman</td>
+        <td>Dosen UNS</td>
+        <td>164</td>
+    </tr>
+    <tr>
+        <td>157</td>
+        <td>Andri Wicaksono</td>
+        <td>Mahasiswa UNS</td>
+        <td>164</td>
+    </tr>
+    <tr>
+        <td>158</td>
+        <td>toro bintoro</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>163</td>
+    </tr>
+    <tr>
+        <td>159</td>
+        <td>suci rizkiana</td>
+        <td>Mahasiswa UNS</td>
+        <td>163</td>
+    </tr>
+    <tr>
+        <td>160</td>
+        <td>haryono</td>
+        <td>Dosen UNS</td>
+        <td>163</td>
+    </tr>
+    <tr>
+        <td>161</td>
+        <td>Rizqi Citania Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>163</td>
+    </tr>
+    <tr>
+        <td>162</td>
+        <td>dhini andriyani</td>
+        <td>Mahasiswa UNS</td>
+        <td>162</td>
+    </tr>
+    <tr>
+        <td>163</td>
+        <td>Mar'atus Nur Sholikha</td>
+        <td>Mahasiswa UNS</td>
+        <td>162</td>
+    </tr>
+    <tr>
+        <td>164</td>
+        <td>erna susmita</td>
+        <td>Mahasiswa UNS</td>
+        <td>162</td>
+    </tr>
+    <tr>
+        <td>165</td>
+        <td>Ira F Elopore</td>
+        <td>Mahasiswa UNS</td>
+        <td>162</td>
+    </tr>
+    <tr>
+        <td>166</td>
+        <td>sitti kurnia purnama</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>161</td>
+    </tr>
+    <tr>
+        <td>167</td>
+        <td>sudjini</td>
+        <td>Dosen UNS</td>
+        <td>161</td>
+    </tr>
+    <tr>
+        <td>168</td>
+        <td>andea septiyaning</td>
+        <td>Mahasiswa UNS</td>
+        <td>160</td>
+    </tr>
+    <tr>
+        <td>169</td>
+        <td>santy murdaningsih</td>
+        <td>Dosen UNS</td>
+        <td>160</td>
+    </tr>
+    <tr>
+        <td>170</td>
+        <td>Diyah Putri Lestari</td>
+        <td>Mahasiswa UNS</td>
+        <td>159</td>
+    </tr>
+    <tr>
+        <td>171</td>
+        <td>sri utami</td>
+        <td>Mahasiswa UNS</td>
+        <td>158</td>
+    </tr>
+    <tr>
+        <td>172</td>
+        <td>R. Ali Hardhi Cherry S.</td>
+        <td>Mahasiswa UNS</td>
+        <td>158</td>
+    </tr>
+    <tr>
+        <td>173</td>
+        <td>agus saputro</td>
+        <td>Mahasiswa UNS</td>
+        <td>158</td>
+    </tr>
+    <tr>
+        <td>174</td>
+        <td>Erlinda Nina</td>
+        <td>Mahasiswa UNS</td>
+        <td>158</td>
+    </tr>
+    <tr>
+        <td>175</td>
+        <td>eko nugroho</td>
+        <td>Lain-Lain</td>
+        <td>157</td>
+    </tr>
+    <tr>
+        <td>176</td>
+        <td>Ervina Kusuma Wardani</td>
+        <td>Mahasiswa UNS</td>
+        <td>157</td>
+    </tr>
+    <tr>
+        <td>177</td>
+        <td>Bangkit Wahyu Nur S</td>
+        <td>Mahasiswa UNS</td>
+        <td>157</td>
+    </tr>
+    <tr>
+        <td>178</td>
+        <td>Prasetya Arif Wibawa</td>
+        <td>Mahasiswa UNS</td>
+        <td>157</td>
+    </tr>
+    <tr>
+        <td>179</td>
+        <td>nimade</td>
+        <td>Mahasiswa UNS</td>
+        <td>156</td>
+    </tr>
+    <tr>
+        <td>180</td>
+        <td>DEWI ASTUTI</td>
+        <td>Mahasiswa UNS</td>
+        <td>156</td>
+    </tr>
+    <tr>
+        <td>181</td>
+        <td>satrio wibowo</td>
+        <td>Dosen UNS</td>
+        <td>156</td>
+    </tr>
+    <tr>
+        <td>182</td>
+        <td>fitria dwi utami mar</td>
+        <td>Dosen UNS</td>
+        <td>156</td>
+    </tr>
+    <tr>
+        <td>183</td>
+        <td>Ismunarno, S.H., M.H</td>
+        <td>Dosen UNS</td>
+        <td>155</td>
+    </tr>
+    <tr>
+        <td>184</td>
+        <td>Irwan</td>
+        <td>Mahasiswa UNS</td>
+        <td>155</td>
+    </tr>
+    <tr>
+        <td>185</td>
+        <td>Lia Devi Vitri A</td>
+        <td>Mahasiswa UNS</td>
+        <td>155</td>
+    </tr>
+    <tr>
+        <td>186</td>
+        <td>Lia Rohmayanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>153</td>
+    </tr>
+    <tr>
+        <td>187</td>
+        <td>Alfian Thoharry</td>
+        <td>Mahasiswa UNS</td>
+        <td>153</td>
+    </tr>
+    <tr>
+        <td>188</td>
+        <td>imanuel yosafat HM</td>
+        <td>Dosen UNS</td>
+        <td>152</td>
+    </tr>
+    <tr>
+        <td>189</td>
+        <td>Armita</td>
+        <td>Dosen UNS</td>
+        <td>152</td>
+    </tr>
+    <tr>
+        <td>190</td>
+        <td>dhiki hermawan</td>
+        <td>Dosen UNS</td>
+        <td>152</td>
+    </tr>
+    <tr>
+        <td>191</td>
+        <td>Muhamad Hanif P.</td>
+        <td>Mahasiswa UNS</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>192</td>
+        <td>Faizal Arvianto</td>
+        <td>Mahasiswa UNS</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>193</td>
+        <td>armando sibutarbutar</td>
+        <td>Dosen Luar UNS</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>194</td>
+        <td>silvester adi surya </td>
+        <td>Mahasiswa UNS</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>195</td>
+        <td>Arif Ihwanda</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>196</td>
+        <td>UTFA YUNIANTO</td>
+        <td>Lain-Lain</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>197</td>
+        <td>Febri Resky Perkasa</td>
+        <td>Mahasiswa UNS</td>
+        <td>151</td>
+    </tr>
+    <tr>
+        <td>198</td>
+        <td>RIZKI FAJRI RAHAYU</td>
+        <td>Mahasiswa UNS</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>199</td>
+        <td>Ayu Linda Wulandari</td>
+        <td>Mahasiswa UNS</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>200</td>
+        <td>Puput Nikmaturrohmah</td>
+        <td>Mahasiswa UNS</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>201</td>
+        <td>anto susilo</td>
+        <td>Lain-Lain</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>202</td>
+        <td>Deni Adi Wijaya</td>
+        <td>Mahasiswa UNS</td>
+        <td>150</td>
+    </tr>
+    <tr>
+        <td>203</td>
+        <td>Muhammad Nur Rohim</td>
+        <td>Mahasiswa UNS</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>204</td>
+        <td>Ahmad Saifurriza</td>
+        <td>Lain-Lain</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>205</td>
+        <td>Tolak Krisdiyanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>206</td>
+        <td>Asep Hery</td>
+        <td>Dosen UNS</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>207</td>
+        <td>BAGAS ARIF APRIANTO</td>
+        <td>Mahasiswa UNS</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>208</td>
+        <td>meta yulianti</td>
+        <td>Mahasiswa UNS</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>209</td>
+        <td>annisa nur fatimah</td>
+        <td>Mahasiswa UNS</td>
+        <td>149</td>
+    </tr>
+    <tr>
+        <td>210</td>
+        <td>khanan jufri</td>
+        <td>Mahasiswa UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>211</td>
+        <td>RAHMAT, S.Si</td>
+        <td>Dosen UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>212</td>
+        <td>Anggit Permadi</td>
+        <td>Mahasiswa UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>213</td>
+        <td>aprilia panca</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>214</td>
+        <td>Fandi Ardiansyah</td>
+        <td>Dosen UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>215</td>
+        <td>CHYNTHYA ERMINA C</td>
+        <td>Mahasiswa UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>216</td>
+        <td>Nur Najibah S.</td>
+        <td>Mahasiswa UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>217</td>
+        <td>DWI RETNO WULAN SETY</td>
+        <td>Mahasiswa UNS</td>
+        <td>148</td>
+    </tr>
+    <tr>
+        <td>218</td>
+        <td>Dwi Fahrudin</td>
+        <td>Mahasiswa UNS</td>
+        <td>147</td>
+    </tr>
+    <tr>
+        <td>219</td>
+        <td>mega ayu saptaningrum</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>147</td>
+    </tr>
+    <tr>
+        <td>220</td>
+        <td>Denny M. Jaya</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>147</td>
+    </tr>
+    <tr>
+        <td>221</td>
+        <td>Muhammad Dian Nafi</td>
+        <td>Mahasiswa UNS</td>
+        <td>147</td>
+    </tr>
+    <tr>
+        <td>222</td>
+        <td>Dedy Ari Nugroho</td>
+        <td>Mahasiswa UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>223</td>
+        <td>Syahri Alqurni</td>
+        <td>Mahasiswa UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>224</td>
+        <td>andi hamzah fansury</td>
+        <td>Dosen Luar UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>225</td>
+        <td>NURNANINGSIH</td>
+        <td>Dosen UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>226</td>
+        <td>mencari ilmu</td>
+        <td>Dosen UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>227</td>
+        <td>Rosiana Melia Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>228</td>
+        <td>dwi cahyono aji</td>
+        <td>Dosen Luar UNS</td>
+        <td>146</td>
+    </tr>
+    <tr>
+        <td>229</td>
+        <td>edi hartato</td>
+        <td>Mahasiswa UNS</td>
+        <td>145</td>
+    </tr>
+    <tr>
+        <td>230</td>
+        <td>Nur Umi Latifah</td>
+        <td>Mahasiswa UNS</td>
+        <td>145</td>
+    </tr>
+    <tr>
+        <td>231</td>
+        <td>Ranti Rahyu Kinanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>145</td>
+    </tr>
+    <tr>
+        <td>232</td>
+        <td>Ulfah Ratna Widanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>145</td>
+    </tr>
+    <tr>
+        <td>233</td>
+        <td>amri herwanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>144</td>
+    </tr>
+    <tr>
+        <td>234</td>
+        <td>aditya pratama</td>
+        <td>Dosen UNS</td>
+        <td>144</td>
+    </tr>
+    <tr>
+        <td>235</td>
+        <td>Nova Chintya V</td>
+        <td>Mahasiswa UNS</td>
+        <td>144</td>
+    </tr>
+    <tr>
+        <td>236</td>
+        <td>charismalitta maulin</td>
+        <td>Mahasiswa UNS</td>
+        <td>144</td>
+    </tr>
+    <tr>
+        <td>237</td>
+        <td>Salindri Kusumawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>238</td>
+        <td>Ardli Nuur Ihsani</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>239</td>
+        <td>Raras Ridia LC</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>240</td>
+        <td>ardian</td>
+        <td>Dosen UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>241</td>
+        <td>Fuad Habiby</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>242</td>
+        <td>alfian rabani</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>243</td>
+        <td>Ullis Ayu saputri</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>244</td>
+        <td>Dwi Suryani W</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>245</td>
+        <td>Cakra Khan</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>246</td>
+        <td>Muhammad Yusuf</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>247</td>
+        <td>raditya mohamad</td>
+        <td>Mahasiswa UNS</td>
+        <td>143</td>
+    </tr>
+    <tr>
+        <td>248</td>
+        <td>ernawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>249</td>
+        <td>Rani Pratiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>250</td>
+        <td>Dhani Ryansa</td>
+        <td>Mahasiswa UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>251</td>
+        <td>muhammad rifai</td>
+        <td>Dosen UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>252</td>
+        <td>Ika Rahmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>253</td>
+        <td>riris prabowo bayuaji</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>254</td>
+        <td>alfika riyanti prastiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>255</td>
+        <td>Retno Hidayati</td>
+        <td>Mahasiswa UNS</td>
+        <td>142</td>
+    </tr>
+    <tr>
+        <td>256</td>
+        <td>ni putu intan puspa dewi</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>257</td>
+        <td>zakiyah mufidah</td>
+        <td>Mahasiswa UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>258</td>
+        <td>andina kurniawati th</td>
+        <td>Dosen UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>259</td>
+        <td>Eny Widyastuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>260</td>
+        <td>rembang godol</td>
+        <td>Dosen UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>261</td>
+        <td>Devie Rannawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>262</td>
+        <td>agus ahyari</td>
+        <td>Mahasiswa UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>263</td>
+        <td>Choirunnisa L</td>
+        <td>Mahasiswa UNS</td>
+        <td>141</td>
+    </tr>
+    <tr>
+        <td>264</td>
+        <td>Dwi Rahayu</td>
+        <td>Dosen UNS</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>265</td>
+        <td>henry putra imam wij</td>
+        <td>Mahasiswa UNS</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>266</td>
+        <td>Mustofa Nafis</td>
+        <td>Mahasiswa UNS</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>267</td>
+        <td>Leni Maryani</td>
+        <td>Mahasiswa UNS</td>
+        <td>140</td>
+    </tr>
+    <tr>
+        <td>268</td>
+        <td>Veronika yusnita andriani prastika</td>
+        <td>Mahasiswa UNS</td>
+        <td>139</td>
+    </tr>
+    <tr>
+        <td>269</td>
+        <td>desy aryanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>139</td>
+    </tr>
+    <tr>
+        <td>270</td>
+        <td>tim sanjaya</td>
+        <td>Karyawan UNS</td>
+        <td>139</td>
+    </tr>
+    <tr>
+        <td>271</td>
+        <td>Amelia Simanungkalit</td>
+        <td>Mahasiswa UNS</td>
+        <td>139</td>
+    </tr>
+    <tr>
+        <td>272</td>
+        <td>Isnaeni Umi Machromah</td>
+        <td>Mahasiswa UNS</td>
+        <td>139</td>
+    </tr>
+    <tr>
+        <td>273</td>
+        <td>ismatullah</td>
+        <td>Lain-Lain</td>
+        <td>139</td>
+    </tr>
+    <tr>
+        <td>274</td>
+        <td>Fran Dwi Prastyohadi</td>
+        <td>Dosen UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>275</td>
+        <td>angga priyatna</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>276</td>
+        <td>NISA RESTIKA</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>277</td>
+        <td>utut kurniati</td>
+        <td>Lain-Lain</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>278</td>
+        <td>Mohammad Zainur Roziqin</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>279</td>
+        <td>Heri Dwi Wicaksana</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>280</td>
+        <td>RUQOYYAH</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>281</td>
+        <td>Geraldin Cintia Rosa</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>282</td>
+        <td>Mukhriddin Khoshimov</td>
+        <td>Mahasiswa UNS</td>
+        <td>138</td>
+    </tr>
+    <tr>
+        <td>283</td>
+        <td>Novia Ardishanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>284</td>
+        <td>Mega Pramesti</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>285</td>
+        <td>Rizal Akbar Aldyan</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>286</td>
+        <td>PARAHITA ARUM N</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>287</td>
+        <td>RIZAL NUR IKHWANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>288</td>
+        <td>setya budiman</td>
+        <td>Dosen UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>289</td>
+        <td>ulya rosyita</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>290</td>
+        <td>nasiran</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>291</td>
+        <td>ikhwan mahfud</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>292</td>
+        <td>Yuanita Dwi Hapsari</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>293</td>
+        <td>Putri Tipa Anasi</td>
+        <td>Lain-Lain</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>294</td>
+        <td>nuha rosidah</td>
+        <td>Dosen UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>295</td>
+        <td>heny agustina</td>
+        <td>Mahasiswa UNS</td>
+        <td>137</td>
+    </tr>
+    <tr>
+        <td>296</td>
+        <td>Nory Prastity</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>297</td>
+        <td>bellarose sofia</td>
+        <td>Lain-Lain</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>298</td>
+        <td>Achmad Marwan</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>299</td>
+        <td>Agus Julianto</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>300</td>
+        <td>shara nur istiqomah</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>301</td>
+        <td>novi nur endah wardani</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>302</td>
+        <td>sofvan prasetyo</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>303</td>
+        <td>Ratna Agustin</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>304</td>
+        <td>indah mega lestari</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>305</td>
+        <td>muhibuddin fadhli</td>
+        <td>Dosen UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>306</td>
+        <td>Nur Alfisyahrin</td>
+        <td>Mahasiswa UNS</td>
+        <td>136</td>
+    </tr>
+    <tr>
+        <td>307</td>
+        <td>Mas Roro Suhartini</td>
+        <td>Lain-Lain</td>
+        <td>135</td>
+    </tr>
+    <tr>
+        <td>308</td>
+        <td>Agustin Poncowati</td>
+        <td>Mahasiswa UNS</td>
+        <td>135</td>
+    </tr>
+    <tr>
+        <td>309</td>
+        <td>Yuliet Susanto</td>
+        <td>Dosen Luar UNS</td>
+        <td>135</td>
+    </tr>
+    <tr>
+        <td>310</td>
+        <td>Anggita</td>
+        <td>Dosen UNS</td>
+        <td>135</td>
+    </tr>
+    <tr>
+        <td>311</td>
+        <td>Dina Damayati</td>
+        <td>Mahasiswa UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>312</td>
+        <td>Nitasari Purwaningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>313</td>
+        <td>Nur Afifah Ayu Purbasari</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>314</td>
+        <td>LILIK WIDAYATI</td>
+        <td>Mahasiswa UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>315</td>
+        <td>Eko Agus Setiawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>316</td>
+        <td>esti susanto</td>
+        <td>Dosen UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>317</td>
+        <td>Lelyta Anggraeny</td>
+        <td>Mahasiswa UNS</td>
+        <td>134</td>
+    </tr>
+    <tr>
+        <td>318</td>
+        <td>Istiqomah Siti Fatimah</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>319</td>
+        <td>gilang embun cahyani</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>320</td>
+        <td>tri hutami</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>321</td>
+        <td>Hanova Satria Priyambada</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>322</td>
+        <td>Aulia Rahman</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>323</td>
+        <td>muhamad yusuf</td>
+        <td>Dosen Luar UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>324</td>
+        <td>shinta listiani s</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>325</td>
+        <td>maulida dewi kuningg</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>326</td>
+        <td>Novtika Indah</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>327</td>
+        <td>Arsyad Nurizar</td>
+        <td>Mahasiswa UNS</td>
+        <td>133</td>
+    </tr>
+    <tr>
+        <td>328</td>
+        <td>Ariska Tri Devi</td>
+        <td>Mahasiswa UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>329</td>
+        <td>yayan sugiyanto</td>
+        <td>Dosen UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>330</td>
+        <td>hendra setiawan</td>
+        <td>Dosen UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>331</td>
+        <td>erni pujilestari</td>
+        <td>Mahasiswa UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>332</td>
+        <td>Gresia Rahmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>333</td>
+        <td>ali mahmudi</td>
+        <td>Karyawan Luar UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>334</td>
+        <td>aditya hayugraha</td>
+        <td>Mahasiswa UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>335</td>
+        <td>Astarini Arlita SAri</td>
+        <td>Mahasiswa UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>336</td>
+        <td>APRILIA PUTRI C</td>
+        <td>Mahasiswa UNS</td>
+        <td>132</td>
+    </tr>
+    <tr>
+        <td>337</td>
+        <td>Hanifah Pudja Maulid</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>338</td>
+        <td>JURIT YULIANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>339</td>
+        <td>Friska Widiyanti Rangkuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>340</td>
+        <td>johan apri wibowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>341</td>
+        <td>Sito Darmastuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>342</td>
+        <td>Mardian Dewi P</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>343</td>
+        <td>Nur Annisa Nauli Riyanty</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>344</td>
+        <td>Saiful rhohman widayanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>345</td>
+        <td>satrio sakti rumpoko</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>346</td>
+        <td>marzuki ib</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>347</td>
+        <td>Khusnul Lusi N S</td>
+        <td>Mahasiswa UNS</td>
+        <td>131</td>
+    </tr>
+    <tr>
+        <td>348</td>
+        <td>nurul intan sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>349</td>
+        <td>theresia sandra</td>
+        <td>Mahasiswa UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>350</td>
+        <td>ratna dewi ernawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>351</td>
+        <td>Didik Arif Prabowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>352</td>
+        <td>dendi artosuwiryo</td>
+        <td>Karyawan Luar UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>353</td>
+        <td>Herma Wahyu Para Mil</td>
+        <td>Dosen UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>354</td>
+        <td>juliana</td>
+        <td>Mahasiswa UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>355</td>
+        <td>BRENDA CAHYA SANTOSA</td>
+        <td>Mahasiswa UNS</td>
+        <td>130</td>
+    </tr>
+    <tr>
+        <td>356</td>
+        <td>anggi maulana caesar</td>
+        <td>Mahasiswa UNS</td>
+        <td>129</td>
+    </tr>
+    <tr>
+        <td>357</td>
+        <td>Siti Munzayanah</td>
+        <td>Dosen UNS</td>
+        <td>129</td>
+    </tr>
+    <tr>
+        <td>358</td>
+        <td>Yusna Primastuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>129</td>
+    </tr>
+    <tr>
+        <td>359</td>
+        <td>Nurma Apriyani</td>
+        <td>Mahasiswa UNS</td>
+        <td>129</td>
+    </tr>
+    <tr>
+        <td>360</td>
+        <td>estiana tri karmala</td>
+        <td>Mahasiswa UNS</td>
+        <td>129</td>
+    </tr>
+    <tr>
+        <td>361</td>
+        <td>umar yeni suyanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>362</td>
+        <td>Dwi Rahayu Retno W</td>
+        <td>Mahasiswa UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>363</td>
+        <td>Alif Utama Mahanani</td>
+        <td>Mahasiswa UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>364</td>
+        <td>indhah setiati</td>
+        <td>Mahasiswa UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>365</td>
+        <td>andika permatasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>366</td>
+        <td>Tatak Nurandhari</td>
+        <td>Lain-Lain</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>367</td>
+        <td>Shofya R.</td>
+        <td>Mahasiswa UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>368</td>
+        <td>tyas asri hardini</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>128</td>
+    </tr>
+    <tr>
+        <td>369</td>
+        <td>singgih aryo prabowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>370</td>
+        <td>Dinda Caesar Afreeandhanie</td>
+        <td>Mahasiswa UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>371</td>
+        <td>untari</td>
+        <td>Dosen UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>372</td>
+        <td>Aris Hidayat</td>
+        <td>Mahasiswa UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>373</td>
+        <td>elferisa metty wandini</td>
+        <td>Mahasiswa UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>374</td>
+        <td>gerson anugrah </td>
+        <td>Mahasiswa UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>375</td>
+        <td>Millati Azka Hanifa</td>
+        <td>Mahasiswa UNS</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>376</td>
+        <td>Sandya Nelly Utami</td>
+        <td>Lain-Lain</td>
+        <td>127</td>
+    </tr>
+    <tr>
+        <td>377</td>
+        <td>windy widyanigsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>378</td>
+        <td>Sugeng Sugeng</td>
+        <td>Dosen UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>379</td>
+        <td>Bayu Kurniawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>380</td>
+        <td>herliyana rosalinda</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>381</td>
+        <td>nala ardhi</td>
+        <td>Lain-Lain</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>382</td>
+        <td>al badyirun</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>383</td>
+        <td>tomy kartika putra</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>384</td>
+        <td>andreawan setyo N</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>385</td>
+        <td>Faatih Hakiyil Musli</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>386</td>
+        <td>Chikita Kitty</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>387</td>
+        <td>Amri Muttaqin</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>388</td>
+        <td>Siti Septy aningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>389</td>
+        <td>Endang Mawarti</td>
+        <td>Dosen UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>390</td>
+        <td>Kharisma Ema Fatma</td>
+        <td>Mahasiswa UNS</td>
+        <td>126</td>
+    </tr>
+    <tr>
+        <td>391</td>
+        <td>Caya Nuaryalstonia</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>392</td>
+        <td>Nindya Kusdhani</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>393</td>
+        <td>Fitria Shalza</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>394</td>
+        <td>Arum Sejati</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>395</td>
+        <td>Kosmas Baskoro </td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>396</td>
+        <td>Benny Daniarsa</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>397</td>
+        <td>unggul wicaksono</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>398</td>
+        <td>DESI RACHMAWATI</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>399</td>
+        <td>sahrul asri</td>
+        <td>Dosen UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>400</td>
+        <td>Tri Wuriningtyas</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>401</td>
+        <td>triyanto</td>
+        <td>Dosen UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>402</td>
+        <td>Intan Sulistyarini</td>
+        <td>Dosen UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>403</td>
+        <td>Ginanjar Riskyta Y</td>
+        <td>Mahasiswa UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>404</td>
+        <td>zainudin arifin</td>
+        <td>Dosen UNS</td>
+        <td>125</td>
+    </tr>
+    <tr>
+        <td>405</td>
+        <td>yunita sulistiyowati</td>
+        <td>Dosen UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>406</td>
+        <td>Enyta R P</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>407</td>
+        <td>Farikha Asajati</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>408</td>
+        <td>sujiono</td>
+        <td>Dosen Luar UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>409</td>
+        <td>MUTIA FEBRIYANA</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>410</td>
+        <td>Muh Yusuf</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>411</td>
+        <td>Hikari Dwi Saputro</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>412</td>
+        <td>kaukabilla alya parangu</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>413</td>
+        <td>hentyn drajad rudyarwaty</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>414</td>
+        <td>riadi suhendra</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>415</td>
+        <td>ALDINO RISMA LAGA Y</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>416</td>
+        <td>tati haryati</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>417</td>
+        <td>Yulingga Nanda Hanief</td>
+        <td>Dosen Luar UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>418</td>
+        <td>RINDI LISKASARI</td>
+        <td>Mahasiswa UNS</td>
+        <td>124</td>
+    </tr>
+    <tr>
+        <td>419</td>
+        <td>susi suryani </td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>420</td>
+        <td>Fadliyah Mubarokah</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>421</td>
+        <td>Ahmad Zaki Hafizi</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>422</td>
+        <td>Yhustina Anggar K</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>423</td>
+        <td>Rahmalia</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>424</td>
+        <td>ricky kaka</td>
+        <td>Dosen UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>425</td>
+        <td>m. ali ghufron</td>
+        <td>Dosen UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>426</td>
+        <td>Puji Fitriani</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>427</td>
+        <td>sandri achmad</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>428</td>
+        <td>umar fauzan</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>429</td>
+        <td>cahya ferry kusuma</td>
+        <td>Lain-Lain</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>430</td>
+        <td>Ira Pracinasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>123</td>
+    </tr>
+    <tr>
+        <td>431</td>
+        <td>mekar sari dapw</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>432</td>
+        <td>Samsir Marangga</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>433</td>
+        <td>FIRNA IRNISTISIA</td>
+        <td>Dosen UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>434</td>
+        <td>indra cipta</td>
+        <td>Dosen UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>435</td>
+        <td>Hanif Burhanudin</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>436</td>
+        <td>Sulton Nawawi</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>437</td>
+        <td>Lilies Resthiningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>438</td>
+        <td>Dewiolifiana</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>439</td>
+        <td>Risha Rahmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>440</td>
+        <td>Dianira Kusumo Astuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>441</td>
+        <td>Fajar Sidiq Saputro</td>
+        <td>Mahasiswa UNS</td>
+        <td>122</td>
+    </tr>
+    <tr>
+        <td>442</td>
+        <td>sulaiman</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>443</td>
+        <td>Dwi Setyaningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>444</td>
+        <td>Endraswari Eskamurti</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>445</td>
+        <td>arif setyawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>446</td>
+        <td>BUNGA HENING M</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>447</td>
+        <td>Mariza Rizqi Iriani</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>448</td>
+        <td>ARI SYAHIDUL SHIDIQ</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>449</td>
+        <td>ayadi yusmar</td>
+        <td>Lain-Lain</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>450</td>
+        <td>adita jordan</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>451</td>
+        <td>Shafa Firda Nila</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>452</td>
+        <td>shinta damayana ronatio sianturi</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>453</td>
+        <td>Diyah Dwi Astuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>121</td>
+    </tr>
+    <tr>
+        <td>454</td>
+        <td>Novita Puan Maharani</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>455</td>
+        <td>Aisyah Puspita Putri</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>456</td>
+        <td>Anugerah Sutahayu</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>457</td>
+        <td>ratnasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>458</td>
+        <td>mustika ari nugrahen</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>459</td>
+        <td>Anis Munandziroh</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>460</td>
+        <td>wahidah nasution</td>
+        <td>Dosen UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>461</td>
+        <td>Karina Pratiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>462</td>
+        <td>Abdul Azis</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>463</td>
+        <td>Dewi Sulistyowati</td>
+        <td>Mahasiswa UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>464</td>
+        <td>lasyana wahab</td>
+        <td>Dosen UNS</td>
+        <td>120</td>
+    </tr>
+    <tr>
+        <td>465</td>
+        <td>rahmat rambe</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>466</td>
+        <td>harmawan somodihardjo</td>
+        <td>Karyawan UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>467</td>
+        <td>Ajah Saputra</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>468</td>
+        <td>Afifah Novita</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>469</td>
+        <td>Ima Hidayati</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>470</td>
+        <td>rina herlina haryant</td>
+        <td>Dosen UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>471</td>
+        <td>Ameylia Cahyadewi</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>472</td>
+        <td>I.B.  Tri Ojas Saktiana</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>473</td>
+        <td>Haikal</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>474</td>
+        <td>eka ayu handayani</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>475</td>
+        <td>Apriyatno</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>476</td>
+        <td>Billy Putra Sanjaya</td>
+        <td>Mahasiswa UNS</td>
+        <td>119</td>
+    </tr>
+    <tr>
+        <td>477</td>
+        <td>muflih akbar</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>478</td>
+        <td>Luthfi Fatikhatul J</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>479</td>
+        <td>daning hayyu rasyida</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>480</td>
+        <td>muhammad ropiani</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>481</td>
+        <td>Rita Ernawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>482</td>
+        <td>BARROROTUN ASTUTI</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>483</td>
+        <td>RULLIA DEWI W</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>484</td>
+        <td>lavi tanti</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>485</td>
+        <td>Priska Knanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>486</td>
+        <td>Fakhriani Ismi M A</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>487</td>
+        <td>dita vinocaesa</td>
+        <td>Dosen UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>488</td>
+        <td>dilyan sasaqi</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>489</td>
+        <td>Hafni Wilda Ristiyawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>490</td>
+        <td>Marista Puspita Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>118</td>
+    </tr>
+    <tr>
+        <td>491</td>
+        <td>Wahyuni Waskithoningtyas Mumpuni</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>492</td>
+        <td>ANGGA RATNA SARI</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>493</td>
+        <td>Sri Hariana</td>
+        <td>Lain-Lain</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>494</td>
+        <td>SIGIT ARIF BOWO</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>495</td>
+        <td>Ayunda rizqa hidayah</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>496</td>
+        <td>Arif Srirahmad Isnai</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>497</td>
+        <td>Satya Setyoko</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>498</td>
+        <td>Shalma Lestari Arum</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>499</td>
+        <td>Novianasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>500</td>
+        <td>Galuh Dwi Ajeng</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>501</td>
+        <td>WANNY</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>502</td>
+        <td>dyah arum dwi kurnia</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>503</td>
+        <td>wahyu kusumaningtyas</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>504</td>
+        <td>NURYANTO</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>505</td>
+        <td>Any Hidayati</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>506</td>
+        <td>M. Chairul Basrun Umanailo</td>
+        <td>Dosen Luar UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>507</td>
+        <td>RANI RETNO PURI</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>508</td>
+        <td>RINI LESTARI</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>509</td>
+        <td>Ratnasari Widyatama </td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>510</td>
+        <td>Gigih Ardiantoro</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>511</td>
+        <td>Muhammad Afiq Naufal</td>
+        <td>Mahasiswa UNS</td>
+        <td>117</td>
+    </tr>
+    <tr>
+        <td>512</td>
+        <td>arinda franchiska</td>
+        <td>Lain-Lain</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>513</td>
+        <td>Anglipki Kaladana</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>514</td>
+        <td>Adiluhung Tony H</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>515</td>
+        <td>ulfah nur azizah</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>516</td>
+        <td>dippichan</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>517</td>
+        <td>Arif Muntohar</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>518</td>
+        <td>Rera Dwi Agita</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>519</td>
+        <td>Septiana Arsitawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>520</td>
+        <td>jumrin syukri</td>
+        <td>Dosen UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>521</td>
+        <td>Adenata Ryandika P</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>522</td>
+        <td>Nanda Noor Fadjrin</td>
+        <td>Mahasiswa UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>523</td>
+        <td>Aulia Rakhman, S.Pd.</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>524</td>
+        <td>agus purnomo</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>116</td>
+    </tr>
+    <tr>
+        <td>525</td>
+        <td>Nita Indriana Sungka</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>526</td>
+        <td>operator</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>527</td>
+        <td>aldita prafitasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>528</td>
+        <td>sbachrun wahyudi</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>529</td>
+        <td>amelia hapsa</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>530</td>
+        <td>Nindia Galuh P</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>531</td>
+        <td>puji tri ariska</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>532</td>
+        <td>erlan siswandi</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>533</td>
+        <td>ogi</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>534</td>
+        <td>Bagian SI</td>
+        <td>Karyawan UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>535</td>
+        <td>Nita Wahyu Tyasititi</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>536</td>
+        <td>Rizka Putri N</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>537</td>
+        <td>Yohanna Inke Florentina</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>538</td>
+        <td>wilis subaning tyas </td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>539</td>
+        <td>Maulidiah</td>
+        <td>Mahasiswa UNS</td>
+        <td>115</td>
+    </tr>
+    <tr>
+        <td>540</td>
+        <td>CHINTAMI DIAN B</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>541</td>
+        <td>Edith Sarasvianti</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>542</td>
+        <td>HANINDYA RESTU AULIA</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>543</td>
+        <td>YUDHI WIDAYANTO</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>544</td>
+        <td>Ressy</td>
+        <td>Lain-Lain</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>545</td>
+        <td>DEWI PURWANTI</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>546</td>
+        <td>DYAH APRIANA</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>547</td>
+        <td>Ambar Kusuma Ningrum</td>
+        <td>Dosen UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>548</td>
+        <td>niko saputra</td>
+        <td>Dosen UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>549</td>
+        <td>Uswatun Khasanah</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>550</td>
+        <td>Yorista Indah Astari</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>551</td>
+        <td>Endah Mutiara Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>552</td>
+        <td>samisnardiantini</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>553</td>
+        <td>Arwin Setio Hutomo</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>554</td>
+        <td>gati parameswari</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>555</td>
+        <td>Nosa Riyana Putri</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>556</td>
+        <td>Maya Indah Mawarsari</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>557</td>
+        <td>Cristyana Pramita Riswi</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>558</td>
+        <td>Diyah puji lestari</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>559</td>
+        <td>Adzani Bangkit Kumbara</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>560</td>
+        <td>Culayla Ayu Munandar</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>561</td>
+        <td>harul rahman</td>
+        <td>Dosen UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>562</td>
+        <td>dwi adi nugroho</td>
+        <td>Lain-Lain</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>563</td>
+        <td>Bela Fitria Bounty</td>
+        <td>Dosen UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>564</td>
+        <td>M. Fajar Hamida</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>565</td>
+        <td>Restu Kristiani</td>
+        <td>Mahasiswa UNS</td>
+        <td>114</td>
+    </tr>
+    <tr>
+        <td>566</td>
+        <td>Yanita Ika Forsiana</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>567</td>
+        <td>Siti Nurjannah</td>
+        <td>Dosen UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>568</td>
+        <td>brigitta armeina p.a</td>
+        <td>Dosen UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>569</td>
+        <td>Arifin</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>570</td>
+        <td>adi mohammad z</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>571</td>
+        <td>isnaini hamidah</td>
+        <td>Lain-Lain</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>572</td>
+        <td>Tulus Riyan Pangesti</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>573</td>
+        <td>kusnul fatmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>574</td>
+        <td>Vincencius Sonny K.</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>575</td>
+        <td>Janatin Aliya</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>576</td>
+        <td>tazkia ikrimadhani</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>577</td>
+        <td>BIRGITA INTAN R N</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>578</td>
+        <td>Dodik Setiawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>579</td>
+        <td>Rona Luthfi F.</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>580</td>
+        <td>Mustika Dewi I</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>581</td>
+        <td>erny setyaningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>582</td>
+        <td>Adzanishari Mawaddah</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>583</td>
+        <td>DWI YANTI SARWO RINI</td>
+        <td>Mahasiswa UNS</td>
+        <td>113</td>
+    </tr>
+    <tr>
+        <td>584</td>
+        <td>Maria Novia Citra D.</td>
+        <td>Dosen UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>585</td>
+        <td>muhammad pamungkas P</td>
+        <td>Dosen UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>586</td>
+        <td>Ratih Kusumaningrum</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>587</td>
+        <td>silva febrianinsih</td>
+        <td>Dosen UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>588</td>
+        <td>fandy kurniawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>589</td>
+        <td>Rebecca Ratna P</td>
+        <td>Dosen UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>590</td>
+        <td>achmad naaim</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>591</td>
+        <td>laire putri firdausi</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>592</td>
+        <td>Silvanda Dewi Pradita</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>593</td>
+        <td>dwi utomo</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>594</td>
+        <td>Sekar Ayuningtyas</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>595</td>
+        <td>Henta Fugarasti</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>596</td>
+        <td>Rizal Rakasiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>597</td>
+        <td>Aditya Ari mustoha</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>598</td>
+        <td>maman suparman</td>
+        <td>Lain-Lain</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>599</td>
+        <td>HANIFAH</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>600</td>
+        <td>IKA FUZI RAHMAWATI</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>601</td>
+        <td>roselina diyan p</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>602</td>
+        <td>Novi Nur Alviyani</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>603</td>
+        <td>devi novitasri</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>604</td>
+        <td>Atika Diyah Saputri</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>605</td>
+        <td>Zainal Abidin</td>
+        <td>Lain-Lain</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>606</td>
+        <td>Manshuralhudlori</td>
+        <td>Dosen UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>607</td>
+        <td>arda anindita</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>608</td>
+        <td>SANDI RAHARDYAN</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>609</td>
+        <td>Tri Tiyaningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>112</td>
+    </tr>
+    <tr>
+        <td>610</td>
+        <td>afika fitria permatasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>611</td>
+        <td>Anisa Safera P</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>612</td>
+        <td>anton suryadi</td>
+        <td>Lain-Lain</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>613</td>
+        <td>fuad amirullah</td>
+        <td>Dosen UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>614</td>
+        <td>andreas dwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>615</td>
+        <td>Nurhidayat</td>
+        <td>Dosen UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>616</td>
+        <td>hanif muzakki</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>617</td>
+        <td>Timur Anggita Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>618</td>
+        <td>tri wahyono</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>619</td>
+        <td>Delthawati Isti R</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>620</td>
+        <td>ricky johan</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>621</td>
+        <td>aji setyo nugroho</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>622</td>
+        <td>ANIF ISTININGSIH</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>623</td>
+        <td>muwahidin ahsan</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>624</td>
+        <td>jaksi narisma</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>625</td>
+        <td>Esti Kusuma Wardhani</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>626</td>
+        <td>Merza Kurnia Sani</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>627</td>
+        <td>Imam Hamdani</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>628</td>
+        <td>Ardhi Indra Kusuma</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>629</td>
+        <td>Septi Swastika R</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>630</td>
+        <td>NUR CHAYATI</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>631</td>
+        <td>wahyuningsih</td>
+        <td>Dosen UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>632</td>
+        <td>chrisnia octovi</td>
+        <td>Mahasiswa UNS</td>
+        <td>111</td>
+    </tr>
+    <tr>
+        <td>633</td>
+        <td>Akhmad Dwi Afiyadi</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>634</td>
+        <td>erma purwati</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>635</td>
+        <td>nasrul hudayah</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>636</td>
+        <td>DEDY SULISTOMO</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>637</td>
+        <td>May Lia Elfina</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>638</td>
+        <td>Surandari Saputri</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>639</td>
+        <td>Sudrajat Arif</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>640</td>
+        <td>RIA RAHMAWATI</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>641</td>
+        <td>tohir zainuri</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>642</td>
+        <td>Restika Prahanela</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>643</td>
+        <td>mustofa</td>
+        <td>Dosen UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>644</td>
+        <td>aeri setyanto</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>645</td>
+        <td>Tony Hendra Prasetya</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>646</td>
+        <td>PANJI GURIDNO</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>647</td>
+        <td>Lihar Raudina Izzati</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>648</td>
+        <td>Gevina Debby Cyntia</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>649</td>
+        <td>IRMA RAHMAWATI</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>650</td>
+        <td>steffani retno s</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>651</td>
+        <td>RETNO SARI</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>652</td>
+        <td>kartika lucky p</td>
+        <td>Mahasiswa UNS</td>
+        <td>110</td>
+    </tr>
+    <tr>
+        <td>653</td>
+        <td>Baskoro Adi Prakoso</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>654</td>
+        <td>lestari ika prastiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>655</td>
+        <td>tiara ika nabsyawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>656</td>
+        <td>IKE FITRI SAMSIYAH</td>
+        <td>Dosen UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>657</td>
+        <td>SARTIKA LUSIANA DEWI</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>658</td>
+        <td>Dyaning Nidya Pangestika</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>659</td>
+        <td>affif firdaus subarkah</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>660</td>
+        <td>Pangesti Arum P</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>661</td>
+        <td>eka buang</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>662</td>
+        <td>Afifah linda Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>663</td>
+        <td>mei lina fitri</td>
+        <td>Dosen UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>664</td>
+        <td>ferizky dhimas p</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>665</td>
+        <td>Rani Indriastuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>666</td>
+        <td>SRI MULYANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>667</td>
+        <td>risna pramesti</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>668</td>
+        <td>dhodik arie laksono</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>669</td>
+        <td>prijadji</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>670</td>
+        <td>galuh pramesti</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>671</td>
+        <td>IIN WIDYANTI</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>672</td>
+        <td>wulan pramita</td>
+        <td>Mahasiswa UNS</td>
+        <td>109</td>
+    </tr>
+    <tr>
+        <td>673</td>
+        <td>Dimas Jumbo</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>674</td>
+        <td>Nur Farah Indah</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>675</td>
+        <td>MUSTIKA WATI SIREGAR</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>676</td>
+        <td>ANDHIKA DWI CAHYANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>677</td>
+        <td>atyanta henggar</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>678</td>
+        <td>alfian putra marfuad</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>679</td>
+        <td>Iwan Maulana</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>680</td>
+        <td>Riyanto Yuli Pamungkas</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>681</td>
+        <td>aulia mustika putri</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>682</td>
+        <td>laire putri firdausi</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>683</td>
+        <td>Anis Prastiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>684</td>
+        <td>Riana Isti Muslikhah</td>
+        <td>Dosen UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>685</td>
+        <td>Annisa Tria Fadilla</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>686</td>
+        <td>Endah Kusuma Dewi</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>687</td>
+        <td>CHANDRA DEWI FEBRYAN</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>688</td>
+        <td>triorida stiani</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>689</td>
+        <td>Azhar Umam</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>690</td>
+        <td>TUNGGAL HANDHONO</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>691</td>
+        <td>IDA HIDAYAH</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>692</td>
+        <td>nandamuklisa</td>
+        <td>Dosen UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>693</td>
+        <td>M. Zainudin</td>
+        <td>Mahasiswa UNS</td>
+        <td>108</td>
+    </tr>
+    <tr>
+        <td>694</td>
+        <td>oktavia putri</td>
+        <td>Lain-Lain</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>695</td>
+        <td>Arista Wibowo</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>696</td>
+        <td>Desi Tri Utami</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>697</td>
+        <td>taufiq khoirurrohman</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>698</td>
+        <td>Riana Kristina S</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>699</td>
+        <td>Harum Brata Dewati</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>700</td>
+        <td>Monna Rahmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>701</td>
+        <td>Dimas Adhiguna P B</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>702</td>
+        <td>Maulida Annisa Santi</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>703</td>
+        <td>Indria Paramita</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>704</td>
+        <td>SETIOWATI DWI P</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>705</td>
+        <td>Permata Aji BM</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>706</td>
+        <td>sofyan imam suyudi</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>707</td>
+        <td>Linna alita</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>708</td>
+        <td>nur cahyono</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>709</td>
+        <td>dieradi3</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>710</td>
+        <td>Fahmuna Nur Hidayah</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>711</td>
+        <td>ria dwi kosasih</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>712</td>
+        <td>harry agung</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>713</td>
+        <td>Agnestia Mayangi</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>714</td>
+        <td>NUR PRASETYANI</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>715</td>
+        <td>rizki darmayanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>716</td>
+        <td>Anita Silvia Damayanti </td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>717</td>
+        <td>Muhammad Edy K</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>718</td>
+        <td>RESKI DIASTUTI</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>719</td>
+        <td>Kustia Wulaningsih</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>720</td>
+        <td>LINGGA AMANTA</td>
+        <td>Mahasiswa UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>721</td>
+        <td>Hodiyanto</td>
+        <td>Dosen UNS</td>
+        <td>107</td>
+    </tr>
+    <tr>
+        <td>722</td>
+        <td>nugroho kussubagyo</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>723</td>
+        <td>Kukuh Elyana</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>724</td>
+        <td>Riessa Dwi Aryanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>725</td>
+        <td>Intan Lylya Khusna</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>726</td>
+        <td>Yuliana Retnaningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>727</td>
+        <td>Veronica Prista Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>728</td>
+        <td>Irene Dinari</td>
+        <td>Dosen UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>729</td>
+        <td>EVI FERY ASTUTIK</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>730</td>
+        <td>Irvanno Dio Gusfermada</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>731</td>
+        <td>istadi</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>732</td>
+        <td>kelana bayu aji</td>
+        <td>Dosen UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>733</td>
+        <td>tsabit azinar ahmad</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>734</td>
+        <td>andista candra yusro</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>735</td>
+        <td>Agustina Dwi I</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>736</td>
+        <td>Darna Oktaviani</td>
+        <td>Mahasiswa UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>737</td>
+        <td>Ardhy Yuliawan Norma</td>
+        <td>Dosen UNS</td>
+        <td>106</td>
+    </tr>
+    <tr>
+        <td>738</td>
+        <td>meita dwi astuti</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>739</td>
+        <td>hendras andri p</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>740</td>
+        <td>lindawati</td>
+        <td>Dosen UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>741</td>
+        <td>ellena ryantika a</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>742</td>
+        <td>Diah Wahyuningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>743</td>
+        <td>Renny Yuliyanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>744</td>
+        <td>Sulistiyaning Utami</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>745</td>
+        <td>Muhammad Nur Rochim</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>746</td>
+        <td>Megawati Tutut H</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>747</td>
+        <td>albi hartoko</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>748</td>
+        <td>yusron</td>
+        <td>Lain-Lain</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>749</td>
+        <td>Wahyu Prihatiningrum</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>750</td>
+        <td>miftahul cahyaningsi</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>751</td>
+        <td>Iqbal Faizal</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>752</td>
+        <td>cahyo nugroho</td>
+        <td>Dosen UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>753</td>
+        <td>RATNA PUTRA</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>754</td>
+        <td>Fakhi Rahmasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>755</td>
+        <td>Doddy Tirta Aji</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>756</td>
+        <td>DINNA ARIFATUL K</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>757</td>
+        <td>Rifa Nawangsari</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>758</td>
+        <td>Silviana Yustika P P</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>759</td>
+        <td>edyyusuf</td>
+        <td>Dosen Luar UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>760</td>
+        <td>Silmi Nur Azizah Tara</td>
+        <td>Mahasiswa UNS</td>
+        <td>105</td>
+    </tr>
+    <tr>
+        <td>761</td>
+        <td>multisaridewi</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>762</td>
+        <td>Solikhah Novita Intan</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>763</td>
+        <td>Adika Devi Kumala Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>764</td>
+        <td>Istiqomah Nur Aziza</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>765</td>
+        <td>Gilang Nusa Brian</td>
+        <td>Lain-Lain</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>766</td>
+        <td>Nabilah Iman Sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>767</td>
+        <td>putri utami</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>768</td>
+        <td>Elisabeth Ivona T.H</td>
+        <td>Dosen UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>769</td>
+        <td>Kurnia Dyah Irawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>770</td>
+        <td>lintang p s</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>771</td>
+        <td>fahrudin andri kurniawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>772</td>
+        <td>elfida rofi'ah r</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>773</td>
+        <td>annisa mustika sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>774</td>
+        <td>irmayanti</td>
+        <td>Lain-Lain</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>775</td>
+        <td>Deamy Filianto N</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>776</td>
+        <td>Bayu sulistyono</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>777</td>
+        <td>Cerli Suryaniningsih</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>778</td>
+        <td>muhammad ansyar</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>779</td>
+        <td>Sri Anawati</td>
+        <td>Karyawan UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>780</td>
+        <td>Friya Benny Utama</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>781</td>
+        <td>Aftina nurhikmah</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>782</td>
+        <td>Syarif Hidayat</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>783</td>
+        <td>nareshwari</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>784</td>
+        <td>khairun nisa</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>785</td>
+        <td>Listyo Cahyo Purnomo</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>786</td>
+        <td>Prabowo Sugeng Setia</td>
+        <td>Dosen UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>787</td>
+        <td>rahma fawzia w</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>788</td>
+        <td>Dessy Ardhitia K</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>789</td>
+        <td>DAHLIA NURUL AMALAH</td>
+        <td>Mahasiswa UNS</td>
+        <td>104</td>
+    </tr>
+    <tr>
+        <td>790</td>
+        <td>puji haryati</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>791</td>
+        <td>Musica Rave</td>
+        <td>Dosen UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>792</td>
+        <td>riska isnaeni</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>793</td>
+        <td>RATIH ANDRIANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>794</td>
+        <td>Woro Prihastiwi</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>795</td>
+        <td>Nastiti Puji Rahayu</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>796</td>
+        <td>tanti lukita sari</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>797</td>
+        <td>DADANG ISMANAF</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>798</td>
+        <td>abidah dwi rahmi sat</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>799</td>
+        <td>ahadina rahma zulard</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>800</td>
+        <td>Yaya noviasari</td>
+        <td>Karyawan UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>801</td>
+        <td>Mutia Febriyana</td>
+        <td>Dosen Luar UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>802</td>
+        <td>Lia Setyanisa</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>803</td>
+        <td>Sinta Agustina</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>804</td>
+        <td>virdya nurlaily a</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>805</td>
+        <td>nurul istiqomah</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>806</td>
+        <td>sukron marzuki</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>807</td>
+        <td>Lailla Nur Rochmah</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>808</td>
+        <td>fitriya dessi wulandari</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>809</td>
+        <td>NINIK DWI M</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>810</td>
+        <td>Rhikmaninditya</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>811</td>
+        <td>lilis yuli pramesti</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>812</td>
+        <td>indira nisa ganefi</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>813</td>
+        <td>KHAMDIYAH</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>814</td>
+        <td>Ayu Dwi Hastuti</td>
+        <td>Dosen UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>815</td>
+        <td>Mida Happy Nuci Fera</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>816</td>
+        <td>afin setiawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>817</td>
+        <td>Bambang Mulyawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>818</td>
+        <td>rahmat eko</td>
+        <td>Lain-Lain</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>819</td>
+        <td>ahmad arifin</td>
+        <td>Lain-Lain</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>820</td>
+        <td>Rosiana Nugrahaini</td>
+        <td>Mahasiswa UNS</td>
+        <td>103</td>
+    </tr>
+    <tr>
+        <td>821</td>
+        <td>Apri Kartikasari Hs</td>
+        <td>Dosen UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>822</td>
+        <td>agustina fitria</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>823</td>
+        <td>arafi afra l.p</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>824</td>
+        <td>Andri Nitasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>825</td>
+        <td>muhamat yusup</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>826</td>
+        <td>agus sudiro</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>827</td>
+        <td>melati oktaviana </td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>828</td>
+        <td>riza widya saputra</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>829</td>
+        <td>Shendy Aurum M.P</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>830</td>
+        <td>dwiantinia aisyah</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>831</td>
+        <td>Yudha Pratama Putra</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>832</td>
+        <td>hari cahyadi yusuf</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>833</td>
+        <td>Rena Rohyani</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>834</td>
+        <td>PITRA DWININGSIH</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>835</td>
+        <td>Roy batugana</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>836</td>
+        <td>Mareta Riadini S</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>837</td>
+        <td>Fitri Ayu Suryani</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>838</td>
+        <td>achsan nur cholis </td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>839</td>
+        <td>Triana Atika Zulfa</td>
+        <td>Dosen UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>840</td>
+        <td>shelly aryani</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>841</td>
+        <td>masdar hilmi</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>842</td>
+        <td>Herwindra Agam Gumelar</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>843</td>
+        <td>Ainun Nisa Nadhifah</td>
+        <td>Mahasiswa UNS</td>
+        <td>102</td>
+    </tr>
+    <tr>
+        <td>844</td>
+        <td>desi ermania</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>845</td>
+        <td>dhea afridha</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>846</td>
+        <td>dhanypangestu</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>847</td>
+        <td>RAHAJENG SEKAR P</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>848</td>
+        <td>Ashar Febrion</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>849</td>
+        <td>Joko Priyanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>850</td>
+        <td>Aditia Winayasari</td>
+        <td>Dosen UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>851</td>
+        <td>dwikakartika</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>852</td>
+        <td>Arfinanta Jaya</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>853</td>
+        <td>Warnika Kent</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>854</td>
+        <td>Defcyreta Chila S</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>855</td>
+        <td>Haryo Wisnu murti</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>856</td>
+        <td>GUSTI RAMADHAN H</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>857</td>
+        <td>Debora Yunitha Br Simbolon</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>858</td>
+        <td>Siti Barokah</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>859</td>
+        <td>septiana rizky s</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>860</td>
+        <td>Ahdani Subhan</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>861</td>
+        <td>Dwinita Riani P</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>862</td>
+        <td>SRI WULANDARI</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>863</td>
+        <td>widarso pep</td>
+        <td>Lain-Lain</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>864</td>
+        <td>IKA PUTRI FITRIA S</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>865</td>
+        <td>ANISYAH LESTIYANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>866</td>
+        <td>elsa nugraheni</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>867</td>
+        <td>Dwi Oktarining Tyas</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>868</td>
+        <td>Suprihatin</td>
+        <td>Dosen UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>869</td>
+        <td>Dimas Sasongko</td>
+        <td>Dosen Luar UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>870</td>
+        <td>kamandoko</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>871</td>
+        <td>SITI MULYANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>872</td>
+        <td>Bimo Hartanto</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>873</td>
+        <td>anggy eka cahya n</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>874</td>
+        <td>agustin rahmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>875</td>
+        <td>rhea wiratningsih</td>
+        <td>Lain-Lain</td>
+        <td>101</td>
+    </tr>
+    <tr>
+        <td>876</td>
+        <td>Rizki Ayu Triana</td>
+        <td>Dosen UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>877</td>
+        <td>indra reski fajar</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>878</td>
+        <td>Bayu Santa Pratama</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>879</td>
+        <td>RIZKI ADEYANTO</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>880</td>
+        <td>Rossa Nugrahening W</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>881</td>
+        <td>fajar tulus andriawa</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>882</td>
+        <td>Siwi Aprianti</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>883</td>
+        <td>YULI LUTFATUL F</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>884</td>
+        <td>Primora Elsa</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>885</td>
+        <td>Nuraini Fauziah</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>886</td>
+        <td>basten yuni artika</td>
+        <td>Lain-Lain</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>887</td>
+        <td>nur hidayati</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>888</td>
+        <td>Hazrina Nur Hanifati</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>889</td>
+        <td>Anggraheni Yogma</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>890</td>
+        <td>Dewi Pangestu Said</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>891</td>
+        <td>Yolan Kusumaningtyas</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>892</td>
+        <td>mienyu</td>
+        <td>Lain-Lain</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>893</td>
+        <td>wandan anggita arum</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>894</td>
+        <td>Wiwid L Ramdani</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>895</td>
+        <td>muhamad nasrudin</td>
+        <td>Dosen UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>896</td>
+        <td>Salmaa Awwaabiin</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>897</td>
+        <td>Hoan</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>898</td>
+        <td>Rosalina Enny Widi K</td>
+        <td>Dosen UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>899</td>
+        <td>vian prasetya utomo</td>
+        <td>Dosen UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>900</td>
+        <td>Novi Cita Sandi</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>901</td>
+        <td>PUPUT ARIANTO</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>902</td>
+        <td>VINNYLA RYZKI R</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>903</td>
+        <td>F.X. AGUS SISWANTO</td>
+        <td>Dosen UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>904</td>
+        <td>Rois Madani</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>905</td>
+        <td>hesti srieyanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>906</td>
+        <td>Ayu indah kurnia</td>
+        <td>Mahasiswa UNS</td>
+        <td>100</td>
+    </tr>
+    <tr>
+        <td>907</td>
+        <td>Hidayat Nur Septiadi</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>908</td>
+        <td>sandi danar cynthia </td>
+        <td>Dosen UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>909</td>
+        <td>bariqul amalia nisa</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>910</td>
+        <td>yogakusumananda</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>911</td>
+        <td>TUTUTCAHYAWATI</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>912</td>
+        <td>Ririn Herlina</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>913</td>
+        <td>Ratna Dewi Kencana</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>914</td>
+        <td>nurul ismiatun</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>915</td>
+        <td>karina</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>916</td>
+        <td>justina nur l</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>917</td>
+        <td>Dian Cahyo Kurniawan</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>918</td>
+        <td>BAYU KURNIAAJI</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>919</td>
+        <td>dody febri</td>
+        <td>Lain-Lain</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>920</td>
+        <td>NUR ROHMAN</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>921</td>
+        <td>Kacung Arif Rohman</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>922</td>
+        <td>Risdham Arisandi</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>923</td>
+        <td>Ahmnad Sunarto</td>
+        <td>Dosen Luar UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>924</td>
+        <td>Sendy Christina K</td>
+        <td>Dosen UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>925</td>
+        <td>Nanik Purwanti</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>926</td>
+        <td>Yuli Anjarwani</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>927</td>
+        <td>Luluk Rifah Rosita</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>928</td>
+        <td>tidar aji santoso</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>929</td>
+        <td>husni nadya hanif</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>930</td>
+        <td>ratih</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>931</td>
+        <td>MOCIL</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>932</td>
+        <td>Galuh Pancawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>933</td>
+        <td>Intan Mey Rahmawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>934</td>
+        <td>Erna Mustikasari</td>
+        <td>Dosen UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>935</td>
+        <td>Nur Ikawati</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>936</td>
+        <td>rendi pranata</td>
+        <td>Dosen UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>937</td>
+        <td>nala isyatur rodliyah</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>938</td>
+        <td>Hamdan Nurcholis</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>939</td>
+        <td>utami ariyasra</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>940</td>
+        <td>Tara Kartika Soenarto</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>941</td>
+        <td>Sativa Permatasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>942</td>
+        <td>Fahrein All Sandra</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>943</td>
+        <td>Lutfy Anindya Jati</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>944</td>
+        <td>muhammad ibnu sina </td>
+        <td>Dosen UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>945</td>
+        <td>Andri Donal</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>946</td>
+        <td>dinari oktaria</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>947</td>
+        <td>Oky Tira Ayuda</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>948</td>
+        <td>muhammad noor kholid</td>
+        <td>Mahasiswa UNS</td>
+        <td>99</td>
+    </tr>
+    <tr>
+        <td>949</td>
+        <td>choirun nisa</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>950</td>
+        <td>Amriza Khoirul Fachr</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>951</td>
+        <td>aanita</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>952</td>
+        <td>santonius</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>953</td>
+        <td>n.a.raharjo</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>954</td>
+        <td>indah novada maulina</td>
+        <td>Lain-Lain</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>955</td>
+        <td>arif hardiyanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>956</td>
+        <td>kafrawi</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>957</td>
+        <td>DEKA KURNIA DOMI</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>958</td>
+        <td>Hikmah Nur Indah Sari Maghfiroh</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>959</td>
+        <td>puput putri setyowati</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>960</td>
+        <td>suntoro amerto prastho</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>961</td>
+        <td>maman suparman</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>962</td>
+        <td>Diago Antoni</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>963</td>
+        <td>ANANDA YHUTO WP.</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>964</td>
+        <td>Titis Mayangsari</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>965</td>
+        <td>Rosiana Dwi W.S.</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>966</td>
+        <td>Much Arsyad Fardani</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>967</td>
+        <td>Yeyen Kusumaningrum</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>968</td>
+        <td>Rizky Riana</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>969</td>
+        <td>ginanjar</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>970</td>
+        <td>M. WAHYU RAFSANJANI</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>971</td>
+        <td>Devi Triasari</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>972</td>
+        <td>Rizka Fauziah</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>973</td>
+        <td>Walgiyati</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>974</td>
+        <td>Insyirah Anwari</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>975</td>
+        <td>Priska Adisti</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>976</td>
+        <td>ichtiyar budiyono</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>977</td>
+        <td>nurindra notarianto</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>978</td>
+        <td>Ayda nabila</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>979</td>
+        <td>nur habibah</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>980</td>
+        <td>Ervian Arif Muhafid</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>981</td>
+        <td>indah sri amini</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>982</td>
+        <td>ULFA MASAMAH</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>983</td>
+        <td>Nur Ibrahim Tikko</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>984</td>
+        <td>erlina</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>985</td>
+        <td>Ana Mufidaturrosida</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>986</td>
+        <td>fatima faykasita</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>987</td>
+        <td>putri kartika</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>988</td>
+        <td>yeni endarwati</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>989</td>
+        <td>arum wijayanti</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>990</td>
+        <td>khusnia widowati</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>991</td>
+        <td>Farthur Ahkyat</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>992</td>
+        <td>Tri Yuliarti Rahayu</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>993</td>
+        <td>Andri Octaviani</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>994</td>
+        <td>Oki Rusera Azhari Vp</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>995</td>
+        <td>Firdha Trisliana</td>
+        <td>Dosen UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>996</td>
+        <td>Refita Helya Shufia</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>997</td>
+        <td>fijri</td>
+        <td>Mahasiswa Luar UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>998</td>
+        <td>adis indra rukmana</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>999</td>
+        <td>febrianto endy p</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+    <tr>
+        <td>1000</td>
+        <td>RULIQ SURYANINGSIH</td>
+        <td>Mahasiswa UNS</td>
+        <td>98</td>
+    </tr>
+</table>                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+
+        <!--    ------------------------------ END OF MAIN PAGE  ---------------------------------------   -->
+
+        <!--    ----------------------------------- FOOTER  --------------------------------------------   -->
+
+        <section id="footer">
+            <div id="container" style="width: 100%; margin: 0px auto;">
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height:3px;">
+
+                </div>
+                <div class="col-md-12 col-xs-18" style="padding: 20px; color: #FFF;  background-color: #0F243E; height: 80px; font-size: 28px; text-align: center;">
+                    My World's <font color="#DA532C">Knowledge Here</font>
+                </div>
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px;">
+
+                </div>
+                <div class="col-md-12 col-xs-18" style="background-color: #0F243E; height: auto; color: #FFF; padding-bottom: 20px;">
+                    <div class="row" style="padding: 20px 0px;">
+                        <div class="col-md-4 col-xs-4">
+                            <div class="head-foot">
+                                Informasi
+                            </div>
+                            <div class="body-foot">
+                                <ul style="list-style: none; margin: 0px; padding: 5px 10px;">
+                                    <li><a href="https://digilib.uns.ac.id/informasi/view/10/Legal-Warning">Legal Warning </a></li><li><a href="https://digilib.uns.ac.id/informasi/view/11/Cara-Menjadi-Anggota">Cara Menjadi Anggota</a></li><li><a href="https://digilib.uns.ac.id/informasi/view/12/Cara-Akses">Cara Akses</a></li><li><a href="https://digilib.uns.ac.id/informasi/view/13/Lupa-Password">Lupa Password</a></li>                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-4">
+                            <div class="head-foot">
+                                Quick Link
+                            </div>
+                            <div class="body-foot">
+                                <ul style="list-style: none; margin: 0px; padding: 5px 10px;">
+                                    <li><a href="https://library.uns.ac.id/" target="_blank">Perpustakaan UNS</a></li>
+                                    <li><a href="https://unsla.uns.ac.id/" target="_blank">OPAC Online</a></li>
+                                    <li><a href="https://eprints.uns.ac.id/" target="_blank">EPRINTS UNS</a></li>
+                                    <li><a href="https://uns.ac.id" target="_blank">UNS</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-4">
+                            <div class="head-foot">
+                                Statistik
+                            </div>
+                            <div class="body-foot">
+                                <ul style="list-style: none; margin: 0px; padding: 5px 10px;">
+                                    <li><a href="https://digilib.uns.ac.id/statistik/user_akses">User Sering Login</a></li>
+                                    <li><a href="https://digilib.uns.ac.id/statistik/dokumen_dibaca">Dokumen sering dibaca</a></li>
+                                    <li><a href="https://digilib.uns.ac.id/statistik/jumlah_dokumen">Jumlah dokumen per Fakultas</a></li>
+                                    <li><a href="https://digilib.uns.ac.id/statistik/dokumen_prodi">Jumlah Dokumen per Prodi</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-xs-18">
+                            <div class="" style="font-weight: normal; font-size: 14px; text-align: center; border-top: 1px solid #CCC; padding-top: 10px;">
+                                &copy; 2015 <a href="https://library.uns.ac.id/" target="_blank"><font color="#FFF">UPT Perpustakaan Universitas Sebelas Maret</font> </a>
+                                <br>
+                                Jl. Ir. Sutami 36 A Kentingan Jebres Surakarta (0271) 654311 | <span style="font-weight: normal"><a href="mailto:library@mail.uns.ac.id" style="color: #2D89EF;">library@mail.uns.ac.id</a></span>
+								 | <a href="https://digilib.uns.ac.id/feed" target="_blank" style="color:#DA532C;"><img src="https://digilib.uns.ac.id/dist/img/rss_ico.ico" height="15px" width="15px"> rss</a>
+							</div>
+                        </div>
+                    </div>
+                </div>
+            </div>        </section>
+
+        <!--    ------------------------------------- END OF FOOTER ---------------------------------------   -->
+		
+    </body>
+    <div align="center">
+        <noscript>
+            <div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+            <div style="font-family: Arial; font-size: 17px; color: #FFF; background-color:#17365D; padding: 11pt;">Mohon aktifkan javascript pada browser untuk mengakses halaman ini!</div></div>
+        </noscript>
+    </div>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".tip-top").tooltip({
+				placement : 'top'
+			});
+			$(".tip-right").tooltip({
+				placement : 'right'
+			});
+			$(".tip-bottom").tooltip({
+				placement : 'bottom'
+			});
+			$(".tip-left").tooltip({
+				placement : 'left'
+			});
+		});
+	
+        $('#show_advance').click(function() {
+            if ($("#advance-search").is(":hidden"))
+            {
+                $("#advance-search").slideDown('normal');
+                $('#simply-search').slideUp('normal');
+            } else {
+                $("#advance-search").slideUp('normal');
+                $('#simply-search').slideDown('normal');
+            }
+        });
+    
+    
+//    Kode untuk mematikan fungsi klik kanan di blog
+        //function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
+    
+//   Kode untuk mencegah shorcut keyboard, view source dll.
+        //window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+        //document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+    </script>
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-7535542-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-60616108-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-5979059-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+</html>

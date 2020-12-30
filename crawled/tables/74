@@ -1,0 +1,36 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S-3 <a href="https://s3pbi.fkip.uns.ac.id/" target="_blank" rel="noopener noreferrer">Pendidikan Bahasa Indonesia</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>S-3 <a href="https://s3ip.fkip.uns.ac.id/" target="_blank" rel="noopener noreferrer">Ilmu Pendidikan</a></td>
+<td>B</td>
+</tr>
+<tr>
+<td>3</td>
+<td>S-3 <a href="https://s3ipa.fkip.uns.ac.id/" target="_blank" rel="noopener noreferrer">Pendidikan IPA</a></td>
+<td>B</td>
+</tr>
+<tr>
+<td>4</td>
+<td>S-3 Pendidikan Sejarah</td>
+<td>*</td>
+</tr>
+<tr>
+<td>5</td>
+<td>S-3 Ilmu Pendidikan Ekonomi</td>
+<td>*</td>
+</tr>
+</tbody>
+</table></br>

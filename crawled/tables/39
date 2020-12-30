@@ -1,0 +1,26 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>S-1 <a href="https://feb.uns.ac.id/">Akuntansi</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>S-1 <a href="https://feb.uns.ac.id/">Ekonomi Pembangunan</a></td>
+<td>A</td>
+</tr>
+<tr>
+<td>3</td>
+<td>S-1 <a href="https://feb.uns.ac.id/">Manajemen</a></td>
+<td>A</td>
+</tr>
+</tbody>
+</table></br>

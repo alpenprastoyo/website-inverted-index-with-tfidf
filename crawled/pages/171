@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>STATISTIK ALUMNI UNS</title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/base/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" href="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="https://alumni.uns.ac.id/statistik_alumni/majestic-master/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="https://alumni.uns.ac.id/wp-content/uploads/IKA-UNS-LogoWeb-e1449324965224.png" />
+    <link href="https://unpkg.com/gijgo@1.9.13/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+  </head>
+<body>
+
+<div class="container-scroller">
+<!-- partial:partials/_navbar.html -->
+ <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="navbar-brand-wrapper d-flex justify-content-center">
+        <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">  
+        <a class="navbar-brand brand-logo" href=""><p>STATISTIK ALUMNI</p></a>
+        <a class="navbar-brand brand-logo-mini" href=""><img src="https://alumni.uns.ac.id/wp-content/uploads/IKA-UNS-LogoWeb-e1449324965224.png" alt="logo"/></a>
+          <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="mdi mdi-sort-variant"></span>
+          </button>
+        </div>  
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+      <!-- search -->
+        <ul class="navbar-nav navbar-nav-right">
+            <!-- message -->
+          <!-- <li class="nav-item dropdown mr-4">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="mdi mdi-bell mx-0"></i>
+              <span class="count"></span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-success">
+                    <i class="mdi mdi-information mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Application Error</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Just now
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-warning">
+                    <i class="mdi mdi-settings mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Settings</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Private message
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-info">
+                    <i class="mdi mdi-account-box mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">New user registration</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    2 days ago
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li> -->
+                            </ul>
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+          <span class="mdi mdi-menu"></span>
+        </button>
+      </div>
+    </nav>    
+ <!-- partial -->
+ <div class="container-fluid page-body-wrapper">
+    <!-- partial:partials/_sidebar.html -->
+      <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+          <li class="nav-item">
+            <a class="nav-link home" href="https://alumni.uns.ac.id/statistik_alumni">
+              <i class="mdi mdi-home menu-icon"></i>
+              <span class="menu-title">Dashboard</span>
+            </a>
+          </li>
+         
+          <li class="nav-item">
+            <a class="nav-link" href="https://alumni.uns.ac.id/statistik_alumni/permintaanalumni">
+              <i class="mdi mdi-book-multiple menu-icon"></i>
+              <span class="menu-title">Permintaan Alumni</span>
+            </a>
+          </li>
+
+        
+        </ul>
+      </nav>
+      <!-- partial -->
+    
+      <div class="main-panel">
+        <div class="content-wrapper">
+         
+          <div class="row">
+            <div class="col-md-12 stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <p class="card-title">Cari Data Alumni</p>
+                  <p class="card-description">
+                                              </p>
+                  <form method="GET" class="form-inline" action="https://alumni.uns.ac.id/statistik_alumni">
+                    
+                      <input type="text" class="form-control form-control-sm" name="nama" placeholder="Cari Alumni .." value="">
+                      <button type="submit" class="btn btn-primary btn-sm">Cari</button>
+                  </form>
+                  <div class="table-responsive">
+                    <table id="alumnii" class="table table-bordered table-striped">
+                      <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Nama</th>
+                            <th>Fakultas</th>
+                            <th>Tahun Masuk</th>
+                            <th>Provinsi</th>
+                            <th>Nama Instansi</th>
+                            <th>Aksi</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                                                                    <tr>
+                            <td>1</td>
+                            <td>Sudirman</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="95029" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>2</td>
+                            <td>&#039;Ishmah Zahro&#039;l Firdausi</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="74799" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>3</td>
+                            <td>&#039;Izzi Safir</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="71171" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>4</td>
+                            <td>A. Aktananda Pratama</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="10449" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>5</td>
+                            <td>A. Bob Yusup Widjaya</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="73579" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>6</td>
+                            <td>A. Herlin Deslia Dita Soekirman</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="75992" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>7</td>
+                            <td>A. Riza Nugraha</td>
+                            <td>FEB</td>
+                            <td>2003</td>
+                            <td>Aceh</td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="2193" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>8</td>
+                            <td>A. Sri Wahyuni Wijayanti</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="74875" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>9</td>
+                            <td>A. Tri Kaning Prihatini Sukmo Dewi Nugrahaningdyah</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="75207" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                              <tr>
+                            <td>10</td>
+                            <td>A.M. Jati Prakoso</td>
+                            <td>FEB</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td> 
+                                <button type="button" class="btn btn-primary open-modal" data-id="71147" data-toggle="modal" data-target="#exampleModal">
+                                    update
+                                </button>
+                            </td>
+                        </tr>
+                                            </tbody>
+                    </table>
+                    <nav>
+        <ul class="pagination">
+            
+                            <li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Previous">
+                    <span class="page-link" aria-hidden="true">&lsaquo;</span>
+                </li>
+            
+            
+                            
+                
+                
+                                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=2">2</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=3">3</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=4">4</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=5">5</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=6">6</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=7">7</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=8">8</a></li>
+                                                                                        
+                                    <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+                
+                
+                                            
+                
+                
+                                                                                        <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=9476">9476</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=9477">9477</a></li>
+                                                                        
+            
+                            <li class="page-item">
+                    <a class="page-link" href="https://alumni.uns.ac.id/statistik_alumni?page=2" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
+                </li>
+                    </ul>
+    </nav>
+
+                  </div>
+	                   
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- content-wrapper ends -->
+        <!-- partial:partials/_footer.html -->
+
+        <!-- Modal -->
+          <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Login Alumni</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                <form class="forms-sample" method="POST" action="https://alumni.uns.ac.id/statistik_alumni/loginalumni" enctype="multipart/form-data">
+                    <input type="hidden" name="_token" value="NjIYU2g1mDfOuZrGzYIWI6JugMdRO0wMCXAPrzpR">                    <div class="form-group">
+                        <label for="ttl">Tanggal Lahir *</label>
+                        <input id="datepicker" class="form-control " value="" autocomplete="ttl" name="ttl" placeholder="DD-MM-YYYY" required/>
+                                            </div>
+                    <input type="hidden" id="id_alumni" name="id_alumni" >
+                    
+                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      <button type="submit" class="btn btn-primary mr-2">Login</button>
+                </form>
+                </div>
+                <!-- <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+                </div> -->
+              </div>
+            </div>
+          </div>
+
+<footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="" target="_blank">UNS</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Universitas Sebelas Maret <i class="mdi mdi-heart text-danger"></i></span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- plugins:js -->
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/base/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page-->
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/chart.js/Chart.min.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/datatables.net/jquery.dataTables.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+  <!-- End plugin js for this page-->
+  <!-- inject:js -->
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/off-canvas.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/hoverable-collapse.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/templateku.js"></script>
+  <!-- endinject -->
+  <!-- Custom js for this page-->
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/dashboard.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/data-table.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/jquery.dataTables.js"></script>
+  <script src="https://alumni.uns.ac.id/statistik_alumni/majestic-master/js/dataTables.bootstrap4.js"></script>
+  <!-- End custom js for this page-->
+    
+    <script src="https://unpkg.com/gijgo@1.9.13/js/gijgo.min.js" type="text/javascript"></script>
+  <script>
+    $('#datepicker').datepicker({
+            uiLibrary: 'bootstrap4',
+            format: 'dd-mm-yyyy'
+    });
+
+    $(document).on("click", ".open-modal", function () {
+     var alumniId = $(this).data('id');
+     $(".modal-body #id_alumni").val( alumniId );
+    });
+  </script>
+</body>
+
+</html>

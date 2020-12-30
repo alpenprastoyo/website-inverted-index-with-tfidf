@@ -1,0 +1,1539 @@
+<!DOCTYPE html><!-- Panoramic -->
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://pasca.uns.ac.id/s2kajianbudaya/xmlrpc.php">
+
+<title>Website Resmi Program Studi Magister Kajian Budaya UNS &#8211; Just another Pascasarjana UNS site</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Magister Kajian Budaya UNS &raquo; Feed" href="https://pasca.uns.ac.id/s2kajianbudaya/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Website Resmi Program Studi Magister Kajian Budaya UNS &raquo; Comments Feed" href="https://pasca.uns.ac.id/s2kajianbudaya/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/pasca.uns.ac.id\/s2kajianbudaya\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.15"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='DOPBSP-css-dopselect-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/libraries/css/jquery.dop.Select.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='smpl_shortcodes-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/smpl-shortcodes/assets/css/smpl-shortcodes.css?ver=4.8.15' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-site-title-font-default-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3A400&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-body-font-default-css'  href='//fonts.googleapis.com/css?family=Lato%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-heading-font-default-css'  href='//fonts.googleapis.com/css?family=Raleway%3A500%2C600%2C700%2C100%2C800%2C400%2C300&#038;ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-header-standard-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/css/header-standard.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-otb-font-awesome-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/otb-font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='otb-font-awesome-font-awesome-min-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/fonts/otb-font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic-style-css'  href='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/style.css?ver=1.0.56' type='text/css' media='all' />
+<link rel='stylesheet' id='panoramic_customizer_theme_fonts-css'  href='//fonts.googleapis.com/css?family=Kaushan+Script%3Aregular|Raleway%3Aregular%2C700|Lato%3Aregular%2Citalic%2C700%26subset%3Dlatin%2C' type='text/css' media='screen' />
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/libraries/js/dop-prototypes.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/smpl-shortcodes/assets/js/smpl-shortcodes.js?ver=1'></script>
+<link rel='https://api.w.org/' href='https://pasca.uns.ac.id/s2kajianbudaya/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pasca.uns.ac.id/s2kajianbudaya/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.15" />
+<style type="text/css">
+
+
+/* Minimum slider width */
+.panoramic-slider-container.default .slider .slide img {
+	min-width: 600px;
+}
+	
+
+/* Mobile Menu and other mobile stylings */
+@media only screen and (max-width: 960px) {
+	.main-navigation.translucent {
+		position: relative;
+	}
+	
+	.main-navigation.translucent {
+		background-color: #006489 !important;
+	}
+
+	#main-menu.panoramic-mobile-menu-standard-color-scheme {
+		background-color: #006489;
+	}	
+	
+	.slider-placeholder {
+		display: none;
+	}
+	
+	.header-image .overlay,
+	.panoramic-slider-container.default .slider .slide .overlay {
+		top: 25%;
+    }
+	
+	.panoramic-slider-container.default .prev.top-padded,
+	.panoramic-slider-container.default .next.top-padded{
+		margin-top: -26px;
+	}
+	.header-image .overlay.top-padded,
+	.panoramic-slider-container.default .slider .slide .overlay.top-padded {
+		padding-top: 0;
+	}
+
+	/* Menu toggle button */
+    .header-menu-button {
+	    display: block;
+	    padding: 16px 18px;
+	    color: #FFF;
+	    text-transform: uppercase;
+    	text-align: center;
+	    cursor: pointer;
+	}
+	.header-menu-button .otb-fa.otb-fa-bars {
+    	font-size: 28px;
+		color: #FFFFFF;
+	}
+	
+	/* Menu close button */
+    .main-menu-close {
+        display: block;
+    	background-color: rgba(0, 0, 0, 0.2);
+    	border-radius: 100%;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        font-size: 26px;
+        color: #FFFFFF;
+        text-align: center;
+        padding: 0 6px 0 10px;
+        height: 36px;
+    	width: 36px;
+        line-height: 33px;
+        cursor: pointer;
+    	
+	    -webkit-transition: all 0.2s ease 0s;
+	     -moz-transition: all 0.2s ease 0s;
+	      -ms-transition: all 0.2s ease 0s;
+	       -o-transition: all 0.2s ease 0s;
+	          transition: all 0.2s ease 0s;
+
+    }
+    .main-menu-close:hover .otb-fa {
+    	font-weight: 700 !important;
+	}
+	.main-menu-close .otb-fa-angle-left {
+        position: relative;
+        left: -4px;
+    }
+	
+    .main-navigation ul {
+        display: block;
+    }
+
+    .main-navigation #main-menu {
+        color: #FFFFFF;
+        box-shadow: 1px 0 1px rgba(255, 255, 255, 0.04) inset;
+        position: fixed;
+        top: 0;
+        right: -280px;
+        width: 280px;
+        max-width: 100%;
+        -ms-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        padding: 70px 0 30px 0;
+        z-index: 100000;
+        height: 100%;
+        overflow: auto;
+        -webkit-transition: right 0.4s ease 0s;
+        -moz-transition: right 0.4s ease 0s;
+        -ms-transition: right 0.4s ease 0s;
+        -o-transition: right 0.4s ease 0s;
+        transition: right 0.4s ease 0s;
+    }
+    #main-menu .menu {
+    	border-top-width: 1px;
+    	border-top-style: solid;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme .menu {
+    	border-top-color: #FFFFFF;
+	}
+	.main-navigation li {
+        display: block;
+        float: none;
+        position: relative;
+    }
+    .main-navigation li a {
+    	white-space: normal !important;
+    	border-bottom-width: 1px;
+    	border-bottom-style: solid;
+		box-shadow: none;
+		display: block;
+		color: #FFFFFF;
+        float: none;
+        padding: 10px 22px;
+        font-size: 14px;
+        text-align: left;
+  	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a {
+    	border-bottom-color: #FFFFFF;
+	}
+    #main-menu.panoramic-mobile-menu-standard-color-scheme li a:hover {
+    	background-color: rgba(0, 0, 0, 0.2); 
+  	}
+    .main-navigation ul ul a {
+    	text-transform: none;
+  	}
+    .main-navigation ul ul li:last-child a,
+    .main-navigation ul ul li a {
+        padding: 6px 30px;
+        width: auto;
+    }
+    .main-navigation ul ul ul li a {
+        padding: 6px 39px !important;
+    }
+    .main-navigation ul ul ul ul li a {
+        padding: 6px 47px !important;
+    }
+    .main-navigation ul ul ul ul ul li a {
+        padding: 6px 55px !important;
+    }
+
+    .main-navigation ul ul {
+        position: relative !important;
+    	box-shadow: none;
+        top: 0 !important;
+        left: 0 !important;
+        float: none !important;
+    	background-color: transparent;
+        padding: 0;
+        margin: 0;
+        display: none;
+    	border-top: none;
+    }
+	.main-navigation ul ul ul {
+		left: 0 !important;
+	}
+	.menu-dropdown-btn {
+    	display: block;
+    }
+    .open-page-item > ul.children,
+    .open-page-item > ul.sub-menu {
+    	display: block !important;
+    }
+    .open-page-item .otb-fa-angle-down {
+		color: #FFFFFF;
+    	font-weight: 700 !important;
+    }
+    
+    /* 1st level selected item */
+    #main-menu.panoramic-mobile-menu-standard-color-scheme a:hover,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2) !important;
+	}
+
+	/* 2nd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+	
+	/* 3rd level selected item */
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_item > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_parent > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current-menu-ancestor > a,
+	#main-menu.panoramic-mobile-menu-standard-color-scheme ul ul ul li.current_page_ancestor > a {
+		background-color: rgba(0, 0, 0, 0.2);
+	}
+
+}
+
+</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-180x180.png" />
+<meta name="msapplication-TileImage" content="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/cropped-logo-universitas-sebelas-maret-surakarta-270x270.png" />
+</head>
+
+<body class="home blog wp-custom-logo">
+
+<header id="masthead" class="site-header panoramic-header-layout-standard" role="banner">
+
+    
+<div class="site-container">
+    
+    <div class="branding">
+        <a href="https://pasca.uns.ac.id/s2kajianbudaya/" class="custom-logo-link" rel="home" itemprop="url"><img width="310" height="62" src="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/Magister-Kajian-Budaya-.png" class="custom-logo" alt="Website Resmi Program Studi Magister Kajian Budaya UNS" itemprop="logo" srcset="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/Magister-Kajian-Budaya-.png 310w, https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/Magister-Kajian-Budaya--300x60.png 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>    </div><!-- .site-branding -->
+    
+    <div class="site-header-right">
+        
+                    <div class="info-text">
+            	<strong><em>CALL US:</em></strong> 555-PANORAMIC            </div>
+			<ul class="social-links">
+<li><i class="otb-fa otb-fa-search search-btn"></i></li></ul>                
+    </div>
+    <div class="clearboth"></div>
+    
+		<div class="search-block">
+		<form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s2kajianbudaya/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form>	</div>
+	    
+</div>
+
+        
+<nav id="site-navigation" class="main-navigation border-bottom translucent" role="navigation">
+	<span class="header-menu-button"><i class="otb-fa otb-fa-bars"></i></span>
+	<div id="main-menu" class="main-menu-container panoramic-mobile-menu-standard-color-scheme">
+		<div class="main-menu-close"><i class="otb-fa otb-fa-angle-right"></i><i class="otb-fa otb-fa-angle-left"></i></div>
+		<div class="main-navigation-inner"><ul id="menu-menu-atas" class="menu"><li id="menu-item-130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-130"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/home/">HOME</a></li>
+<li id="menu-item-129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-129"><a href="https://pasca.uns.ac.id/s2kajianbudaya/tentang-kami/profil/">PROFIL</a>
+<ul  class="sub-menu">
+	<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/sejarah-2/">Sejarah</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/visi-misi/">VISI MISI</a></li>
+	<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/tujuan/">Tujuan</a></li>
+	<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/program-unggulan/">Program Unggulan</a></li>
+</ul>
+</li>
+<li id="menu-item-200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-200"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/akademik/">AKADEMIK</a>
+<ul  class="sub-menu">
+	<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/penerimaan-mahasiswa-baru/">Penerimaan Mahasiswa Baru</a></li>
+	<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/biaya-pendidikan/">Informasi Jadwal dan Seleksi Mahasiswa Baru</a></li>
+</ul>
+</li>
+<li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/organisasi-dan-staff/">ORGANISASI DAN STAFF</a></li>
+<li id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-228"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/kemahasiswaan/">KEMAHASISWAAN</a>
+<ul  class="sub-menu">
+	<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/beasiswa/">Beasiswa</a></li>
+	<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/kreatifitas-mahasiswa/">Kreatifitas Mahasiswa</a></li>
+</ul>
+</li>
+<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/galery/">GALERY</a></li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-122"><a href="https://pasca.uns.ac.id/s2kajianbudaya/berita/">BERITA</a>
+<ul  class="sub-menu">
+	<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/pengumuman/">PENGUMUMAN</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://pasca.uns.ac.id/s2kajianbudaya/berita/agenda-kegiatan/">AGENDA KEGIATAN</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://pasca.uns.ac.id/s2kajianbudaya/informasi-dan-jadwal/">informasi dan jadwal</a></li>
+</ul>
+</li>
+<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/unduhan/">UNDUHAN</a></li>
+<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://pasca.uns.ac.id/s2kajianbudaya/s2-kajian-budaya/beri-saran/">BERI SARAN</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="https://pasca.uns.ac.id/s2kajianbudaya/tentang-kami/">TENTANG KAMI</a></li>
+</ul></div>	</div>
+</nav><!-- #site-navigation -->
+    
+</header><!-- #masthead -->
+
+<script>
+    var panoramicSliderTransitionSpeed = parseInt(450);
+</script>
+
+<div class="header-image loading">
+		
+	<img src="https://pasca.uns.ac.id/s2kajianbudaya/wp-content/uploads/sites/24/2016/09/headertemp.jpg" alt="" height="484" width="1600" />
+	
+		
+</div>
+<div id="content" class="site-content site-container ">
+
+	    
+    
+	<div id="primary" class="content-area ">
+		<main id="main" class="site-main" role="main">
+        
+        
+		
+						
+				
+<article id="post-297" class="blog-post-side-layout no-featured-image post-297 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2kajianbudaya/2018/04/25/297/" rel="bookmark"><time class="entry-date published updated" datetime="2018-04-25T07:22:47+00:00">April 25, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2kajianbudaya/author/s2kajianbudaya/">s2kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p><a href="https://rb.uns.ac.id"><img class="aligncenter" src="https://rb.uns.ac.id/wp-content/uploads/2017/11/new-rb-slider.jpeg" alt="Hasil gambar untuk gratifikasi korupsi uns" /></a></p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2018/04/25/297/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-180" class="blog-post-side-layout no-featured-image post-180 post type-post status-publish format-image hentry category-uncategorized post_format-post-format-image">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2017/09/09/prof-dr-wakit-a-rais-m-hum/" rel="bookmark">Prof. Dr. Wakit A Rais, M.Hum</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2kajianbudaya/2017/09/09/prof-dr-wakit-a-rais-m-hum/" rel="bookmark"><time class="entry-date published" datetime="2017-09-09T05:25:01+00:00">September 9, 2017</time><time class="updated" datetime="2018-04-25T07:58:40+00:00">April 25, 2018</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2kajianbudaya/author/s2kajianbudaya/">s2kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p><img class="aligncenter" src="https://cdn.brilio.net/news/2017/02/08/118752/578029-tarian-tradisional-ini-bukti-kerennya-budaya-indonesia.jpg" alt="Hasil gambar untuk tarian daerah" width="377" height="251" /><img class="aligncenter" src="https://img.okezone.com/content/2012/04/02/372/603719/DPeB7mtzMR.jpg" alt="Gambar terkait" width="451" height="248" /></p>
+<p><strong style="font-size: 15px">PENGALAMAN MENGAJAR</strong></p>
+<table width="483">
+<thead>
+<tr>
+<td width="34">
+<p><strong>No.</strong></p>
+</td>
+<td width="125">
+<p><strong>Mata Kuliah</strong></p>
+</td>
+<td width="219">
+<p><strong>Jenjang/Program Studi</strong></p>
+</td>
+<td width="104">
+<p><strong>Waktu</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="34">
+<p>1</p>
+</td>
+<td width="125">
+<p>Morfologi Bahasa Jawa</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah FSSR UNS                                 </p>
+</td>
+<td width="104">
+<p>(1993-1999)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>2</p>
+</td>
+<td width="125">
+<p>Bahasa Jawa Kuna</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah Fakultas Ilmu Budaya UNS    </p>
+<p>S1 Sastra Indonesia FSSR UNS                             </p>
+</td>
+<td width="104">
+<p>(2013-sekarang)</p>
+<p>(1993-1999)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>3</p>
+</td>
+<td width="125">
+<p>Dialektologi</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah Fakultas Ilmu Budaya UNS    </p>
+</td>
+<td width="104">
+<p>(1997-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>4</p>
+</td>
+<td width="125">
+<p>Bahasa Kawi</p>
+</td>
+<td width="219">
+<p>S1 PBSJ FKIP UNS S1 STKIP PGRI Ngawi Jawa Timur                        </p>
+<p>S1 PBSJ FKIP Univ. Muhammadiyah Purworejo</p>
+</td>
+<td width="104">
+<p>(1988-1993)</p>
+<p>&nbsp;</p>
+<p>(2005-2010)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>5</p>
+</td>
+<td width="125">
+<p>Bahasa Sumber</p>
+</td>
+<td width="219">
+<p>S1 Pendidikan Sejarah FKIP UNS                         </p>
+</td>
+<td width="104">
+<p>(2008-2011)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>6</p>
+</td>
+<td width="125">
+<p>Linguistik Bandingan Historis</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah FSSR UNS                                  </p>
+</td>
+<td width="104">
+<p>(2008-2011)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>7</p>
+</td>
+<td width="125">
+<p>Filsafat Bahasa</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah FSSR UNS                                  </p>
+</td>
+<td width="104">
+<p>(2008-2009)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>8</p>
+</td>
+<td width="125">
+<p>Leksikologi Bahasa Jawa</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah FSSR UNS                                  </p>
+</td>
+<td width="104">
+<p>(2008-2009)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>9</p>
+</td>
+<td width="125">
+<p>Bahasa Sansekerta, Bahasa Jawa Kuna</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah FSSR UNS</p>
+<p>S1 STKIP PGRI Ngawi Jawa Timur</p>
+<p>&nbsp;</p>
+<p>S1 PBSJ FKIP Univ. Muhammadiyah Purworejo</p>
+</td>
+<td width="104">
+<p>(1995-1996)</p>
+<p>(1988-1993,</p>
+<p>2010-2016)</p>
+<p>(2005-2010)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>10</p>
+</td>
+<td width="125">
+<p>Etnolinguistik</p>
+</td>
+<td width="219">
+<p>S1 Sastra Daerah Fakultas Ilmu Budaya UNS     </p>
+<p>S3 Prodi Lingusitik Pascasarjana UNS                  </p>
+</td>
+<td width="104">
+<p>(2004-sekarang)</p>
+<p>(2013-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>11</p>
+</td>
+<td width="125">
+<p>Dialektologi</p>
+</td>
+<td width="219">
+<p>S2 Prodi Lingusitik Pascasarjana UNS                 </p>
+</td>
+<td width="104">
+<p>(2013-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>12</p>
+</td>
+<td width="125">
+<p>Multikulturalisme dan Lintas Budaya</p>
+</td>
+<td width="219">
+<p>S3 Prodi Kajian Budaya Pascasarjana UNS         </p>
+</td>
+<td width="104">
+<p>(2013-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>13</p>
+</td>
+<td width="125">
+<p>Teori Kebudayaan</p>
+</td>
+<td width="219">
+<p>S3 Prodi Kajian Budaya Pascasarjana UNS  (2013-sekarang)</p>
+</td>
+<td width="104">
+<p>(2013-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>14</p>
+</td>
+<td width="125">
+<p>Etnografi Komunikasi untuk Pragmatik</p>
+</td>
+<td width="219">
+<p>S3 Prodi Lingusitik Pragmatik Pascasarjana UNS</p>
+</td>
+<td width="104">
+<p>(2016-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>15</p>
+</td>
+<td width="125">
+<p>Etnolinguistik</p>
+</td>
+<td width="219">
+<p>S3 Prodi Lingusitik Deskriptif Pascasarjana UNS</p>
+</td>
+<td width="104">
+<p>(2013-sekarang)</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>16</p>
+</td>
+<td width="125">
+<p>Sosiolinguistik</p>
+</td>
+<td width="219">
+<p>S2 PBSJ Pascasarjana UNS                                    </p>
+</td>
+<td width="104">
+<p>(2015-sekarang)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong><strong style="font-size: 15px">PENGALAMAN PENELITIAN</strong></p>
+<table width="484">
+<thead>
+<tr>
+<td width="34">
+<p><strong>No</strong></p>
+</td>
+<td width="208">
+<p><strong>Judul Penelitian</strong></p>
+</td>
+<td width="87">
+<p><strong>Sumber Dana</strong></p>
+</td>
+<td width="74">
+<p><strong>Posisi/</strong></p>
+<p><strong>Tahun</strong></p>
+</td>
+<td width="82">
+<p><strong>Keterangan</strong></p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="34">
+<p>1</p>
+</td>
+<td width="208">
+<p>Pemakaian Tingkat Tutur Krama dalam bahasa Jawa di Kodya Surakarta, Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana DP3M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1990/1991</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>2</p>
+</td>
+<td width="208">
+<p>Pengaruh Pengembangan Pariwisata terhadap Nilai Budaya Jawa di Kodia Surakarta, Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana DP3M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1991/1992</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>3</p>
+</td>
+<td width="208">
+<p>Sikap Generasi Muda terhadap Kesenian Tradisional Wayang Purwa di Kodia Surakarta, Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana DP3M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1992/1993</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>4</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Pekalongan, Penelitian Pascasarjana.</p>
+</td>
+<td width="87">
+<p>Program Pascasarjana UGM</p>
+</td>
+<td width="74">
+<p>1992/1993</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>5</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Madiun (Kajian Geografi Dialek) , Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1996/1997</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>6</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Karanganyar (Kajian Geografi Dialek) , Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1996/1997</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>7</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Karesidenan Surakarta (Kajian Geografi Dialek), Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1997/1998</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>8</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Karesidenan Surakarta (Kajian Geografi Dialek), Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1998/1999</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>9</p>
+</td>
+<td width="208">
+<p>Unsur Nepotisme dan Relevansi Kontekstualnya dalam Ungkapan Peribahasa Jawa (Pendekatan Pragmatik di Kodia Surakarta), DIK UNS.</p>
+</td>
+<td width="87">
+<p>DIK Universitas Sebelas Maret</p>
+</td>
+<td width="74">
+<p>1998/1999</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>10</p>
+</td>
+<td width="208">
+<p>Pentingnya Studi Dialektologi dalam rangka Tipologi Bahasa, Research Grand, Due-Like Universitas Sebelas Maret Surakarta.</p>
+</td>
+<td width="87">
+<p>Research Grand, Due-Like UNS</p>
+</td>
+<td width="74">
+<p>1998/1999</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>11</p>
+</td>
+<td width="208">
+<p>Peranan Bahasa Jawa sebagai Sarana Komunikasi Pembangunan Pedesaan di Karesidenan Surakarta, Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>1997/1998</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>12</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Ngawi (Kajian Geografi Dialek), Studi Sinkronis, Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti,</p>
+</td>
+<td width="74">
+<p>1999/2000</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>13</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Ngawi (Kajian Geografi Dialek), Studi Diakronis,  Penelitian Dosen Muda</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>2001</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>14</p>
+</td>
+<td width="208">
+<p>Studi Kasus tentang: Tradisi Sikep Masyarakat Samin di Kabupaten Blora dan Pengaruhnya terhadap Sosial-ekonominya, <em>Penelitian Dasar</em>.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>2002</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>15</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Sragen (Kajian Geografi Dialek) , Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>2002</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>16</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa di Kabupaten Klaten (Kajian Geografi Dialek), Penelitian Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>2003</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>17</p>
+</td>
+<td width="208">
+<p>Geografi Dialek Bahasa Jawa di Kabupaten Blora, Dosen Muda.</p>
+</td>
+<td width="87">
+<p>dana P4M, Dirjen Dikti,</p>
+</td>
+<td width="74">
+<p>2004</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>18</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa dalam Istilah Natah dan Menyungging Wayang Purwa di Kota Surakarta, Dosen Muda.</p>
+</td>
+<td width="87">
+<p>Dana P4M, Dirjen Dikti</p>
+</td>
+<td width="74">
+<p>2007</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>19</p>
+</td>
+<td width="208">
+<p>Kerajinan Manik-manik Ibu dan Remaja Putri di Kelurahan Jaten, Kecamatan Jaten, Kabupaten Karanganyar Sebagai Cinderamata Pariwisata.</p>
+</td>
+<td width="87">
+<p>BAPPEDA Kabupaten Karanganyar</p>
+</td>
+<td width="74">
+<p>2008</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>20</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa Dialek Samin di Kabupaten Blora (Kajian Etnolinguistik),<em> Hibah Penelitian Fundamental</em>.</p>
+</td>
+<td width="87">
+<p>dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2008</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>21</p>
+</td>
+<td width="208">
+<p>Pelatihan Mengakses Internet untuk Mencari Informasi bagi Remaja di Desa Jaten Kecamatan Jaten Kabupaten Karanganyar.</p>
+</td>
+<td width="87">
+<p>BAPPEDA Kabupaten Karanganyar</p>
+</td>
+<td width="74">
+<p>2009</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>22</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa dan Hubungannya dengan Perilaku Orang Jawa di Kota Surakarta (Kajian Etnolinguistik), <em>Hibah Penelitian Fundamental</em>.</p>
+</td>
+<td width="87">
+<p>dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2009</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>23</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal dalam Bahasa dan Budaya Jawa Orang Samin di Blora, <em>Hibah Fundamental</em>, Tahun I, 2012.</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2011</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>24</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal dalam Bahasa Jawa Petani dan Nelayan di Kabupaten Kebumen (Kajian Etnolinguistik), Tahun I <em>Hibah Pasca</em>Program Pascasarjana UNS.</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2011</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>25</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal dalam Bahasa Jawa Petani dan Nelayan di Kabupaten Kebumen (Kajian Etnolinguistik), Tahun II <em>Hibah Pasca</em> Program Pascasarjana UNS.</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2012</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>26</p>
+</td>
+<td width="208">
+<p>Bahasa Jawa dan Hubungannya dengan Perilaku Orang Jawa di Kota Surakarta (Studi Kasus Etnolinguistik), tahun 1, Hibah Fundamental</p>
+</td>
+<td width="87">
+<p>BOPTN UNS</p>
+<p>&nbsp;</p>
+</td>
+<td width="74">
+<p>2012</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>27</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal dalam Bahasa dan Budaya Jawa Orang Samin di Kabupaten Blora (Kajian Etnolinguistik), tahun 2, Hibah Fundamental</p>
+</td>
+<td width="87">
+<p>BOPTN UNS</p>
+<p>&nbsp;</p>
+</td>
+<td width="74">
+<p>2013</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>28</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal Petani dan Persepsinya terhadap pekerjaan Nonpetani di kabupaten Ngawi Jawa Timur (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, Dana Dikti, Hibah Penelitian Madya, tahu 1.</p>
+</td>
+<td width="87">
+<p>BOPTN UNS</p>
+</td>
+<td width="74">
+<p>2013</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>29</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal Petani dan Persepsinya terhadap pekerjaan Nonpetani di kabupaten Ngawi Jawa Timur (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, tahun 2.</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2014</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>30</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal yang Terangkum dalam Peribahasa Jawa: Studi Kasus Kearifan Hidup dalam Berbangsa dan Bernegara Indonesia di Surakarta, Hibah Unggulan Fakultas, tahun 1, 2014</p>
+</td>
+<td width="87">
+<p>DIPA PNBP UNS</p>
+</td>
+<td width="74">
+<p>2014</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>31</p>
+</td>
+<td width="208">
+<p>Pola Pikir Orang Jawa yang Tercermin dalam Idiomatik Bahasa Jawa di Kabupaten Karanganyar (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, th 2</p>
+</td>
+<td width="87">
+<p>Dana P4 DIKTI</p>
+<p>&nbsp;</p>
+</td>
+<td width="74">
+<p>2014</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>32</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal yang Terangkum dalam Peribahasa Jawa: Studi Kasus Kearifan Hidup dalam Berbangsa dan Bernegara Indonesia di Surakarta, Hibah Unggulan Fakultas, tahun 2, 2014</p>
+</td>
+<td width="87">
+<p>DIPA PNBP UNS</p>
+</td>
+<td width="74">
+<p>2015</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>33</p>
+</td>
+<td width="208">
+<p>Pola Pikir Orang Jawa yang Tercermin dalam Idiomatik Bahasa Jawa di Kabupaten Karanganyar (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, th 1</p>
+</td>
+<td width="87">
+<p>Dana P4M DIKTI</p>
+<p>&nbsp;</p>
+</td>
+<td width="74">
+<p>2015</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>34</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal yang Terangkum dalam Peribahasa Jawa Masyarakat di Eks Karesidenan Surakarta (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, Th 1</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2015</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>35</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal Petani dan Persepsinya terhadap pekerjaan Nonpetani di kabupaten Ngawi Jawa Timur (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, tahun 3.</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2015</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>36</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal yang Terangkum dalam Peribahasa Jawa Masyarakat di Eks Karesidenan Surakarta (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, th 2</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2016</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>37</p>
+</td>
+<td width="208">
+<p>Pola Pikir Orang Jawa yang Tercermin dalam Idiomatik Bahasa Jawa di Kabupaten Karanganyar (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, th 2</p>
+</td>
+<td width="87">
+<p>Dana P4M DIKTI</p>
+<p>&nbsp;</p>
+</td>
+<td width="74">
+<p>2015</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>38</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal yang Terangkum dalam Peribahasa Jawa Masyarakat di Eks Karesidenan Surakarta (Kajian Etnolinguistik), Hibah Unggulan Perguruan Tinggi, Th 1</p>
+</td>
+<td width="87">
+<p>Dana P4M Dikti</p>
+</td>
+<td width="74">
+<p>2015</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>39</p>
+</td>
+<td width="208">
+<p>Kearifan Lokal Petani dan Persepsinya terhadap pekerjaan Nonpetani Bagi Orang Samin di kabupaten Blora, Hibah MRG UNS</p>
+</td>
+<td width="87">
+<p>PNBP UNS</p>
+</td>
+<td width="74">
+<p>2016</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Ketua</p>
+</td>
+</tr>
+<tr>
+<td width="34">
+<p>40</p>
+</td>
+<td width="208">
+<p>Hubungan Spiritualitas dan Realitas Sosok Kebo Bule untuk Aktualitas Kraton Surakarta Masa Kini dari Perspektif Kajian Budaya, Hibah Pascasarjana UNS</p>
+</td>
+<td width="87">
+<p>PNBP UNS</p>
+</td>
+<td width="74">
+<p>2016</p>
+<p>&nbsp;</p>
+</td>
+<td width="82">
+<p>Anggota</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2017/09/09/prof-dr-wakit-a-rais-m-hum/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-171" class="blog-post-side-layout no-featured-image post-171 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2017/09/09/s2-kajian-budaya-pascasarjana-uns/" rel="bookmark">S2 KAJIAN BUDAYA PASCASARJANA UNS</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2kajianbudaya/2017/09/09/s2-kajian-budaya-pascasarjana-uns/" rel="bookmark"><time class="entry-date published updated" datetime="2017-09-09T05:06:32+00:00">September 9, 2017</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2kajianbudaya/author/s2kajianbudaya/">s2kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>selamat datang : </p>
+<p>Negara Indonesia merupakan negara besar salah satunya bersifat multikultural. Untuk itu untuk menjaga eksistensi dan kelestarian dari berbagai hal yang dapat mengancam integritasnya diperlukan pendekatan kultural. Hal tersebut dapat dilakukan dengan cara menyiapkan Sumber Daya Manusia (SDM) yang memiliki sensitivitas terkait budaya dan kajian budaya, agar memiliki kemampuan dan pemahaman tentang ragam budaya dan kajiannya dalam rangka pemertahanan dan pengembangan terus menerus menyelaraskan dengan situasi kondisi yang ada. Untuk itu dibutuhkan wadah yang memungkinkan SDM tersebut dapat menelaah secara akademis ilmiah untuk memecahkan berbagai persoalan yang terkait dengan budaya. Oleh karena itulah dibuka Program Studi S2 Kajian Budaya pada tahun 2007 di bawah naungan Fakultas Sastra dan Seni Rupa (sekarang Fakultas Ilmu Budaya), dan mulai tahun 2013 karena pertimbangan tertentu Program Studi S2 Kajian Budaya telah beralih di bawah naungan Pascasarjana Universitas Sebelas Maret</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2017/09/09/s2-kajian-budaya-pascasarjana-uns/#respond">Leave a comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+				
+<article id="post-1" class="blog-post-side-layout no-featured-image post-1 post type-post status-publish format-standard hentry category-uncategorized">
+    
+        
+    <div class="post-loop-content">
+    
+    	<header class="entry-header">
+    		<h2 class="entry-title"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2016/09/06/hello-world/" rel="bookmark">Hello world!</a></h2>
+    		    		<div class="entry-meta">
+    			<span class="posted-on">Posted on <a href="https://pasca.uns.ac.id/s2kajianbudaya/2016/09/06/hello-world/" rel="bookmark"><time class="entry-date published updated" datetime="2016-09-06T05:10:11+00:00">September 6, 2016</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://pasca.uns.ac.id/s2kajianbudaya/author/s2kajianbudaya/">s2kajianbudaya</a></span></span>    		</div><!-- .entry-meta -->
+    		    	</header><!-- .entry-header -->
+
+    	<div class="entry-content">
+    		<p>Welcome to <a href="https://pasca.uns.ac.id/">Pascasarjana UNS</a>. This is your first post. Edit or delete it, then start blogging!</p>
+
+    		    	</div><!-- .entry-content -->
+
+    	<footer class="entry-footer">
+    		<span class="comments-link"><a href="https://pasca.uns.ac.id/s2kajianbudaya/2016/09/06/hello-world/#comments">1 Comment </a></span>    	</footer><!-- .entry-footer -->
+    
+    </div>
+    
+    <div class="clearboth"></div>
+</article><!-- #post-## -->
+			
+			
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+    
+<div id="secondary" class="widget-area" role="complementary">
+	<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://pasca.uns.ac.id/s2kajianbudaya/">
+	<label>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="&nbsp;" />
+</form></aside><aside id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">DOWNLOAD</h2><div class="menu-download-container"><ul id="menu-download" class="menu"><li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="https://pasca.uns.ac.id/wp-content/uploads/2017/02/srt_pr_akad1_s2_a1314_s3_a1011.pdf">Surat Peringatan Akademik 1</a></li>
+</ul></div></aside></div><!-- #secondary -->
+    
+        
+
+</div><!-- #content -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	
+	<div class="site-footer-widgets">
+        <div class="site-container">
+        
+                		
+            <div class="clearboth"></div>
+        </div>
+    </div>
+	
+	<div class="site-footer-bottom-bar">
+	
+		<div class="site-container">
+			
+			<div class="site-footer-bottom-bar-left">
+
+             	Theme by <a href="http://www.outtheboxthemes.com">Out the Box</a> 
+                
+			</div>
+	        
+	        <div class="site-footer-bottom-bar-right">
+                
+	                            
+	        </div>
+	        
+	    </div>
+		
+        <div class="clearboth"></div>
+	</div>
+	
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/libraries/js/jquery.dop.Select.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/assets/js/jquery.dop.frontend.BSPCalendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/assets/js/frontend.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/assets/js/deposit/frontend-deposit.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/assets/js/discounts/frontend-discounts.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/assets/js/fees/frontend-fees.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/assets/js/rules/frontend-rules.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/application/assets/js/dot.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-availability.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-days.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-day.js?ver=4.8.15'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/booking-system/application/assets/js/calendars/calendar-schedule.js?ver=4.8.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/pasca.uns.ac.id\/s2kajianbudaya\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/js/navigation.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/js/jquery.carouFredSel-6.2.1-packed.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/js/jquery.touchSwipe.min.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/js/custom.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-content/themes/panoramic/library/js/skip-link-focus-fix.js?ver=1.0.56'></script>
+<script type='text/javascript' src='https://pasca.uns.ac.id/s2kajianbudaya/wp-includes/js/wp-embed.min.js?ver=4.8.15'></script>
+
+</body>
+</html>

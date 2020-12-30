@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html lang="id-ID">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Program Studi Ilmu Tanah UNS</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+	<meta name="google-site-verification" content="0IMXUsS4eSF45MrU6HjoDjY2vEBPy4eePCYoTiVrfSE" />
+  <!-- Favicons -->
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="icon">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/img/favicon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/aos/aos.css" rel="stylesheet">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://ilmutanah.fp.uns.ac.id/asset/prodi/css/baguetteBox.min.css">
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/css/gallery-grid.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="https://ilmutanah.fp.uns.ac.id/asset/prodi/css/style.css" rel="stylesheet">
+  
+
+  <!-- =======================================================
+  * Template Name: Company - v2.1.0
+  * Template URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+        <div class="container-fluid" style="padding: 0;">
+      <nav class="upnav">
+        <ul>
+          <li><a href="https://uns.ac.id/" target="_blank">UNS</a></li>
+          <li><a href="https://fp.uns.ac.id/" target="_blank">Fakultas Pertanian</a></li>
+          <li><a href="https://library.uns.ac.id/" target="_blank">Perpustakaan</a></li>
+        </ul>        
+      </nav>
+      
+    </div>
+    <div class="container-fluid d-flex align-items-center">
+
+      <!-- <h1 class="logo mr-auto"><a href="index.html"><span>Com</span>pany</a></h1> -->
+
+      <a href="https://ilmutanah.fp.uns.ac.id/"><img src="https://ilmutanah.fp.uns.ac.id/asset/prodi/img/logo-ilmu-tanah.png" style="width: 70%; padding: 5px"></a>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+      <nav class="nav-menu d-none d-lg-block">
+        
+        <ul>
+                              <li><a href='https://ilmutanah.fp.uns.ac.id/' style='background: url(https://ilmutanah.fp.uns.ac.id/asset/images/home.png) no-repeat center; font-size:0; width:34px;'><br></a></li><li><a href='https://ilmutanah.fp.uns.ac.id/'>Beranda</a></li><li class='drop-down'><a href='https://ilmutanah.fp.uns.ac.id/#'><span>Profile</span></a><ul><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/sejarah-program-studi-ilmu-tanah-'>Sejarah Program Studi</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/visi-dan-misi-program-studi-ilmu-tanah'>Visi dan Misi</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/tujuan-program-studi-ilmu-tanah'>Tujuan</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/staff-prodi-ilmu-tanah'>Staff</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/capaian-luaran-pembelajaran'>Capaian Luaran Pembelajaran</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/albums'>Galeri Foto</a></li></ul></li><li class='drop-down'><a href='https://ilmutanah.fp.uns.ac.id/#'><span>Akademik</span></a><ul><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Panduan Akademik</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/akreditasi-prodi-ilmu-tanah'>Akreditasi</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/page/detail/kurikulum-prodi-ilmu-tanah'>Kurikulum</a></li></ul></li><li class='drop-down'><a href='https://ilmutanah.fp.uns.ac.id/#'><span>Prosedur</span></a><ul><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Registrasi</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Usulan Penelitian</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Magang</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Skripsi</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Wisuda</a></li><li><a target='_BLANK' href='https://lsp.uns.ac.id/'>Sertifikasi Profesi</a></li></ul></li><li class='drop-down'><a href='https://ilmutanah.fp.uns.ac.id/#'><span>Jurnal</span></a><ul><li><a target='_BLANK' href='https://jurnal.uns.ac.id/tanah'>Sains Tanah</a></li><li><a target='_BLANK' href='https://jurnal.uns.ac.id/prima'>Prima</a></li></ul></li><li class='drop-down'><a href='https://ilmutanah.fp.uns.ac.id/#'><span>Fasilitas</span></a><ul><li class='drop-down'><a href='https://ilmutanah.fp.uns.ac.id/#'><span>Laboratorium</span></a><ul><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Lab. Kimia dan Kesuburan Tanah</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Lab. Biologi dan Bioteknologi </a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Lab. Fisika dan Konservasi Tan</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Lab. Pedologi dan Survey Tanah</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Lab. Klimatologi</a></li></ul></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Penelitian</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Pengabdian Kepada Masyarakat</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/#'>Kerjasama</a></li></ul></li><li><a href='https://ilmutanah.fp.uns.ac.id/berita'>Berita</a></li><li><a href='https://ilmutanah.fp.uns.ac.id/download'>Download</a></li></ul>
+        
+      
+     <!--   <div style="padding-left:20px;">
+        <form class="form-search form-inline" method="POST" action="http://ilmutanah.fp.uns.ac.id/berita">
+          <div class="input-group">
+            <input type="text" name="kata" class="form-control search-query" placeholder="Cari.." /> <span class="input-group-btn">
+              <button type="submit" class="btn btn-outline-success"><i class="icofont-search-1"></i></button>
+            </span>
+ 
+          </div>
+        </form>
+      </div> -->
+      </ul>
+
+      </nav>
+   
+     
+      <!-- .nav-menu -->
+
+     <!--  <div>
+          <form class="" method="POST" action="http://ilmutanah.fp.uns.ac.id/berita">
+            <div>
+                <input class="" name="kata" type="text" value="" size="16" tabindex="1" required/>
+                <input type="submit" class="button" value="Search" tabindex="2" />
+            </div>
+          </form>
+      </div> -->
+      <div class="header-social-links">
+        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+        <a href="#" class="instagram"><i class="icofont-instagram"></i></a>
+        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></i></a>
+      <!-- </div>
+        <div class="cari">
+        <form class="form-inline" method="POST" action="http://ilmutanah.fp.uns.ac.id/berita">
+            <input  class="form-control mr-sm-2" name="kata" type="search" size="10" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div> -->
+      
+
+    </div>
+
+	
+  </header><!-- End Header -->
+
+  <main id="main">
+
+      <div class="container-fluid" style="width: 95% ">
+    <dic class="row">
+           
+        <section id="hero">
+        
+<div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+            <ol class="carousel-indicators">
+        <li data-target="#heroCarousel" data-slide-to="0" class="active"></li><li data-target="#heroCarousel" data-slide-to="1" class=""></li><li data-target="#heroCarousel" data-slide-to="2" class=""></li><li data-target="#heroCarousel" data-slide-to="3" class=""></li><li data-target="#heroCarousel" data-slide-to="4" class=""></li>      </ol>
+
+      <div class="carousel-inner" role="listbox">        <!-- Slide 1 -->
+
+ 
+                 <div class="carousel-item active" style="background-image: url(https://ilmutanah.fp.uns.ac.id/asset/foto_berita/RG.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Pupuk Organik Diperkaya Mikrobia untuk Meningkatkan Kualitas Tanah</h5>                               
+                                <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pupuk-organik-diperkaya-mikrobia-untuk-meningkatkan-kualitas-tanah" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmutanah.fp.uns.ac.id/asset/foto_berita/WhatsApp_Image_2020-11-10_at_9_54_40_PM.jpeg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Pengembangan Agroforestri Pada Lahan Kering Sekitar Hutan Sebagai Rintisan Alasombo, Kab. Sukoharjo, Menjadi Sentra Porang Amorphophallus muelleri Blume</h5>                               
+                                <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pengembangan-agroforestri-pada-lahan-kering-sekitar-hutan-sebagai-rintisan-alasombo-kab-sukoharjo-me" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmutanah.fp.uns.ac.id/asset/foto_berita/KHDTK.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Pelatihan Budidaya Lebah Madu Klanceng Bersama Masyarakat di sekitar KHDTK Gunung Bromo, Karanganyar</h5>                               
+                                <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pelatihan-budidaya-lebah-madu-klanceng-bersama-masyarakat-di-sekitar-khdtk-gunung-bromo-karanganyar" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmutanah.fp.uns.ac.id/asset/foto_berita/IMG_20201024_152332_344.jpg);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Implementing Rice Ratoon for Climate Change Mitigation and Adaptation Strategy </h5>                               
+                                <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/implementing-rice-ratoon-for-climate-change-mitigation-and-adaptation-strategy-" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div> <div class="carousel-item " style="background-image: url(https://ilmutanah.fp.uns.ac.id/asset/foto_berita/halaman_muka.JPG);">
+                            <div class="carousel-container">
+                              <div class="carousel-content animate__animated animate__fadeInUp">
+                                <h5>Pengembangan Pertanian Organik melalui Budidaya Azolla</h5>                               
+                                <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pengembangan-pertanian-organik-melalui-budidaya-azolla" class="btn-get-started">Read More</a></div>
+                              </div>
+                            </div>
+                          </div>
+        
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon icofont-simple-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+        <span class="carousel-control-next-icon icofont-simple-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+
+      
+
+    </div>
+      </section>
+     
+    </dic>
+  </div>
+
+
+<section>
+  <div class="container" data-aos="zoom-in">
+    <div class="row">
+      <div class="col-md-4" style="background-color: white; padding-bottom: 10px; padding-top:10px; opacity: 0.8;" data-aos="zoom-in">
+        <div class="section-title">
+          <h5><i class="icofont-ui-calendar"></i> Agenda Kegiatan</h5>
+        </div>
+        <div class="kegiatan">
+          <table class="table">
+                                                  
+                              <tr>
+                                <td rowspan="2">
+                                    <div class="calendar-small">
+                                      <span class="s-month">Okt 2020</span>
+                                      <span class="s-date">09</span>
+                                    </div>
+                                 </td>
+                                <td><a href="agenda/detail/symposium-on-social-science-soss-2020">Symposium on Social Science (SOSS) 2020</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-location-pin"></i> Zoom Virtual Conference</td>
+                              </tr>          </table>
+        </div>
+      </div>
+      <div class="col-md-4" style="background-color: white; padding-bottom: 10px; padding-top:10px; opacity: 0.8;" data-aos="zoom-in">
+        <div class="section-title">
+          <h5><i class="icofont-teacher"></i> Kegiatan Dosen</h5>
+          <div class="kegiatan">
+          <table class="table">
+                                          
+                              <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/Keunggulan_pupuk_organik.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/keunggulan-pupuk-organik">Keunggulan Pupuk Organik</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 13 Des 2020 <i class="icofont-eye"></i> 18 View</td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/RG.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/pupuk-organik-diperkaya-mikrobia-untuk-meningkatkan-kualitas-tanah">Pupuk Organik Diperkaya Mikrobia untuk Meningkatkan Kualitas Tanah</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 01 Des 2020 <i class="icofont-eye"></i> 80 View</td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/mulai_pertanian_organik.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/hayo-mulai-pertanian-organik">Hayo Mulai Pertanian Organik</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 28 Nov 2020 <i class="icofont-eye"></i> 25 View</td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/perlunya_pertanian_organik.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/perlunya-pertanian-organik">Perlunya Pertanian Organik</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 14 Nov 2020 <i class="icofont-eye"></i> 43 View</td>
+                              </tr>                              
+                              <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/halaman_muka.JPG"/></td>
+                                <td><a href="berita/detail_pengumuman/pengembangan-pertanian-organik-melalui-budidaya-azolla">Pengembangan Pertanian Organik melalui Budidaya Azolla</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 22 Okt 2020 <i class="icofont-eye"></i> 90 View</td>
+                              </tr>          </table>
+              <div>
+                <a href="https://ilmutanah.fp.uns.ac.id/berita/kategori/kegiatan-dosen" class="btn btn-warning">Selengkapnya...</a>
+              </div>
+        </div>
+        </div>        
+      </div>
+      <div class="col-md-4" style="background-color: white; padding-bottom: 10px; padding-top:10px; opacity: 0.8;" data-aos="zoom-in">
+        <div class="section-title">
+          <h5><i class="icofont-group-students"></i> Kegiatan Mahasiswa</h5>
+          <div class="kegiatan">
+          <table class="table">
+             <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/mawapres.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/mawapres-uns-lolos-ke-final-pilmapres-nasional">Mawapres UNS Lolos ke Final Pilmapres Nasional</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 27 Agu 2020 <i class="icofont-eye"></i> 44 View</td>
+                              </tr> <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/hipwee-10628491_1010320375647567_1461780306696527738_n-750x422.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/7-icon-fakultas-pertanian-uns-yang-akan-kamu-kangeni-ketika-menjadi-alumni">7 Icon Fakultas Pertanian UNS yang Akan Kamu Kangeni Ketika Menjadi Alumni</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 27 Agu 2020 <i class="icofont-eye"></i> 47 View</td>
+                              </tr> <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/danau-universitas-sebelas-maret-uns-solo-_190309153933-246.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/danau-fakultas-pertanian-uns">Danau Fakultas Pertanian UNS</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 28 Agu 2020 <i class="icofont-eye"></i> 49 View</td>
+                              </tr> <tr>
+                                <td rowspan="2"><img style="width:80px;" src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/IMG-20150314-WA0025.jpg"/></td>
+                                <td><a href="berita/detail_pengumuman/reuni-akbar-faperta-uns">Reuni Akbar Faperta UNS</a></td>
+                              </tr>
+                              <tr>
+                                <td><i class="icofont-ui-calendar"></i> 28 Agu 2020 <i class="icofont-eye"></i> 44 View</td>
+                              </tr>          </table>
+          <div>
+                <a href="https://ilmutanah.fp.uns.ac.id/berita/kategori/kegiatan-mahasiswa" class="btn btn-warning">Selengkapnya...</a>
+              </div>
+        </div>
+        </div> 
+        </div>  
+      </div>
+    </div>
+  </div>
+</section>  
+
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="zoom-in">
+        <div class="row">            
+            <div class="col-md-8" style="padding-top: 20px">
+                      <center><div class="section-title" data-aos="zoom-in">               
+                      <h5><i class="icofont-video-alt"></i> Profile Prodi Ilmu Tanah</h5> <hr>
+                      </div> </center>
+                      <div class="justify-content-center" data-aos="zoom-in">
+                       <iframe src="https://www.youtube.com/embed/NmtWbN6pLtc?controls=1&mute=1&showinfo=0&rel=0&autoplay=1&loop=1" width="100%" height="450px"  frameborder="0" allowfullscreen></iframe>
+                      </div>
+            </div>
+            <div class="col-md-4" style="padding-top: 20px">
+                <center><div class="section-title" data-aos="fade-up">               
+                      <h5><i class="icofont-hat"></i> Info Beasiswa</h5>
+                      </div>
+                </center>
+                <div class="kegiatan" data-aos="zoom-in">
+                  <table class="table">
+                                                  
+                                      <tr>
+                                        <td><a href="berita/detail_pengumuman/research-fellowship-pantau-gambut">Research Fellowship Pantau Gambut</a></td>
+                                      </tr>                  </table>
+                      <div>
+                        <a href="https://ilmutanah.fp.uns.ac.id/berita/kategori/beasiswa" class="btn btn-warning">Selengkapnya...</a>
+                      </div><hr>
+                </div>
+                <center><div class="section-title" data-aos="fade-up" style="margin-top: 12px;">               
+                      <h5><i class="icofont-briefcase"></i> Lowongan Kerja</h5>
+                      </div>
+                </center>
+                <div class="kegiatan" data-aos="zoom-in">
+                  <table class="table">
+                                                  
+                                        <tr>
+                                          <td><a href="lowongan/detail/pt-musa-nusa-mandiri">PT Musa Nusa Mandiri</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="lowongan/detail/pt-jasa-marga-persero">PT Jasa Marga Persero</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="lowongan/detail/pt-indonesia-power">PT Indonesia Power</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="lowongan/detail/pt-melawai-group">PT Melawai Group</a></td>
+                                        </tr>                              
+                                        <tr>
+                                          <td><a href="lowongan/detail/pt-asuransi-umum-bca">PT Asuransi Umum BCA</a></td>
+                                        </tr>                  </table>
+                      <div>
+                        <a href="https://ilmutanah.fp.uns.ac.id/lowongan" class="btn btn-warning">Selengkapnya...</a>
+                      </div>
+                </div>
+
+            </div>
+            </div>
+                      
+        </div>
+      </div>
+    </section>
+
+
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+        <div class="section-title">
+          <h5><i class="icofont-news"></i> Berita Terbaru</strong></h5>
+        </div>
+        <div class="row" style="padding-top: 10px;">
+            <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pupuk-organik-diperkaya-mikrobia-untuk-meningkatkan-kualitas-tanah">Pupuk Organik Diperkaya Mikrobia untuk Meningkatkan Kualitas Tanah</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Selasa, 01 Des 2020 <i class="icofont-eye"></i>80 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/RG.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p>&nbsp;</p>
+
+<address><span style="font-size:12px"><strong>Tim Pengabdi:</strong> </span><span style="font-size:12px">Dr. Mujiyo, SP.,MP; Prof. Dr. Ir. Suntoro, MS; Dr. Ir. Jauhari Syamsiyah, MS; </p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pupuk-organik-diperkaya-mikrobia-untuk-meningkatkan-kualitas-tanah" class="btn btn-warning">Selengkapnya..</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pengembangan-agroforestri-pada-lahan-kering-sekitar-hutan-sebagai-rintisan-alasombo-kab-sukoharjo-me">Pengembangan Agroforestri Pada Lahan Kering Sekitar Hutan Sebagai Rintisan Alasombo, Kab. Sukoharjo, Menjadi Sentra Porang Amorphophallus muelleri Blume</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Selasa, 10 Nov 2020 <i class="icofont-eye"></i>47 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/WhatsApp_Image_2020-11-10_at_9_54_40_PM.jpeg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p><span style="font-family:Tahoma,Geneva,sans-serif"><span style="font-size:12px">Tim Pengabdi: Dr. Ir. Widyatmani Sih Dewi, M.P. ; Prof. Dr. Agr. Sc. Ir. Vita Ratri Cahyani, M.P. ; Dr. Mujiyo, SP., </p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pengembangan-agroforestri-pada-lahan-kering-sekitar-hutan-sebagai-rintisan-alasombo-kab-sukoharjo-me" class="btn btn-warning">Selengkapnya..</a></div>
+                            </div>
+                          </div> <div class="col-lg-4 col-md-6" data-aos="zoom-in" data-aos-delay="100">
+                            <div class="icon-box">
+                              <h4><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pelatihan-budidaya-lebah-madu-klanceng-bersama-masyarakat-di-sekitar-khdtk-gunung-bromo-karanganyar">Pelatihan Budidaya Lebah Madu Klanceng Bersama Masyarakat di sekitar KHDTK Gunung Bromo, Karanganyar</a></h4>
+                              <div class="date"><i class="icofont-wall-clock"></i> Jumat, 06 Nov 2020 <i class="icofont-eye"></i>111 View</div>
+                              <hr>
+                              <div>
+                                <img src="https://ilmutanah.fp.uns.ac.id/asset/foto_berita/KHDTK.jpg" class="img-thumbnail">
+                              </div>
+                              
+                              <p> <p style="text-align:justify"><span style="font-size:12.0pt">Kawasan Hutan dengan Tujuan Khusus (KHDTK) Gunung Bromo merupakan kawasan hutan yang saat ini berada di bawah pengelolaan UPT Pusdiklathut </p>
+                              <br>
+                              <div class="text-center"><a href="https://ilmutanah.fp.uns.ac.id/berita/detail/pelatihan-budidaya-lebah-madu-klanceng-bersama-masyarakat-di-sekitar-khdtk-gunung-bromo-karanganyar" class="btn btn-warning">Selengkapnya..</a></div>
+                            </div>
+                          </div>         
+        </div>    </section><!-- End Services Section -->
+
+
+    
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <a href="https://fp.uns.ac.id/"><img src="https://ilmutanah.fp.uns.ac.id/asset/prodi/img/gold.png" style="width: 40%; padding-bottom: 10px"></a>
+            <h5 style="color: white">Program Studi<br>  Ilmu Tanah UNS </h5>
+            <p>Fakultas Pertanian Gedung A Lt. 1<br>
+              Jalan Ir. Sutami 36 Kentingan <br>
+              Jebres, Surakarta 57126<br><br>
+              <strong>Phone:</strong> 0271 - 632477, 637457 Ext. 124<br>
+              <strong>Fax: </strong>0271-632477<br>
+              <strong>Email:</strong> ilmutanahuns@yahoo.com<br>
+            </p>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Tautan</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://uns.ac.id/" target="_blank">Universitas Sebelas Maret</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://fp.uns.ac.id/" target="_blank">Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/" target="_blank">Jurnal UNS</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.fp.uns.ac.id/ilmupangan" target="_blank">Jurnal Fakultas Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://jurnal.uns.ac.id/ilmupangan" target="_blank">Jurnal Teknologi Hasil Pertanian</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#" target="_blank">Kalender Akademik</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4></h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#" target="_blank">Unit Magang Fakultas</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://siakad-old.uns.ac.id" target="_blank">Siakad (Old)</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://spada.uns.ac.id" target="_blank">SPADA</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Visitor</h4>
+		<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+		<!-- Histats.com  START  (aync)-->
+		<script type="text/javascript">var _Hasync= _Hasync|| [];
+		_Hasync.push(['Histats.start', '1,4470466,4,3026,130,80,00011010']);
+		_Hasync.push(['Histats.fasi', '1']);
+		_Hasync.push(['Histats.track_hits', '']);
+		(function() {
+		var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+		hs.src = ('//s10.histats.com/js15_as.js');
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+		})();</script>
+		<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4470466&101" alt="" border="0"></a></noscript>
+		<!-- Histats.com  END  -->
+            
+            
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="copyright">
+          &copy; Copyright <strong><span>Fakultas Pertanian UNS 2020</span></strong>. All Rights Reserved
+        </div>
+        <div class="credits">
+          <!-- All the links in the footer should remain intact. -->
+          <!-- You can delete the links only if you purchased the pro version. -->
+          <!-- Licensing information: https://bootstrapmade.com/license/ -->
+          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/company-free-html-bootstrap-template/ -->
+          <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
+        </div>
+      </div>
+      <div class="social-links text-center text-md-right pt-3 pt-md-0">
+        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/jquery/jquery.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/php-email-form/validate.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/jquery-sticky/jquery.sticky.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/venobox/venobox.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="https://ilmutanah.fp.uns.ac.id/asset/prodi/js/main.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+
+</body>
+
+</html>

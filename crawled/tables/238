@@ -1,0 +1,1288 @@
+<table style="height: 6223px;" width="667">
+<tbody>
+<tr>
+<td style="width: 64px;">No</td>
+<td style="width: 225px;">Nama</td>
+<td style="width: 135px;">Jenis kelamin</td>
+<td style="width: 215px;">Jurusan</td>
+</tr>
+<tr>
+<td style="width: 64px;">1</td>
+<td style="width: 225px;">Achmad Irwanto</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">2</td>
+<td style="width: 225px;">Adinda Elly Isnaini</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">3</td>
+<td style="width: 225px;">Aknaf Sam Dabit</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">4</td>
+<td style="width: 225px;">Al Ariq Surya S</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">5</td>
+<td style="width: 225px;">Alfian Muhammad Rosyid Ridho</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Sipil</td>
+</tr>
+<tr>
+<td style="width: 64px;">6</td>
+<td style="width: 225px;">Alham Yonestya Rahendra</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Manajemen</td>
+</tr>
+<tr>
+<td style="width: 64px;">7</td>
+<td style="width: 225px;">Alifia Nur Maftukhah Yuliana</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Bahasa Indonesia</td>
+</tr>
+<tr>
+<td style="width: 64px;">8</td>
+<td style="width: 225px;">ANA CHARISUN</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Sastra Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">9</td>
+<td style="width: 225px;">Anastasia Palupi Wijayanti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S1-KIMIA</td>
+</tr>
+<tr>
+<td style="width: 64px;">10</td>
+<td style="width: 225px;">Andika Putri Ratnasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Statistika</td>
+</tr>
+<tr>
+<td style="width: 64px;">11</td>
+<td style="width: 225px;">Anggi Angelica</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">12</td>
+<td style="width: 225px;">Anisa Diah Uswatun Hasanah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">13</td>
+<td style="width: 225px;">Anisa Pratiwi Kusuma Wardani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">14</td>
+<td style="width: 225px;">Anisa Rahmadita</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">15</td>
+<td style="width: 225px;">ANITA RIZMI SARI</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Dan Teknologi Pangan</td>
+</tr>
+<tr>
+<td style="width: 64px;">16</td>
+<td style="width: 225px;">Anjelika Margareta</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">17</td>
+<td style="width: 225px;">Annisa Rani Nastiti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknologi Industri Pertanian</td>
+</tr>
+<tr>
+<td style="width: 64px;">18</td>
+<td style="width: 225px;">Arifah Roselina Iraw</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendididkan Sosiologi - Antropologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">19</td>
+<td style="width: 225px;">Arin Munirotul Umah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Sastra Daerah</td>
+</tr>
+<tr>
+<td style="width: 64px;">20</td>
+<td style="width: 225px;">Ariya Sahara Pardede</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">21</td>
+<td style="width: 225px;">Arum Yuliazari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Bahasa Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">22</td>
+<td style="width: 225px;">Astrika Puspita Rani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">23</td>
+<td style="width: 225px;">Athaya Cantia Putri</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Elektro</td>
+</tr>
+<tr>
+<td style="width: 64px;">24</td>
+<td style="width: 225px;">Atik Surya Ningsih</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Sosiologi Antropologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">25</td>
+<td style="width: 225px;">Atika Novitasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Fisika</td>
+</tr>
+<tr>
+<td style="width: 64px;">26</td>
+<td style="width: 225px;">Avin Rodli Hidayat</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">27</td>
+<td style="width: 225px;">Ayu Windriasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">28</td>
+<td style="width: 225px;">Azzam Mustaqim Rahmatullah</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Sastra Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">29</td>
+<td style="width: 225px;">Bagas Chairum Marcel</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Sipil</td>
+</tr>
+<tr>
+<td style="width: 64px;">30</td>
+<td style="width: 225px;">Bagus Sulistyo</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin Otomotif</td>
+</tr>
+<tr>
+<td style="width: 64px;">31</td>
+<td style="width: 225px;">Baharudin Indra Purnama</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin Otomotif</td>
+</tr>
+<tr>
+<td style="width: 64px;">32</td>
+<td style="width: 225px;">Budi Priyanto Romelan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">33</td>
+<td style="width: 225px;">Chausar Yahya Ramadhanto</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Ekonomi Pembangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">34</td>
+<td style="width: 225px;">Cyntia Nathania</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">35</td>
+<td style="width: 225px;">Dani Dwi Susanti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Bahasa Indonesia</td>
+</tr>
+<tr>
+<td style="width: 64px;">36</td>
+<td style="width: 225px;">Davin Ridho Kurniawan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">37</td>
+<td style="width: 225px;">Deborah Basa</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-2 Biosains</td>
+</tr>
+<tr>
+<td style="width: 64px;">38</td>
+<td style="width: 225px;">Decita</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">39</td>
+<td style="width: 225px;">Denisatya Wiratama</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">40</td>
+<td style="width: 225px;">Desi Indah Sari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">41</td>
+<td style="width: 225px;">Desi Riyantika</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Bahasa Indonesia</td>
+</tr>
+<tr>
+<td style="width: 64px;">42</td>
+<td style="width: 225px;">Dewi Indah Friskawati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">43</td>
+<td style="width: 225px;">Dewi Retnowati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Administrasi Bisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">44</td>
+<td style="width: 225px;">Dhymas Triyah Sanjaya&nbsp;</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Listrik/Elektro</td>
+</tr>
+<tr>
+<td style="width: 64px;">45</td>
+<td style="width: 225px;">Diah Putri Pamungkas</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Komunikasi Terapan Penyiaran</td>
+</tr>
+<tr>
+<td style="width: 64px;">46</td>
+<td style="width: 225px;">Dian Anggun Wirastiti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agroteknologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">47</td>
+<td style="width: 225px;">Dian Ayu Andriani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ekonomi Pembangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">48</td>
+<td style="width: 225px;">Dinda Nisa El Salwa</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">49</td>
+<td style="width: 225px;">Dita Yulia Larasati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Seni Rupa</td>
+</tr>
+<tr>
+<td style="width: 64px;">50</td>
+<td style="width: 225px;">Diva Uswatus Sulkha</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Psikologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">51</td>
+<td style="width: 225px;">Dwi Aprilia Wati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendididkan Sosiologi - Antropologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">52</td>
+<td style="width: 225px;">Dwi Indra Abdullah Alim</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">53</td>
+<td style="width: 225px;">Dwi Putri Jeng Ivo N</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">54</td>
+<td style="width: 225px;">Dyah Auliya Agustina</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Statistik</td>
+</tr>
+<tr>
+<td style="width: 64px;">55</td>
+<td style="width: 225px;">Ellysa Amelia Putri</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">56</td>
+<td style="width: 225px;">Endah Fitria Maulana</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Administrasi Negara</td>
+</tr>
+<tr>
+<td style="width: 64px;">57</td>
+<td style="width: 225px;">Endar Ramadhani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Sastra Arab</td>
+</tr>
+<tr>
+<td style="width: 64px;">58</td>
+<td style="width: 225px;">Era Waldini</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">59</td>
+<td style="width: 225px;">Erika Novia Wardani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Bahasa Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">60</td>
+<td style="width: 225px;">Erinda Larasati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendididkan Sosiologi - Antropologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">61</td>
+<td style="width: 225px;">Esa Pradita</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi Syariah</td>
+</tr>
+<tr>
+<td style="width: 64px;">62</td>
+<td style="width: 225px;">Evrida Yuga Pradistya</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">63</td>
+<td style="width: 225px;">Fadhilatul Nida Aryani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Statistik</td>
+</tr>
+<tr>
+<td style="width: 64px;">64</td>
+<td style="width: 225px;">Fadillah Agung Pratiwi</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">65</td>
+<td style="width: 225px;">Fadya Putri Harnintya</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Manajemen Perdagangan</td>
+</tr>
+<tr>
+<td style="width: 64px;">66</td>
+<td style="width: 225px;">Faiza Nur Arofah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Administrasi Negara</td>
+</tr>
+<tr>
+<td style="width: 64px;">67</td>
+<td style="width: 225px;">Fallenda Mahatva D</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Administrasi Negara</td>
+</tr>
+<tr>
+<td style="width: 64px;">68</td>
+<td style="width: 225px;">Farah Aqila Choirunnisa</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Psikologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">69</td>
+<td style="width: 225px;">Fatimah Az-zahroh</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Sastra Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">70</td>
+<td style="width: 225px;">Febrina Ramadhani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Fisika</td>
+</tr>
+<tr>
+<td style="width: 64px;">71</td>
+<td style="width: 225px;">Felya Tri Kusumawati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">72</td>
+<td style="width: 225px;">Fernanda Aufa Fauzan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">73</td>
+<td style="width: 225px;">Fitri Ardyanti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">74</td>
+<td style="width: 225px;">Galih Nur Cahyo</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin Produksi</td>
+</tr>
+<tr>
+<td style="width: 64px;">75</td>
+<td style="width: 225px;">Gati Parameswari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Geografi</td>
+</tr>
+<tr>
+<td style="width: 64px;">76</td>
+<td style="width: 225px;">Ghea Ajrina Fadhila</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ekonomi Pembangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">77</td>
+<td style="width: 225px;">Hadi Nur Basid</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">78</td>
+<td style="width: 225px;">Hafish Tegar Haqiqi</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Sastra Arab</td>
+</tr>
+<tr>
+<td style="width: 64px;">79</td>
+<td style="width: 225px;">Hafizh Hilmy Falahi</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">80</td>
+<td style="width: 225px;">Hafni Amalia Juniarti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Penyuluhan dan Komunikasi Pertanian</td>
+</tr>
+<tr>
+<td style="width: 64px;">81</td>
+<td style="width: 225px;">Haifa Shafa Shofiyya</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agroteknologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">82</td>
+<td style="width: 225px;">Hanifa Nur Rahmawati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Bahasa Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">83</td>
+<td style="width: 225px;">Hilmy nur al magthani</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Teknik Bangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">84</td>
+<td style="width: 225px;">Icha Bella Noviana</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">85</td>
+<td style="width: 225px;">Icha Meinanda Putri</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ekonomi Pembangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">86</td>
+<td style="width: 225px;">Ifan Primadiyono</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S1 Agroteknologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">87</td>
+<td style="width: 225px;">Ignatius Banu Haryo Pamungkas</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Sipil</td>
+</tr>
+<tr>
+<td style="width: 64px;">88</td>
+<td style="width: 225px;">Ilham Mustofa Pradana</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">89</td>
+<td style="width: 225px;">Ilham Nur Fadlil</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">90</td>
+<td style="width: 225px;">Ima Yunita Indriyanti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">91</td>
+<td style="width: 225px;">Imam Nur Rokhim</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">92</td>
+<td style="width: 225px;">Indira Kusuma Wardani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">93</td>
+<td style="width: 225px;">Indri Noviani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">94</td>
+<td style="width: 225px;">Ineke Bela Ramdani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Sipil</td>
+</tr>
+<tr>
+<td style="width: 64px;">95</td>
+<td style="width: 225px;">Irfan Dwi Prasetyo</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">96</td>
+<td style="width: 225px;">Irfan Septiyanto</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Sipil Bangunan Gedung</td>
+</tr>
+<tr>
+<td style="width: 64px;">97</td>
+<td style="width: 225px;">Is Miranda Dwi Prajatino</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Penyuluhan dan Komunikasi Pertanian</td>
+</tr>
+<tr>
+<td style="width: 64px;">98</td>
+<td style="width: 225px;">Ivan Maulana Raharja</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin Otomotif</td>
+</tr>
+<tr>
+<td style="width: 64px;">99</td>
+<td style="width: 225px;">Jauza Insihani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Komunikasi</td>
+</tr>
+<tr>
+<td style="width: 64px;">100</td>
+<td style="width: 225px;">Jesslyn Valentina</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Dokter</td>
+</tr>
+<tr>
+<td style="width: 64px;">101</td>
+<td style="width: 225px;">Jihan Khairrunnisa`</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">102</td>
+<td style="width: 225px;">Karisma Muthia Anindia Malini</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Geologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">103</td>
+<td style="width: 225px;">Kevin Ikhwan M</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">104</td>
+<td style="width: 225px;">Khoerunnisak</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Komunikasi</td>
+</tr>
+<tr>
+<td style="width: 64px;">105</td>
+<td style="width: 225px;">Laili Khumairotusyifa</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Penyuluhan dan Komunikasi Pertanian</td>
+</tr>
+<tr>
+<td style="width: 64px;">106</td>
+<td style="width: 225px;">Leni Irawati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">107</td>
+<td style="width: 225px;">Lingga Wijayanto N A</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Ilmu Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">108</td>
+<td style="width: 225px;">Luluk Hanifah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Teknik Bangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">109</td>
+<td style="width: 225px;">Luthfi Hildhasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">110</td>
+<td style="width: 225px;">Lyanita Purnamasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">111</td>
+<td style="width: 225px;">Marfuah Puspitasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Sejarah</td>
+</tr>
+<tr>
+<td style="width: 64px;">112</td>
+<td style="width: 225px;">Mas&amp;#039;ud Nur Hanif</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">113</td>
+<td style="width: 225px;">Mega Arief Wichaksono</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Administrasi Perkantoran</td>
+</tr>
+<tr>
+<td style="width: 64px;">114</td>
+<td style="width: 225px;">Meila Hirapasti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">115</td>
+<td style="width: 225px;">Miske Harissa</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Manajemen</td>
+</tr>
+<tr>
+<td style="width: 64px;">116</td>
+<td style="width: 225px;">Moch Adhitya Megantara</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Ekonomi Pembangunan</td>
+</tr>
+<tr>
+<td style="width: 64px;">117</td>
+<td style="width: 225px;">Mohammed Noor</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum Pidana Islam</td>
+</tr>
+<tr>
+<td style="width: 64px;">118</td>
+<td style="width: 225px;">Muhamad Wahid Kurnia Permana</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">119</td>
+<td style="width: 225px;">Muhammad Abdul Rozzak</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">120</td>
+<td style="width: 225px;">Muhammad Alfriansyah</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">121</td>
+<td style="width: 225px;">Muhammad Hardifan A</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Perencanaan Wilayah dan Kota</td>
+</tr>
+<tr>
+<td style="width: 64px;">122</td>
+<td style="width: 225px;">Muhammad Hasbi Badarudin</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Elektronika</td>
+</tr>
+<tr>
+<td style="width: 64px;">123</td>
+<td style="width: 225px;">Muhammad Irvan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">124</td>
+<td style="width: 225px;">Muhammad Irvan Mahendra</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">125</td>
+<td style="width: 225px;">Muhammad Kurnia Akbari</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">126</td>
+<td style="width: 225px;">Muhammad Yusuf Fadhil Hidayatullah</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">127</td>
+<td style="width: 225px;">Mukhlas Ahsan&nbsp;</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Komunikasi</td>
+</tr>
+<tr>
+<td style="width: 64px;">128</td>
+<td style="width: 225px;">Mukmin Alim Hakim</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">129</td>
+<td style="width: 225px;">Muktar Bona Riansyah Hrp</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Manajemen</td>
+</tr>
+<tr>
+<td style="width: 64px;">130</td>
+<td style="width: 225px;">Mutik Permatasari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Penyuluhan dan Komunikasi Pertanian</td>
+</tr>
+<tr>
+<td style="width: 64px;">131</td>
+<td style="width: 225px;">Nahdliyati Khoiriyah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Manajemen</td>
+</tr>
+<tr>
+<td style="width: 64px;">132</td>
+<td style="width: 225px;">Nawang Putri Salsabila</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">133</td>
+<td style="width: 225px;">Nazila Qonieta Rahmawati Al Hilmi</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">134</td>
+<td style="width: 225px;">Nellia Adya Divani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Komunikasi</td>
+</tr>
+<tr>
+<td style="width: 64px;">135</td>
+<td style="width: 225px;">Ni Made Dwi Sylvia S</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">136</td>
+<td style="width: 225px;">Nida Iftina Majida</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">137</td>
+<td style="width: 225px;">Niken Fadhila</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">138</td>
+<td style="width: 225px;">Niko Patty</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">139</td>
+<td style="width: 225px;">NISA NUR ISWARI</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">140</td>
+<td style="width: 225px;">Nor Isnaeni Dwi Arista</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agroteknologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">141</td>
+<td style="width: 225px;">Nova Damayanti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">142</td>
+<td style="width: 225px;">NOVA KUSUMA DENADA</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Periklanan</td>
+</tr>
+<tr>
+<td style="width: 64px;">143</td>
+<td style="width: 225px;">Novia Nafisah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Statistika</td>
+</tr>
+<tr>
+<td style="width: 64px;">144</td>
+<td style="width: 225px;">Novian Indah Fajriani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">145</td>
+<td style="width: 225px;">Novita Nasraini Sihombing</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">146</td>
+<td style="width: 225px;">Nur Hayati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">(belum diset)</td>
+</tr>
+<tr>
+<td style="width: 64px;">147</td>
+<td style="width: 225px;">Nur Muhammad Zam Zam</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">148</td>
+<td style="width: 225px;">Nur Sumiyono Sa`adi</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">Ilmu Hukum&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 64px;">149</td>
+<td style="width: 225px;">Nurmalya Ayu Dyani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendididkan Sosiologi - Antropologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">150</td>
+<td style="width: 225px;">Nurudin Mahmud Zinki</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">151</td>
+<td style="width: 225px;">Octia Lestari</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">152</td>
+<td style="width: 225px;">Pricellia Griselda P</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">153</td>
+<td style="width: 225px;">Puji Wahyuningsih</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Bahasa Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">154</td>
+<td style="width: 225px;">Putri Muttaalliyah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">155</td>
+<td style="width: 225px;">Raditya Dwi Ksatria</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">156</td>
+<td style="width: 225px;">Rashda Bintang M</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">157</td>
+<td style="width: 225px;">Reidwika Qonitinsyah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">158</td>
+<td style="width: 225px;">Renadila Adityas Kusumastuti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Administrasi Negara</td>
+</tr>
+<tr>
+<td style="width: 64px;">159</td>
+<td style="width: 225px;">RETNO DWI NURPITASARI, S.H.</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">160</td>
+<td style="width: 225px;">Riandy Putra</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-2 Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">161</td>
+<td style="width: 225px;">Richo Thomas Arnando</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">162</td>
+<td style="width: 225px;">Rina Prabawati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Bahasa Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">163</td>
+<td style="width: 225px;">Rindhi Afriani</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Fisika</td>
+</tr>
+<tr>
+<td style="width: 64px;">164</td>
+<td style="width: 225px;">Riswantoro Ikhwan H</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Teknik Mesin</td>
+</tr>
+<tr>
+<td style="width: 64px;">165</td>
+<td style="width: 225px;">Ritcia Antonni</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Sastra Arab</td>
+</tr>
+<tr>
+<td style="width: 64px;">166</td>
+<td style="width: 225px;">Rizal Adhetya Kurniawan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Ekonomi Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">167</td>
+<td style="width: 225px;">Rizal Rakasiwi</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Ilmu Administrasi Negara</td>
+</tr>
+<tr>
+<td style="width: 64px;">168</td>
+<td style="width: 225px;">RIZKY FATHURACHMAN</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">169</td>
+<td style="width: 225px;">Ronald Wisnu Anggoro</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">170</td>
+<td style="width: 225px;">Rozaq Istimror</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum Ekonomi Syariah (Muamalah)</td>
+</tr>
+<tr>
+<td style="width: 64px;">171</td>
+<td style="width: 225px;">Rut Kris Natalia</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Sastra Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">172</td>
+<td style="width: 225px;">Sabila Almas Andina</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Perencanaan Wilayah dan Kota</td>
+</tr>
+<tr>
+<td style="width: 64px;">173</td>
+<td style="width: 225px;">Safero Fajar Saputra</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">174</td>
+<td style="width: 225px;">Sahid Rais Pratama</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-4 Demografi dan Pencatatan Sipil</td>
+</tr>
+<tr>
+<td style="width: 64px;">175</td>
+<td style="width: 225px;">Sambung Wandha Wayah Olaska</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">176</td>
+<td style="width: 225px;">Sandy Firman Syah</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Komputer</td>
+</tr>
+<tr>
+<td style="width: 64px;">177</td>
+<td style="width: 225px;">SANTI DUWI NURYANI</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Akuntansi</td>
+</tr>
+<tr>
+<td style="width: 64px;">178</td>
+<td style="width: 225px;">Sarah Oktaviandita</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">179</td>
+<td style="width: 225px;">Sari Nur Rohmah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Bahasa Indonesia</td>
+</tr>
+<tr>
+<td style="width: 64px;">180</td>
+<td style="width: 225px;">Sarita Bella Paska</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Sastra Inggris</td>
+</tr>
+<tr>
+<td style="width: 64px;">181</td>
+<td style="width: 225px;">Sella Fernanda</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">182</td>
+<td style="width: 225px;">Setya Adi Rahmawan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Statistika</td>
+</tr>
+<tr>
+<td style="width: 64px;">183</td>
+<td style="width: 225px;">Shavira Rahayu Kusumaningrum</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Manajemen Administrasi</td>
+</tr>
+<tr>
+<td style="width: 64px;">184</td>
+<td style="width: 225px;">Shella Latifa Alami</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">185</td>
+<td style="width: 225px;">Siti Fatimah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agroteknologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">186</td>
+<td style="width: 225px;">Sofi Desi Susanti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">187</td>
+<td style="width: 225px;">Sulaiman Abdullah Rasyid</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Keuangan Publik</td>
+</tr>
+<tr>
+<td style="width: 64px;">188</td>
+<td style="width: 225px;">Syahrul Mursid</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Ilmu Lingkungan</td>
+</tr>
+<tr>
+<td style="width: 64px;">189</td>
+<td style="width: 225px;">Syarif Amin Al Habib</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Biologi</td>
+</tr>
+<tr>
+<td style="width: 64px;">190</td>
+<td style="width: 225px;">Tiara Gustiani Ajeng Sutadji</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Penyiaran</td>
+</tr>
+<tr>
+<td style="width: 64px;">191</td>
+<td style="width: 225px;">Tri Sujatmiko</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Penyuluhan dan Komunikasi Pertanian</td>
+</tr>
+<tr>
+<td style="width: 64px;">192</td>
+<td style="width: 225px;">Tri Yuliana</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Seni Rupa Murni</td>
+</tr>
+<tr>
+<td style="width: 64px;">193</td>
+<td style="width: 225px;">Ubaid Khoiri</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin Otomotif</td>
+</tr>
+<tr>
+<td style="width: 64px;">194</td>
+<td style="width: 225px;">Ulfah Faizul Himayati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Sejarah</td>
+</tr>
+<tr>
+<td style="width: 64px;">195</td>
+<td style="width: 225px;">Ulfiani Mabruroh</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Pendidikan Sejarah</td>
+</tr>
+<tr>
+<td style="width: 64px;">196</td>
+<td style="width: 225px;">Umy Marfuah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">197</td>
+<td style="width: 225px;">Wahid Budi Indiarto</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Mesin Produksi</td>
+</tr>
+<tr>
+<td style="width: 64px;">198</td>
+<td style="width: 225px;">Wahyu Ani Maulidiyah</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">199</td>
+<td style="width: 225px;">Wahyu Kristiyanto</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">200</td>
+<td style="width: 225px;">Wahyu Puji Pamungkas</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Kimia</td>
+</tr>
+<tr>
+<td style="width: 64px;">201</td>
+<td style="width: 225px;">Walida&amp;#039;in Iga P</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">202</td>
+<td style="width: 225px;">Winda Febriana Ardy</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Sejarah</td>
+</tr>
+<tr>
+<td style="width: 64px;">203</td>
+<td style="width: 225px;">Winda Septi Mutiara Dewi</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Statistik</td>
+</tr>
+<tr>
+<td style="width: 64px;">204</td>
+<td style="width: 225px;">Wulan Agustina</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Manajemen Pemasaran</td>
+</tr>
+<tr>
+<td style="width: 64px;">205</td>
+<td style="width: 225px;">YOGA RAHMAD FEBRIAN SETIYAWAN</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">D-2 Teknik Informatika K. Kab. Madiun</td>
+</tr>
+<tr>
+<td style="width: 64px;">206</td>
+<td style="width: 225px;">Yohana Dwi Wahyu Nugraheni</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Hukum</td>
+</tr>
+<tr>
+<td style="width: 64px;">207</td>
+<td style="width: 225px;">Yulisa Nimas Ayu T</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+<tr>
+<td style="width: 64px;">208</td>
+<td style="width: 225px;">Yuniati</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Agribisnis</td>
+</tr>
+<tr>
+<td style="width: 64px;">209</td>
+<td style="width: 225px;">Yusuf Cahyo Saputro</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Bahasa Indonesia</td>
+</tr>
+<tr>
+<td style="width: 64px;">210</td>
+<td style="width: 225px;">Yusuf Hermawan</td>
+<td style="width: 135px;">Laki-laki</td>
+<td style="width: 215px;">S-1 Pendidikan Matematika</td>
+</tr>
+<tr>
+<td style="width: 64px;">211</td>
+<td style="width: 225px;">Zenita Mulya Astuti</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Ilmu Dan Teknologi Pangan</td>
+</tr>
+<tr>
+<td style="width: 64px;">212</td>
+<td style="width: 225px;">Zhustika Mona Tungga</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">S-1 Teknik Industri</td>
+</tr>
+<tr>
+<td style="width: 64px;">213</td>
+<td style="width: 225px;">Zulinda EM Rahmatika</td>
+<td style="width: 135px;">Perempuan</td>
+<td style="width: 215px;">D-3 Teknik Informatika</td>
+</tr>
+</tbody>
+</table></br>

@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="en" xml:lang="en">
+<head>
+    <title>Kuliah Daring UNS</title>
+    <link rel="shortcut icon" href="https://spada.uns.ac.id/theme/image.php/academi/theme/1598915702/favicon" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Kuliah Daring UNS" />
+<link rel="stylesheet" type="text/css" href="https://spada.uns.ac.id/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://spada.uns.ac.id/theme/styles.php/academi/1598915702_1/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/spada.uns.ac.id","sesskey":"mgaJWCHuA0","sessiontimeout":"7200","themerev":"1598915702","slasharguments":1,"theme":"academi","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1598915702","admin":"admin","svgicons":true,"usertimezone":"Asia\/Jakarta","contextid":2,"langrev":1598915702,"templaterev":"1598915702"};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/spada.uns.ac.id\/lib\/yuilib\/3.17.2\/","comboBase":"https:\/\/spada.uns.ac.id\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/spada.uns.ac.id\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/spada.uns.ac.id\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/spada.uns.ac.id\/theme\/yui_combo.php?m\/1598915702\/","combine":true,"comboBase":"https:\/\/spada.uns.ac.id\/theme\/yui_combo.php?","ext":false,"root":"m\/1598915702\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-formchangechecker":{"requires":["base","event-focus","moodle-core-event"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-languninstallconfirm":{"requires":["base","node","moodle-core-notification-confirm","moodle-core-notification-alert"]},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-popuphelp":{"requires":["moodle-core-tooltip"]},"moodle-core-tooltip":{"requires":["base","node","io-base","moodle-core-notification-dialogue","json-parse","widget-position","widget-position-align","event-outside","cache-base"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-backup-confirmcancel":{"requires":["node","node-event-simulate","moodle-core-notification-confirm"]},"moodle-backup-backupselectall":{"requires":["node","event","node-event-simulate","anim"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-formatchooser":{"requires":["base","node","node-event-simulate"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-passwordunmask":{"requires":[]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-preview":{"requires":["base","dom","event-delegate","event-key","core_question_engine"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_attendance-groupfilter":{"requires":["base","node"]},"moodle-mod_bigbluebuttonbn-imports":{"requires":["base","node"]},"moodle-mod_bigbluebuttonbn-broker":{"requires":["base","node","datasource-get","datasource-jsonschema","datasource-polling","moodle-core-notification"]},"moodle-mod_bigbluebuttonbn-modform":{"requires":["base","node"]},"moodle-mod_bigbluebuttonbn-recordings":{"requires":["base","node","datasource-get","datasource-jsonschema","datasource-polling","moodle-core-notification"]},"moodle-mod_bigbluebuttonbn-rooms":{"requires":["base","node","datasource-get","datasource-jsonschema","datasource-polling","moodle-core-notification"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-filter_glossary-autolinker":{"requires":["base","node","io-base","json-parse","event-delegate","overlay","moodle-core-event","moodle-core-notification-alert","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-filter_mathjaxloader-loader":{"requires":["moodle-core-event"]},"moodle-editor_atto-editor":{"requires":["node","transition","io","overlay","escape","event","event-simulate","event-custom","node-event-html5","node-event-simulate","yui-throttle","moodle-core-notification-dialogue","moodle-core-notification-confirm","moodle-editor_atto-rangy","handlebars","timers","querystring-stringify"]},"moodle-editor_atto-plugin":{"requires":["node","base","escape","event","event-outside","handlebars","event-custom","timers","moodle-editor_atto-menu"]},"moodle-editor_atto-menu":{"requires":["moodle-core-notification-dialogue","node","event","event-custom"]},"moodle-editor_atto-rangy":{"requires":[]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_grader-gradereporttable":{"requires":["base","node","event","handlebars","overlay","event-hover"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-tool_capability-search":{"requires":["base","node"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-tool_monitor-dropdown":{"requires":["base","event","node"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-atto_accessibilitychecker-button":{"requires":["color-base","moodle-editor_atto-plugin"]},"moodle-atto_accessibilityhelper-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_align-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_bold-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_charmap-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_clear-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_collapse-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emojipicker-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_emoticon-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_equation-button":{"requires":["moodle-editor_atto-plugin","moodle-core-event","io","event-valuechange","tabview","array-extras"]},"moodle-atto_h5p-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_html-beautify":{},"moodle-atto_html-button":{"requires":["promise","moodle-editor_atto-plugin","moodle-atto_html-beautify","moodle-atto_html-codemirror","event-valuechange"]},"moodle-atto_html-codemirror":{"requires":["moodle-atto_html-codemirror-skin"]},"moodle-atto_image-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_indent-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_italic-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_link-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_managefiles-usedfiles":{"requires":["node","escape"]},"moodle-atto_media-button":{"requires":["moodle-editor_atto-plugin","moodle-form-shortforms"]},"moodle-atto_noautolink-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_orderedlist-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_recordrtc-button":{"requires":["moodle-editor_atto-plugin","moodle-atto_recordrtc-recording"]},"moodle-atto_recordrtc-recording":{"requires":["moodle-atto_recordrtc-button"]},"moodle-atto_rtl-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_strike-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_subscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_superscript-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_table-button":{"requires":["moodle-editor_atto-plugin","moodle-editor_atto-menu","event","event-valuechange"]},"moodle-atto_title-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_underline-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_undo-button":{"requires":["moodle-editor_atto-plugin"]},"moodle-atto_unorderedlist-button":{"requires":["moodle-editor_atto-plugin"]}}},"gallery":{"name":"gallery","base":"https:\/\/spada.uns.ac.id\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/spada.uns.ac.id\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1598915702\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/spada.uns.ac.id\/lib\/javascript.php\/1598915702\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/spada.uns.ac.id\/lib\/javascript.php\/1598915702\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]},"mathjax":{"name":"mathjax","fullpath":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@2.7.8\/MathJax.js?delayStartupUntil=configured"}}};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+<meta name="description" content="Selamat Datang di Sistem Pembelajaran Online UNS
+     
+    
+     
+    
+     
+    
+     
+   
+     
+     
+     
+     
+     
+     
+     
+  
+     
+    
+     
+    
+     
+    
+     
+   
+     
+     
+     
+     
+     
+     
+     
+  
+     
+    
+     
+    
+     
+    
+     
+   
+     
+     
+     
+     
+     
+     sqsq
+     
+  " />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body  id="page-site-index" class="format-site course path-site dir-ltr lang-en yui-skin-sam yui3-skin-sam spada-uns-ac-id pagelayout-frontpage course-1 context-2 notloggedin ">
+
+<div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Skip to main content</a>
+</div><script src="https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/babel-polyfill/polyfill.min.js"></script>
+<script src="https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/polyfills/polyfill.js"></script>
+<script src="https://spada.uns.ac.id/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js"></script><script src="https://spada.uns.ac.id/theme/jquery.php/core/jquery-3.4.1.min.js"></script>
+<script src="https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+<nav  id="header" class="fixed-top navbar navbar-light bg-faded navbar-static-top navbar-expand moodle-has-zindex">
+
+     <div class="container navbar-nav">
+
+
+        <div data-region="drawer-toggle" class="d-inline-block mr-3">
+            <button aria-expanded="false" aria-controls="nav-drawer" type="button" class="btn nav-link float-sm-left mr-1 btn-secondary" data-action="toggle-drawer" data-side="left" data-preference="drawer-open-nav"><i class="icon fa fa-bars fa-fw " aria-hidden="true"  ></i><span class="sr-only">Side panel</span>
+            <span aria-hidden="true"> </span>
+            <span aria-hidden="true"> </span>
+            <span aria-hidden="true"> </span>
+
+            </button>
+
+            <nav class="nav navbar-nav hidden-md-down address-head">
+                    <span><i class="fa fa-phone"></i>Call us : 0271-663485</span>
+                    <span><i class="fa fa-envelope-o"></i>E-mail : <a href="mailto:lppmp@uns.ac.id">lppmp@uns.ac.id</a></span>
+            </nav>
+
+        </div>
+
+
+
+        <ul class="nav navbar-nav ml-auto">
+            <div class="d-none d-lg-block">
+                
+            </div>
+            <!-- navbar_plugin_output -->
+            <li class="nav-item">
+                
+            </li>
+            <!-- user_menu -->
+            <li class="nav-item d-flex align-items-center">
+                <div class="usermenu"><span class="login">You are not logged in. (<a href="https://spada.uns.ac.id/login/index.php">Log in</a>)</span></div>
+            </li>
+        </ul>
+        <!-- search_box -->
+
+
+    </div>
+</nav>
+
+
+<div class="header-main">
+    <div class="container">
+    	<nav class="navbar navbar-light bg-faded">
+            <a href="https://spada.uns.ac.id/?redirect=0" class="navbar-brand has-logo
+                ">
+                <span class="logo">
+                    <img src="//spada.uns.ac.id/pluginfile.php/1/theme_academi/logo/1598915702/logo.png" alt="Spada UNS">
+                </span>
+            </a>
+
+        	<button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"></button>
+
+        	<div class="collapse navbar-toggleable-md" id="navbarResponsive">
+
+                <div class="infoarea ">
+
+                    <!-- custom_menu -->
+                    <li class="dropdown nav-item">
+    <a class="dropdown-toggle nav-link" id="drop-down-5fec18ed613965fec18ed5cdd56" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#"  aria-controls="drop-down-menu-5fec18ed613965fec18ed5cdd56">
+        Jadwal Petugas
+    </a>
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-5fec18ed613965fec18ed5cdd56" aria-labelledby="drop-down-5fec18ed613965fec18ed5cdd56">
+                <a class="dropdown-item" role="menuitem" href="#" >Senin : Ngadimin, M.Kom (HP.081.56789.1976) Jam : 13.00 -15.00 Wib</a>
+                <a class="dropdown-item" role="menuitem" href="#" >Selasa : Sakroni, S.Kom, M.Pd (HP.0812-2745-0456) Jam : 13.00 - 15.00 Wib</a>
+                <a class="dropdown-item" role="menuitem" href="#" >Rabu : Sakroni, S.Kom, M.Pd (HP.0812-2745-0456) Jam : 13.00 - 15.00 Wib</a>
+                <a class="dropdown-item" role="menuitem" href="#" >Kamis : Ngadimin, M.Kom (HP.081.56789.1976) Jam : 13.00 -15.00 Wib</a>
+    </div>
+</li><li class="dropdown nav-item">
+    <a class="dropdown-toggle nav-link" id="drop-down-5fec18ed613ca5fec18ed5cdd57" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#"  aria-controls="drop-down-menu-5fec18ed613ca5fec18ed5cdd57">
+        Download
+    </a>
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-5fec18ed613ca5fec18ed5cdd57" aria-labelledby="drop-down-5fec18ed613ca5fec18ed5cdd57">
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/sk_rektor_spada.pdf  "target=\"_blank" >Sk Rektor tentang Spada</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/format_rps.pdf  "target=\"_blank" >Format RPS</a>
+    </div>
+</li><li class="dropdown nav-item">
+    <a class="dropdown-toggle nav-link" id="drop-down-5fec18ed614105fec18ed5cdd58" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#"  aria-controls="drop-down-menu-5fec18ed614105fec18ed5cdd58">
+        Video Tutorial
+    </a>
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-5fec18ed614105fec18ed5cdd58" aria-labelledby="drop-down-5fec18ed614105fec18ed5cdd58">
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/spada_login  "target=\"_blank" >1. Login Dosen dan Mahasiswa</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/update_profile  "target=\"_blank" >2. Login dan Update Profile</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/membuat_kelas  "target=\"_blank" >3. Membuat Kelas Spada</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/self_enrolment  "target=\"_blank" >4. Self Enrolment Student</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/kelas_paralel  "target=\"_blank" >5. Membuat Kelas Paralel</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/undang_dosen  "target=\"_blank" >6. Mengundang Dosen</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/unggah_rps  "target=\"_blank" >7. Unggah RPS di Spada</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/masuk_kelas   "target=\"_blank" >8. Cara Masuk ke Kelas Spada</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/spada_materi  "target=\"_blank" >9. Cara Memasukkan Materi</a>
+                <a class="dropdown-item" role="menuitem" href="http://gg.gg/spada_activity   "target=\"_blank" >10. Cara Membuat Activity</a>
+    </div>
+</li><li class="dropdown nav-item">
+    <a class="dropdown-toggle nav-link" id="drop-down-5fec18ed6145f5fec18ed5cdd59" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#"  aria-controls="drop-down-menu-5fec18ed6145f5fec18ed5cdd59">
+        Teks Tutorial
+    </a>
+    <div class="dropdown-menu" role="menu" id="drop-down-menu-5fec18ed6145f5fec18ed5cdd59" aria-labelledby="drop-down-5fec18ed6145f5fec18ed5cdd59">
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/modul_spada.pdf  "target=\"_blank" >1. Modul Spada</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/messaging_notification.pdf  "target=\"_blank" >2. Messaging Notification</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/enrolment_satu_kelas.pdf  "target=\"_blank" >3. Enrolment MK 1 Kelas</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/enrolment_beberapa_kelas.pdf  "target=\"_blank" >4. Enrolment MK banyak Kelas</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/hapus_course.pdf  "target=\"_blank" >5. Menghapus Course / MK</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/penugasan.pdf  "target=\"_blank" >6. Membuat Penugasan / Assignment / MK</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/membuat_quiz.pdf  "target=\"_blank" >7. Membuat Quiz</a>
+                <a class="dropdown-item" role="menuitem" href="http://cdnb.uns.ac.id/spada/download/backup_duplicate_course.pdf  "target=\"_blank" >8. Backup dan Duplikasi Course</a>
+    </div>
+</li><li class="nav-item">
+    <a class="nav-item nav-link" href="https://spada.uns.ac.id/mod/forum/view.php?id=14849%20%20%22target%3D%5C%22_blank" >FAQ</a>
+</li>
+                    <!-- page_heading_menu -->
+                    
+                </div>
+
+            </div>
+        </nav>
+    </div>
+    
+</div><!--=========== Slideshow section start here ===========-->
+<div>
+<br/><br/></div>
+<!--=========== Slideshow section start here ===========-->
+<!--Slider-->
+
+<!-- Main Moodle Main Contents -->
+<div id="page" class="container">
+
+    <header id="page-header" class="clearfix">
+        <a title="Home" class="logo" href="https://spada.uns.ac.id"></a>        <div id="page-navbar" class="clearfix">
+            <nav class="breadcrumb-nav"><nav aria-label="Navigation bar">
+    <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a href="https://spada.uns.ac.id/" aria-current="page" >Home</a>
+                </li>
+        </ol>
+</nav></nav>
+            <div class="breadcrumb-button"></div>
+        </div>
+        <div id="course-header">
+                    </div>
+    </header>
+    <div id="page-content" class="row">
+
+    
+    <div id="region-bs-main-and-pre" class="col-md-9">
+        <span class="notifications" id="user-notifications"></span><div role="main"><span id="maincontent"></span><div class="box py-3 generalbox sitetopic"><h2 class="sectionname">COURSES</h2><div class="no-overflow"><marquee style="font-family: arial; font-size:18px; color: #FFFFFF;" bgcolor="#0000FF">"Spada menyapa dosen dan mahasiswa UNS dimanapun dan kapanpun berada..."</marquee>
+  
+
+<br>
+<table style="">
+<caption style="caption-side: top"></caption>
+<thead>
+<tr>
+<th scope="col"><a href="course/index.php?categoryid=54">
+<img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fkip5.jpg" alt="FKIP" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a><br></th>
+<th scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></th>
+<th scope="col"><a href="course/index.php?categoryid=46"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fk5.jpg" alt="fk" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></th>
+<th scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></th>
+<th scope="col"><a href="course/index.php?categoryid=48"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fh5.jpg" alt="fh" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></th>
+<th scope="col">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br></th>
+<th scope="col"><a href="course/index.php?categoryid=47"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fp5.jpg" alt="fp" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></th>
+<th scope="col"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td><br></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="course/index.php?categoryid=28"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fmipa5.jpg" alt="fmipa" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></td>
+<td></td>
+<td><a href="course/index.php?categoryid=49"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fib5.jpg" alt="fib" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a><br></td>
+<td></td>
+<td><a href="course/index.php?categoryid=50"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fsrd5.jpg" alt="fsrd" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a><br></td>
+<td></td>
+<td><a href="course/index.php?categoryid=51"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/ft5.jpg" alt="ft" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><br></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="course/index.php?categoryid=2"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/feb5.jpg" alt="feb" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></td>
+<td></td>
+<td><a href="course/index.php?categoryid=52"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fisip5.jpg" alt="fisip" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></td>
+<td></td>
+<td><a href="course/index.php?categoryid=223"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/fkor5.jpg" alt="fkor" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></td>
+<td></td>
+<td><a href="course/index.php?categoryid=53"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/pasca5.jpg" alt="pasca" class="img-responsive atto_image_button_text-bottom" width="160" height="80"></a></td>
+</tr>
+<tr>
+<td height="18"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td height="18"></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="course/index.php?categoryid=2203"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/vokasi5.jpg" alt="vok" class="img-responsive atto_image_button_text-bottom" width="130" height="100"></a></td>
+<td></td>
+<td><br></td>
+<td></td>
+<td><a href="https://spada.uns.ac.id/course/view.php?id=10582" target="_blank">&nbsp;<img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/uns.png" alt="uns" width="150" height="70" class="img-responsive atto_image_button_text-bottom"><br></a><h4><strong><a href="https://spada.uns.ac.id/course/view.php?id=10582" target="_blank">PELATIHAN ONLINE</a></strong></h4></td>
+<td></td>
+<td><a href="course/index.php?categoryid=2160"><img src="https://spada.uns.ac.id/pluginfile.php/2/course/section/1/rapat5.jpg" alt="rapat" class="img-responsive atto_image_button_text-bottom" width="160" height="122"></a><br></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<br><br><p></p></div><ul class="section img-text"></ul></div><br /></div>    </div>
+    <aside id="block-region-side-pre" class="col-md-3 block-region" data-blockregion="side-pre" data-droptarget="1"><a href="#sb-1" class="sr-only sr-only-focusable">Skip Main menu</a>
+
+<section id="inst24821"
+     class=" block_site_main_menu block list_block  card mb-3"
+     role="complementary"
+     data-block="site_main_menu"
+          aria-labelledby="instance-24821-header"
+     >
+
+    <div class="card-body p-3">
+
+            <h5 id="instance-24821-header" class="card-title d-inline">Main menu</h5>
+
+
+        <div class="card-text content mt-3">
+            <ul class="unlist"><li class="r0"><div class="column c1"><div class="main-menu-content"><div class="activity"><a class="aalink" onclick="" href="https://spada.uns.ac.id/mod/forum/view.php?id=1"><img src="https://spada.uns.ac.id/theme/image.php/academi/forum/1598915702/icon" class="iconlarge activityicon" alt="" role="presentation" aria-hidden="true" /><span class="instancename">Berita<span class="accesshide " > Forum</span></span></a></div></div></div></li></ul>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-1"></span></aside>    </div>
+    <div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex closed" aria-hidden="true" tabindex="-1">
+    <nav class="list-group" aria-label="">
+        <ul>
+                <li>
+                    <a class="list-group-item list-group-item-action active active_tree_node " href="https://spada.uns.ac.id/" data-key="home" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="1" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="1" data-hidden="0" data-preceedwithhr="0" >
+                        <div class="ml-0">
+                            <div class="media">
+                                    <span class="media-left">
+                                        <i class="icon fa fa-home fa-fw " aria-hidden="true"  ></i>
+                                    </span>
+                                <span class="media-body font-weight-bold">Home</span>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+        </ul>
+    </nav>
+</div></div>
+<footer id="page-footer" class="py-3 bg-dark text-light">
+<div id="footer">
+    <div class="footer-main">
+    <div class="container">
+    <div id="course-footer"></div>
+        <div class="row">
+
+        <div class="col-md-5">
+            <div class="infoarea">
+                <h3><b>SPADA UNS</b></h3><p><br>SPADA UNS merupakan media pembelajaran online di Universitas 
+Sebelas Maret yang dikembangkan oleh Pusat Pengembangan Teknologi Informasi untuk Pembelajaran (PPTIuP)&nbsp;<span style="font-size: 1rem;">Lembaga Pengembangan dan 
+Penjaminan Mutu Pendidikan UNS.</span></p>
+          </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="foot-links">
+            <h2>Info</h2>
+             <ul>
+                <li><a href="https://uns.ac.id" target="_blank">Universitas Sebelas Maret</a></li><li><a href="http://lppmp.uns.ac.id" target="_blank">LPPMP</a></li><li><a href="https://newsroom.uns.ac.id" target="_blank">Kanal Berita UNS</a></li>
+             </ul>
+
+            <ul style="display:none;">
+              <li><a href="<?php echo new moodle_url('/'); ?>"><?php echo get_string('home','theme_academi');?></a></li>
+              <li><a href="https://moodle.org/forums/" target="_blank"><?php echo get_string('moodle_community','theme_academi');?>Moodle community</a></li>
+              <li><a href="https://docs.moodle.org" target="_blank"><?php echo get_string('moodle_docs','theme_academi');?>Moodle Docs</a></li>
+              <li><a href="https://moodle.org/course/" target="_blank"><?php echo get_string('moodle_support','theme_academi');?>Moodle support</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="contact-info">
+            <h2 class="nopadding">Contact us</h2>
+
+             <p>LPPMP UNS SURAKARTA Jalan Ir. Sutami Nomor 36A Surakarta <br>
+              <i class="fa fa-phone-square"></i> Phone : 0271-663485<br>
+              <i class="fa fa-envelope"></i> E-mail : <a class="mail-link" href="mailto:lppmp@uns.ac.id">lppmp@uns.ac.id</a><br>
+            </p>
+
+          </div>
+          <div class="social-media">
+            <h6>Follow us</h6>
+            <ul>
+                <li class="smedia-01"><a href="https://www.facebook.com/lppmp"><i class="fa fa-facebook-square"></i></a></li>
+               <li class="smedia-02"><a href="https://in.pinterest.com/lppmp/"><i class="fa fa-pinterest-square"></i></a></li>
+                <li class="smedia-03"><a href="https://twitter.com/lppmp"><i class="fa fa-twitter-square"></i></a></li>
+                <li class="smedia-04"><a href="https://www.google.com/+lppmp"><i class="fa fa-google-plus-square"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    <nav class="nav navbar-nav d-md-none">
+            <ul class="list-unstyled pt-3">
+                                <li><a href="#" title="">Jadwal Petugas</a></li>
+                            <li>
+                                <ul class="list-unstyled ml-3">
+                                                    <li><a href="#" title="">Senin : Ngadimin, M.Kom (HP.081.56789.1976) Jam : 13.00 -15.00 Wib</a></li>
+                                                    <li><a href="#" title="">Selasa : Sakroni, S.Kom, M.Pd (HP.0812-2745-0456) Jam : 13.00 - 15.00 Wib</a></li>
+                                                    <li><a href="#" title="">Rabu : Sakroni, S.Kom, M.Pd (HP.0812-2745-0456) Jam : 13.00 - 15.00 Wib</a></li>
+                                                    <li><a href="#" title="">Kamis : Ngadimin, M.Kom (HP.081.56789.1976) Jam : 13.00 -15.00 Wib</a></li>
+                                </ul>
+                            </li>
+                                <li><a href="#" title="">Download</a></li>
+                            <li>
+                                <ul class="list-unstyled ml-3">
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/sk_rektor_spada.pdf  "target=\"_blank" title="">Sk Rektor tentang Spada</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/format_rps.pdf  "target=\"_blank" title="">Format RPS</a></li>
+                                </ul>
+                            </li>
+                                <li><a href="#" title="">Video Tutorial</a></li>
+                            <li>
+                                <ul class="list-unstyled ml-3">
+                                                    <li><a href="http://gg.gg/spada_login  "target=\"_blank" title="">1. Login Dosen dan Mahasiswa</a></li>
+                                                    <li><a href="http://gg.gg/update_profile  "target=\"_blank" title="">2. Login dan Update Profile</a></li>
+                                                    <li><a href="http://gg.gg/membuat_kelas  "target=\"_blank" title="">3. Membuat Kelas Spada</a></li>
+                                                    <li><a href="http://gg.gg/self_enrolment  "target=\"_blank" title="">4. Self Enrolment Student</a></li>
+                                                    <li><a href="http://gg.gg/kelas_paralel  "target=\"_blank" title="">5. Membuat Kelas Paralel</a></li>
+                                                    <li><a href="http://gg.gg/undang_dosen  "target=\"_blank" title="">6. Mengundang Dosen</a></li>
+                                                    <li><a href="http://gg.gg/unggah_rps  "target=\"_blank" title="">7. Unggah RPS di Spada</a></li>
+                                                    <li><a href="http://gg.gg/masuk_kelas   "target=\"_blank" title="">8. Cara Masuk ke Kelas Spada</a></li>
+                                                    <li><a href="http://gg.gg/spada_materi  "target=\"_blank" title="">9. Cara Memasukkan Materi</a></li>
+                                                    <li><a href="http://gg.gg/spada_activity   "target=\"_blank" title="">10. Cara Membuat Activity</a></li>
+                                </ul>
+                            </li>
+                                <li><a href="#" title="">Teks Tutorial</a></li>
+                            <li>
+                                <ul class="list-unstyled ml-3">
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/modul_spada.pdf  "target=\"_blank" title="">1. Modul Spada</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/messaging_notification.pdf  "target=\"_blank" title="">2. Messaging Notification</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/enrolment_satu_kelas.pdf  "target=\"_blank" title="">3. Enrolment MK 1 Kelas</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/enrolment_beberapa_kelas.pdf  "target=\"_blank" title="">4. Enrolment MK banyak Kelas</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/hapus_course.pdf  "target=\"_blank" title="">5. Menghapus Course / MK</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/penugasan.pdf  "target=\"_blank" title="">6. Membuat Penugasan / Assignment / MK</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/membuat_quiz.pdf  "target=\"_blank" title="">7. Membuat Quiz</a></li>
+                                                    <li><a href="http://cdnb.uns.ac.id/spada/download/backup_duplicate_course.pdf  "target=\"_blank" title="">8. Backup dan Duplikasi Course</a></li>
+                                </ul>
+                            </li>
+                                <li><a href="https://spada.uns.ac.id/mod/forum/view.php?id=14849%20%20%22target%3D%5C%22_blank" title="">FAQ</a></li>
+            </ul>
+    </nav>
+  </div>
+
+  </footer>
+<!--E.O.Footer-->
+
+<footer>
+<div class="tool_dataprivacy"><a href="https://spada.uns.ac.id/admin/tool/dataprivacy/summary.php">Data retention summary</a></div><a href="https://download.moodle.org/mobile?version=2020061501.02&amp;lang=en&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile">Get the mobile app</a>
+</footer>
+<script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://spada.uns.ac.id/lib/requirejs.php/1598915702/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/jquery/jquery-3.4.1.min',
+        jqueryui: 'https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/jquery/ui-1.12.1/jquery-ui.min',
+        jqueryprivate: 'https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://spada.uns.ac.id/lib/javascript.php/1598915702/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");require(['core/first'], function() {
+require(['core/prefetch']);
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp(function(videojs) {
+        videojs.options.flash.swf = "https://spada.uns.ac.id/media/player/videojs/videojs/video-js.swf";
+videojs.addLanguage('en', {
+  "Audio Player": "Audio Player",
+  "Video Player": "Video Player",
+  "Play": "Play",
+  "Pause": "Pause",
+  "Replay": "Replay",
+  "Current Time": "Current Time",
+  "Duration": "Duration",
+  "Remaining Time": "Remaining Time",
+  "Stream Type": "Stream Type",
+  "LIVE": "LIVE",
+  "Seek to live, currently behind live": "Seek to live, currently behind live",
+  "Seek to live, currently playing live": "Seek to live, currently playing live",
+  "Loaded": "Loaded",
+  "Progress": "Progress",
+  "Progress Bar": "Progress Bar",
+  "progress bar timing: currentTime={1} duration={2}": "{1} of {2}",
+  "Fullscreen": "Fullscreen",
+  "Non-Fullscreen": "Non-Fullscreen",
+  "Mute": "Mute",
+  "Unmute": "Unmute",
+  "Playback Rate": "Playback Rate",
+  "Subtitles": "Subtitles",
+  "subtitles off": "subtitles off",
+  "Captions": "Captions",
+  "captions off": "captions off",
+  "Chapters": "Chapters",
+  "Descriptions": "Descriptions",
+  "descriptions off": "descriptions off",
+  "Audio Track": "Audio Track",
+  "Volume Level": "Volume Level",
+  "You aborted the media playback": "You aborted the media playback",
+  "A network error caused the media download to fail part-way.": "A network error caused the media download to fail part-way.",
+  "The media could not be loaded, either because the server or network failed or because the format is not supported.": "The media could not be loaded, either because the server or network failed or because the format is not supported.",
+  "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.": "The media playback was aborted due to a corruption problem or because the media used features your browser did not support.",
+  "No compatible source was found for this media.": "No compatible source was found for this media.",
+  "The media is encrypted and we do not have the keys to decrypt it.": "The media is encrypted and we do not have the keys to decrypt it.",
+  "Play Video": "Play Video",
+  "Close": "Close",
+  "Close Modal Dialog": "Close Modal Dialog",
+  "Modal Window": "Modal Window",
+  "This is a modal window": "This is a modal window",
+  "This modal can be closed by pressing the Escape key or activating the close button.": "This modal can be closed by pressing the Escape key or activating the close button.",
+  ", opens captions settings dialog": ", opens captions settings dialog",
+  ", opens subtitles settings dialog": ", opens subtitles settings dialog",
+  ", opens descriptions settings dialog": ", opens descriptions settings dialog",
+  ", selected": ", selected",
+  "captions settings": "captions settings",
+  "subtitles settings": "subtitles settings",
+  "descriptions settings": "descriptions settings",
+  "Text": "Text",
+  "White": "White",
+  "Black": "Black",
+  "Red": "Red",
+  "Green": "Green",
+  "Blue": "Blue",
+  "Yellow": "Yellow",
+  "Magenta": "Magenta",
+  "Cyan": "Cyan",
+  "Background": "Background",
+  "Window": "Window",
+  "Transparent": "Transparent",
+  "Semi-Transparent": "Semi-Transparent",
+  "Opaque": "Opaque",
+  "Font Size": "Font Size",
+  "Text Edge Style": "Text Edge Style",
+  "None": "None",
+  "Raised": "Raised",
+  "Depressed": "Depressed",
+  "Uniform": "Uniform",
+  "Dropshadow": "Dropshadow",
+  "Font Family": "Font Family",
+  "Proportional Sans-Serif": "Proportional Sans-Serif",
+  "Monospace Sans-Serif": "Monospace Sans-Serif",
+  "Proportional Serif": "Proportional Serif",
+  "Monospace Serif": "Monospace Serif",
+  "Casual": "Casual",
+  "Script": "Script",
+  "Small Caps": "Small Caps",
+  "Reset": "Reset",
+  "restore all settings to the default values": "restore all settings to the default values",
+  "Done": "Done",
+  "Caption Settings Dialog": "Caption Settings Dialog",
+  "Beginning of dialog window. Escape will cancel and close the window.": "Beginning of dialog window. Escape will cancel and close the window.",
+  "End of dialog window.": "End of dialog window.",
+  "{1} is loading.": "{1} is loading.",
+  "Exit Picture-in-Picture": "Exit Picture-in-Picture",
+  "Picture-in-Picture": "Picture-in-Picture"
+});
+
+    });
+});;
+
+require(['theme_boost/loader']);
+require(['theme_boost/drawer'], function(mod) {
+    mod.init();
+});
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(2, [], false); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script src="https://spada.uns.ac.id/lib/javascript.php/1598915702/theme/academi/javascript/theme.js"></script>
+<script src="https://spada.uns.ac.id/theme/javascript.php/academi/1598915702/footer"></script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","cancel":"Cancel","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error","file":"File","url":"URL"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} alias\/shortcut files that use this file as their source","select":"Select"},"admin":{"confirmdeletecomments":"You are about to delete comments, are you sure?","confirmation":"Confirmation"},"debug":{"debuginfo":"Debug info","line":"Line","stacktrace":"Stack trace"},"langconfig":{"labelsep":": "}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"en"});
+});
+M.util.help_popups.setup(Y);
+ M.util.js_pending('random5fec18ed5cdd510'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random5fec18ed5cdd510'); });
+})();
+//]]>
+</script>
+</body>
+</html>

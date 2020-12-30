@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Karya Ilmiah Pendidikan UNS</title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="https://karyaku.uns.ac.id/Logo_UNS.jpeg" />
+    
+</head>
+<body>
+
+<div class="container-scroller">
+<!-- partial:partials/_navbar.html -->
+ <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="navbar-brand-wrapper d-flex justify-content-center">
+        <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">  
+        <a class="navbar-brand brand-logo" href="https://karyaku.uns.ac.id"><p>Karya Ilmiah Pendidikan</p></a>
+        <a class="navbar-brand brand-logo-mini" href="https://karyaku.uns.ac.id"><img src="https://karyaku.uns.ac.id/Logo_UNS.jpeg" alt="logo"/></a>
+          <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="mdi mdi-sort-variant"></span>
+          </button>
+        </div>  
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+      <!-- search -->
+      <ul class="navbar-nav mr-lg-4 w-100">
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                  
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+              </form>
+            </div>
+          </li>
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+              
+                <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+              </form>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <!-- message -->
+          <!-- <li class="nav-item dropdown mr-4">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="mdi mdi-bell mx-0"></i>
+              <span class="count"></span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-success">
+                    <i class="mdi mdi-information mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Application Error</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Just now
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-warning">
+                    <i class="mdi mdi-settings mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Settings</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Private message
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-info">
+                    <i class="mdi mdi-account-box mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">New user registration</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    2 days ago
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li> -->
+         
+                    
+                        
+                  	
+          		
+                    <li class="nav-item nav-profile dropdown">
+               <!-- <a class="btn btn-inverse-primary" href="https://karyaku.uns.ac.id/karyaku-login"> Login </a> -->
+              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
+              <!-- <img src="https://karyaku.uns.ac.id/profil.jpg" alt="profile"/> -->
+              <span class="nav-profile-name">Login</span>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/login-karyaku">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login Karyaku
+                </a>
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/karyaku-old/sso/saml-login.php">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login SSO
+                </a> 
+              
+              </div>
+          </li>
+                  </ul>
+  	<button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="modal" data-target="#exampleModal1">
+          <span class="mdi mdi-magnify"></span>
+        </button>
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+          <span class="mdi mdi-menu"></span>
+        </button>
+      </div>
+    </nav>
+
+
+ <!-- Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Pencarian</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+          </form>
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+            
+            <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+          </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>    
+ <!-- partial -->
+ <div class="container-fluid page-body-wrapper">
+    <!-- partial:partials/_sidebar.html -->
+      <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+                           
+                                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#sidebar13" aria-expanded="false" aria-controls="ui-basic">
+                      <i class="mdi mdi-account menu-icon"></i>
+                      <span class="menu-title">Data Dosen</span>
+                      <i class="menu-arrow"></i>
+                    </a>
+                    <div class="collapse" id="sidebar13">
+                      <ul class="nav flex-column sub-menu">
+                                                                        <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/guru-besar">Guru Besar</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/doktor">Doktor</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/magister">Magister</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/spesialis">Spesialis</a></li>
+                                                                      </ul>
+                    </div>
+                  </li>
+                
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/pohon-harapan">
+                          <i class="mdi mdi-pine-tree menu-icon"></i>
+                          <span class="menu-title">Pohon Harapan</span>
+                        </a>
+                      </li>
+               
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/bantuan">
+                          <i class="mdi mdi-help-circle-outline menu-icon"></i>
+                          <span class="menu-title">Bantuan</span>
+                        </a>
+                      </li>
+               
+                
+                    
+         
+        
+        
+        </ul>
+      </nav>
+      <!-- partial -->
+    <div class="main-panel">
+    
+        <div class="content-wrapper">
+         
+          <div class="row">
+          <div class="col-md-12 stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <!-- <p class="card-title">Home Karyaku</p> -->
+                  <p class="card-description">
+                                              </p>
+                    <div class="row align-items-start">
+                        <div class="col-md-6 row">
+                           <div class="col-md-12 row justify-content-center">
+                                <img src="https://simpeg.uns.ac.id/uploads/foto/2019/05/D2O6y3xhS_bDWsg2o07haM33huYkECdU.jpg" class="rounded-circle col-md-3" style="width: 100px;height:100px;" alt="image"/>
+                                <p class="col-md-auto align-self-center mt-3">Prof. Dr. PUJIYONO, S.H., M.H.</p>
+                           </div>
+                                                   
+                           <div class="col-md-12 table-responsive mt-3">
+                          
+                           <table class="table table-striped">
+                            <tbody>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    NIP
+                                </td>
+                                <td>
+                                    197910142003121001
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Jabatan Fungsional
+                                </td>
+                                <td>
+                                    Guru Besar
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Fakultas
+                                </td>
+                                <td>
+                                    Fakultas Hukum
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Program Studi
+                                </td>
+                                <td>
+                                    Hukum Perdata
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Tempat/Tanggal Lahir
+                                </td>
+                                <td>
+                                    BOYOLALI / 1979-10-14
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Web Blog
+                                </td>
+                                <td>
+                                    <a href="https://civitas.uns.ac.id">https://civitas.uns.ac.id</a>
+                                </td>
+                                </tr>
+                                <tr>
+                                <td class="py-1 font-weight-bold">
+                                    Bidang Keahlian
+                                </td>
+                                <td>
+                                    Hukum Keperdataan
+                                </td>
+                                </tr>
+                            </tbody>
+                            </table>
+                           </div>
+
+                            <div class="col-md-12">
+                                <hr />
+                            </div>
+
+                                                        
+                           <div class="col-md-12 mt-3">
+                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav1" aria-selected="true" aria-controls="#nav1">
+                                        Pendidikan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav2" aria-selected="false" aria-controls="#nav2">
+                                            Jabatan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav3" aria-selected="false" aria-controls="#nav3">
+                                            Penghargaan
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav4" aria-selected="false" aria-controls="#nav4">
+                                            Organisasi
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav1" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Riwayat Pendidikan</p>
+                                        <ol>
+                                                                                                                                            <li class="font-weight-bold small">S.H. Hukum , Universitas Sebelas Maret , 2002</li>
+                                                                                                <li class="font-weight-bold small">M.H Hukum , Universitas Sebelas Maret , 2005</li>
+                                                                                                <li class="font-weight-bold small">Dr. Ilmu Hukum , Universitas Sebelas Maret , 2012</li>
+                                                                                                                                                                                        <li class="font-weight-bold small">S3  , Universitas Sebelas Maret Tanggal Ijasah 2015-02-15</li>
+                                                                                            <li class="font-weight-bold small">S2 HUKUM , Universitas Sebelas Maret Tanggal Ijasah 2005-05-12</li>
+                                                                                            <li class="font-weight-bold small">S1 HUKUM , Universitas Sebelas Maret Tanggal Ijasah 2002-08-12</li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav2" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                        <p class="mt-3 text-center">Riwayat Jabatan Fungsional</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Guru Besar ( GURU BESAR MADYA/GB-850 ) SK : 126956/MPK/KP/2019 TMT SK 2019-11-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor Kepala ( LEKTOR/LEKTOR KEPALA-400 ) SK : 183213/A4.3/KP/2013 TMT SK 2013-10-01</li>
+                                                                                            <li class="font-weight-bold small">Lektor ( LEKTOR MUDA/LEKTOR-200 ) SK : 6179/H27/KP/2010 TMT SK 2010-09-01</li>
+                                                                                            <li class="font-weight-bold small">Asisten Ahli ( ASISTEN AHLI MADYA/AA-100 ) SK : 3594/J27/KP/2006 TMT SK 2006-04-01</li>
+                                                                                            <li class="font-weight-bold small">Tenaga Pengajar ( TENAGA PENGAJAR ) SK : 8177/A2/KP/2004 TMT SK 2003-12-01</li>
+                                                                                      
+                                        </ol> 
+                                                                                    <p class="mt-3 text-center">Riwayat Jabatan Kelola</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Wakil Dekan ( Wakil Dekan bidang Akademik FH ) SK : 511/UN27/HK/2019 TGL 2019-05-17 s.d 2023-05-17</li>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Studi S1 ( Kepala Program Studi S1 Ilmu Hukum ) SK : 760/UN27/KP/2015 TGL 2015-06-18 s.d 2019-05-27</li>
+                                                                                            
+                                            </ol> 
+                                                                                                                            <p class="mt-3 text-center">Riwayat Jabatan Lain</p>
+                                            <ol>
+                                                                                                    <li class="font-weight-bold small">Kepala Program Studi Strata 1 Ilmu Hukum , FH UNS 2015-2019</li>
+                                                                                                    <li class="font-weight-bold small">Pengelola Jurnal Hukum dan Pembangunan Ekonomi  , FH UNS 2013-sekarang</li>
+                                                                                                    <li class="font-weight-bold small">Pengelola Jurnal Private Law , FH UNS 2013-sekarang</li>
+                                                                                                    <li class="font-weight-bold small">Unit Pengelolaan Usaha  , Universitas Sebelas Maret 2012-2015</li>
+                                                                                                    <li class="font-weight-bold small">PIC Koran Sebelas Maret UNS , UNS 2012-2015</li>
+                                                                                                    <li class="font-weight-bold small">PIC UNS Nusantara tour n Travel , UNS 2012-2015</li>
+                                                                                                    <li class="font-weight-bold small">Kepala Unit Layanan HKI  , LPPM UNS 2012-2015</li>
+                                                                                                    <li class="font-weight-bold small">Task Force Kerjasama Dalam Negeri UNS , UNS 2011-Sekarang</li>
+                                                                                            
+                                            </ol> 
+                                                                            </div>
+                                    <div class="tab-pane fade" id="nav3" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Penghargaan</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Pemuda Berprestasi dari Pasoepati dari  ,  ( Internasional ) </li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav4" role="tabpanel" aria-labelledby="nav-contact-tab">
+                                        <p class="mt-3 text-center">Organisasi</p>
+                                        <ol>
+                                                                                            <li class="font-weight-bold small">Pendiri dan Penasehat  dari SOLO BERGERAK , 2014 - sekarang</li>
+                                                                                            <li class="font-weight-bold small">Staff Hukum dan Advokasi dari Masyarakat Ekonomi Syariah (MES) Surakarta , 2013-sekarang</li>
+                                                                                            <li class="font-weight-bold small">Pengawas  dari Yayasan AITAM Indonesia , 2011- sekarang</li>
+                                                                                            <li class="font-weight-bold small">Ketua Kompartemen Hubungan Antar Lembaga
+ dari Kamar Dagang dan Industri (KADIN) kota Surakarta ,  2012-sekarang</li>
+                                                                                      
+                                        </ol> 
+                                    </div>
+                                </div>
+                           </div>
+                           
+                            <!-- tambah content di col1 -->
+                        </div> <!-- ini col1 -->
+
+                        <div class="col-md-6">
+                                                <nav>
+                                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                                        <button class="nav-item nav-link active btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav11" aria-selected="true" aria-controls="#nav11">
+                                            Karya Ilmiah
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav22" aria-selected="false" aria-controls="#nav22">
+                                            Publikasi Essai
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav33" aria-selected="false" aria-controls="#nav33">
+                                            Publikasi Jurnal
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav44" aria-selected="false" aria-controls="#nav44">
+                                            Publikasi Buku
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav55" aria-selected="false" aria-controls="#nav55">
+                                            Penelitian
+                                        </button>
+                                        <button class="nav-item nav-link btn btn-outline-primary btn-xs col-md-3" type="button" data-toggle="tab" data-target="#nav66" aria-selected="false" aria-controls="#nav66">
+                                            Pengabdian
+                                        </button>
+                                    </div>
+                                </nav>
+                                <div class="tab-content" id="nav-tabContent">
+                                    <div class="tab-pane fade show active" id="nav11" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Karya Ilmiah</p>
+                                        <ol>
+                                                                                    </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav22" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Essai</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Konflik Keraton Solo. , <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Birokrasi Ideal. , <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Peran Agama. , <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Makan Demokrasi. , <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Kasus URIP, <sup>Essai</sup>
+                                                <a target="_blank" href="">link</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav33" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Jurnal</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pertanggungjawaban Sosial Perusahaan,  Jurnal Yustisia  Volume 2  , 2016<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Ideal Format the Institution of Social Security Administration to Manage Health Security’s Funds in Indonesia. http://www.hrpub.org. Sociology and Anthropology 3(9): 486-492,    ISSN: 2331-6179 (Print) ISSN: 2331-6187 (Online), 2015<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Implementation of local wisdom Values, Asian Journal of Humanities and Social Studies Volume 2 , 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Urgensi Nilai Lokal Wisdom dalam Konflik Suporter Sepakbola, Jurnal Yustisia  , 2014<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Implementasi Single Presence Policy (Spp) Bagi Dunia Perbankan Dalam Perspektif Undang Undang Nomor Tahun 2007 Tentang Perseroan Terbatas,  jurnal Yustisia Edisi 82 , 2011<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Implementasi Single Presence Policy (Spp) Bagi Dunia Perbankan Dalam Perspektif Undang Undang Nomor Tahun 2007 Tentang Perseroan Terbatas , Jurnal Yustisia  Edisi 82 , 2011<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Upaya-Upaya Bank Indonesia Dalam Menanggulangi Pencucian Uang Berdasarkan Undang Undang Bank Indonesia, Yustisia  , 2007<sup>Jurnal</sup>
+                                                <a target="_blank" href="https://si.uns.ac.id/profil/uploadpublikasi/yustisia/2007/
+Upaya-Upaya Bank Indonesia Dalam Menanggulangi Pencucian Uang Berdasarkan Undang Undang Bank Indonesia.pdf">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Struktur Organisasi Birokrasi Daerah Yang Ideal Berdasarkan Peraturan Pemerintah (Pp) Nomor 8 Tahun 2003 Tentang Pedoman Organisasi Perangkat Daerah
+, Yustisia  Vol.69, 2006<sup>Jurnal</sup>
+                                                <a target="_blank" href="https://si.uns.ac.id/profil/uploadpublikasi/yustisia/2006/Struktur Organisasi Birokrasi Daerah Yang Ideal Berdasarkan Peraturan Pemerintah (Pp) Nomor 8 Tahun 2003 Tentang Pedoman Organisasi Perangkat Daerah.pdf
+">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Analisis Putusan Hakim Pengadilan Niaga Semarang dalam Kasus  Sengketa Pendaftaran hak Cipta Kode Benang Kuning antara PT Sri Rejeki Isman dengan PT Delta Merlin Dunia Textile Berdasarkan Prinsip Keadilan,  Jurnal HKI Volume III  Nomer 3  ISSN 2008-0618, 0000<sup>Jurnal</sup>
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav44" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Publikasi Buku</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               HUKUM KOPERASI, Dalam Potret Sejarah Pustaka Hanif, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hukum Perusahaan,  Pustaka Hanif, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pentingnya Mediasi Perbankan, Pustaka Hanif, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Eksistensi Model  Penyelesaian Sengketa antara Nasabah dan bank Syariah di Indonesia, SmartMedia, 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Dialektika Hukum dan Keadilan, PINUS Media Surakarta, 2011
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav55" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Penelitian</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Pertanggungjawaban Hukum Pelaksanaan Corporate Sosial Responsibility (CSR) Untuk Meningkatkan Kesejahteraan Masyarakat, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model Kelembagaan BPJS
+, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Model   Pencegahan   Konflik   Antar   Suporter Sepakbola  Melalui  Integrasi  Nilai-Nilai  Local Wisdom  Sebagai  Upaya Membangun Karakter Bangsa, 2013
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Mengembangkan Model penyelesaian Sengketa antara Perbankan Syariah dengan Nasabah melalui Arbitrase Syariah Berdasarkan Prinsip Keadilan, 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+                                    <div class="tab-pane fade" id="nav66" role="tabpanel" aria-labelledby="nav-home-tab">
+                                        <p class="mt-3 text-center">Pengabdian</p>
+                                        <ol>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penyuluhan Hukum tentang Kelembagaan Koperasi untuk UKM di Ponorogo, 2016
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penyuluhan Hukum Perkawinan di Kelurahan Nusukan, 2015
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Oral Presentation at International Research and Conference in Singapore, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Penyuluhan Hukum Perkawinan di Kelurahan Kemlayan, 2014
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pelatihan Pendidikan Khusus Profesi Advokad, 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Pemateri Rubrik, 2012
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               KDRT, 2007
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               KDRT. , 2006
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                        <li class="font-weight-bold small">
+                                               
+                                               Hak Tanah. , 2005
+                                                <a target="_blank" href="">(link)</a>
+                                                </li>
+                                                                                </ol> 
+                                    </div>
+
+                                </div>
+                            <!--  -->
+                        </div>
+                    </div>
+
+                <!-- card -->
+                </div>
+              </div>
+            </div>
+          </div>  <!-- row -->
+                                      </div>    <!-- content-wrapper ends -->
+
+         
+
+<footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="" target="_blank">Dokumentasi Karya Ilmiah Pendidik Universitas Sebelas Maret</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">email: karyailmiah@mail.uns.ac.id<i class="mdi mdi-heart text-danger"></i></span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- plugins:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/chart.js/Chart.min.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+  <!-- End plugin js for this page-->
+  <!-- inject:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/off-canvas.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/hoverable-collapse.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/templateku.js"></script>
+  <!-- endinject -->
+  <!-- Custom js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dashboard.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/data-table.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dataTables.bootstrap4.js"></script>
+  <!-- End custom js for this page-->
+    
+   <script>
+
+ </script>
+</body>
+
+</html>

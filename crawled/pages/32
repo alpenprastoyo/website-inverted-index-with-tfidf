@@ -1,0 +1,1631 @@
+<!-- 
+support by : 
+Gudangtechno
+info@gudangtechno.web.id 
+http://gudangtechno.web.id
+.: Web Designer, Software Aplication, Network, Server Aplication :.
+Created by :
+© Copyright 2013 Fakultas MIPA
+Universitas Sebelas Maret, Surakarta . All Rights Reserved.
+-->
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!-- BEGIN HEAD -->
+
+<head>
+    <meta charset="utf-8" />
+    <title>IRIS1103 Premiere Suite | Intelligent Research and Innovation Services 1103</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+
+   <!-- BEGIN GLOBAL MANDATORY STYLES -->          
+   <link href="assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+   <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+   <!-- END GLOBAL MANDATORY STYLES -->
+   
+   <!-- BEGIN PAGE LEVEL PLUGIN STYLES --> 
+   <link href="assets/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet" />              
+   <link rel="stylesheet" href="assets/plugins/revolution_slider/css/rs-style.css" media="screen">
+   <link rel="stylesheet" href="assets/plugins/revolution_slider/rs-plugin/css/settings.css" media="screen"> 
+   <link href="assets/plugins/bxslider/jquery.bxslider.css" rel="stylesheet" />                
+   <!-- END PAGE LEVEL PLUGIN STYLES -->
+
+   <!-- BEGIN THEME STYLES --> 
+   <link href="assets/css/style-metronic.css" rel="stylesheet" type="text/css"/>
+   <link href="assets/css/style.css" rel="stylesheet" type="text/css"/>
+   <link href="assets/css/themes/blue.css" rel="stylesheet" type="text/css" id="style_color"/>
+   <link href="assets/css/style-responsive.css" rel="stylesheet" type="text/css"/>
+   <link href="assets/css/custom.css" rel="stylesheet" type="text/css"/>
+   <link href="assets/css/pages/portfolio.css" rel="stylesheet" type="text/css"/>
+   <link href="assets/css/pages/profile.css" rel="stylesheet" type="text/css"/>
+   <!-- END THEME STYLES -->
+
+   <link rel="shortcut icon" href="favicon.ico" />
+</head>
+
+<!-- END HEAD -->
+
+
+
+<!-- BEGIN BODY -->
+
+<body>
+
+	
+
+
+
+    <!-- BEGIN HEADER -->
+
+    <div class="header navbar navbar-default navbar-static-top">
+
+		<div class="container">
+
+			<div class="navbar-header">
+
+				<!-- BEGIN RESPONSIVE MENU TOGGLER -->
+
+				<button class="navbar-toggle btn navbar-btn" data-toggle="collapse" data-target=".navbar-collapse">
+
+					<span class="icon-bar"></span>
+
+					<span class="icon-bar"></span>
+
+					<span class="icon-bar"></span>
+
+				</button>
+
+				<!-- END RESPONSIVE MENU TOGGLER -->
+
+				<!-- BEGIN LOGO (you can use logo image instead of text)-->
+
+				<a class="navbar-brand logo-v1" href="home">
+
+					<img src="assets/img/logo_blue.png" id="logoimg" alt="">
+
+				</a>
+
+				<!-- END LOGO -->
+
+			</div>
+
+		
+
+			<!-- BEGIN TOP NAVIGATION MENU -->
+
+			<div class="navbar-collapse collapse">
+
+				<ul class="nav navbar-nav">
+
+					<li >
+
+                            <a href="home">Beranda</a>
+
+                    </li>
+
+                    <li >
+
+                            <a href="berita-terkini.asm">Berita Terkini</a>
+
+                  </li>
+
+                    
+
+                    <li >
+
+                            <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">
+
+                            Skema Riset dan P2M
+
+                            <i class="fa fa-angle-down"></i>
+
+                        </a>
+
+                            <ul class="dropdown-menu">
+
+                            <li><a href="penelitian-pnbp.asm">Penelitian PNBP</a></li>
+
+                            <li><a href="pengabdian-pnbp.asm">P2M PNBP</a></li>
+
+                            <li><a href="penelitian-nonpnbp.asm">Penelitian Non PNBP</a></li>
+
+                            <li><a href="pengabdian-nonpnbp.asm">P2M Non PNBP</a></li>
+
+
+
+                        </ul>
+
+                    </li>
+
+                    <li >
+
+                            <a href="login">Login User</a>
+
+                    </li>
+
+					
+
+					<li >
+
+                            <a href="dosen.asp">Data Dosen</a>
+
+                    </li>
+                    <li >
+
+                            <a href="download.asp">Download</a>
+
+                    </li>		                  
+
+					<li >
+
+                            <a href="kontak.asm">Kontak LPPM</a>
+
+                    </li>
+
+									
+
+                    
+
+					<li class="menu-search">
+
+                        <span class="sep"></span>
+
+                        <i class="fa fa-search search-btn"></i>
+
+
+
+                        <div class="search-box">
+
+                            <form action="dosen.asp" method="post">
+
+                                <div class="input-group input-large">
+
+                                    <input class="form-control" type="text" placeholder="Nama/NIDN" name="search">
+
+                                    <span class="input-group-btn">
+
+                                        <button type="submit" class="btn theme-btn" name="submit">Go</button>
+
+                                    </span>
+
+                                </div>
+
+                            </form>
+
+                        </div> 
+
+					</li>
+
+				</ul>                           
+
+			</div>
+			<!-- BEGIN TOP NAVIGATION MENU -->
+
+		</div>
+
+    </div>
+
+    <!-- END HEADER -->
+
+
+
+    
+<!-- BEGIN PAGE CONTAINER -->
+
+<style type="text/css">
+
+.page-container .container .row.service-box .col-md-4.col-sm-4 p {
+
+	text-align: justify;
+
+}
+
+</style>
+
+  
+
+    <div class="page-container">
+
+        <div class="container">
+
+        <div class="row breadcrumbs margin-bottom-40">
+
+            
+
+        </div>
+
+    	<!-- BEGIN BLOCKQUOTE BLOCK -->   
+
+            <div class="row quote-v1">
+
+                <div class="col-md-9 quote-v1-inner">
+					                    <span><marquee behavior="scroll" direction="left" scrolldelay="90">Selamat Datang di IRIS1103 Premiere Suite</marquee></span>
+
+                </div>
+
+                <div class="col-md-3 quote-v1-inner text-right">
+                    <a class="btn-transparent" href="#"><i class="fa fa-rocket margin-right-10"></i>Info IRIS1103</a>
+                </div>
+
+            </div>
+
+            <!-- END BLOCKQUOTE BLOCK -->
+
+<div class="row margin-bottom-30">
+				<!-- BEGIN INFO BLOCK -->               
+				<div class="col-md-7 space-mobile">
+					<h2>Selamat Datang di IRIS1103 Premiere Suite</h2>
+					  <p><img src="assets/img/IRIS-Premiere-Suite.jpg" alt="" width="90%" /><br />IRIS1103 (Intelligent Research and Innovation Services 1103) merupakan Portal Penelitian dan Pengabdian&nbsp; yang dikembangkan oleh LPPM pada tahun 2013. Melalui aplikasi ini diharapkan LPPM mampu memberikan layanan kepada dosen baik sebagai peneliti maupun pengabdi dari segi pemasukan data proposal hingga laporan akhir dan luaran serta informasi-informasi penelitian dan Pengabdian pada Masyarakat yang ada di UNS secara online dan terintegrasi. Dosen&nbsp; juga dapat melihat perkembangan penelitian dan pengabdian yang telah dilakukan dari manapun dan kapanpun, sehingga informasi yang ada dapat diakses dengan mudah. Selain itu hasil penelitian dapat dengan cepat di publikasikan dengan media web sehingga hasil penelitian yang telah dilakukan akan lebih bermanfaat bagi&nbsp; semua yang membutuhkan.</p>  <br>
+	<a href="#" class="btn theme-btn">  Silahkan Baca FAQ disini!</a>
+					
+                    
+                    
+</div>
+				<!-- END INFO BLOCK -->   
+
+				<!-- BEGIN CAROUSEL -->            
+				<div class="col-md-5 front-carousel">
+					<div id="myCarousel" class="carousel slide">
+						<!-- Carousel items -->
+						<div class="carousel-inner">
+                         <div class="item active">
+								<img src="assets/img/slide 3.jpg" alt="">
+								<div class="carousel-caption">
+								  <p>IRIS1103 - Premium Suite</p>
+							  </div>
+						  </div>
+							<div class="item">
+								<img src="assets/img/slide.jpg" alt="">
+								<div class="carousel-caption">
+									<p>IRIS1103 Everywhere</p>
+								</div>
+							</div>
+                           
+                            <div class="item">
+								<img src="assets/img/slide2.jpg" alt="">
+								<div class="carousel-caption">
+									<p>IRIS1103 Everywhere</p>
+								</div>
+							</div>
+						  <!-- <div class="item active">
+								<img src="assets/img/pics/img1-medium.jpg" alt="">
+								<div class="carousel-caption">
+									<p>Prof. Dr. H. Ravik Karsidi. M.S. - Rektor Universitas Sebelas Maret</p>
+								</div> 
+							</div>-->
+						</div>
+						<!-- Carousel nav -->
+						<a class="carousel-control left" href="#myCarousel" data-slide="prev">
+							<i class="fa fa-angle-left"></i>
+						</a>
+						<a class="carousel-control right" href="#myCarousel" data-slide="next">
+							<i class="fa fa-angle-right"></i>
+						</a>
+					</div> </br>
+                  <a href="https://play.google.com/store/apps/details?id=com.aplikasimobileiris1103&hl=in"> <img src="https://iris1103.uns.ac.id/user/images/download-android.png" alt="" width="200px" /></a>			
+				</div>
+				<!-- END CAROUSEL -->      
+			</div>
+       
+ <hr>
+
+<div class="row">
+
+<div class="col-md-7">
+<!--
+<h2><i class="fa fa-newspaper-o" aria-hidden="true"></i> Info LPPM <small>http://lppm.uns.ac.id/</small></h2><hr />
+
+                    					
+-->
+<h2><i class="fa fa-newspaper-o" aria-hidden="true"></i> Info IRIS1103 <small>https://iris1103.uns.ac.id/</small></h2><hr />
+
+  
+
+
+                            <a class="more" href="berita-terkini-iris1103-20201217090813-Penerimaan-Proposal-Baru-Penelitian-dan-Pengabdian-kepada-Masyarakat-Dana-NON-APBN-UNS-TA.-2021.asm"><h5><strong>Penerimaan Proposal Baru Penelitian dan Pengabdian kepada Masyarakat Dana NON APBN UNS TA. 2021</strong></h5></a>Yth. Dekan, Dir. Program Pascasarjana/Sekolah Vokasi, KPPMF/P/SV, Ketua Lembaga, Kepala UPT, Kabag TU dan Kasubbag di  <a class="more" href="berita-terkini-iris1103-20201217090813-Penerimaan-Proposal-Baru-Penelitian-dan-Pengabdian-kepada-Masyarakat-Dana-NON-APBN-UNS-TA.-2021.asm"> Read more <i class="icon-angle-right"></i></a>
+
+			
+                 <a class="more" href="berita-terkini-iris1103-20201217090813-Penerimaan-Proposal-Baru-Penelitian-dan-Pengabdian-kepada-Masyarakat-Dana-NON-APBN-UNS-TA.-2021.asm"><h6 style="margin-left:25px;"><strong>Penerimaan Proposal Baru Penelitian dan Pengabdian kepada Masyarakat Dana NON APBN UNS TA. 2021</strong></h6></a>
+
+                
+                 <a class="more" href="berita-terkini-iris1103-20201215092647-Undangan-Sebagai-Peserta-Webinar-Pendampingan-Pendaftaran-HKI.asm"><h6 style="margin-left:25px;"><strong>Undangan Sebagai Peserta Webinar Pendampingan Pendaftaran HKI</strong></h6></a>
+
+                
+                 <a class="more" href="berita-terkini-iris1103-20201214082136-Upload-(unggah)-Proposal-Lanjutan-Penelitian-Dana-Non-APBN-UNS-TA.-2021.asm"><h6 style="margin-left:25px;"><strong>Upload (unggah) Proposal Lanjutan Penelitian Dana Non APBN UNS TA. 2021</strong></h6></a>
+
+                
+                 <a class="more" href="berita-terkini-iris1103-20201210103312-Undangan-Sosialisasi-Buku-Panduan-Penelitian-dan-Pengabdian-kepada-Masyarakat-(P2M)-UNS-TA.-2021.asm"><h6 style="margin-left:25px;"><strong>Undangan Sosialisasi Buku Panduan Penelitian dan Pengabdian kepada Masyarakat (P2M) UNS TA. 2021</strong></h6></a>
+
+                
+                 <a class="more" href="berita-terkini-iris1103-20201207095106-Unggah-Dokumen-Laporan-Akhir-Skema-Pengabdian-kepada-Masyarakat-Dana-Kemenristek/BRIN-TA.-2020.asm"><h6 style="margin-left:25px;"><strong>Unggah Dokumen Laporan Akhir Skema Pengabdian kepada Masyarakat Dana Kemenristek/BRIN TA. 2020</strong></h6></a>
+
+                <h2><i class="fa fa-newspaper-o" aria-hidden="true"></i> Info Jurnal Predatory <small></small></h2><hr />
+
+
+<a target="_blank" class="more" href="https://beallslist.net/"><h6 style="margin-left:25px;"><strong> https://beallslist.net/</strong></h6></a>
+
+<a target="_blank" class="more" href="https://web.archive.org/web/20170111172306/https://scholarlyoa.com/publishers/"><h6 style="margin-left:25px;"><strong> https://web.archive.org/web/20170111172306/https://scholarlyoa.com/publishers/</strong></h6></a>
+ 
+<a target="_blank" class="more" href="https://web.archive.org/web/20170111172309/https://scholarlyoa.com/individual-journals/"><h6 style="margin-left:25px;"><strong> https://web.archive.org/web/20170111172309/https://scholarlyoa.com/individual-journals/ </strong></h6></a>
+<h2><i class="fa fa-newspaper-o" aria-hidden="true"></i> Cek Jurnal Terakreditasi <small></small></h2><hr />
+<img src="http://arjuna2.ristekdikti.go.id/images/logo_arjuna202.jpg" alt="Smiley face" height="60" > <img src="http://sinta2.ristekdikti.go.id/assets/img/sinta_logo.png" alt="Smiley face" height="60" >
+<a target="_blank" class="more" href="http://sinta2.ristekdikti.go.id/"><h6 style="margin-left:25px;"><strong> sinta2.ristekdikti.go.id </strong></h6></a>
+<a target="_blank" class="more" href="http://arjuna.ristekdikti.go.id/index.php/home/viewsk/6"><h6 style="margin-left:25px;"><strong> SK akreditasi 04-Dec-2017 </strong></h6></a>
+<a target="_blank" class="more" href="http://arjuna.ristekdikti.go.id/index.php/home/viewsk/5"><h6 style="margin-left:25px;"><strong> SK akreditasi 26-Apr-2017 </strong></h6></a>
+<a target="_blank" class="more" href="http://arjuna.ristekdikti.go.id/index.php/home/viewsk/4"><h6 style="margin-left:25px;"><strong> SK akreditasi 13-Nov-2016</strong></h6></a>
+<a target="_blank" class="more" href="http://arjuna.ristekdikti.go.id/index.php/home/viewsk/3"><h6 style="margin-left:25px;"><strong> SK akreditasi 25-May-2016 </strong></h6></a>
+<a target="_blank" class="more" href="http://arjuna.ristekdikti.go.id/index.php/home/viewsk/2"><h6 style="margin-left:25px;"><strong>SK akreditasi 01-Dec-2015 </strong></h6></a>
+<a target="_blank" class="more" href="http://arjuna2.ristekdikti.go.id/index.php/akreditasi/jurnals"><h6 style="margin-left:25px;"><strong>Daftar Jurnal Terakreditasi ARJUNA 2 </strong></h6></a>
+
+<h2><i class="fa fa-newspaper-o" aria-hidden="true"></i> Info cek ISSN <small></small></h2><hr />
+<a target="_blank" class="more" href="https://portal.issn.org/"><h6 style="margin-left:25px;"><strong>https://portal.issn.org/ </strong></h6></a>
+<a target="_blank" class="more" href="http://issn.pdii.lipi.go.id/issn.cgi?daftar"><h6 style="margin-left:25px;"><strong>http://issn.pdii.lipi.go.id/issn.cgi?daftar</strong></h6></a>
+
+<h2><i class="fa fa-newspaper-o" aria-hidden="true"></i> Info cek ISBN <small></small></h2><hr />
+<a target="_blank" class="more" href="http://isbn.perpusnas.go.id/"><h6 style="margin-left:25px;"><strong>http://isbn.perpusnas.go.id/ </strong></h6></a>
+<a target="_blank" class="more" href="https://isbnsearch.org/"><h6 style="margin-left:25px;"><strong>https://isbnsearch.org/ </strong></h6></a>
+</div>
+
+<div class="col-md-5">
+
+<h2><i class="fa fa-unlock" aria-hidden="true"></i> Login User <small>Form Login IRIS1103</small></h2>
+
+<br />
+
+<img src="assets/img/depan_login.png" width="100%" />
+
+                    
+
+          
+
+                  
+<br />
+
+<a href="https://iris1103.uns.ac.id/sso/public/saml-login.php"><img src="assets/img/logo-sso.jpg" width="100%" /></a>
+<small>Seluruh Akun User Peneliti ataupun Ketua RG login menggunakan SSO UNS Klik disini</small>
+<br /><br />
+<a href="https://iris1103.uns.ac.id/sso/public/saml-login.php"><button type="submit" class="btn theme-btn">Login Dosen Peneliti dan Ketua RG dengan SSO</button></a> 
+<br /><br />
+
+<form action="user/proses_login.php" method="post"> 
+<h2>Login <strong><small>Operator / Reviewer / Administrator</small></strong></h2>
+<h5>Silahkan Masukkan username Operator / Administrator</h5>
+
+<div class="input-group margin-bottom-20">
+
+                        <span class="input-group-addon"><i class="fa fa-user-md"></i></span>
+
+                        
+
+<input name="username" type="text" class="form-control" id="username" placeholder="Login Operator / Admin">
+
+  </div>                    
+
+                    <h5>Silahkan Masukkan Password</h5>
+
+                    <div class="input-group margin-bottom-20">
+
+                        <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+
+                        <input name="password" type="password" class="form-control" id="password" placeholder="Password">
+
+  </div>
+
+                    <h5>Silahkan Pilih User Login</h5>                    
+
+					<div class="input-group margin-bottom-20">
+
+                        <span class="input-group-addon"><i class="fa fa-user"></i></span>
+
+                        <select name="aktor" class="form-control" id="aktor">
+
+                        <!-- <option value="dosen">User / Dosen</option> -->
+
+                          <option value="review">Reviewer</option>
+                          <option value="review_revisi">Reviewer Revisi Proposal</option>
+						  <option value="reviewadmin">Review Administrasi</option>
+						  <option value="review_ar">Reviewer Remunerasi</option>
+						  
+						  <option value="rev_rekamjejak">Reviewer Kinerja Dosen</option>
+
+						<!--  <option value="asesor_pusatstudi">Asesor Pusat Studi</option> -->
+
+                          <option value="remun">Remunerasi</option>
+
+                          <option value="admin_kinerja">Admin Kinerja</option>
+
+                          <option value="kppmf">KPPMF</option>
+
+                          <option value="lppm">LPPM</option>
+
+                        </select>
+
+                    </div> 
+
+Login Direktor Corner klik <a href="login-director.asp"><strong>disini</strong></a><br /><br />
+
+
+
+
+
+                    <div class="col-md-12">
+
+                            <button type="submit" class="btn theme-btn pull-right">Submit Login</button>                        
+
+                        </div>
+
+                    <hr>
+
+
+
+                   
+
+                </form>
+ 
+
+</div>
+
+</div>     
+            
+<!-- BEGIN BLOCKQUOTE BLOCK -->   
+
+            <div class="row quote-v1">
+
+                <div class="col-md-9 quote-v1-inner">
+
+                    <span>IRIS1103 Premium Suite - (Intelligent Research and Innovation Services 1103)</span>
+
+                </div>
+
+                <div class="col-md-3 quote-v1-inner text-right">
+                    <a class="btn-transparent" href="login"><i class="fa fa-rocket margin-right-10"></i>Login Page</a>
+                </div>
+
+            </div>
+
+            <!-- END BLOCKQUOTE BLOCK -->
+
+<!-- ##################################################### GRAFIK DASBOARD ############################################################ -->
+
+ 
+<div class="row">
+
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+
+					<div class="dashboard-stat blue">
+
+						<div class="visual">
+
+							<i class="fa fa-cog" aria-hidden="true"></i>
+
+						</div>
+
+						<div class="details">
+
+							<div class="number">
+
+								 <strong>2018</strong>
+
+							</div>
+
+							<div class="desc">
+
+								 Tahun Aktif</div>
+
+						</div>
+
+						<a class="more" href="#">
+
+							 Option Tahun aktif <i class="m-icon-swapright m-icon-white"></i>
+
+						</a>
+
+					</div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+
+<div class="dashboard-stat blue">
+
+						<div class="visual">
+
+							<i class="fa fa-graduation-cap"></i>
+
+						</div>
+
+						<div class="details">
+
+							<div class="number">
+
+								
+								<strong><i class="fa fa-arrow-circle-down" aria-hidden="true"></i></strong>
+
+								
+								1000
+						  </div>
+
+							<div class="desc">
+
+								 Usulan Penelitian</div>
+
+						</div>
+
+	    <a class="more" href="#">
+
+		     Detail Usulan Skema Penelitian PNBP<i class="m-icon-swapright m-icon-white"></i>
+
+	    </a>
+
+	  </div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+
+			  <div class="dashboard-stat blue">
+
+						<div class="visual">
+
+							<i class="fa fa-paper-plane-o"></i>
+
+						</div>
+
+						<div class="details">
+
+							<div class="number">
+
+								 
+								<strong><i class="fa fa-arrow-circle-down" aria-hidden="true"></i></strong>
+
+								
+								348
+						  </div>
+
+							<div class="desc">Usulan Pengabdian</div>
+
+						</div>
+
+				  <a class="more" href="#">Detail Usulan Skema P2M PNBP<i class="m-icon-swapright m-icon-white"></i> </a>
+
+				</div>
+
+				</div>
+
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+
+					<div class="dashboard-stat blue">
+
+						<div class="visual">
+
+							<i class="fa fa-share-alt"></i>
+
+						</div>
+
+						<div class="details">
+
+							<div class="number">
+
+								  <strong><i class="fa fa-arrow-circle-up" aria-hidden="true"></i></strong> 
+
+								
+								832
+							</div>
+
+							<div class="desc">
+
+								 Publikasi</div>
+
+						</div>
+
+						<a class="more" href="#">
+
+							 Detail Publikasi Jurnal dan Seminar <i class="m-icon-swapright m-icon-white"></i>
+
+						</a>
+
+					</div>
+
+				</div>
+
+			</div>
+
+            
+
+ <div class="row">
+
+                <div class="col-md-5">
+                <h2 class="page-title">
+					Top Expert <small>Daftar dosen dengan Index Personal Tertinggi</small>
+					<br />
+                </h2>
+                <p>&nbsp;</p>
+                                      <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                  <tr>
+                    <td width="25%" rowspan="4" align="center" valign="middle">
+                    <img src='dosen/normal/0025088403.jpg' height='120' class='pp_depan_kecil'/>                    
+                    </td>
+                    <td width="75%"><h4>
+<a href="profil-0025088403.asm"><strong>UBAIDILLAH</strong></a>
+</h4></td>
+                  </tr>
+                  <tr>
+                    <td><strong>NIDN. 
+                    0025088403                    </strong></td>
+                  </tr>
+				  
+                  <tr>
+                    <td><strong>INDEX KINERJA PERSONAL : 
+                    15.6 - H-Index : 17                    </strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Group Riset </strong>:<br />                            
+                    <small>AKUSTIK DAN GEOFISIKA <br /></small>                             
+                    <small>AKTUATOR DAN MATERIAL FUNGSIONAL <br /></small>                             
+                    <small>STRUKTUR DAN MATERIAL FUNGSIONAL <br /></small> </td>
+                  </tr>
+                  </table>
+                <hr>                  <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                  <tr>
+                    <td width="25%" rowspan="4" align="center" valign="middle">
+                    <img src='dosen/normal/0030128107.jpg' height='120' class='pp_depan_kecil'/>                    
+                    </td>
+                    <td width="75%"><h4>
+<a href="profil-0030128107.asm"><strong>NUGROHO AGUNG PAMBUDI</strong></a>
+</h4></td>
+                  </tr>
+                  <tr>
+                    <td><strong>NIDN. 
+                    0030128107                    </strong></td>
+                  </tr>
+				  
+                  <tr>
+                    <td><strong>INDEX KINERJA PERSONAL : 
+                    12.92 - H-Index : 11                    </strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Group Riset </strong>:<br />                            
+                    <small>RENEWABLE ENERGY AND SOCIETY <br /></small>                             
+                    <small>PUSAT STUDI JEPANG (CENTER FOR JAPANESE STUDIES) <br /></small>                             
+                    <small>VOCATIONAL AND MECHANICAL ENGINEERING EDUCATION <br /></small>                             
+                    <small>TECHNICAL VOCATONAL EDUCATION AND TRAINING (TVET). <br /></small>                             
+                    <small>ENERGY AND SOCIETY <br /></small>                             
+                    <small>RENEWABLE ENERGY AND SOCIETY <br /></small> </td>
+                  </tr>
+                  </table>
+                <hr>                  <table width="100%" border="0" cellspacing="1" cellpadding="1">
+                  <tr>
+                    <td width="25%" rowspan="4" align="center" valign="middle">
+                    <img src='dosen/normal/0025067701.jpg' height='120' class='pp_depan_kecil'/>                    
+                    </td>
+                    <td width="75%"><h4>
+<a href="profil-0025067701.asm"><strong>WAHYUDI SUTOPO</strong></a>
+</h4></td>
+                  </tr>
+                  <tr>
+                    <td><strong>NIDN. 
+                    0025067701                    </strong></td>
+                  </tr>
+				  
+                  <tr>
+                    <td><strong>INDEX KINERJA PERSONAL : 
+                    11.28 - H-Index : 9                    </strong></td>
+                  </tr>
+                  <tr>
+                    <td><strong>Group Riset </strong>:<br />                            
+                    <small>REKAYASA INDUSTRI DAN TEKNO EKONOMI (RITE) <br /></small>                             
+                    <small>PUSAT KAJIAN DAN PENGEMBANGAN TEKNOLOGI DAN KOLABORASI INDUSTRI (PKPTKI) <br /></small> </td>
+                  </tr>
+                  </table>
+                <hr><div class="col-md-12">
+                 <a href="dosen.asp"> <button type="Cari"  class="btn theme-btn pull-right">Cari Dosen Lebih Banyak lagi..</button> </a><br />  
+<br />
+<br />
+                        
+                        </div>
+</div>
+
+
+                <div class="col-md-7">
+
+					<script src="assets/amcharts/core.js" type="text/javascript"></script>
+<script src="assets/amcharts/amcharts.js" type="text/javascript"></script>
+<script src="assets/amcharts/serial.js" type="text/javascript"></script>
+<script src="assets/amcharts/pie.js" type="text/javascript"></script>
+<script src="assets/amcharts/themes/animated.js" type="text/javascript"></script>
+<script src="assets/amcharts/themes/kelly.js" type="text/javascript"></script>
+
+<script>
+            var chart;
+
+            var chartDataPenelitian = [
+                				{
+                    "year": 2014,
+					                    "income": 1166,
+					                    "expenses": 512					                },
+                				{
+                    "year": 2015,
+					                    "income": 705,
+					                    "expenses": 371					                },
+                				{
+                    "year": 2016,
+					                    "income": 974,
+					                    "expenses": 401					                },
+                				{
+                    "year": 2017,
+					                    "income": 1478,
+					                    "expenses": 628					                },
+                				{
+                    "year": 2018,
+					                    "income": 1000,
+					                    "expenses": 535					                },
+                				{
+                    "year": 2019,
+					                    "income": 1072,
+					                    "expenses": 430					                },
+                            ];
+
+
+            AmCharts.ready(function () {
+                // SERIAL CHART
+                chart = new AmCharts.AmSerialChart();
+
+                chart.dataProvider = chartDataPenelitian;
+                chart.categoryField = "year";
+                chart.startDuration = 1;
+                chart.handDrawnScatter = 3;
+
+                // AXES
+                // Category
+                var categoryAxis = chart.categoryAxis;
+				categoryAxis.labelRotation = 45; // this line makes category values to be rotated
+                categoryAxis.gridPosition = "start";
+                categoryAxis.gridAlpha = 0.1;
+                categoryAxis.axisAlpha = 0;
+
+                // Value
+                var valueAxis = new AmCharts.ValueAxis();
+                valueAxis.axisAlpha = 0;
+                valueAxis.gridAlpha = 0.1;
+                valueAxis.position = "left";
+                chart.addValueAxis(valueAxis);
+
+                // GRAPHS
+                // first graph
+                var graph1 = new AmCharts.AmGraph();
+                graph1.type = "column";
+                graph1.title = "Usulan Penelitian";
+                graph1.valueField = "income";
+                graph1.balloonText = "Usulan Penelitian:[[value]]";
+                graph1.lineAlpha = 0;
+                graph1.fillColors = "#ADD981";
+                graph1.fillAlphas = 1;
+                chart.addGraph(graph1);
+
+                // second graph
+                var graph2 = new AmCharts.AmGraph();
+                graph2.type = "column";
+                graph2.title = "Penelitian Diterima";
+                graph2.valueField = "expenses";
+                graph2.balloonText = "Penelitian Diterima:[[value]]";
+                graph2.lineAlpha = 0;
+                graph2.fillColors = "#81acd9";
+                graph2.fillAlphas = 1;
+                chart.addGraph(graph2);
+
+                // LEGEND
+                var legend = new AmCharts.AmLegend();
+                chart.addLegend(legend);
+
+                chart.creditsPosition = "top-right";
+
+                // WRITE
+                chart.write("graphpenelitian");
+            });
+</script>
+
+
+
+<script>
+            var chart2;
+
+            var chartData = [
+                				{
+                    "year": 2014,
+					                    "income": 239,
+					                    "expenses": 49					                },
+                				{
+                    "year": 2015,
+					                    "income": 360,
+					                    "expenses": 169					                },
+                				{
+                    "year": 2016,
+					                    "income": 432,
+					                    "expenses": 196					                },
+                				{
+                    "year": 2017,
+					                    "income": 649,
+					                    "expenses": 150					                },
+                				{
+                    "year": 2018,
+					                    "income": 348,
+					                    "expenses": 112					                },
+                				{
+                    "year": 2019,
+					                    "income": 423,
+					                    "expenses": 128					                },
+                            ];
+
+
+            AmCharts.ready(function () {
+                // SERIAL CHART
+                chart2 = new AmCharts.AmSerialChart();
+
+                chart2.dataProvider = chartData;
+                chart2.categoryField = "year";
+                chart2.startDuration = 1;
+                chart2.handDrawnScatter = 3;
+
+                // AXES
+                // Category
+                var categoryAxis = chart2.categoryAxis;
+                categoryAxis.gridPosition = "start";
+                categoryAxis.gridAlpha = 0.1;
+                categoryAxis.axisAlpha = 0;
+
+                // Value
+                var valueAxis = new AmCharts.ValueAxis();
+                valueAxis.axisAlpha = 0;
+                valueAxis.gridAlpha = 0.1;
+                valueAxis.position = "left";
+                chart2.addValueAxis(valueAxis);
+
+                // GRAPHS
+                // first graph
+                var graph3 = new AmCharts.AmGraph();
+                graph3.type = "column";
+                graph3.title = "Usulan Pengabdian";
+                graph3.valueField = "income";
+                graph3.balloonText = "Usulan Pengabdian:[[value]]";
+                graph3.lineAlpha = 0;
+                graph3.fillColors = "#ADD981";
+                graph3.fillAlphas = 1;
+                chart2.addGraph(graph3);
+
+                // second graph
+                var graph4 = new AmCharts.AmGraph();
+                graph4.type = "column";
+                graph4.title = "Pengabdian Diterima";
+                graph4.valueField = "expenses";
+                graph4.balloonText = "Pengabdian Diterima:[[value]]";
+                graph4.lineAlpha = 0;
+                graph4.fillColors = "#81acd9";
+                graph4.fillAlphas = 1;
+                chart2.addGraph(graph4);
+
+                // LEGEND
+                var legend = new AmCharts.AmLegend();
+                chart2.addLegend(legend);
+
+                chart2.creditsPosition = "top-right";
+
+                // WRITE
+                chart2.write("graphpengabdian");
+            });
+</script>
+
+        <script>
+            var chart;
+
+            var chartDataindex = [
+			                			
+                {
+                    "country": "Prosiding Seminar International bereputasi atau karya serupa yang relevan yang terindeks Web of Science atau Scopus",
+                    "visits": 3121,
+                },
+	                			
+                {
+                    "country": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 3 (Q3)",
+                    "visits": 474,
+                },
+	                			
+                {
+                    "country": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 2 (Q2)",
+                    "visits": 280,
+                },
+	                			
+                {
+                    "country": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 1 (Q1)",
+                    "visits": 219,
+                },
+	                			
+                {
+                    "country": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 4 (Q4)",
+                    "visits": 204,
+                },
+	                			
+                {
+                    "country": "JURNAL INTERNASIONAL BEREPUTASI (JIB) Tidak Berdampak Faktor TERINDEKS DI SCOPUS DAN WEB OF SCIENCE (THOMSON REUTERS)",
+                    "visits": 120,
+                },
+	                			
+                {
+                    "country": "Jurnal International terindex Scopus dengan SJR Kurang dari 0.30",
+                    "visits": 66,
+                },
+	                			
+                {
+                    "country": "Jurnal Internasional bereputasi terindeks Scopus dan Tidak Memiliki kelompok Quartil",
+                    "visits": 52,
+                },
+	                			
+                {
+                    "country": "JURNAL INTERNASIONAL BEREPUTASI (JIB) Berdampak Faktor IF < 5",
+                    "visits": 52,
+                },
+	                			
+                {
+                    "country": "Jurnal International terindex Scopus dengan SJR antara 0.50 - 1.00",
+                    "visits": 21,
+                },
+	                			
+                {
+                    "country": "Jurnal International terindex Scopus dengan SJR antara 0.30 - 0.49",
+                    "visits": 21,
+                },
+	                			
+                {
+                    "country": "Predatory",
+                    "visits": 20,
+                },
+	                			
+                {
+                    "country": "Jurnal International terindex Scopus dengan SJR Lebih dari 1.00",
+                    "visits": 18,
+                },
+	                			
+                {
+                    "country": "JURNAL INTERNASIONAL BEREPUTASI (JIB) Berdampak Faktor IF >= 5",
+                    "visits": 1,
+                },
+	                			
+            ];
+
+
+            AmCharts.ready(function () {
+                // PIE CHART
+                chart = new AmCharts.AmPieChart();
+
+                // title of the chart
+                chart.addTitle("", 16);
+
+                chart.dataProvider = chartDataindex;
+                chart.titleField = "country";
+                chart.valueField = "visits";
+                chart.sequencedAnimation = true;
+                chart.startEffect = "elastic";
+                chart.innerRadius = "30%"; 
+                chart.startDuration = 2;   
+				chart.labelRadius = 15;				
+                chart.balloonText = "[[title]]<br><span style='font-size:14px'><b>[[value]]</b> ([[percents]]%)</span>";
+                // the following two lines makes the chart 3D
+                chart.depth3D = 10;
+                chart.angle = 15;
+
+                // WRITE
+                chart.write("indexpublikasi");
+            });
+        </script>		
+
+		
+<script>
+            var chart2;
+
+            var chartDataindex = [
+			                                {
+                    "country": "1",
+					"nama": "Prosiding Seminar International bereputasi atau karya serupa yang relevan yang terindeks Web of Science atau Scopus",
+                    "visits":  3121,
+                 },
+                                {
+                    "country": "2",
+					"nama": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 3 (Q3)",
+                    "visits":  474,
+                 },
+                                {
+                    "country": "3",
+					"nama": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 2 (Q2)",
+                    "visits":  280,
+                 },
+                                {
+                    "country": "4",
+					"nama": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 1 (Q1)",
+                    "visits":  219,
+                 },
+                                {
+                    "country": "5",
+					"nama": "Jurnal Internasional bereputasi terindeks Scopus kelompok Quartil 4 (Q4)",
+                    "visits":  204,
+                 },
+                                {
+                    "country": "6",
+					"nama": "JURNAL INTERNASIONAL BEREPUTASI (JIB) Tidak Berdampak Faktor TERINDEKS DI SCOPUS DAN WEB OF SCIENCE (THOMSON REUTERS)",
+                    "visits":  120,
+                 },
+                                {
+                    "country": "7",
+					"nama": "Jurnal International terindex Scopus dengan SJR Kurang dari 0.30",
+                    "visits":  66,
+                 },
+                                {
+                    "country": "8",
+					"nama": "Jurnal Internasional bereputasi terindeks Scopus dan Tidak Memiliki kelompok Quartil",
+                    "visits":  52,
+                 },
+                                {
+                    "country": "9",
+					"nama": "JURNAL INTERNASIONAL BEREPUTASI (JIB) Berdampak Faktor IF < 5",
+                    "visits":  52,
+                 },
+                                {
+                    "country": "10",
+					"nama": "Jurnal International terindex Scopus dengan SJR antara 0.50 - 1.00",
+                    "visits":  21,
+                 },
+                                {
+                    "country": "11",
+					"nama": "Jurnal International terindex Scopus dengan SJR antara 0.30 - 0.49",
+                    "visits":  21,
+                 },
+                                {
+                    "country": "12",
+					"nama": "Predatory",
+                    "visits":  20,
+                 },
+                                {
+                    "country": "13",
+					"nama": "Jurnal International terindex Scopus dengan SJR Lebih dari 1.00",
+                    "visits":  18,
+                 },
+                                {
+                    "country": "14",
+					"nama": "JURNAL INTERNASIONAL BEREPUTASI (JIB) Berdampak Faktor IF >= 5",
+                    "visits":  1,
+                 },
+                            ];
+
+
+            AmCharts.ready(function () {
+                // SERIAL CHART
+                chart2 = new AmCharts.AmSerialChart();
+
+                chart2.dataProvider = chartDataindex;
+                chart2.categoryField = "country";
+                chart2.startDuration = 1;
+                chart2.handDrawnScatter = 3;
+
+                // AXES
+                // Category
+                var categoryAxis = chart2.categoryAxis;
+                categoryAxis.gridPosition = "start";
+                categoryAxis.gridAlpha = 0.1;
+                categoryAxis.axisAlpha = 0;
+
+                // Value
+                var valueAxis = new AmCharts.ValueAxis();
+                valueAxis.axisAlpha = 0;
+                valueAxis.gridAlpha = 0.1;
+                valueAxis.position = "left";
+                chart2.addValueAxis(valueAxis);
+
+                // GRAPHS
+                // first graph
+                var graph3 = new AmCharts.AmGraph();
+                graph3.type = "column";
+                graph3.title = "";
+                graph3.valueField = "visits";
+				graph3.balloonText = "[[nama]]:[[value]]";
+                graph3.lineAlpha = 0;
+                graph3.fillColors = "#ADD981";
+                graph3.fillAlphas = 1;
+                chart2.addGraph(graph3);
+
+
+
+                // LEGEND
+                var legend = new AmCharts.AmLegend();
+                chart2.addLegend(legend);
+
+                chart2.creditsPosition = "top-right";
+
+                // WRITE
+                chart2.write("indexpublikasi1");
+            });
+</script>
+		
+<h2 class="page-title">
+					Grafik Penelitian <small>Trend Usulan Penelitian dan Penerimaan Penelitian PNBP UNSs</small>
+					<br />
+                </h2>
+        <div id="graphpenelitian" style="width:100%; height:300px;"></div>
+<hr />
+<h2 class="page-title">
+					Grafik P2M <small>Trend Usulan P2M dan Penerimaan P2M PNBP UNS</small>
+					<br />
+                </h2>
+        <div id="graphpengabdian" style="width:100%; height:300px;"></div>
+		
+<!--<h2 class="page-title">
+					Index Data Sebarang Publikasi Scopus UNS <small>Data yang terekam diiris1103</small>
+					<br />
+                </h2> 
+        <div id="indexpublikasi" style="width:100%; height:800px;"></div>	-->
+
+<h2 class="page-title">
+					Index Data Sebarang Publikasi Scopus UNS <small>Data yang terekam diiris1103</small>
+					<br />
+                </h2>
+        <div id="indexpublikasi1" style="width:100%; height:300px;"></div>		                </div>
+
+            </div> 
+        </div>
+
+        <!-- BEGIN CONTAINER -->   
+
+        <div class="container">
+
+          
+
+
+
+        
+
+
+
+            <div class="clearfix"></div>
+
+
+
+            
+
+
+
+            <!-- BEGIN STEPS -->
+
+            <div class="row no-space-steps margin-bottom-40 margin-top-40">
+
+                <div class="col-md-4 col-sm-4">
+
+                    <div class="front-steps front-step-one">
+ 
+                        <h2>Persiapan</h2>
+
+                        <p><strong>Januari 2020 - Input Rencana Riset melalui Ketua RG, Submit Proposal Lanjutan, 
+Submit Proposal baru februari</strong><br /></p>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4">
+
+                    <div class="front-steps front-step-two">
+
+                       <h2>Seleksi</h2>
+
+                        <p><strong>Februari 2020 - Seleksi Proposal Riset PNBP, Penilaian proposal</strong><br /></p> 
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4">
+
+                    <div class="front-steps front-step-three">
+
+                       <h2>Aksi</h2>
+
+                        <p><strong>Maret 2020 - Penentuan Pemenang Hibah Penelitian dan P2M tahun 2020, penandatangan kontrak dan Pelaksanaan Penelitian</strong><br /></p> 
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <!-- END STEPS -->
+
+
+
+            <!-- BEGIN CLIENTS -->
+
+            <div class="row margin-bottom-40 our-clients">
+
+                <div class="col-md-3">
+
+                    <h2><a href="#">Link Terkait</a></h2>
+
+                    <p>Berikut adalah link-link berkaitan dengan Riset dan P2M.</p>
+
+                </div>
+
+                <div class="col-md-9">
+
+                    <ul class="bxslider1 clients-list">
+
+                        <li>
+
+                            <a href="http://orcid.org/">
+
+                                <img src="assets/img/journal/orcid2.png" alt="" /> 
+
+                                <img src="assets/img/journal/orcid.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://www.scopus.com/">
+
+                                <img src="assets/img/journal/scopus2.png" alt="" /> 
+
+                                <img src="assets/img/journal/scopus.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://journals.cambridge.org/action/login;jsessionid=656049F1047CA45EB216D123B0CB68FA.journals">
+
+                                <img src="assets/img/journal/cambridge2.png" alt="" /> 
+
+                                <img src="assets/img/journal/cambridge.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://search.ebscohost.com/">
+
+                                <img src="assets/img/journal/ebsco2.png" alt="" /> 
+
+                                <img src="assets/img/journal/ebsco.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://emeraldinsight.com/">
+
+                                <img src="assets/img/journal/emerald2.png" alt="" /> 
+
+                                <img src="assets/img/journal/emerald.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://www.igi-global.com/gateway/">                        
+
+                                <img src="assets/img/journal/IGI_global2.png" alt="" /> 
+
+                                <img src="assets/img/journal/IGI_global.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://infotrac.thomsonlearning.com/">
+
+                                <img src="assets/img/journal/infotrac2.png" alt="" /> 
+
+                                <img src="assets/img/journal/infotrac.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://www.lexisnexis.com/en-us/gateway.page">                        
+
+                                <img src="assets/img/journal/lexisnexis2.png" alt="" /> 
+
+                                <img src="assets/img/journal/lexisnexis.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://search.proquest.com/unassigned/index">                        
+
+                                <img src="assets/img/journal/proquest2.png" alt="" /> 
+
+                                <img src="assets/img/journal/proquest.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="#">                        
+
+                                <img src="assets/img/journal/westlaw2.png" alt="" /> 
+
+                                <img src="assets/img/journal/westlaw.png" class="color-img" alt="" />
+
+                            </a>
+
+                        </li>
+
+                    </ul>                        
+
+                </div>
+
+            </div>
+
+            <!-- END CLIENTS -->
+
+        </div>
+
+        <!-- END CONTAINER -->
+
+    </div>
+
+    <!-- END PAGE CONTAINER -->
+	
+	<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <!-- Modal content-->
+
+
+      <div >
+	 <a href="http://bit.ly/iris1103mobile" target="_blank">
+	  <img  src="https://iris1103.uns.ac.id/assets/img/iris1103mobile.jpeg" alt="logo" class="img-responsive"/> </a>
+
+      </div>
+
+
+
+  </div>
+</div>	
+
+
+    <!-- BEGIN FOOTER -->
+
+   <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 space-mobile">
+                    <!-- BEGIN ABOUT -->                    
+                    <h2>IRIS1103 Premium Suite</h2>
+                    <p class="margin-bottom-30">Dikembangkan Oleh:<br />
+                      <img src="user/images/logo/logo_binar.png" width="232" height="55" /><br />
+                   <!--  <small>Concept and Content Management</small> <br />
+                    <strong>IY - iyahya@mipa.uns.ac.id</strong>
+                    <br />
+                    <small>System Management Analyst</small> <br />
+                    <strong>MY - mohtar_yunianto@yahoo.co.id</strong>
+                     <br />
+                    <small>Project Manager</small> <br />
+                    <strong>Rudi Hartono - idur.onot@mipa.uns.ac.id</strong>
+                    <br />
+                    <small>System Development</small> <br />
+                    <strong>FAVHA - favha@mipa.uns.ac.id</strong>
+                    <br />
+                    <strong>SAHIRUL - sahirul@mipa.uns.ac.id </strong>
+                    <br />
+                    <strong>GUSPUR - guspur@mipa.uns.ac.id </strong> --> 
+                      
+                    </p>
+              <div class="clearfix"></div>                    
+                    <!-- END ABOUT -->          
+
+                </div>
+                <div class="col-md-4 col-sm-4 space-mobile">
+                    <!-- BEGIN CONTACTS -->                                    
+                    
+<h2>LPPM Contact</h2>
+                    <address class="margin-bottom-40">
+                    Gedung LPPM Lantai 2<br>
+                    Lembaga Penelitian dan Pengabdian kepada Masyrakat<br>
+                    Universitas Sebelas Maret<br>
+                    Jl. Ir. Sutami 36A, Kentingan, Jebres, Surakarta.<br /><br>
+                    <img src="assets/img/maps.png" width="340">
+                    </address>
+                    <!-- END CONTACTS -->                                    
+
+                    <!-- BEGIN SUBSCRIBE -->                                    
+                
+                <!-- END SUBSCRIBE -->                                    
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <!-- BEGIN TWITTER BLOCK -->                                                    
+                    <h2>Link Internal UNS</h2>
+                    <dl class="dl-horizontal f-twitter">
+                        <dt><i class="fa fa-link"></i></dt>
+                        <dd>
+                            <a href="http://uns.ac.id/" target="_blank"><strong>Universitas Sebelas Maret</strong></a><br>                            
+                            Website Resmi Universitas Sebelas Maret
+                        </dd>
+                    </dl>                    
+                     <dl class="dl-horizontal f-twitter">
+                        <dt><i class="fa fa-link"></i></dt>
+                        <dd>
+                            <a href="http://lppm.uns.ac.id/" target="_blank"><strong>LPPM UNS</strong></a><br>                            
+                            Website Resmi Lembaga Penelitian dan Pengabdian pada Masyarakat Universitas Sebelas Maret
+                        </dd>
+                    </dl> 
+                    <dl class="dl-horizontal f-twitter">
+                        <dt><i class="fa fa-link"></i></dt>
+                        <dd>
+                            <a href="http://webmail.uns.ac.id/" target="_blank"><strong>Webmail UNS</strong></a><br>                            
+                            Webmail Resmi Universitas Sebelas Maret
+                        </dd>
+                    </dl>
+                    <dl class="dl-horizontal f-twitter">
+                        <dt><i class="fa fa-link"></i></dt>
+                        <dd>
+                            <a href="http://perpustakaan.uns.ac.id/" target="_blank"><strong>Perpustakaan UNS</strong></a><br>                            
+                            Website Resmi Perpustakaan Universitas Sebelas Maret
+                        </dd>
+                    </dl>          
+                    <!-- END TWITTER BLOCK -->                                                                        
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END FOOTER -->
+
+
+
+    <!-- BEGIN COPYRIGHT -->
+
+    <div class="copyright">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-8 col-sm-8">
+
+                    <p>
+
+                        <span class="margin-right-10">2015 ©Engineering IRIS1103. ALL Rights Reserved.</span> 
+
+                        <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a>
+
+                    </p>
+
+                </div>
+
+                <div class="col-md-4 col-sm-4">
+
+                    <ul class="social-footer">
+
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-skype"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-github"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+
+                        <li><a href="#"><i class="fa fa-dropbox"></i></a></li>
+
+                    </ul>                
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- END COPYRIGHT -->
+
+
+
+
+
+
+    <!-- Load javascripts at bottom, this will reduce page load time -->
+
+    <!-- BEGIN CORE PLUGINS(REQUIRED FOR ALL PAGES) -->
+
+    <!--[if lt IE 9]>
+
+    <script src="assets/plugins/respond.min.js"></script>  
+
+    <![endif]-->  
+
+    <script src="assets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
+
+
+
+    <script src="assets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+
+    <script src="assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>      
+
+    <script type="text/javascript" src="assets/plugins/back-to-top.js"></script>    
+
+    <!-- END CORE PLUGINS -->
+
+
+
+    <!-- BEGIN PAGE LEVEL JAVASCRIPTS(REQUIRED ONLY FOR CURRENT PAGE) -->
+
+    <script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>  
+
+    <script type="text/javascript" src="assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+
+    <script type="text/javascript" src="assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
+
+    <script type="text/javascript" src="assets/plugins/bxslider/jquery.bxslider.min.js"></script>
+
+    <script src="assets/scripts/app.js"></script>
+
+    <script src="assets/scripts/index.js"></script>    
+
+    <script type="text/javascript">
+
+        jQuery(document).ready(function() {
+
+            App.init();    
+
+            App.initBxSlider();
+
+            Index.initRevolutionSlider();                    
+
+        });
+
+    </script>
+    <script type="text/javascript">
+    $(window).load(function(){
+                $('#myModal').modal('hide');
+            });
+
+
+	setTimeout(function() {
+		$('#myModal').modal('hide');
+	}, 2000);
+    </script>	
+    <!-- END PAGE LEVEL JAVASCRIPTS -->
+
+</body>
+
+<!-- END BODY -->
+
+</html>

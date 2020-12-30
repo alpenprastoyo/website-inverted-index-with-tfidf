@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Sibea || Universitas Sebelas Maret Surakarta</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="index, follow"/>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+<meta http-equiv="Copyright" content="Arief Adi Nugroho"/>
+<meta name="author" content="Arief Adi Nugroho"/>
+<meta http-equiv="imagetoolbar" content="no"/>
+<meta name="language" content="Indonesia"/>
+<meta name="revisit-after" content="7"/>
+<meta name="webcrawlers" content="all"/>
+<meta name="rating" content="general"/>
+<meta name="spiders" content="all"/>
+
+<link rel="shortcut icon" href="favicon.gif" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="rss.xml" />
+<link rel="stylesheet" type="text/css" media="screen" href="ketchup/css/reset.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="ketchup/css/jquery.ketchup.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="ketchup/css/main.css" />
+    
+<link rel="stylesheet" href="css/superfish.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+<script type="text/javascript" src="jquery-1.4.4.min.js"></script>
+
+
+</head>
+
+<body>
+<div id="container">
+		<div id="wrapper">
+                    <div id="headerku"> &nbsp;<img src="images/header.png" height="100px" alt="header"/>
+						</div>
+
+      <!-- MENU -->
+			<ul class="nav">
+			<li ><a class="active" href="index.php">HOME</a></li>
+			<li ><a  href="index.php?modul=ajukan_beasiswa">AJUKAN BEASISWA</a></li>
+			<li ><a  href="index.php?modul=downloads">DOWNLOADS</a></li>
+			<!-- <li><a  href="index.php?modul=faq">FAQ</a></li> -->
+			<li><a href="index.php?modul=login">LOG IN</a></li></ul>
+			<!-- / End Menu -->
+			<!-- CONTENT -->
+			<div id="content">
+			
+			
+		<ul class="nav">
+			<li ><a class="active" href="index.php">PENGUMUMAN</a></li>
+			<li ><a  href="index.php?modul=penerima_beasiswa">PENERIMA BEASISWA</a></li>
+			<li ><a  href="index.php?modul=toverified">DISETUJUI UNTUK MENGUMPULKAN BERKAS</a></li>
+		</ul>
+<div id='content'>          
+    <div id='content-detail'>
+<span class=judul_head>&#187; <b>PENGUMUMAN</b> </span><br /><br /><table><tr><td>
+          <span class=tanggal>Selasa, 29 Desember 2020 - 02:45:48 WIB</span><br /><span class=judul><a href='index.php?modul=detail_berita&id=320'>Bantuan UKT Tahap 2</a></span><br /><p class='detailpengumuman'>Diberitahukan kepada mahasiswa Universitas Sebelas Maret bahwa penetapan KIP-Kuliah Bantuan UKT mahasiswa UNS sebanyak 365 orang (SK Nomor :&nbsp;1991/UN27/HK/2020). Bantuan UKT/SPP mahasiswa diberikan dalam bentuk pembayaran UKT/SPP at cost dengan besaran maksimal sebesar Rp2.400.000,00 (dua juta ...<a href='index.php?modul=detail_berita&id=320'>Selengkapnya</a></p>
+            </td></tr></table>
+            <hr color=#CCC noshade=noshade /><table><tr><td>
+          <span class=tanggal>Sabtu, 19 Desember 2020 - 00:28:50 WIB</span><br /><span class=judul><a href='index.php?modul=detail_berita&id=318'>Pengambilan Buku Tabungan Penerima KIP Kuliah</a></span><br /><p class='detailpengumuman'>Kami beritahukan kepada mahasiswa penerima KIP kuliah bahwa sehubungan dengan telah diumumkannya hasil seleksi penerima KIP Kuliah di Universitas Sebelas Maret, bersama ini kami sampaikan informasi pengambilan buku tabungan (living cost) dimulai tanggal 21 Desember 2020 dengan bank penyalur Bank ...<a href='index.php?modul=detail_berita&id=318'>Selengkapnya</a></p>
+            </td></tr></table>
+            <hr color=#CCC noshade=noshade /><table><tr><td>
+          <span class=tanggal>Kamis, 03 Desember 2020 - 19:44:40 WIB</span><br /><span class=judul><a href='index.php?modul=detail_berita&id=317'>Pendaftaran Beasiswa Baznas Provinsi Jateng 2020</a></span><br /><p class='detailpengumuman'>Menindaklanjuti Surat dari Badan Amil Zakat Nasional (Baznas) Provinsi Jawa Tengah Nomor 567/BAZNAS-Prov/2020, kami informasikan kepada mahasiswa yang ingin mengajukan beasiswa Baznas Provinsi Jateng 2020&nbsp;dapat melalui link Pendaftaran_Baznas_UNS&nbsp;sampai dengan tanggal 10 Desember 2020 jam ...<a href='index.php?modul=detail_berita&id=317'>Selengkapnya</a></p>
+            </td></tr></table>
+            <hr color=#CCC noshade=noshade /><table><tr><td>
+          <span class=tanggal>Selasa, 01 Desember 2020 - 02:15:40 WIB</span><br /><span class=judul><a href='index.php?modul=detail_berita&id=316'>Tindak lanjut Pengumuman Penerima Bantuan UKT</a></span><br /><p class='detailpengumuman'>Menindaklanjuti pengumuman penerima KIP Kuliah Bantuan UKT melalui sibea.mawa.uns.ac.id tanggal 12 Nopember 2020 maka kami sampaikan informasi surat Nomor 4737/UN27/KM/2020.Untuk proses penarikan UKT bisa dibaca di sibea.mawa.uns.ac.id tanggal 12 Nopember ...<a href='index.php?modul=detail_berita&id=316'>Selengkapnya</a></p>
+            </td></tr></table>
+            <hr color=#CCC noshade=noshade /><table><tr><td>
+          <span class=tanggal>Kamis, 26 November 2020 - 20:03:55 WIB</span><br /><span class=judul><a href='index.php?modul=detail_berita&id=315'>Pengambilan Jaket Almamater Bagi Mahasiswa Baru KIP-Kuliah dan Afirmasi Pendidikan Tinggi</a></span><br /><p class='detailpengumuman'>Diberitahukan kepada mahasiswa KIP Kuliah dan mahasiswa Afirmasi Pendidikan Tinggi angkatan 2020 yang berdomisili di Surakarta dan sekitarnya, dapat mengambil jaket Almamater di Biro Kemahasiswaan dan Alumni di jadwal terlampir. Sedangkan mahasiswa yang berdomisili di luar Surakarta dapat mengambil ...<a href='index.php?modul=detail_berita&id=315'>Selengkapnya</a></p>
+            </td></tr></table>
+            <hr color=#CCC noshade=noshade />Hal:  <span id='halaktif'>1</span> |  <a href=/index.php?modul=&halaman=2> 2</a> |  <a href=/index.php?modul=&halaman=3> 3</a> |  <a href=/index.php?modul=&halaman=4> 4</a> |  <a href=/index.php?modul=&halaman=5> 5</a> |  <a href=/index.php?modul=&halaman=6> 6</a> |  <a href=/index.php?modul=&halaman=7> 7</a> |  <a href=/index.php?modul=&halaman=8> 8</a> |  <a href=/index.php?modul=&halaman=9> 9</a> |  <a href=/index.php?modul=&halaman=10> 10</a> |  <a href=/index.php?modul=&halaman=11> 11</a> |  <a href=/index.php?modul=&halaman=12> 12</a> |  <a href=/index.php?modul=&halaman=13> 13</a> |  <a href=/index.php?modul=&halaman=14> 14</a> |  <a href=/index.php?modul=&halaman=15> 15</a> |  <a href=/index.php?modul=&halaman=16> 16</a> |  <a href=/index.php?modul=&halaman=17> 17</a> |  <a href=/index.php?modul=&halaman=18> 18</a> |  <a href=/index.php?modul=&halaman=19> 19</a> |  <a href=/index.php?modul=&halaman=20> 20</a> |  <a href=/index.php?modul=&halaman=21> 21</a> |  <a href=/index.php?modul=&halaman=22> 22</a> |  <a href=/index.php?modul=&halaman=23> 23</a> |  <a href=/index.php?modul=&halaman=24> 24</a> |  <a href=/index.php?modul=&halaman=25> 25</a> |  <a href=/index.php?modul=&halaman=26> 26</a> |  <a href=/index.php?modul=&halaman=27> 27</a> |  <a href=/index.php?modul=&halaman=28> 28</a> |  <a href=/index.php?modul=&halaman=29> 29</a> |  <a href=/index.php?modul=&halaman=30> 30</a> |  <a href=/index.php?modul=&halaman=31> 31</a> |  <a href=/index.php?modul=&halaman=32> 32</a> |  <a href=/index.php?modul=&halaman=33> 33</a> |  <a href=/index.php?modul=&halaman=34> 34</a> |  <a href=/index.php?modul=&halaman=35> 35</a> |  <a href=/index.php?modul=&halaman=36> 36</a> |  <a href=/index.php?modul=&halaman=37> 37</a> |  <a href=/index.php?modul=&halaman=38> 38</a> |  <a href=/index.php?modul=&halaman=39> 39</a> |  <a href=/index.php?modul=&halaman=40> 40</a> |  <a href=/index.php?modul=&halaman=41> 41</a> |  <a href=/index.php?modul=&halaman=42> 42</a> |  <a href=/index.php?modul=&halaman=43> 43</a> |  <a href=/index.php?modul=&halaman=44> 44</a> |  <a href=/index.php?modul=&halaman=45> 45</a> |  <a href=/index.php?modul=&halaman=46> 46</a> |  <a href=/index.php?modul=&halaman=47> 47</a> |  <a href=/index.php?modul=&halaman=48> 48</a> |  <a href=/index.php?modul=&halaman=49> 49</a> |  <a href=/index.php?modul=&halaman=50> 50</a> |  <a href=/index.php?modul=&halaman=51> 51</a> |  <a href=/index.php?modul=&halaman=52> 52</a> |  <a href=/index.php?modul=&halaman=53> 53</a> |  <a href=/index.php?modul=&halaman=54> 54</a> |  <a href=/index.php?modul=&halaman=55> 55</a> |  <a href=/index.php?modul=&halaman=56> 56</a> |  <a href=/index.php?modul=&halaman=57> 57</a> |  <a href=/index.php?modul=&halaman=58> 58</a> |  <a href=/index.php?modul=&halaman=59> 59</a> |  <a href=/index.php?modul=&halaman=60> 60</a> |  <a href=/index.php?modul=&halaman=61> 61</a> |  <a href=/index.php?modul=&halaman=2>Next ></a>  | <a href=/index.php?modul=&halaman=61>Last >></a>  <br /><br /> </div>
+ </div>			
+			</div>
+			<!-- END CONTENT-->
+			<!-- FOOTER -->
+			<div id="footer">
+			
+				<div class="foot_content">
+				  
+					<p>Copyright &copy; 2011 by <a href="http://uns.ac.id">UNS</a> All rights reserved.</p>
+				</div>
+				
+			</div><!-- / end footer -->
+		</div><!-- / end wrapper -->
+	</div><!-- / end container -->
+</body>
+</html>

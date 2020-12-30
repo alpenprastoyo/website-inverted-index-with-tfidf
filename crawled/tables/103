@@ -1,0 +1,32 @@
+<table class="table" style="width: 80%; margin: 0px auto; padding: 10px;">
+    <tbody><tr>
+        <td>Nama</td><td> : </td><td><input type="text" name="nama" class="form-control" value="" placeholder="Nama Lengkap" required="required"></td>
+    </tr> 
+    <tr>
+        <td>Email</td><td> : </td><td><input type="email" name="email" class="form-control" value="" placeholder="Alamat Email" required="required"></td>
+    </tr> 
+    <tr>
+        <td>Pesan</td><td> : </td><td><textarea name="pesan" class="form-control" placeholder="Pesan" required="required"></textarea></td>
+    </tr> 
+    <tr>
+        <td>Kode</td><td> : </td>
+        <td>
+                        <div style="width: 30%; margin-bottom: 5px;" "="">
+                <img src="https://digilib.uns.ac.id/captcha/1609308476.6817.jpg" style="width: 150px; height: 33px; border: 0;" alt=" ">            </div>
+            <div style="width: 90%; float: left;">
+                <input type="hidden" id="kode_cek" name="kode_cek" value="hleg2">
+                <input class="form-control" type="text" id="kode" name="kode" placeholder="Kode" onkeyup="cekCaptcha();
+                    return false;" style="width: 100%; float: left; margin-right: 10px;" required="required">
+            </div>
+            <div id="confirmCaptcha" class="confirmCaptcha" style="width: 10%; float: left;">
+                
+            </div>
+        </td>
+    </tr> 
+    <tr>
+        <td colspan="3" align="right">
+            <input type="submit" class="btn btn-primary" value="Simpan">
+            <input type="button" class="btn btn-default" onclick="goBack()" value="Batal">
+        </td>
+    </tr>
+</tbody></table></br>

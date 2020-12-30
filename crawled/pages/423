@@ -1,0 +1,899 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Register</title>
+        <meta name="description" content="Livestock and Animal Research" />
+        <meta name="keywords" content="Peternakan; Animal Science; Animal; Animal Agriculture; Agriculture; Sains Peternakan; Pakan Ternak; Teknologi hasil Ternak; Reproduksi Ternak; Pemuliaan Ternak; ekonomi peternakan; sosial ekonomi peternakan; bioteknologi; bioteknologi peternakan; bioteknologi ternak; genetika ternak; animal genetics; animal breeding; breeding; poultry; meat science; dairy science; ruminant; animal nutrition" />
+        <meta name="generator" content=" 2.4.7.1" />
+        
+        <link rel="icon" href="https://jurnal.uns.ac.id/public/journals/364/journalFavicon_en_US.png" type="image/png" />        <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/pkp.css" type="text/css" />
+        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/lib/pkp/styles/common.css" type="text/css" />
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/common.css" type="text/css" />-->
+        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/compiled.css" type="text/css" /> 
+
+        <!-- Base Jquery -->
+        <script type="text/javascript" src="//www.google.com/jsapi"></script>
+            <script type="text/javascript">
+                <!--
+                    // Provide a local fallback if the CDN cannot be reached
+                if (typeof google == 'undefined') {
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+                    document.write(unescape("%3Cscript src='https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jqueryUi.min.js' type='text/javascript'%3E%3C/script%3E"));
+                } else {
+                    google.load("jquery", "1.4.4");
+                    google.load("jqueryui", "1.8.6");
+                }
+                // -->
+                </script>
+                    
+                        
+                        
+                        <!-- <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/sidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/leftSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/rightSidebar.css" type="text/css" />                        <link rel="stylesheet" href="https://jurnal.uns.ac.id/styles/bothSidebars.css" type="text/css" /> -->
+
+                        <!-- Default global locale keys for JavaScript -->
+                        
+<script type="text/javascript">
+	jQuery.pkp = jQuery.pkp || { };
+	jQuery.pkp.locale = { };
+			
+				jQuery.pkp.locale.form_dataHasChanged = 'The data on this form has changed. Continue anyway?';
+	</script>
+                        <!-- Compiled scripts -->
+                                                    
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.tag-it.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.cookie.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/fontController.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/general.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/functions/jqueryValidatorI18n.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Helper.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/ObjectProxy.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/Handler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/linkAction/LinkActionRequest.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/classes/features/Feature.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/SiteHandler.js"></script><!-- Included only for namespace definition -->
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/UrlInDivHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/AutocompleteHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/ExtrasOnDemandHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/FormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/AjaxFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/form/ClientFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/grid/GridHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/controllers/linkAction/LinkActionHandler.js"></script>
+
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/SearchFormHandler.js"></script>
+<script type="text/javascript" src="https://cdn.uns.ac.id/common/ReportGeneratorFormHandler.js"></script>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/generic/lucene/js/LuceneAutocompleteHandler.js"></script>
+
+<script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/jquery.pkp.js"></script>                        
+                        <!-- Form validation -->
+                        <script type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/js/lib/jquery/plugins/validate/jquery.validate.js"></script>
+                        <script type="text/javascript">
+                            <!--
+                                // initialise plugins
+                            
+                                $(function () {
+                                    jqueryValidatorI18n("https://jurnal.uns.ac.id", "en_US"); // include the appropriate validation localization
+                            
+                                    $(".tagit").live('click', function () {
+                                        $(this).find('input').focus();
+                                    });
+                                });
+                                // -->
+                            
+                        </script>
+
+                                                                                                                
+                            <!-- Add View Port -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add Favicon -->
+
+
+<!-- Add fonts style sheet -->
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700|PT+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+<!-- Add theme style sheet -->
+<link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/screen.css" type="text/css" />
+<link href="https://jurnal.uns.ac.id/plugins/themes/uns2019/css/print.css" media="print" rel="stylesheet" type="text/css" />
+
+                                                                                                <link rel="stylesheet" href="https://jurnal.uns.ac.id/plugins/generic/doiInSummary/doi.css" type="text/css" />
+                                                            
+                            
+
+			<script language="javascript" type="text/javascript" src="https://jurnal.uns.ac.id/lib/pkp/lib/tinymce/jscripts/tiny_mce/tiny_mce_gzip.js"></script>
+			<script language="javascript" type="text/javascript">
+				tinyMCE_GZ.init({
+					relative_urls : "false",
+					plugins : "paste,jbimages,fullscreen",
+					themes : "advanced",
+					languages : "ca,cs,da,de,el,en,es,es,eu,fa,fr,fr,gl,hr,id,it,ja,mk,ml,nl,no,pl,pt,pt,ro,ru,sk,sr,sv,tr,uk,vi,zh,zh,ar",
+					disk_cache : true
+				});
+			</script>
+			<script language="javascript" type="text/javascript">
+				tinyMCE.init({
+					entity_encoding : "raw",
+					plugins : "paste,jbimages,fullscreen",
+					mode : "exact",
+					language : "en",
+					elements : "mailingAddress,biography",
+					relative_urls : false,
+					forced_root_block : false,
+					paste_auto_cleanup_on_paste : true,
+					apply_source_formatting : false,
+					theme : "advanced",
+					theme_advanced_buttons1 : "cut,copy,paste,|,bold,italic,underline,bullist,numlist,|,link,unlink,help,code,fullscreen,jbimages",
+					theme_advanced_buttons2 : "",
+					theme_advanced_buttons3 : ""
+				});
+			</script>
+                        </head>
+                        <body id="pkp-user-register">
+                            <a id="skip-to-content" href="#main">Skip to Main Content</a>
+
+                            <div id="container">
+                                <div id="header" role="banner">
+
+                                    <div id="headerRight">
+                                                                                    <a href="https://jurnal.uns.ac.id/lar/login">Login</a>
+                                                                                            <a href="https://jurnal.uns.ac.id/lar/user/register">Register</a>
+                                                                                                                            </div>
+                                        <div id="headerTitle">
+                                            <div id="jurnalLogo">
+                                                                                            </div>
+                                            <div id="jurnalTitle">
+                                                                                                    <figure>
+                                                        <img src="https://jurnal.uns.ac.id/public/journals/364/pageHeaderTitleImage_en_US.jpg" alt="Livestock and Animal Research" />
+                                                    </figure>
+                                                                                            </div>
+                                        </div>
+                                        <div style="clear: both"></div>
+                                    </div>
+
+                                    
+<nav>
+
+    <div id="fullNav">
+        <div id="navbar" role="navigation">
+            <ul class="navMenu menu">
+                <li id="home"><a href="https://jurnal.uns.ac.id/lar/index">Home</a></li>
+                <li id="about"><a href="https://jurnal.uns.ac.id/lar/about">About</a></li>
+
+
+                                    <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                
+                    
+                        <li id="current"><a href="https://jurnal.uns.ac.id/lar/issue/current">Current</a></li>
+                        <li id="archives"><a href="https://jurnal.uns.ac.id/lar/issue/archive">Archives</a></li>
+                        
+                                            <li id="announcements"><a href="https://jurnal.uns.ac.id/lar/announcement">Announcements</a></li>
+                                                <li><a href="https://jurnal.uns.ac.id/lar/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                                            <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/lar/about/contact">Contacts</a></li>
+                                                            
+                                                    <li id="login"><a href="https://jurnal.uns.ac.id/lar/login">Login</a></li>
+                                                                <li id="register"><a href="https://jurnal.uns.ac.id/lar/user/register">Register</a></li>
+                                                                                    </ul>
+
+                                            </div> <!-- End Full Nav -->
+                </div>
+
+                <div id="mobileNav">
+                    <div id="toggle-bar">
+                        <a class="navicon mtoggle" href="#">MAIN MENU</a>
+                    </div>
+                    <div id="navbar" role="navigation">
+                        <ul class="navMenu menu">
+                            <li id="home"><a href="https://jurnal.uns.ac.id/lar/index">Home</a></li>
+                            <li id="about"><a href="https://jurnal.uns.ac.id/lar/about">About</a></li>
+
+                                                                                                                                                                                                                                
+                                                            <li id="categories"><a href="https://jurnal.uns.ac.id/index/search/categories">Categories</a></li>
+                                                                                                    <li id="search"><a href="https://jurnal.uns.ac.id/lar/search">Search</a></li>
+                                    
+                                                                    <li id="current"><a href="https://jurnal.uns.ac.id/lar/issue/current">Current</a></li>
+                                    <li id="archives"><a href="https://jurnal.uns.ac.id/lar/issue/archive">Archive</a></li>
+                                    
+                                                                    <li id="announcements"><a href="https://jurnal.uns.ac.id/lar/announcement">Announcements</a></li>
+                                                                        <li id="submitButton"><a href="https://jurnal.uns.ac.id/lar/about/submissions">Submit</a></li>
+
+                                    <li><a href="https://jurnal.uns.ac.id/lar/statistics" target="_parent">Statistics</a></li>
+
+                                                                                                                                                                                                        <li class="navItem" id="navItem-1"><a href="https://jurnal.uns.ac.id/lar/about/contact">Contacts</a></li>
+                                                                                                                        <li>
+<div id="searchbar">
+<form id="simpleSearchForm" method="post" action="https://jurnal.uns.ac.id/lar/search/search">							
+	<input name="search box" type="search" aria-label="Search" value="" class="textField" />
+	<input type="submit" value="Search" class="button" />
+</form>
+</div></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </nav>                                    <div id="body">
+                                                                                                                                    <div id="rightSidebar" class="slide" role="complementary">
+                                                    <div class="block" id="sidebarUser">
+			<span class="blockTitle">User</span>
+	
+						<form method="post" action="https://jurnal.uns.ac.id/lar/login/signIn">
+				<table>
+					<tr>
+						<td><label for="sidebar-username">Username</label></td>
+						<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+					</tr>
+					<tr>
+						<td><label for="sidebar-password">Password</label></td>
+						<td><input type="password" id="sidebar-password" name="password" value="" size="12" class="textField" /></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+					</tr>
+					<tr>
+						<td colspan="2"><input type="submit" value="Login" class="button" /></td>
+					</tr>
+				</table>
+			</form>
+			</div><div class="block" id="sidebarISSN2">
+    <span class="blockTitle" >ISSN</span>
+					<p>2721-5326 (Print)</p>
+						<p>2721-7086 (Online)</p>
+	</div>
+<div class="block custom" id="customblock-Journal-Template">
+	<h4>Journal Template</h4>
+<p><a href="https://drive.google.com/file/d/1_ebR6OVWoK-5LmiGqtaYVIaxESIz7IQM/view?usp=sharing" target="_blank"><img src="/public/site/images/sainspeternakan/Journal_template_LAR_S3.png" alt="" /></a></p>
+</div>	<div class="block custom" id="customblock-Certificate-of-Accreditation">
+	<h4>Certificate of Accreditation</h4>
+<h4><a href="https://drive.google.com/file/d/1JCwX2DnQv18h8wKzDyu3WJieCC7ipt3T/view?usp=sharing" target="_blank"><img src="/public/site/images/sainspeternakan/Sertifikat_Sinta_2_Sains-LAR-small1.jpg" alt="" /></a></h4>
+<p>&nbsp;</p>
+</div>	<div class="block custom" id="customblock-Visitors">
+	<p><img src="https://info.flagcounter.com/rpHP" alt="" /><img src="https://s11.flagcounter.com/count/rpHP/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_18/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" /></p>
+<!-- Default Statcounter code for Livestock and Animal
+Research http://jurnal.uns.ac.id/lar -->
+<script type="text/javascript">// <![CDATA[
+var sc_project=12221616; 
+var sc_invisible=0; 
+var sc_security="a5f8cc44"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+// ]]></script>
+<noscript>&lt;div class="statcounter"&gt;&lt;a title="Web Analytics" href="https://statcounter.com/" target="_blank"&gt;&lt;img class="statcounter" src="https://c.statcounter.com/12221616/0/a5f8cc44/0/" alt="Web Analytics"&gt;&lt;/a&gt;&lt;/div&gt;</noscript><!-- End of Statcounter Code -->
+<p><a href="https://statcounter.com/p12221616/?guest=1">View My Stats</a></p>
+</div>	<div class="block custom" id="customblock-Find-Us-on-Social-Media">
+	<h4>Find Us on Social Media</h4>
+<p><a href="https://www.facebook.com/sains.peternakan"><img src="http://www.m-tecgroup.com/wp-content/uploads/2013/04/FacebookLogo-300x99.png" alt="Facebook" width="120" /></a></p>
+</div>	<div class="block custom" id="customblock-Tools">
+	<h4>Tools</h4>
+<p><a href="https://turnitin.com"><img src="http://www.librarycalendar.hacettepe.edu.tr/images/turnitin-logo-2x.png" alt="" width="150" /></a><a style="color: #225533; background: #ccddcc;" href="https://www.grammarly.com/"><img src="https://ergonotes.com/wp-content/uploads/2016/10/grammarly-logo.jpg" alt="" width="150" /></a><a style="color: #225533; background: #ccddcc;" href="https://www.mendeley.com/download-desktop"><img src="https://s3.amazonaws.com/libapps/accounts/12330/images/mendeley_icono.jpg" alt="" width="150" /></a></p>
+</div>	
+                                                </div>
+                                                                                                                                        <div id="leftSidebar" class="slide" role="complementary">
+                                                    <div class="block custom" id="customblock-Sidebar">
+	<div>&nbsp;</div>
+<div>&nbsp;</div>
+<ul>
+<li><a href="/lar/about/editorialTeam" target="_blank">Editorial Team</a></li>
+<li><a href="/lar/about/displayMembership/956" target="_blank">Reviewers</a></li>
+<li><a href="/lar/about/editorialPolicies#focusAndScope" target="_blank">Focus and Scope</a></li>
+<li><a href="/lar/pages/view/Instructions%20for%20Authors" target="_blank">Instruction for Authors</a></li>
+<li><a href="/lar/pages/view/Publication%20Ethics" target="_blank">Publication Ethics</a></li>
+<li><a href="/lar/pages/view/Copyright%20Transfer%20Form" target="_blank">Copyright Transfer Form</a></li>
+<li><a href="/lar/about/submissions#onlineSubmissions" target="_blank">Online submission</a></li>
+</ul>
+</div>	<div class="block custom" id="customblock-Journal-Link">
+	<h4>Journal Link</h4>
+<p><a href="/Sains-Peternakan/index" target="_blank"><strong>Sains Peternakan: Jurnal Penelitian Ilmu Peternakan (Old Website)</strong></a></p>
+<p><strong><a title="AJAS" href="http://ajas.info/">Asian-Australasian Journal of Animal Sciences (AJAS)</a></strong></p>
+<p><strong><a href="https://ejournal.undip.ac.id/index.php/jitaa">Journal of the Indonesian Tropical Animal Agriculture&nbsp;(JITAA)</a></strong></p>
+<p><a href="https://journal.ipb.ac.id/index.php/tasj/index" target="_blank"><strong>Tropical Animal Science Journal</strong></a></p>
+</div>	
+                                                </div>
+                                                                                    
+
+                                                                                    <div id="main" role="main" tabindex="-1">
+                                            
+                                                        <div id="breadcrumb">
+	<a href="https://jurnal.uns.ac.id/lar/index">Home</a> &#47;
+			<a href="https://jurnal.uns.ac.id/lar/user" class="hierarchyLink">User</a> &#47;
+			<a href="https://jurnal.uns.ac.id/lar/user/register" class="current">Register</a></div>
+
+                                                        <h2>Register</h2>
+
+                                                                                                        
+                                                    <div id="content" >
+
+
+<form id="registerForm" method="post" action="https://jurnal.uns.ac.id/lar/user/registerUser">
+
+<p>Fill in this form to register with this site.</p>
+
+			
+		<p><a href="https://jurnal.uns.ac.id/lar/user/register?existingUser=1">Click here</a> if you are already registered with this or another journal on this site.</p>
+	
+	<h3>Profile</h3>
+
+	
+	
+<table class="data" width="100%">
+	<tr valign="top">
+		<td width="20%" class="label">
+<label for="formLocale" >
+	Form Language </label>
+</td>
+		<td width="80%" class="value">
+			
+			<div id="languageSelector"><select size="1" name="formLocale" id="formLocale" class="selectMenu"><option value="id_ID">Bahasa Indonesia</option><option selected="selected" value="en_US">English</option></select><input type="submit" class="button" value="Submit" onclick="changeFormAction('register', 'https://jurnal.uns.ac.id/lar/user/register'); return false" /></div>
+			<span class="instruct">To enter the information below in additional languages, first select the language.</span>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="20%" class="label">
+<label for="username" >
+	Username *</label>
+</td>
+		<td width="80%" class="value"><input type="text" name="username" value="" id="username" size="20" maxlength="32" class="textField" /></td>
+	</tr>
+		<tr valign="top">
+		<td></td>
+		<td class="instruct">The username must contain only lowercase letters, numbers, and hyphens/underscores.</td>
+	</tr>
+		<tr valign="top">
+		<td class="label">
+<label for="password" >
+	Password *</label>
+</td>
+		<td class="value"><input type="password" name="password" value="" id="password" size="20" class="textField" /></td>
+	</tr>
+
+			<tr valign="top">
+			<td></td>
+			<td class="instruct">The password must be at least 6 characters.</td>
+		</tr>
+		<tr valign="top">
+			<td class="label">
+<label for="password2" >
+	Repeat password *</label>
+</td>
+			<td class="value"><input type="password" name="password2" id="password2" value="" size="20" class="textField" /></td>
+		</tr>
+
+					<tr>
+								<td class="label" valign="top">
+<label for="captcha" >
+	Validation *</label>
+</td>
+				<td class="value">
+					<img src="https://jurnal.uns.ac.id/lar/user/viewCaptcha/3430361" alt="Validation image" /><br />
+					<span class="instruct">Please enter the letters as they appear in the image above.</span><br />
+					<input name="captcha" id="captcha" value="" size="20" maxlength="32" class="textField" />
+					<input type="hidden" name="captchaId" value="3430361" />
+				</td>
+							</tr>
+				<tr valign="top">
+			<td class="label">
+<label for="salutation" >
+	Salutation </label>
+</td>
+			<td class="value"><input type="text" name="salutation" id="salutation" value="" size="20" maxlength="40" class="textField" /></td>
+		</tr>
+		<tr valign="top">
+			<td class="label">
+<label for="firstName" >
+	First Name *</label>
+</td>
+			<td class="value"><input type="text" id="firstName" name="firstName" value="" size="20" maxlength="40" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="middleName" >
+	Middle Name </label>
+</td>
+			<td class="value"><input type="text" id="middleName" name="middleName" value="" size="20" maxlength="40" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="lastName" >
+	Last Name *</label>
+</td>
+			<td class="value"><input type="text" id="lastName" name="lastName" value="" size="20" maxlength="90" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="initials" >
+	Initials </label>
+</td>
+			<td class="value"><input type="text" id="initials" name="initials" value="" size="5" maxlength="5" class="textField" />&nbsp;&nbsp;Joan Alice Smith = JAS</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="gender-m" >
+	Gender </label>
+</td>
+			<td class="value">
+				<select name="gender" id="gender" size="1" class="selectMenu">
+					<option label="" value=""></option>
+<option label="M" value="M">M</option>
+<option label="F" value="F">F</option>
+<option label="Other" value="O">Other</option>
+
+				</select>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="affiliation" >
+	Affiliation </label>
+</td>
+			<td class="value">
+				<textarea id="affiliation" name="affiliation[en_US]" rows="5" cols="40" class="textArea"></textarea><br/>
+				<span class="instruct">(Your institution, e.g. "Simon Fraser University")</span>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="signature" >
+	Signature </label>
+</td>
+			<td class="value"><textarea name="signature[en_US]" id="signature" rows="5" cols="40" class="textArea"></textarea></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="email" >
+	Email *</label>
+</td>
+			<td class="value"><input type="text" id="email" name="email" value="" size="30" maxlength="90" class="textField" /> <a class="action" href="#privacyStatement">Privacy Statement</a></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="confirmEmail" >
+	Confirm Email *</label>
+</td>
+			<td class="value"><input type="text" id="confirmEmail" name="confirmEmail" value="" size="30" maxlength="90" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="orcid" >
+	ORCID iD </label>
+</td>
+			<td class="value"><input type="text" id="orcid" name="orcid" value="" size="40" maxlength="255" class="textField" /><br />ORCID iDs can only be assigned by <a href="http://orcid.org/" target="_blank">the ORCID Registry</a>. You must conform to their standards for expressing ORCID iDs, and include the full URI (eg. <em>http://orcid.org/0000-0002-1825-0097</em>).</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="userUrl" >
+	URL </label>
+</td>
+			<td class="value"><input type="text" id="userUrl" name="userUrl" value="" size="30" maxlength="255" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="phone" >
+	Phone </label>
+</td>
+			<td class="value"><input type="text" name="phone" id="phone" value="" size="15" maxlength="24" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="fax" >
+	Fax </label>
+</td>
+			<td class="value"><input type="text" name="fax" id="fax" value="" size="15" maxlength="24" class="textField" /></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="mailingAddress" >
+	Mailing Address </label>
+</td>
+			<td class="value"><textarea name="mailingAddress" id="mailingAddress" rows="3" cols="40" class="textArea"></textarea></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="country" >
+	Country </label>
+</td>
+			<td class="value">
+				<select name="country" id="country" class="selectMenu">
+					<option value=""></option>
+					<option label="Afghanistan" value="AF">Afghanistan</option>
+<option label="Albania" value="AL">Albania</option>
+<option label="Algeria" value="DZ">Algeria</option>
+<option label="American Samoa" value="AS">American Samoa</option>
+<option label="Andorra" value="AD">Andorra</option>
+<option label="Angola" value="AO">Angola</option>
+<option label="Anguilla" value="AI">Anguilla</option>
+<option label="Antarctica" value="AQ">Antarctica</option>
+<option label="Antigua and Barbuda" value="AG">Antigua and Barbuda</option>
+<option label="Argentina" value="AR">Argentina</option>
+<option label="Armenia" value="AM">Armenia</option>
+<option label="Aruba" value="AW">Aruba</option>
+<option label="Australia" value="AU">Australia</option>
+<option label="Austria" value="AT">Austria</option>
+<option label="Azerbaijan" value="AZ">Azerbaijan</option>
+<option label="Bahamas" value="BS">Bahamas</option>
+<option label="Bahrain" value="BH">Bahrain</option>
+<option label="Bangladesh" value="BD">Bangladesh</option>
+<option label="Barbados" value="BB">Barbados</option>
+<option label="Belarus" value="BY">Belarus</option>
+<option label="Belgium" value="BE">Belgium</option>
+<option label="Belize" value="BZ">Belize</option>
+<option label="Benin" value="BJ">Benin</option>
+<option label="Bermuda" value="BM">Bermuda</option>
+<option label="Bhutan" value="BT">Bhutan</option>
+<option label="Bolivia, Plurinational State of" value="BO">Bolivia, Plurinational State of</option>
+<option label="Bosnia and Herzegovina" value="BA">Bosnia and Herzegovina</option>
+<option label="Botswana" value="BW">Botswana</option>
+<option label="Bouvet Island" value="BV">Bouvet Island</option>
+<option label="Brazil" value="BR">Brazil</option>
+<option label="British Indian Ocean Territory" value="IO">British Indian Ocean Territory</option>
+<option label="Brunei Darussalam" value="BN">Brunei Darussalam</option>
+<option label="Bulgaria" value="BG">Bulgaria</option>
+<option label="Burkina Faso" value="BF">Burkina Faso</option>
+<option label="Burundi" value="BI">Burundi</option>
+<option label="Cambodia" value="KH">Cambodia</option>
+<option label="Cameroon" value="CM">Cameroon</option>
+<option label="Canada" value="CA">Canada</option>
+<option label="Cape Verde" value="CV">Cape Verde</option>
+<option label="Cayman Islands" value="KY">Cayman Islands</option>
+<option label="Central African Republic" value="CF">Central African Republic</option>
+<option label="Chad" value="TD">Chad</option>
+<option label="Chile" value="CL">Chile</option>
+<option label="China" value="CN">China</option>
+<option label="Christmas Island" value="CX">Christmas Island</option>
+<option label="Cocos (Keeling) Islands" value="CC">Cocos (Keeling) Islands</option>
+<option label="Colombia" value="CO">Colombia</option>
+<option label="Comoros" value="KM">Comoros</option>
+<option label="Congo" value="CG">Congo</option>
+<option label="Congo, the Democratic Republic of the" value="CD">Congo, the Democratic Republic of the</option>
+<option label="Cook Islands" value="CK">Cook Islands</option>
+<option label="Costa Rica" value="CR">Costa Rica</option>
+<option label="Croatia" value="HR">Croatia</option>
+<option label="Cuba" value="CU">Cuba</option>
+<option label="Cyprus" value="CY">Cyprus</option>
+<option label="Czech Republic" value="CZ">Czech Republic</option>
+<option label="Côte d'Ivoire" value="CI">Côte d'Ivoire</option>
+<option label="Denmark" value="DK">Denmark</option>
+<option label="Djibouti" value="DJ">Djibouti</option>
+<option label="Dominica" value="DM">Dominica</option>
+<option label="Dominican Republic" value="DO">Dominican Republic</option>
+<option label="Ecuador" value="EC">Ecuador</option>
+<option label="Egypt" value="EG">Egypt</option>
+<option label="El Salvador" value="SV">El Salvador</option>
+<option label="Equatorial Guinea" value="GQ">Equatorial Guinea</option>
+<option label="Eritrea" value="ER">Eritrea</option>
+<option label="Estonia" value="EE">Estonia</option>
+<option label="Ethiopia" value="ET">Ethiopia</option>
+<option label="Falkland Islands (Malvinas)" value="FK">Falkland Islands (Malvinas)</option>
+<option label="Faroe Islands" value="FO">Faroe Islands</option>
+<option label="Fiji" value="FJ">Fiji</option>
+<option label="Finland" value="FI">Finland</option>
+<option label="France" value="FR">France</option>
+<option label="French Guiana" value="GF">French Guiana</option>
+<option label="French Polynesia" value="PF">French Polynesia</option>
+<option label="French Southern Territories" value="TF">French Southern Territories</option>
+<option label="Gabon" value="GA">Gabon</option>
+<option label="Gambia" value="GM">Gambia</option>
+<option label="Georgia" value="GE">Georgia</option>
+<option label="Germany" value="DE">Germany</option>
+<option label="Ghana" value="GH">Ghana</option>
+<option label="Gibraltar" value="GI">Gibraltar</option>
+<option label="Greece" value="GR">Greece</option>
+<option label="Greenland" value="GL">Greenland</option>
+<option label="Grenada" value="GD">Grenada</option>
+<option label="Guadeloupe" value="GP">Guadeloupe</option>
+<option label="Guam" value="GU">Guam</option>
+<option label="Guatemala" value="GT">Guatemala</option>
+<option label="Guernsey" value="GG">Guernsey</option>
+<option label="Guinea" value="GN">Guinea</option>
+<option label="Guinea-Bissau" value="GW">Guinea-Bissau</option>
+<option label="Guyana" value="GY">Guyana</option>
+<option label="Haiti" value="HT">Haiti</option>
+<option label="Heard Island and McDonald Islands" value="HM">Heard Island and McDonald Islands</option>
+<option label="Holy See (Vatican City State)" value="VA">Holy See (Vatican City State)</option>
+<option label="Honduras" value="HN">Honduras</option>
+<option label="Hong Kong" value="HK">Hong Kong</option>
+<option label="Hungary" value="HU">Hungary</option>
+<option label="Iceland" value="IS">Iceland</option>
+<option label="India" value="IN">India</option>
+<option label="Indonesia" value="ID">Indonesia</option>
+<option label="Iran, Islamic Republic of" value="IR">Iran, Islamic Republic of</option>
+<option label="Iraq" value="IQ">Iraq</option>
+<option label="Ireland" value="IE">Ireland</option>
+<option label="Isle of Man" value="IM">Isle of Man</option>
+<option label="Israel" value="IL">Israel</option>
+<option label="Italy" value="IT">Italy</option>
+<option label="Jamaica" value="JM">Jamaica</option>
+<option label="Japan" value="JP">Japan</option>
+<option label="Jersey" value="JE">Jersey</option>
+<option label="Jordan" value="JO">Jordan</option>
+<option label="Kazakhstan" value="KZ">Kazakhstan</option>
+<option label="Kenya" value="KE">Kenya</option>
+<option label="Kiribati" value="KI">Kiribati</option>
+<option label="Korea, Democratic People's Republic of" value="KP">Korea, Democratic People's Republic of</option>
+<option label="Korea, Republic of" value="KR">Korea, Republic of</option>
+<option label="Kuwait" value="KW">Kuwait</option>
+<option label="Kyrgyzstan" value="KG">Kyrgyzstan</option>
+<option label="Lao People's Democratic Republic" value="LA">Lao People's Democratic Republic</option>
+<option label="Latvia" value="LV">Latvia</option>
+<option label="Lebanon" value="LB">Lebanon</option>
+<option label="Lesotho" value="LS">Lesotho</option>
+<option label="Liberia" value="LR">Liberia</option>
+<option label="Libya" value="LY">Libya</option>
+<option label="Liechtenstein" value="LI">Liechtenstein</option>
+<option label="Lithuania" value="LT">Lithuania</option>
+<option label="Luxembourg" value="LU">Luxembourg</option>
+<option label="Macao" value="MO">Macao</option>
+<option label="Macedonia, the former Yugoslav Republic of" value="MK">Macedonia, the former Yugoslav Republic of</option>
+<option label="Madagascar" value="MG">Madagascar</option>
+<option label="Malawi" value="MW">Malawi</option>
+<option label="Malaysia" value="MY">Malaysia</option>
+<option label="Maldives" value="MV">Maldives</option>
+<option label="Mali" value="ML">Mali</option>
+<option label="Malta" value="MT">Malta</option>
+<option label="Marshall Islands" value="MH">Marshall Islands</option>
+<option label="Martinique" value="MQ">Martinique</option>
+<option label="Mauritania" value="MR">Mauritania</option>
+<option label="Mauritius" value="MU">Mauritius</option>
+<option label="Mayotte" value="YT">Mayotte</option>
+<option label="Mexico" value="MX">Mexico</option>
+<option label="Micronesia, Federated States of" value="FM">Micronesia, Federated States of</option>
+<option label="Moldova, Republic of" value="MD">Moldova, Republic of</option>
+<option label="Monaco" value="MC">Monaco</option>
+<option label="Mongolia" value="MN">Mongolia</option>
+<option label="Montenegro" value="ME">Montenegro</option>
+<option label="Montserrat" value="MS">Montserrat</option>
+<option label="Morocco" value="MA">Morocco</option>
+<option label="Mozambique" value="MZ">Mozambique</option>
+<option label="Myanmar" value="MM">Myanmar</option>
+<option label="Namibia" value="NA">Namibia</option>
+<option label="Nauru" value="NR">Nauru</option>
+<option label="Nepal" value="NP">Nepal</option>
+<option label="Netherlands" value="NL">Netherlands</option>
+<option label="Netherlands Antilles" value="AN">Netherlands Antilles</option>
+<option label="New Caledonia" value="NC">New Caledonia</option>
+<option label="New Zealand" value="NZ">New Zealand</option>
+<option label="Nicaragua" value="NI">Nicaragua</option>
+<option label="Niger" value="NE">Niger</option>
+<option label="Nigeria" value="NG">Nigeria</option>
+<option label="Niue" value="NU">Niue</option>
+<option label="Norfolk Island" value="NF">Norfolk Island</option>
+<option label="Northern Mariana Islands" value="MP">Northern Mariana Islands</option>
+<option label="Norway" value="NO">Norway</option>
+<option label="Oman" value="OM">Oman</option>
+<option label="Pakistan" value="PK">Pakistan</option>
+<option label="Palau" value="PW">Palau</option>
+<option label="Palestinian Territory, Occupied" value="PS">Palestinian Territory, Occupied</option>
+<option label="Panama" value="PA">Panama</option>
+<option label="Papua New Guinea" value="PG">Papua New Guinea</option>
+<option label="Paraguay" value="PY">Paraguay</option>
+<option label="Peru" value="PE">Peru</option>
+<option label="Philippines" value="PH">Philippines</option>
+<option label="Pitcairn" value="PN">Pitcairn</option>
+<option label="Poland" value="PL">Poland</option>
+<option label="Portugal" value="PT">Portugal</option>
+<option label="Puerto Rico" value="PR">Puerto Rico</option>
+<option label="Qatar" value="QA">Qatar</option>
+<option label="Romania" value="RO">Romania</option>
+<option label="Russian Federation" value="RU">Russian Federation</option>
+<option label="Rwanda" value="RW">Rwanda</option>
+<option label="Réunion" value="RE">Réunion</option>
+<option label="Saint Barthélemy" value="BL">Saint Barthélemy</option>
+<option label="Saint Helena, Ascension and Tristan da Cunha" value="SH">Saint Helena, Ascension and Tristan da Cunha</option>
+<option label="Saint Kitts and Nevis" value="KN">Saint Kitts and Nevis</option>
+<option label="Saint Lucia" value="LC">Saint Lucia</option>
+<option label="Saint Martin (French part)" value="MF">Saint Martin (French part)</option>
+<option label="Saint Pierre and Miquelon" value="PM">Saint Pierre and Miquelon</option>
+<option label="Saint Vincent and the Grenadines" value="VC">Saint Vincent and the Grenadines</option>
+<option label="Samoa" value="WS">Samoa</option>
+<option label="San Marino" value="SM">San Marino</option>
+<option label="Sao Tome and Principe" value="ST">Sao Tome and Principe</option>
+<option label="Saudi Arabia" value="SA">Saudi Arabia</option>
+<option label="Senegal" value="SN">Senegal</option>
+<option label="Serbia" value="RS">Serbia</option>
+<option label="Seychelles" value="SC">Seychelles</option>
+<option label="Sierra Leone" value="SL">Sierra Leone</option>
+<option label="Singapore" value="SG">Singapore</option>
+<option label="Slovakia" value="SK">Slovakia</option>
+<option label="Slovenia" value="SI">Slovenia</option>
+<option label="Solomon Islands" value="SB">Solomon Islands</option>
+<option label="Somalia" value="SO">Somalia</option>
+<option label="South Africa" value="ZA">South Africa</option>
+<option label="South Georgia and the South Sandwich Islands" value="GS">South Georgia and the South Sandwich Islands</option>
+<option label="Spain" value="ES">Spain</option>
+<option label="Sri Lanka" value="LK">Sri Lanka</option>
+<option label="Sudan" value="SD">Sudan</option>
+<option label="Suriname" value="SR">Suriname</option>
+<option label="Svalbard and Jan Mayen" value="SJ">Svalbard and Jan Mayen</option>
+<option label="Swaziland" value="SZ">Swaziland</option>
+<option label="Sweden" value="SE">Sweden</option>
+<option label="Switzerland" value="CH">Switzerland</option>
+<option label="Syrian Arab Republic" value="SY">Syrian Arab Republic</option>
+<option label="Taiwan, Province of China" value="TW">Taiwan, Province of China</option>
+<option label="Tajikistan" value="TJ">Tajikistan</option>
+<option label="Tanzania, United Republic of" value="TZ">Tanzania, United Republic of</option>
+<option label="Thailand" value="TH">Thailand</option>
+<option label="Timor-Leste" value="TL">Timor-Leste</option>
+<option label="Togo" value="TG">Togo</option>
+<option label="Tokelau" value="TK">Tokelau</option>
+<option label="Tonga" value="TO">Tonga</option>
+<option label="Trinidad and Tobago" value="TT">Trinidad and Tobago</option>
+<option label="Tunisia" value="TN">Tunisia</option>
+<option label="Turkey" value="TR">Turkey</option>
+<option label="Turkmenistan" value="TM">Turkmenistan</option>
+<option label="Turks and Caicos Islands" value="TC">Turks and Caicos Islands</option>
+<option label="Tuvalu" value="TV">Tuvalu</option>
+<option label="Uganda" value="UG">Uganda</option>
+<option label="Ukraine" value="UA">Ukraine</option>
+<option label="United Arab Emirates" value="AE">United Arab Emirates</option>
+<option label="United Kingdom" value="GB">United Kingdom</option>
+<option label="United States" value="US">United States</option>
+<option label="United States Minor Outlying Islands" value="UM">United States Minor Outlying Islands</option>
+<option label="Uruguay" value="UY">Uruguay</option>
+<option label="Uzbekistan" value="UZ">Uzbekistan</option>
+<option label="Vanuatu" value="VU">Vanuatu</option>
+<option label="Venezuela, Bolivarian Republic of" value="VE">Venezuela, Bolivarian Republic of</option>
+<option label="Viet Nam" value="VN">Viet Nam</option>
+<option label="Virgin Islands, British" value="VG">Virgin Islands, British</option>
+<option label="Virgin Islands, U.S." value="VI">Virgin Islands, U.S.</option>
+<option label="Wallis and Futuna" value="WF">Wallis and Futuna</option>
+<option label="Western Sahara" value="EH">Western Sahara</option>
+<option label="Yemen" value="YE">Yemen</option>
+<option label="Zambia" value="ZM">Zambia</option>
+<option label="Zimbabwe" value="ZW">Zimbabwe</option>
+<option label="Åland Islands" value="AX">Åland Islands</option>
+
+				</select>
+			</td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="biography" >
+	Bio Statement </label>
+<br />(E.g., department and rank)</td>
+			<td class="value"><textarea name="biography[en_US]" id="biography" rows="5" cols="40" class="textArea"></textarea></td>
+		</tr>
+
+		<tr valign="top">
+			<td class="label">
+<label for="sendPassword" >
+	Confirmation </label>
+</td>
+			<td class="value">
+				<input type="checkbox" name="sendPassword" id="sendPassword" value="1" /> <label for="sendPassword">Send me a confirmation email including my username and password</label>
+			</td>
+		</tr>
+
+					<tr valign="top">
+				<td class="label">Working Languages</td>
+				<td class="value">				<input type="checkbox" name="userLocales[]" id="userLocales-id_ID" value="id_ID" /> <label for="userLocales-id_ID">Bahasa Indonesia</label><br />
+								<input type="checkbox" name="userLocales[]" id="userLocales-en_US" value="en_US" /> <label for="userLocales-en_US">English</label><br />
+				</td>
+			</tr>
+				<tr valign="top">
+		<td class="label">
+<label >
+	Register as </label>
+</td>
+		<td class="value"><input type="checkbox" name="registerAsReader" id="registerAsReader" value="1" checked="checked" /> <label for="registerAsReader">Reader</label>: Notified by email on publication of an issue of the journal.<br />				<input type="checkbox" name="registerAsAuthor" id="registerAsAuthor" value="1" checked="checked"/> <label for="registerAsAuthor">Author</label>: Able to submit items to the journal.<br />		<input type="checkbox" name="registerAsReviewer" id="registerAsReviewer" value="1" /> <label for="registerAsReviewer">Reviewer</label>: Willing to conduct peer review of submissions to the site.		<br /><div id="reviewerInterestsContainer" style="margin-left:25px;">
+			<label class="desc">Identify reviewing interests (substantive areas and research methods):</label>
+			
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#interests").find(".interestsTextOnly").html(null).hide();
+		$("#interests").find(".interestDescription").show();
+		$("#interests").find(".interests").tagit({
+			itemName: "keywords",
+			fieldName: "interests",
+			allowSpaces: true,
+			tagSource: function(search, showChoices) {
+				$.ajax({
+					url: "https://jurnal.uns.ac.id/lar/user/getInterests",
+					data: search,
+					dataType: 'json',
+					success: function(jsonData) {
+						if (jsonData.status == true) {
+							// Must explicitly escape
+							// WARNING: jquery-UI > 1.8.3 supposedly auto-escapes these values.  Reinvestigate when we upgrade.
+							var results = $.map(jsonData.content, function(item) {
+								return escapeHTML(item);
+							});
+							showChoices(results);
+						}
+					}
+				});
+			}
+		});
+	});
+</script>
+
+<div id="interests">
+	<!-- The container which will be processed by tag-it.js as the interests widget -->
+	<ul class="interests">
+			</ul>
+		<!-- If Javascript is disabled, this field will be visible -->
+	<textarea name="interestsTextOnly" rows="5" cols="40" class="interestsTextOnly textArea"></textarea>
+</div>		</div>
+		</td>
+			</tr>
+
+</table>
+
+<br />
+<p><input type="submit" value="Register" class="button defaultButton" /> <input type="button" value="Cancel" class="button" onclick="document.location.href='https://jurnal.uns.ac.id/lar/index'" /></p>
+
+	<p><span class="formRequired">* Denotes required field</span></p>
+<div id="privacyStatement">
+	<h3>Privacy Statement</h3>
+	<p>The names and email addresses entered in this journal site will be used exclusively for the stated purposes of this journal and will not be made available for any other purpose or to any other party.</p>
+</div>
+
+</form>
+
+
+</div><!-- content -->
+<div id="foot"></div></div><!-- main --></div><!-- body --><div id="pageFooter"><div id="standardFooter"><p><strong>Livestock and Animal Research is indexed by:</strong></p><p><a title="Science and Technology Index" href="http://sinta2.ristekdikti.go.id/journals/detail?id=2517" target="_blank"><img src="http://sinta2.ristekdikti.go.id/assets/img/sinta_logo.png" alt="" width="150" /></a>  <img src="http://www.giapjournals.org/uploads/2/6/6/2/26621256/7063199_orig.png?166" alt="Crossref" width="80" /> <a href="https://scholar.google.co.id/citations?user=JNTSExUAAAAJ&amp;hl=en&amp;authuser=2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" alt="google scholar" width="100" height="60" /></a> <img src="https://www.peerwith.com/img/partners/mendeley-logo.png" alt="Mendeley" width="60" height="60" /> <a title="Garuda Ristekdikti" href="http://garuda.ristekdikti.go.id/journal/view/10133" target="_blank"><img src="data:image/gif;base64,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" alt="" /></a> <a title="I-FOCUS" href="http://www.ifocus.my/" target="_self"><img src="data:image/png;base64,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" alt="" /></a> <a title="I-JOURNALS" href="https://www.ijournals.my" target="_self"><img src="data:image/png;base64,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" alt="" /></a> <a title="UDL EDGE" href="http://udledge.com" target="_self"><img src="data:image/png;base64,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" alt="" /></a></p><div id="left"><a href="https://uns.ac.id"><img src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/img/logouns.png" alt="Universitas Sebelas Maret Logo"/></a></div><div style="clear: both; text-align:center"><font color="white">Copyright &copy;  2019 <a href="https://uns.ac.id">Universitas Sebelas Maret</a></font></div></div>
+<script type="text/javascript" src="https://jurnal.uns.ac.id/plugins/themes/unsbaru/js/menu.js"></script>
+</div>
+    <div  id="listFoot"  style="clear: both"></div>
+
+</div><!-- container -->
+
+
+
+
+<script type="text/javascript">
+    
+        $(document).ready(function () {
+
+            $('#userHome').hide();
+            $('#login').hide();
+            $('#register').hide();
+            //change the integers below to match the height of your upper dive, which I called
+            //banner.  Just add a 1 to the last number.  console.log($(window).scrollTop())
+            //to figure out what the scroll position is when exactly you want to fix the nav
+            //bar or div or whatever.  I stuck in the console.log for you.  Just remove when
+            //you know the position.
+            $(window).scroll(function () {
+
+                console.log($(window).scrollTop());
+                if ($(window).scrollTop() > $('#headerTitle').height() - 38) {
+                    $('nav').addClass('navbar-fixed');
+                    $('#userHome').show();
+                    $('#login').show();
+                    $('#register').show();
+                }
+
+                if ($(window).scrollTop() < $('#headerTitle').height() - 37) {
+                    $('nav').removeClass('navbar-fixed');
+                    $('#userHome').hide();
+                    $('#login').hide();
+                    $('#register').hide();
+                }
+            });
+        });
+    
+</script>
+</body>
+</html>

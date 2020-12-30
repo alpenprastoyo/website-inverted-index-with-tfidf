@@ -1,0 +1,81 @@
+<table width="100%">
+<thead>
+<tr>
+<th align="left">No.</th>
+<th align="left">Program Studi</th>
+<th align="left">Akreditasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sp. Psikiatri</td>
+<td>A</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sp. Orthopaedi dan Traumatologi</td>
+<td>A</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Sp. Ilmu Bedah</td>
+<td>A</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sp. Ilmu Penyakit Dalam</td>
+<td>A</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Sp. Anestesiologi dan Reanimasi</td>
+<td>A</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Sp. Ilmu Kesehatan Anak</td>
+<td>A</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Sp. Obstetri dan Ginekologi</td>
+<td>A</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Sp. Patologi Klinik</td>
+<td>A</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Sp. Ilmu Penyakit Saraf</td>
+<td>A</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Sp. Pulmonologi</td>
+<td>A</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Sp. Ilmu Kesehatan THT Bedah Kepala dan Leher</td>
+<td>A</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Sp. Ilmu Penyakit Jantung dan Pembuluh Darah</td>
+<td>B</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Sp. Ilmu Kesehatan Kulit dan Kelamin</td>
+<td>B</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Sp. Radiologi</td>
+<td>B</td>
+</tr>
+</tbody>
+</table></br>

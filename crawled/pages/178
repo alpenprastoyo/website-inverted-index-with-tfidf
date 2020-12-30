@@ -1,0 +1,672 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>
+Pendidikan Matematika UNS | Fakultas Keguruan dan Ilmu Pendidikan &#8211; Universitas Sebelas Maret	</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="https://math.fkip.uns.ac.id/wp-content/themes/twentyten/style.css?ver=20190507" />
+<link rel="pingback" href="https://math.fkip.uns.ac.id/xmlrpc.php">
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Pendidikan Matematika UNS &raquo; Feed" href="https://math.fkip.uns.ac.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Pendidikan Matematika UNS &raquo; Comments Feed" href="https://math.fkip.uns.ac.id/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/math.fkip.uns.ac.id\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://math.fkip.uns.ac.id/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://math.fkip.uns.ac.id/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress_blocks-cgb-style-css-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/embedpress/Gutenberg/dist/blocks.style.build.css' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/embedpress/assets/css/embedpress.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyten-block-style-css'  href='https://math.fkip.uns.ac.id/wp-content/themes/twentyten/blocks.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_ii-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fonticons_fa-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_crop-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-crop.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_modal-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-modal.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_styles-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_profile-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-profile.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_account-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-account.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_misc-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-misc.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_fileupload-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-fileupload.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/pickadate/default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_date-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_datetime_time-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_raty-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-raty.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_scrollbar-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/simplebar.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_tipsy-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-tipsy.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_responsive-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='um_default_css-css'  href='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/css/um-old-default.css' type='text/css' media='all' />
+<link rel='stylesheet' id='olympus-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300i%2C400i%2C600i%2C700i%2C800i%7CRubik%3A300%2C400%2C500%2C600%2C700%2C800%2C900%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&#038;display=swap&#038;ver=2.3.5' type='text/css' media='all' />
+<style id='olympus-google-fonts-inline-css' type='text/css'>
+
+	:root {
+		--font-base: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+		--font-headings: Open Sans;
+		--font-input: Open Sans;
+	}
+	
+</style>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/embedpress/assets/js/pdfobject.min.js' id='embedpress-pdfobject-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/jquery/jquery.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js' id='um-gdpr-js'></script>
+<link rel="https://api.w.org/" href="https://math.fkip.uns.ac.id/wp-json/" />		<style type="text/css">
+			.um_request_name {
+				display: none !important;
+			}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #777777; background-image: url("https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/backdrop-1.png"); background-position: left top; background-size: contain; background-repeat: repeat; background-attachment: scroll; }
+</style>
+	<link rel="icon" href="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Logo-UNS-Biru-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Logo-UNS-Biru-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Logo-UNS-Biru-300x300.png" />
+<meta name="msapplication-TileImage" content="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Logo-UNS-Biru-300x300.png" />
+	<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
+	<style>
+		body, #content, .entry-content, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .widget-area, .widget, .sidebar, #sidebar, footer, .footer, #footer, .site-footer, #site-footer, .entry-content p, .entry-content ol, .entry-content ul, .entry-content dl, .entry-content dt, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
+font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+ }
+#site-title, .site-title, #site-title a, .site-title a, .entry-title, .entry-title a, h1, h2, h3, h4, h5, h6, .widget-title {
+font-family: "Open Sans";
+ }
+button, .button, input, select, textarea, .wp-block-button, .wp-block-button__link {
+font-family: "Open Sans";
+ }
+#site-title, .site-title, #site-title a, .site-title a, #logo, #logo a, .logo, .logo a {
+font-family: "Rubik";
+font-weight: 800;
+ }
+#site-description, .site-description {
+font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+font-style: oblique;
+font-weight: 700;
+ }
+.menu, .page_item a, .menu-item a {
+font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+font-style: normal;
+font-weight: 700;
+ }
+.widget-title, .widget-area h1, .widget-area h2, .widget-area h3, .widget-area h4, .widgets-area h5, .widget-area h6, #secondary h1, #secondary h2, #secondary h3, #secondary h4, #secondary h5, #secondary h6 {
+font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+ }
+.widget-area, .widget, .sidebar, #sidebar, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
+font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+ }
+	</style>
+	<!-- Fonts Plugin CSS -->
+	</head>
+
+<body class="home blog custom-background has-dashicons">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="https://math.fkip.uns.ac.id/" title="Pendidikan Matematika UNS" rel="home">Pendidikan Matematika UNS</a>
+					</span>
+				</h1>
+				<div id="site-description">Fakultas Keguruan dan Ilmu Pendidikan &#8211; Universitas Sebelas Maret</div>
+
+									<img src="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/cropped-LRM_EXPORT_20200623_114608-scaled-1.jpg" width="940" height="198" alt="" />
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+								<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+				<div class="menu-header"><ul id="menu-menu-1" class="menu"><li id="menu-item-3841" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3841"><a href="http://math.fkip.uns.ac.id/" aria-current="page">Home</a></li>
+<li id="menu-item-4810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4810"><a>Profil</a>
+<ul class="sub-menu">
+	<li id="menu-item-3845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3845"><a href="https://math.fkip.uns.ac.id/profil/visi-misi/">Visi Misi</a></li>
+	<li id="menu-item-3846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3846"><a href="https://math.fkip.uns.ac.id/profil/organisasi/">Struktur Organisasi</a></li>
+	<li id="menu-item-3855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3855"><a href="https://math.fkip.uns.ac.id/research-group/">Grup Riset</a></li>
+	<li id="menu-item-3852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3852"><a href="https://math.fkip.uns.ac.id/profil/fasilitas/">Fasilitas</a></li>
+	<li id="menu-item-3848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3848"><a href="https://math.fkip.uns.ac.id/profil/akreditasi/">Akreditasi</a></li>
+	<li id="menu-item-3849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3849"><a href="https://math.fkip.uns.ac.id/profil/dosen/">Dosen</a></li>
+	<li id="menu-item-4648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4648"><a href="https://math.fkip.uns.ac.id/profil/mahasiswa/">Mahasiswa</a></li>
+</ul>
+</li>
+<li id="menu-item-4666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4666"><a>Akademik</a>
+<ul class="sub-menu">
+	<li id="menu-item-3847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3847"><a href="https://math.fkip.uns.ac.id/profil/akademik/">Mata Kuliah</a></li>
+	<li id="menu-item-3866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3866"><a href="https://math.fkip.uns.ac.id/pustaka-online/">Pustaka Online</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3867"><a href="https://math.fkip.uns.ac.id/pustaka-online/e-journal/">e-Journal</a></li>
+		<li id="menu-item-3868" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3868"><a href="https://math.fkip.uns.ac.id/pustaka-online/free-e-journal/">Free e-Journal</a></li>
+		<li id="menu-item-3869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3869"><a href="https://math.fkip.uns.ac.id/pustaka-online/e-book/">e-Book</a></li>
+		<li id="menu-item-3870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3870"><a href="https://math.fkip.uns.ac.id/pustaka-online/download/">Download Pustaka</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4678" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4678"><a>Alumni</a>
+<ul class="sub-menu">
+	<li id="menu-item-3858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3858"><a href="https://math.fkip.uns.ac.id/wisuda-dan-alumni/alumni/">Media</a></li>
+	<li id="menu-item-3859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3859"><a href="https://math.fkip.uns.ac.id/wisuda-dan-alumni/tracer-alumni/">Tracer Alumni</a></li>
+</ul>
+</li>
+<li id="menu-item-4665" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4665"><a>Saran &#038; Keluhan</a>
+<ul class="sub-menu">
+	<li id="menu-item-3865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3865"><a href="https://math.fkip.uns.ac.id/angket/saran-keluhan/">Umum</a></li>
+	<li id="menu-item-3860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3860"><a href="https://math.fkip.uns.ac.id/angket/">Khusus</a>
+	<ul class="sub-menu">
+		<li id="menu-item-3861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3861"><a href="https://math.fkip.uns.ac.id/angket/angket-evaluasi-dosen/">Angket Evaluasi Dosen</a></li>
+		<li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="https://math.fkip.uns.ac.id/angket/angket-layanan-prodi/">Angket Layanan Prodi</a></li>
+		<li id="menu-item-3863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3863"><a href="https://math.fkip.uns.ac.id/angket/angket-osmaru/">Angket OSMARU</a></li>
+		<li id="menu-item-3864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3864"><a href="https://math.fkip.uns.ac.id/angket/angket-pengguna-lulusan/">Angket Pengguna Lulusan</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4783"><a>Teks Tutorial</a>
+<ul class="sub-menu">
+	<li id="menu-item-4792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4792"><a>Mahasiswa</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4804"><a href="https://drive.google.com/file/d/1I1c_Xot3FuGXu5TT-UaptdzeEGr3GFNJ/view?usp=sharing">Register, Login, dan Logout</a></li>
+		<li id="menu-item-4805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4805"><a href="https://drive.google.com/file/d/17w02Yg7ENXoNRYZLKxrx-p17NU35Rety/view?usp=sharing">Perbaruan Data Profil Mahasiswa</a></li>
+		<li id="menu-item-4806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4806"><a href="https://drive.google.com/file/d/1Y1z_FHt0Qzf-XNqaWA_5sWWMQcNT6aIe/view?usp=sharing">Pendaftaran, Pengecekan Status Validasi, serta Pengumuman Pembimbing dan Validator Skripsi</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4790" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4790"><a>Dosen</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4979"><a href="https://drive.google.com/file/d/18ZygD-EmHl_kb94c8a0h3dZT89Ph9mLa/view?usp=sharing">Register, Login, dan Logout</a></li>
+		<li id="menu-item-4808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4808"><a href="https://drive.google.com/file/d/1NHDK7K0p08Bew85wMazr9TjrhgsY2C88/view?usp=sharing">Pengecekan, Pengunduhan, dan Perbaruan Data Profil Dosen</a></li>
+		<li id="menu-item-4809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4809"><a href="https://drive.google.com/file/d/1FzxXshfVRF1iRMhGXBT0i8LZgUvUxPDH/view?usp=sharing">Validasi Data Pendaftaran Skripsi oleh Pembimbing Akademik</a></li>
+		<li id="menu-item-4811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4811"><a href="https://drive.google.com/file/d/1rqZp4P2GV7kEHTwlaHGr423WDdyIuvi1/view?usp=sharing">Validasi Data Pendaftaran serta Pengumuman Pembimbing dan Validator Skripsi oleh Koordinator Skripsi</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4996"><a>Video Tutorial</a>
+<ul class="sub-menu">
+	<li id="menu-item-5052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5052"><a href="https://drive.google.com/file/d/17nz4LaPA0ykxI7Svr4vlo6oc8q1l88Xo/view?usp=sharing">Register, Login, dan Logout</a></li>
+	<li id="menu-item-5054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5054"><a href="https://drive.google.com/file/d/1Mw7yDVKVw6EwbpNMuoCngQgCEVIk829x/view?usp=sharing">Perbaruan Data Profil Dosen</a></li>
+	<li id="menu-item-5056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5056"><a href="https://drive.google.com/file/d/11JVf8Uxofsa8nU6pGOHTF9NIDx2mv8ZZ/view?usp=sharing">Validasi Data Pendaftaran Skripsi oleh Pembimbing Akademik</a></li>
+	<li id="menu-item-5058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5058"><a href="https://drive.google.com/file/d/1sbkqMB2UIZI4ipnK-55vB86LgJToXiTS/view?usp=sharing">Validasi Data Pendaftaran serta Pengumuman Pembimbing dan Validator Skripsi oleh Koordinator Skripsi</a></li>
+</ul>
+</li>
+<li id="menu-item-4296" class="nmr-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4296"><a>Portal</a>
+<ul class="sub-menu">
+	<li id="menu-item-4083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4083"><a href="https://math.fkip.uns.ac.id/login-profil-dosen/">Login</a></li>
+	<li id="menu-item-4065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4065"><a href="https://math.fkip.uns.ac.id/registrasi-profil-dosen/">Register</a></li>
+</ul>
+</li>
+</ul></div>			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+	<div id="nav-above" class="navigation">
+		<div class="nav-previous"><a href="https://math.fkip.uns.ac.id/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+		<div class="nav-next"></div>
+	</div><!-- #nav-above -->
+
+
+
+	
+			<div id="post-4418" class="post-4418 post type-post status-publish format-standard hentry category-litmas">
+			<h2 class="entry-title"><a href="https://math.fkip.uns.ac.id/pendampingan-guru-dalam-menyusun-sendiri-soal-matematika-sejenis-pisa-di-mgmp-matematika-smp-kota-surakarta/" rel="bookmark">PENDAMPINGAN  GURU DALAM MENYUSUN SENDIRI SOAL MATEMATIKA SEJENIS PISA  DI MGMP MATEMATIKA SMP KOTA SURAKARTA</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://math.fkip.uns.ac.id/pendampingan-guru-dalam-menyusun-sendiri-soal-matematika-sejenis-pisa-di-mgmp-matematika-smp-kota-surakarta/" title="1:44 AM" rel="bookmark"><span class="entry-date">September 30, 2020</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://math.fkip.uns.ac.id/author/admin/" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+				
+<figure class="wp-block-image size-large is-resized is-style-default"><img loading="lazy" src="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-s-2-1024x576.png" alt="" class="wp-image-4430" width="570" height="320" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-s-2-1024x576.png 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-s-2-300x169.png 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-s-2-768x432.png 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-s-2.png 1197w" sizes="(max-width: 570px) 100vw, 570px" /></figure>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<p style="text-align: justify;">Dalam rangka <em>benchmarking</em> pencapaian program pendidikan nasional, Indonesia berpartisipasi dalam berbagai studi internasional, salah satunya adalah PISA (<em>Program for International Student Assessment</em>). Soal PISA yang terkait dengan matematika dikembangkan berdasarkan 4 konten, yaitu <em>Shape and Space, Change and Relationship, Quantity</em>, dan <em>Uncertainty</em>. Konten-konten tersebut sudah termuat dalam Kurikulum 2013 mata pelajaran matematika yang tersebar mulai dari kelas VII hingga kelas IX SMP, sehingga logikanya siswa di Indonesia yang berusia 15 tahun (duduk di kelas IX SMP) sudah memahami konten tersebut. Namun faktanya hasil PISA untuk Indonesia tahun 2018 yang telah diumumkan OECD menunjukkan hasil yang tidak sesuai dengan harapan. Pada tahun 2018 skor PISA Indonesia untuk matematika berada di peringkat ke-7&nbsp; dari bawah (79 negara peserta) dengan skor 379 (rata-rata OECD 489). Sebagai pembanding, China dan Singapura menempati peringkat tinggi untuk skor matematika dengan skor 591 dan 569 (<a href="http://litbang.kemdikbud.go.id/pisa">http://litbang.kemdikbud.go.id/pisa</a>).</p>
+
+
+
+<p style="text-align: justify;">Pembiasaan siswa dalam mengerjakan soal-soal sejenis PISA merupakan salah satu langkah yang dapat dilakukan untuk membantu siswa dalam menyelesaikan soal-soal yang menitikberatkan pada penalaran (<em>reasoning</em>). Akan tetapi, masalah yang dihadapi oleh guru adalah kurang tersedianya soal-soal yang didesain khusus yang sesuai dengan potensi siswa dan karakter siswa sehingga diasumsikan bahwa soal-soal tersebut akan membantu mengembangkan potensi siswa menggunakan penalaran (<em>reasoning</em>) dalam setiap menjawab soal. Agar siswa terbiasa dengan soal-soal tersebut maka guru perlu diberikan sosialisasi tentang apa dan bagaimana karakteristik dan <em>framework</em> tentang soal-soal PISA dengan cara mengembangkan dan mengadaptasikan soal-soal model PISA untuk diimplementasikan dalam proses pembelajaran di kelas. Apabila hal ini bisa diantisipasi dengan baik, kemudian guru dapat mengupayakan perbaikan sistem pembelajaran yang saat ini ada, dengan mengenalkan soal soal sejenis PISA dalam formatif tes yang dilakukan dalam pembelajaran, maka pada tahun 2021 capaian PISA di Indonesia berpeluang&nbsp; akan mendekati capaian rerata negara-negara OECD.</p>
+</div></div>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-d-2-1024x575.png" alt="" class="wp-image-4431" width="561" height="315" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-d-2-1024x575.png 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-d-2-300x168.png 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-d-2-768x431.png 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2020/09/Pengabdian-Pak-Imamdkk-d-2.png 1140w" sizes="(max-width: 561px) 100vw, 561px" /></figure>
+
+
+<p style="text-align: justify;">Menindaklanjuti hal tersebut Tim Pengabdian kepada Masyarakat melalui Riset Grup Pembelajaran Matematika Pendidikan Dasar dan Menengah, Program Studi Pendidikan Matematika, FKIP, Universitas Sebelas Maret yang terdiri dari Dr. Imam Sujadi, M.Si., Prof. Dr. Budiyono, M.Sc., Ira Kurniawati, S.Si., M.Pd., Arum Nur Wulandari, S.Pd., M.Pd., dan Riki Andriatna, S.Pd., M.Pd. bekerja sama dengan Tim MGMP Matematika Kota Surakarta menyelenggarakan kegiatan “Pendampingan&nbsp; Guru dalam Menyusun Sendiri Soal Matematika Sejenis PISA&nbsp; di MGMP Matematika SMP Kota Surakarta.” Kegiatan ini melibatkan 34 guru Matematika yang dilakukan dengan sistem daring dikarenakan situasi pandemi Covid-19. Walaupun dilakukan dengan sistem daring, peserta pendampingan aktif dan antusias dalam mengikuti setiap tahapan kegiatan pendampingan. Pendampingan dilaksanakan selama tiga hari yaitu tanggal 2, 3, dan 17 September 2020.</p>
+<p id="block-0fa1452b-84ab-48f4-9a88-6bcd4e466980" class="block-editor-block-list__block wp-block rich-text block-editor-rich-text__editable wp-block" style="text-align: justify;" tabindex="0" role="textbox" contenteditable="true" aria-label="Paragraph block" aria-multiline="true" data-block="0fa1452b-84ab-48f4-9a88-6bcd4e466980" data-type="core/paragraph" data-title="Paragraph">Kegiatan diawali dengan penyampaian materi mengenai Pengantar PISA dan Mengembangkan Aktifitas Pembelajaran dan Penilaian di masa Pandemi Covid-19. Selanjutnya para guru juga dibekali materi Penyusunan Soal Matematika Sejenis PISA yang ditindaklanjuti dengan praktik membuat soal, diskusi, dan implementasi. Soal-soal yang sudah dibuat oleh guru diharapkan dapat digunakan pada pembelajaran matematika di sekolah tempat guru tersebut mengajar sehingga siswa dapat berlatih mengerjakan soal-soal sejenis PISA. Dengan kegiatan ini diharapkan terjadi peningkatan kemampuan berpikir kritis, kemampuan penalaran dan kemampuan pemecahan masalah siswa dalam menyelesaikan soal sejenis PISA, baik berupa soal penalaran, pemecahan masalah maupun literasi matematika.</p>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/litmas/" rel="category tag">Penelitian &amp; Pengabdian</a>					</span>
+					<span class="meta-sep">|</span>
+				
+				
+				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on PENDAMPINGAN  GURU DALAM MENYUSUN SENDIRI SOAL MATEMATIKA SEJENIS PISA  DI MGMP MATEMATIKA SMP KOTA SURAKARTA</span></span></span>
+
+							</div><!-- .entry-utility -->
+		</div><!-- #post-4418 -->
+
+		
+	
+
+	
+			<div id="post-3499" class="post-3499 post type-post status-publish format-standard hentry category-berita">
+			<h2 class="entry-title"><a href="https://math.fkip.uns.ac.id/penggunaan-aplikasi-kosipin-sebagai-langkah-akuntabilitas-pada-koperasi-simpan-pinjam-gemah-ripah-desa-busukan-kelurahan-mojosongo-surakarta/" rel="bookmark">Penggunaan Aplikasi “Kosipin” Sebagai Langkah Akuntabilitas Pada Koperasi Simpan Pinjam “Gemah Ripah” Desa Busukan,  Kelurahan Mojosongo, Surakarta</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://math.fkip.uns.ac.id/penggunaan-aplikasi-kosipin-sebagai-langkah-akuntabilitas-pada-koperasi-simpan-pinjam-gemah-ripah-desa-busukan-kelurahan-mojosongo-surakarta/" title="8:33 AM" rel="bookmark"><span class="entry-date">November 13, 2019</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://math.fkip.uns.ac.id/author/admin/" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+				
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-1024x768.jpg" alt="" class="wp-image-3500" width="466" height="350" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-1024x768.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-300x225.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-768x576.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny.jpg 1280w" sizes="(max-width: 466px) 100vw, 466px" /></figure></div>
+
+
+<p style="text-align: justify;">Kegiatan P2M yang dilaksanakan oleh Tim P2M Prodi Pendidikan Matematika FKIP UNS, yang terdiri dari Henny Ekana C, S.Si, M.Pd, Dr Triyanto, M.Si , Dr Farida Nurhasanah M.Pd, Getut Pramesti, S.Si, M.Si, dan Rubono Setyawan S. Si, M.Sc, bertujuan untuk mengembangkan aplikasi manajemen keuangan dengan menggunakan Microsoft Access. Microsoft Access adalah program aplikasi keluaran Microsoft yang berguna untuk membuat, mengolah, dan mengelola database (basis data) model relasional, karena terdiri dari lajur kolom dan lajur baris (Nana Suarna, 2011). Sifat relasional manajerial dari Microsoft Acces inilah yang tim abdimas gunakan dalam pengembangan program aplikasi pada sistem manajemen administrasi koperasi simpan pinjam, untuk menghasilkan sebuah informasi administrasi yang akuntabel dan efektif.</p>
+<p style="text-align: justify;">Kegiatan P2M ini dilaksanakan dari bulan Mei-Oktober 2019, dengan tahapan-tahapan pendekatan prototyping, yang dimulai dari analisa kebutuhan terkait aplikasi yang akan dikembangkan seperti data apa saja yang dibutuhkan dalam aplikasi tersebut melalui wawancara dan observasi ke pengurus koperasi sebagai perencanaan awal. Tahap selanjutnya adalah pengembangan desain. Pada kegiatan pengembangan desain, tim abdimas melibatkan mahasiswa Pendidikan Matematika : Sugeng Sulistiyawan NIM K1315050. Desain aplikasi yang dipilih adalah menggunakan Microsoft Acces, karena kemampuannya dapat digunakan untuk mengolah database yang saling berhubungan sehingga menghasilkan informasi (report) semua input data yang dilakukan oleh user (dalam hal ini pengurus koperasi) tentang aktivitas keanggotaan seperti peminjaman, riwayat peminjaman, setoran tabungan (simpanan), jumlah anggota dll sehingga memudahkan pengurus untuk melakukan administrasi, perubahan data aktivitas ataupu melakukan edit data dengan cepat. Adapun beberapa tampilan dari hasil pengembangan aplikasi adalah sebagai berikut :</p>
+<p style="text-align: justify;"><span lang="EN-US" style="line-height: 150%; font-family: 'Tahoma','sans-serif'; font-size: 12pt;"><span style="color: #000000;">Tampilan awal aplikasi, berisi data anggota : nama, alamat, nomor keanggotaan dan nomor telpon anggota</span></span></p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-2.jpg" alt="" class="wp-image-3501" width="626" height="361" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-2.jpg 640w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-2-300x173.jpg 300w" sizes="(max-width: 626px) 100vw, 626px" /></figure></div>
+
+
+<p style="text-align: justify;"><span lang="EN-US" style="line-height: 150%; font-family: 'Tahoma','sans-serif'; font-size: 12pt;"><span style="color: #000000;">Tampilan pada menu pinjaman</span></span></p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-3.jpg" alt="" class="wp-image-3502" width="657" height="347" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-3.jpg 858w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-3-300x158.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Bu-Henny-3-768x405.jpg 768w" sizes="(max-width: 657px) 100vw, 657px" /></figure></div>
+
+
+<p style="text-align: justify;">Sedangkan tahap uji hasil pengembangan aplikasi, dilaksanakan pada tanggal 28 September 2019, pada rapat anggota koperasi simpan pinjam “GEMAH RIPAH” Busukan, Mojosongo, Surakarta.</p>
+<p style="text-align: justify;">Dari kegiatan pelaksanaan penggunaan aplikasi tersebut diperoleh respon positif baik dari anggota koperasi maupun pengurus, bahwa dengan aplikasi tersebut membantu dan memudahkan dalam pelaksanaan manajemen koperasi memberikan kemudahan anggota untuk melihat data/mengakses administrasi yang dilakukan pengurus atas semua kegiatan keuangan koperasi dengan cepat, tepat dan akuntabel, karena pengelolaan koperasi tersebut masih dikelola oleh warga sendiri yang notabene kepengurusan bersifat kerelaan warga tanpa ada keterikatan administrasi, sehingga pengurus tidak bisa sepenuhnya “all out” terjun dalam manajemen koperasi. Namun, penting untuk bagaimana membuat koperasi bagi masyarakat khususnya warga sekitar tetap terbuka dan berdiri atas kesadaran masyarakat sendiri, melalui penerapan prinsip-prinsip keuangan yang bertanggung jawab kepada anggota demi keberlanjutan usaha.</p>
+
+
+<p></p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/berita/" rel="category tag">Berita</a>					</span>
+					<span class="meta-sep">|</span>
+				
+				
+				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Penggunaan Aplikasi “Kosipin” Sebagai Langkah Akuntabilitas Pada Koperasi Simpan Pinjam “Gemah Ripah” Desa Busukan,  Kelurahan Mojosongo, Surakarta</span></span></span>
+
+							</div><!-- .entry-utility -->
+		</div><!-- #post-3499 -->
+
+		
+	
+
+	
+			<div id="post-3491" class="post-3491 post type-post status-publish format-standard hentry category-berita category-litmas">
+			<h2 class="entry-title"><a href="https://math.fkip.uns.ac.id/pelatihan-implementasi-assessment-for-learning-dan-assessment-as-learning-bagi-guru-guru-matematika-smp-di-kota-surakarta/" rel="bookmark">Pelatihan Implementasi Assessment For Learning dan Assessment as Learning bagi Guru-Guru Matematika SMP di Kota Surakarta</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://math.fkip.uns.ac.id/pelatihan-implementasi-assessment-for-learning-dan-assessment-as-learning-bagi-guru-guru-matematika-smp-di-kota-surakarta/" title="10:48 AM" rel="bookmark"><span class="entry-date">November 6, 2019</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://math.fkip.uns.ac.id/author/admin/" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+				
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-1-1024x575.jpg" alt="" class="wp-image-3492" width="521" height="293" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-1-1024x575.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-1-300x169.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-1-768x431.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-1.jpg 1280w" sizes="(max-width: 521px) 100vw, 521px" /></figure></div>
+
+
+<p style="text-align: justify;">Menurut Panduan Penilaian oleh Pendidik dan Satuan Pendidikan untuk Sekolah Menengah Pertama yang dikeluarkan oleh Direktorat Pembinaan Sekolah Menengah Pertama (DPSMP), Direktorat Jenderal Pendidikan dan Menengah, Kementerian Pendidikan dan Kebudayaan pada tahun 2017, terdapat tiga jenis <em>assessment </em>(penilaian, asesmen), yaitu <em>assessment of learning</em> (AoL), <em>assessment for learning</em> (AfL), dan <em>assessment as learning </em>(AaL). Menurut buku tersebut, AoL merupakan penilaian yang dilaksanakan setelah pembelajaran selesai. AfL dilakukan selama proses pembelajaran berlangsung dan tujuan utamanya memberikan umpan balik terhadap proses belajar siswa, memantau kemajuan, dan menentukan kemajuan belajar siswa. AaL adalah pemberian penilaian dengan tujuan untuk meningkatkan metakognisi siswa, yaitu kemampuan siswa untuk menilai kemajuan belajarnya sendiri. Dalam panduan tersebut dinyatakan bahwa seharusnya guru lebih banyak melakukan AaL dibandingkan dengan dua jenis penilaian lainnya.</p>
+<p style="text-align: justify;">Namun kenyataannya, pada praktik penilaian di Indonesia, sebagian besar guru hanya melakukan AoL, sedikit yang telah melakukan AfL dalam bentuk penilaian formatif (walaupun tidak sepenuhnya benar), namun belum banyak guru yang melakukan AaL. Bahkan, buku panduan yang disebutkan di atas, walaupun di awalnya menyatakan bahwa guru seharusnya lebih banyak melakukan AaL, namun pada kenyataannya seluruh isi panduan tersebut hanya memberikan petunjuk mengenai pelaksanaan AoL, tidak memuat petunjuk pelaksanaan AfL dan AaL. Hal ini menunjukkan bahwa AfL dan AaL belum dikenal di Indonesia.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-6-1024x575.jpg" alt="" class="wp-image-3493" width="521" height="292" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-6-1024x575.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-6-300x169.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-6-768x431.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-6.jpg 1280w" sizes="(max-width: 521px) 100vw, 521px" /></figure></div>
+
+
+<p style="text-align: justify;">Untuk memperkenalkan kepada guru-guru Matematika SMP di Kota Surakarta mengenai implementasi AfL dan AaL di kelas, maka Tim Pengabdian Masyarakat Prodi Pendidikan Matematika FKIP UNS, yang terdiri dari Prof. Dr. Budiyono, M.Sc. dan Dr. Mardiyana, M.Si., dibantu oleh beberapa mahasiswa program Magister Pendidikan Matematika FKIP UNS (Ikah Barokah, S.Pd., Yuda Candri Adinata, S.Pd., Indiawati Ayik Imaya, S.Pd., Khairana Idza MW, S.Pd., dan Risky Fadillah, S.Pd.) mengadakan pelatihan implementasi AfL dan AaL kepada guru-guru Matematika SMP di Kota Surakarta. Pelaksanaan pelatihan dikoordinasikan dengan MGMP Matematika SMP Kota Surakarta yang diketuai oleh Bapak Wengku Setyadi, S.Pd. Pelatihan diikuti oleh 52 orang guru Matematika SMP di Kota Surakarta, baik guru dari SMP negeri maupun SMP swasta.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-4-1024x575.jpg" alt="" class="wp-image-3494" width="530" height="298" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-4-1024x575.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-4-300x169.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-4-768x431.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-4.jpg 1280w" sizes="(max-width: 530px) 100vw, 530px" /></figure></div>
+
+
+<p style="text-align: justify;">Sebelum pelaksanaan pelatihan, dilakukan rapat koordinasi antara Tim Pengabdi dengan Pengurus Inti MGMP Matematika SMP yaitu Bpk Wengku Setyadi, S.Pd. (Ketua), Bpk Agus Supriyanto, S.Pd. (Sekretaris), Ibu Diana Indrastuti, S.Pd., M.Pd. (Bendahara), Ibu Dra. Tri Unggul Suwarsi, S.Pd. (Humas), dan Bpk Agus Budi Hartono, S.Pd., M.Pd.</p>
+<p style="text-align: justify;">Pelaksanaan pelatihan dilakukan dalam tahapan berikut. Pada 21 Agustus 2019 diadakan diskusi dan pelatihan mengenai implementasi AfL dan AaL yang diadakan di Aula SMP Negeri 26 Surakarta. Pada 28 Agustus 2019 dan 4 September 2019 kepada para guru dimohon untuk mengimplementasikan AfL dan AaL di kelasnya masing-masing, kemudian menulis laporan dan mengirimkannya kepada Tim Pengabdi paling lambat 11 September 2019. Tanggal 18 September 2019, para guru dimohon untuk kembali berkumpul di Aula SMP Negeri 26 Surakarta untuk mempresentasikan dan mendiskusikan implementasinya masing-masing. Pada kesempatan itu, diberikan sertifikat penghargaan dari Dekan FKIP sebagai penulis laporan terbaik, yaitu: Ibu Ida Nurjannah, S.Pd. dari SMP Negeri 22 Surakarta (sebagai penulis laporan terbaik pertama), Bpk Burhan Taufiq Hidayat, S.Pd. dari SMP Muhammadiyah Program Khusus Kota Barat (sebagai penulis laporan terbaik kedua), dan Bapak Tri Isnadi, S.Pd. dari SMP Negeri 9 Surakarta (sebagai penulis laporan terbaik ketiga). Kegiatan pelatihan ditutup oleh Koordinator MGMP Matematika Kota Surakarta Ibu Anik Indriyani, S.Pd., M.Pd.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-3-1024x575.jpg" alt="" class="wp-image-3495" width="531" height="298" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-3-1024x575.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-3-300x169.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-3-768x431.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-3.jpg 1280w" sizes="(max-width: 531px) 100vw, 531px" /></figure></div>
+
+
+<p style="text-align: justify;">Berdasarkan serangkaian kegiatan pelatihan dan implementasi di lapangan oleh para guru, maka disimpulkan hal-hal berikut.</p>
+<ol>
+<li style="text-align: justify;">Kegiatan pelatihan implementasi <em>assessment for learning</em> (AfL) dan <em>assessment as learning</em> (AaL) bagi guru-guru Matematika SMP di Kota Surakarta telah berjalan dengan baik.</li>
+<li style="text-align: justify;">Pada umumnya guru mengenal AfL sebagai penilaian formatif dan sudah sejak lama mengimplementasikan penilaian formatif tersebut. Namun demikian, kebanyakan guru masih belum mengerti benar makna dan tujuan penilaian formatif itu sendiri. Kebanyakan guru menganggap bahwa jika seorang guru telah memberikan penilaian harian, maka guru tersebut telah melakukan penilaian formatif. Anggapan ini tidak sepenuhnya benar. Penilaian harian dapat berfungsi sebagai penilaian formatif jika hasil pekerjaan siswa diperiksa oleh guru dan bagi siswa-siswa yang melakukan kesalahan diberikan balikan cara memperbaiki kesalahan tersebut. Kecuali hal tersebut, wujud AfL tidak terbatas kepada penilaian harian, tetapi juga kegiatan lain, seperti pemberian pertanyaan di tengah-tengah pembelajaran, yang kemudian diberikan balikan ketika siswa salah menjawab pertanyaan.</li>
+<li style="text-align: justify;">Seharusnya AfL dilaksanakan di tengah-tengah atau selama pembelajaran untuk memperbaiki kesalahan-kesalahan yang dilakukan oleh siswa, tidak seperti penilaian harian yang diberikan di akhir suatu satuan waktu.</li>
+<li style="text-align: justify;">Berbeda dengan AfL, sebagian besar guru belum mengenal dan melaksanakan AaL secara terstruktur dengan baik.</li>
+<li style="text-align: justify;">Pelatihan yang diteruskan dengan implementasi di lapangan telah berhasil meningkatkan pengetahuan dan keterampilan guru dalam melaksanakan AfL dan AaL di kelas, walaupun untuk implementasi AaL masih diperlukan usaha yang lebih keras lagi.</li>
+</ol>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-2-1024x682.jpg" alt="" class="wp-image-3496" width="532" height="355" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-2-1024x682.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-2-300x200.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-2-768x512.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/11/Pengabdian-Pak-Budiyono-2.jpg 1280w" sizes="(max-width: 532px) 100vw, 532px" /></figure></div>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/berita/" rel="category tag">Berita</a>, <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/litmas/" rel="category tag">Penelitian &amp; Pengabdian</a>					</span>
+					<span class="meta-sep">|</span>
+				
+				
+				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Pelatihan Implementasi Assessment For Learning dan Assessment as Learning bagi Guru-Guru Matematika SMP di Kota Surakarta</span></span></span>
+
+							</div><!-- .entry-utility -->
+		</div><!-- #post-3491 -->
+
+		
+	
+
+	
+			<div id="post-3312" class="post-3312 post type-post status-publish format-standard hentry category-berita category-litmas">
+			<h2 class="entry-title"><a href="https://math.fkip.uns.ac.id/pemanfaatan-hasil-program-aksi-for-school-untuk-meningkatkan-pembelajaran-berorientasi-hots-bagi-guru-matematika-smp-kota-surakarta/" rel="bookmark">Pemanfaatan Hasil Program AKSI For School untuk Meningkatkan Pembelajaran Berorientasi HOTS bagi Guru Matematika SMP Kota Surakarta</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://math.fkip.uns.ac.id/pemanfaatan-hasil-program-aksi-for-school-untuk-meningkatkan-pembelajaran-berorientasi-hots-bagi-guru-matematika-smp-kota-surakarta/" title="12:48 AM" rel="bookmark"><span class="entry-date">September 26, 2019</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://math.fkip.uns.ac.id/author/admin/" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+				
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-1-1024x470.jpg" alt="" class="wp-image-3313" width="511" height="233"/></figure></div>
+
+
+<p style="text-align: justify;">Tim Pengabdian Kepada Masyarakat (P3M) Program Studi Pendidikan Matematika FKIP UNS,  bekerja sama dengan Musyawarah Guru Mata Pelajaran (MGMP) Matematika SMP Kota Surakarta telah melaksanakan Pemanfaatan Hasil Program AKSI <em>For School</em> Untuk Meningkatkan Pembelajaran Berorientasi HOTS Bagi Guru Matematika SMP Kota Surakarta pada 24, 31 Juli serta 7, 14 Agustus 2019 bertempat di Aula SMPN 26 Surakarta dengan jumlah peserta 35 Peserta.</p>
+<p style="text-align: justify;">AKSI <em>for school </em>adalah salah satu upaya untuk melakukan perbaikan dan peningkatan kompetensi siswa. Didesain sebagai penilaian formatif yang ringkas, mencakup topik-topik yang esensial dan fundamental, disajikan dalam bentuk modul komputer sehingga memudahkan replikasi dan dokumentasi data. AKSI <em>for school</em> diharapkan menjadi salah satu sumber belajar bagi siswa dan guru. AKSI <em>for school </em> merupakan upaya penjaminan mutu pendidikan secara nasional pada satuan pendidikan SD/MI, dan SMP/MTs.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-2-1024x470.jpg" alt="" class="wp-image-3316" width="527" height="241" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-2-1024x470.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-2-300x138.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-2-768x353.jpg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-2.jpg 1280w" sizes="(max-width: 527px) 100vw, 527px" /></figure></div>
+
+
+<p style="text-align: justify;">Kegiatan pengabdian kepada masyarakat ini dilakukan dengan tujuan 1) Tersosialisasikan kebijakan pemerintah tentang Program AKSI <em>for school</em> ini ke anggota MGMP matematika di Kota Surakarta, 2) Terlatihnya guru-guru matematika di kota Surakarta memanfaatkan Program AKSI yang dikeluarkan oleh PUSPENDIK Kemdikbud, 3) Terdapat 35 guru di kota Surakarta yang sanggup mengimbaskan pengetahuaannya kepada guru-guru matematika dilingkungan sekolah masing masing dan 4) Terinspirasinya guru-guru matematika SMP di Kota Surakarta untuk melakukan pembelajaran yang berorientasi Pada HOTS.</p>
+<p style="text-align: justify;">Kegiatan pengabdian berupa pelatihan dimulai dengan rapat tim P3M Prodi Pendidikan Matematika UNS (Dr. Imam Sujadi, M.Si, Ira Kurniawati, S.Si, M.Pd dan Arum Nur Wulandari, S.Pd, M.Pd) dengan tim inti dari MGMP Matematika SMP Kota Surakarta sebanyak 5 orang untuk mendiskusikan skenario pelatihan, menyiapkan materi pelatihan serta menyiapkan administrasi untuk kegiatan pengabdian tersebut. Selanjutnya Pelatihan dibagi menjadi 4 tahap, yaitu sebagai berikut: 1) Kebijakan pendidikan, Pembekalan tentang penilaian, dan Pembelajaran Abad 21, 2) Pelatihan penggunaan Program AKSI, 3) Pelatihan identifikasi kesulitan siswa dalam menyelesaikan soal HOTS pada program AKSI <em>for school</em>, dan 4) Pelatihan pengembangan pembelajaran untuk mengatasi kesulitas siswa dalam menyelesaikan soal HOTS.</p>
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="http://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-3-1024x769.jpg" alt="" class="wp-image-3318" width="378" height="283" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-3.jpg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-3-300x225.jpg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Pak-Imam-3-768x577.jpg 768w" sizes="(max-width: 378px) 100vw, 378px" /></figure></div>
+
+
+<p style="text-align: justify;">Dari kegiatan yang telah dilakukan, dapat disimpulkan bahwa guru peserta pelatihan Peningkatan Kompetensi Guru dalam menggunakan program AKSI<strong>, </strong>Semua peserta dilatih untuk menjalankan Program AKSI dan semua guru bisa menggunakan program tersebut.</p>
+<p style="text-align: justify;">Selain itu terjadi Peningkatan Kompetensi Guru dalam menganalisi soal HOTS, dan dengan gan berkelompok guru mampu menganalisis soal dalam Program AKSI dan memanfaat untuk merancang pembelajaran berdasar analisis tersebut. Kegitan pelatihan ini juga memotivasi guru-guru agar lebih banyak memanfaatkan TIK dalam pembelajaran dan tidak terbatas hanya pada perangkat komputer atau laptop. Pelatihan ini dilakukan selama 32 Jp, sehingga secara administratif pelatihan ini bermanfaat untuk Guru dalam melakukan PKB untuk menunjang karir Guru.</p>
+<p><strong> </strong></p>							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/berita/" rel="category tag">Berita</a>, <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/litmas/" rel="category tag">Penelitian &amp; Pengabdian</a>					</span>
+					<span class="meta-sep">|</span>
+				
+				
+				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Pemanfaatan Hasil Program AKSI For School untuk Meningkatkan Pembelajaran Berorientasi HOTS bagi Guru Matematika SMP Kota Surakarta</span></span></span>
+
+							</div><!-- .entry-utility -->
+		</div><!-- #post-3312 -->
+
+		
+	
+
+	
+			<div id="post-3247" class="post-3247 post type-post status-publish format-standard hentry category-berita">
+			<h2 class="entry-title"><a href="https://math.fkip.uns.ac.id/pelatihan-pengembangan-media-pembelajaran-interaktif-bagi-guru-sd-di-colomadu/" rel="bookmark">Pelatihan Pengembangan Media Pembelajaran Interaktif Bagi Guru SD di Colomadu</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="https://math.fkip.uns.ac.id/pelatihan-pengembangan-media-pembelajaran-interaktif-bagi-guru-sd-di-colomadu/" title="3:14 PM" rel="bookmark"><span class="entry-date">August 20, 2018</span></a> <span class="meta-sep">by</span> <span class="author vcard"><a class="url fn n" href="https://math.fkip.uns.ac.id/author/admin/" title="View all posts by admin">admin</a></span>			</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+				<p><a href="http://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-1.jpeg"><img loading="lazy" class="aligncenter size-medium wp-image-3248" src="http://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-1-300x225.jpeg" alt="" width="300" height="225" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-1-300x225.jpeg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-1-768x576.jpeg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-1-1024x768.jpeg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-1.jpeg 1040w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: justify;">Tim Pengabdian Kepada Masyarakat Prodi Pendidikan Matematika FKIP UNS bekerja sama dengan Kelompok Kerja Guru  (KKG) SD Kecamatan Colomadu telah melaksanakan Pelatihan Pengembangan Media Pembelajaran Interaktif untuk Meningkatkan Literasi Matematika Siswa pada 6-9 Agustus 2018. Tujuan kegiatan ini adalah untuk memberikan  wawasan, pengetahuan, dan ketrampilan kepada guru-guru sekolah dasar di Colomadu tentang pembuatan media pembelajaran interaktif berbasis TIK untuk meningkatkan literasi matematika siswa. Keterampilan dalam mengembangkan  media pembelajaran dibutuhkan oleh guru karena dengan pengembangan dan pemilihan media yang tepat maka pembelajaran bisa berlangsung efisien dan efektif. Media pembelajaran berbasis aplikasi komputer memiliki keunggulan dalam hal kepraktisan dan mudah dimodifikasi sesuai kebutuhan. Kondisi literasi siswa di Indonesia secara umum masih dalam kategori rendah. Kondisi literasi yang secara umum terjadi di Indonesia juga terjadi di Kecamatan Colomadu. Oleh karena itu dalam menumbuhkan budaya literasi di lingkungan sekolah, ruang kelas perlu diperkaya dengan bahan-bahan kaya teks yang bisa berupa media pembelajaran berbasis komputer dan/atau perangkat elektronik lain yang mendukung kegiatan literasi.</p>
+<p><a href="http://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-2.jpeg"><img loading="lazy" class="aligncenter size-medium wp-image-3254" src="http://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-2-300x225.jpeg" alt="" width="300" height="225" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-2-300x225.jpeg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-2-768x576.jpeg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-2-1024x768.jpeg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.16.00-2.jpeg 1040w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: justify;">Kegiatan pengabdian berupa pelatihan dimulai dengan FGD tentang literasi matematika sekolah dasar dengan pengisi materi Sutopo, M.Pd dan persiapan teknis pemasangan aplikasi penunjang. Selanjutnya peserta dilatih untuk membuat peta konsep interaktif; pembuatan kuis interaktif, <em>e-book</em>, dan <em>dictionary</em>; dengan pengisi materi Dhidhi Pambudi, S.Si.,M.Cs dan Arum Nur Wulandari, M.Pd. Pada akhir pelatihan dilakukan pendampingan untuk mengimplementasikan media interaktif matematia di kelas. Implementasi di kelas dilaksanakan pada kelas 2 dan kelas 5 SD Negeri 01 Gawanan dengan menggunakan media yang dibuat sendiri oleh guru peserta pelatihan. Peserta pelatihan yang lain melakukan observasi dan pemandu siswa untuk menggunakan media.</p>
+<p><a href="http://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.14.44.jpeg"><img loading="lazy" class="aligncenter size-medium wp-image-3249" src="http://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.14.44-300x225.jpeg" alt="" width="300" height="225" srcset="https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.14.44-300x225.jpeg 300w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.14.44-768x576.jpeg 768w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.14.44-1024x768.jpeg 1024w, https://math.fkip.uns.ac.id/wp-content/uploads/2018/11/WhatsApp-Image-2018-08-10-at-15.14.44.jpeg 1040w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: justify;">Dari kegiatan yang telah dilakukan, dapat disimpulkan bahwa guru peserta pelatihan mampu membuat media pembelajaran interaktif berbasis TIK. Selain itu juga terjadi peningkatan jumlah siswa yang memberikan respon positif dalam pembelajaran dan terjadi peningkatan jumlah siswa yang memberikan jawaban. Literasi matematika siswa serta minat siswa untuk lebih memperhatikan, bersemangat, senang, dan ceria juga mengalami peningkatan. Semua guru dan siswa sangat setuju jika pembelajaran yang menggunakan media pembelajaran interaktif berbasis TIK dilanjutkan dengan catatan sekolah perlu menyediakan sarana yang mencukupi. Kegitan pelatihan ini juga memotivasi guru-guru agar lebih banyak memanfaatkan TIK dalam pembelajaran dan tidak terbatas hanya pada perangkat komputer atau laptop, tetapi juga bisa memanfaatkan perangkat <em>mobile</em> seperti <em>smartphone</em> atau tablet.</p>
+<p><strong> </strong></p>
+<p>&nbsp;</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+									<span class="cat-links">
+						<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/berita/" rel="category tag">Berita</a>					</span>
+					<span class="meta-sep">|</span>
+				
+				
+				<span class="comments-link"><span>Comments Off<span class="screen-reader-text"> on Pelatihan Pengembangan Media Pembelajaran Interaktif Bagi Guru SD di Colomadu</span></span></span>
+
+							</div><!-- .entry-utility -->
+		</div><!-- #post-3247 -->
+
+		
+	
+
+				<div id="nav-below" class="navigation">
+					<div class="nav-previous"><a href="https://math.fkip.uns.ac.id/page/2/" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="search-3" class="widget-container widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://math.fkip.uns.ac.id/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></li><li id="text-1089256853" class="widget-container widget_text"><h3 class="widget-title">Welcome</h3>			<div class="textwidget">Officially Website of Mathematic Education of Sebelas Maret University
+<br><br>
+Address:<br>
+Lt.3 Gedung D PMIPA FKIP<br>
+Universitas Sebelas Maret<br>
+Jl. Ir. Sutami 36A, Kentingan, Surakarta<br><br>
+Central Java - INDONESIA<br></div>
+		</li><li id="categories-422058703" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>
+			<ul>
+					<li class="cat-item cat-item-57"><a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/agenda/">Agenda</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/akademik/" title="berita akademik, jadwal kuliah, SK Menteri/Rektor/Dekan tentang perkuliahan">Akademik</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/berita/" title="berita, pengumuman">Berita</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/download/">Download</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/mahasiswa/" title="kemahasiswaan, beasiswa, lowongan">Kemahasiswaan</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="https://math.fkip.uns.ac.id/Penggunaan-Aplikasi-“Kosipin”-Sebagai-Langkah-Akuntabilitas-Pada-Koperasi-Simpan-Pinjam-“Gemah-Ripah”-Desa-Busukan-Kelurahan-Mojosongo-Surakarta/litmas/">Penelitian &amp; Pengabdian</a>
+</li>
+			</ul>
+
+			</li><li id="text-1089256852" class="widget-container widget_text"><h3 class="widget-title">Admin</h3>			<div class="textwidget"><!-- Facebook Badge START --><a href="https://web.facebook.com/ariowiraya.wiraya" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Ario Wiraya" rel="noopener noreferrer">Ario Wiraya</a><br/><a href="https://web.facebook.com/ariowiraya.wiraya" target="_TOP" title="Ario Wiraya" rel="noopener noreferrer"><img src="http://badge.facebook.com/badge/100001696192599.1506.747828007.png" width="120" height="60" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/badges/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" END rel="noopener noreferrer"></center></div>
+		</li><li id="linkcat-3" class="widget-container widget_links"><h3 class="widget-title">Internal FKIP</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://sibea.uns.ac.id/" title="Layanan Pengurusan Beasiswa &#8211; Online">Beasiswa</a></li>
+<li><a href="http://fkip.uns.ac.id" title="Official Site of FKIP UNS" target="_blank">FKIP</a></li>
+<li><a href="http://legalisir.fkip.uns.ac.id/" title="Layanan Legalisir Ijazah/Transkrip &#8211; Online" target="_blank">Legalisir</a></li>
+<li><a href="http://up2kt.fkip.uns.ac.id/" title="PPL Online" target="_blank">MAGANG</a></li>
+<li><a href="http://siakad.uns.ac.id/" title="siakad uns" target="_blank">Siakad</a></li>
+<li><a href="http://wisuda.fkip.uns.ac.id/" title="Layanan Pengurusan Wisuda &#8211; Online">Wisuda</a></li>
+
+	</ul>
+</li>
+<li id="text-1089256854" class="widget-container widget_text"><h3 class="widget-title">Kalender Akademik 2019/2020</h3>			<div class="textwidget"><a href="http://math.fkip.uns.ac.id/wp-content/uploads/2019/09/Kaldik-2019-2020.pdf" target="_blank" rel="noopener noreferrer">KEPUTUSAN REKTOR
+UNIVERSITAS SEBELAS MARET
+NOMOR 2255/UN27/HK/2019
+TENTANG
+KALENDER AKADEMIK UNIVERSITAS SEBELAS MARET
+TAHUN AKADEMIK 2019/2020</a></div>
+		</li><li id="calendar-3" class="widget-container widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar" class="wp-calendar-table">
+	<caption>December 2020</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td>
+	</tr>
+	<tr>
+		<td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td id="today">30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table><nav aria-label="Previous and next months" class="wp-calendar-nav">
+		<span class="wp-calendar-nav-prev"><a href="https://math.fkip.uns.ac.id/2020/09/">&laquo; Sep</a></span>
+		<span class="pad">&nbsp;</span>
+		<span class="wp-calendar-nav-next">&nbsp;</span>
+	</nav></div></li><li id="archives-3" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>
+			<ul>
+					<li><a href='https://math.fkip.uns.ac.id/2020/09/'>September 2020</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2019/11/'>November 2019</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2019/09/'>September 2019</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2018/08/'>August 2018</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2017/09/'>September 2017</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2017/08/'>August 2017</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2016/09/'>September 2016</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2016/08/'>August 2016</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2015/10/'>October 2015</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2015/08/'>August 2015</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2014/09/'>September 2014</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2013/09/'>September 2013</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2013/02/'>February 2013</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2012/10/'>October 2012</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2012/09/'>September 2012</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2012/02/'>February 2012</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2011/11/'>November 2011</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2011/07/'>July 2011</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2011/06/'>June 2011</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2010/04/'>April 2010</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2010/03/'>March 2010</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2009/09/'>September 2009</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2009/08/'>August 2009</a></li>
+	<li><a href='https://math.fkip.uns.ac.id/2009/07/'>July 2009</a></li>
+			</ul>
+
+			</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<a href="https://math.fkip.uns.ac.id/" title="Pendidikan Matematika UNS" rel="home">
+					Pendidikan Matematika UNS				</a>
+							</div><!-- #site-info -->
+
+			<div id="site-generator">
+								<a href="https://wordpress.org/" class="imprint" title="Semantic Personal Publishing Platform">
+					Proudly powered by WordPress.				</a>
+			</div><!-- #site-generator -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+
+<div id="um_upload_single" style="display:none"></div>
+<div id="um_view_photo" style="display:none">
+
+	<a href="javascript:void(0);" data-action="um_remove_modal" class="um-modal-close"
+	   aria-label="Close view photo modal">
+		<i class="um-faicon-times"></i>
+	</a>
+
+	<div class="um-modal-body photo">
+		<div class="um-modal-photo"></div>
+	</div>
+
+</div><script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/embedpress/assets/js/front.js' id='embedpress-front-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js' id='select2-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-crop.min.js' id='um_crop-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js' id='um_modal-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js' id='um_jquery_form-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js' id='um_fileupload-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js' id='um_datetime-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js' id='um_datetime_date-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js' id='um_datetime_time-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://math.fkip.uns.ac.id/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-raty.min.js' id='um_raty-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js' id='um_tipsy-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/masonry.min.js' id='masonry-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/jquery/jquery.masonry.min.js' id='jquery-masonry-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/simplebar.min.js' id='um_scrollbar-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js' id='um_functions-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js' id='um_responsive-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js' id='um_conditional-js'></script>
+<script type='text/javascript' id='um_scripts-js-extra'>
+/* <![CDATA[ */
+var um_scripts = {"nonce":"aa2ae87d58"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js' id='um_scripts-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js' id='um_profile-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-content/plugins/ultimate-member/assets/js/um-account.min.js' id='um_account-js'></script>
+<script type='text/javascript' src='https://math.fkip.uns.ac.id/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+		<script type="text/javascript">
+			jQuery( window ).on( 'load', function() {
+				jQuery('input[name="um_request"]').val('');
+			});
+		</script>
+	</body>
+</html>

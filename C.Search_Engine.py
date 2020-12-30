@@ -11,6 +11,8 @@ from statistics import mean
 import json
 from bs4 import BeautifulSoup
 from flask import Flask, render_template, request
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
 '''
 This script is the main program of this project, by running it the user is displayed a GUI where he can choose some
 settings and start running his queries and seeing the results
@@ -18,42 +20,33 @@ settings and start running his queries and seeing the results
 
 def tokenize_and_remove_punctuations(s):
     s = BeautifulSoup(s, "lxml").text
+    factory = StemmerFactory()
+    stemmer = factory.create_stemmer()
+    s   = stemmer.stem(s)
     translator = str.maketrans('','',string.punctuation)
     modified_string = s.translate(translator)
     modified_string = ''.join([i for i in modified_string if not i.isdigit()])
     return nltk.word_tokenize(modified_string)
 
 def get_stopwords():
-    stop_words = [word for word in open('stopwords.txt','r').read().split('\n')]
+    factory = StopWordRemoverFactory()
+    stop_words = factory.get_stop_words()
     return stop_words
 
-def parse_data(contents):
-    contents = contents.lower()
-    title_start = contents.find('<title>')
-    title_end = contents.find('</title>')
-    title = contents[title_start+len('<title>'):title_end]
-    text_start = contents.find('<text>')
-    text_end = contents.find('</text>')
-    text = contents[text_start+len('<text>'):text_end]
-    return title+" "+text
-
 def stem_words(tokens):
-    stemmer = PorterStemmer()
-    stemmed_words = [stemmer.stem(token) for token in tokens]
-    return stemmed_words
+    # print(tokens)
+    # stemmer = PorterStemmer()
+    # stemmed_words = [stemmer.stem(token) for token in tokens]
+    # print(stemmed_words)
+    # sys.exit()
+    return tokens
 
 def remove_stop_words(tokens):
     stop_words = get_stopwords()
     filtered_words = [token for token in tokens if token not in stop_words and len(token) > 2]
     return filtered_words
 
-def read_data(path):
-    contents = []
-    for filename in os.listdir(path):
-        data = parse_data(open(path+'/'+filename,'r').read())
-        filename = re.sub('\D',"",filename)
-        contents.append((int(filename),data))
-    return contents
+
 
 def calculate_tf(tokens):
     tf_score = {}

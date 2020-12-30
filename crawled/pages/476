@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta charset="utf-8">
+		<meta name="distribution" content="global" />
+		<meta name="robots" content="follow, all" />
+		<meta name="language" content="en, sv" />
+		<meta name="google-site-verification" content="sDkjkHlZkLCg_93NJIwpC-GhT_OuB5HSe0iHlkN7Hwk" />
+		<meta name="description" content="-" />
+		<meta name="keywords" content="digilib, digital, library, uns, ebook, jurnal, journal, skripsi, tugas akhir, thesis, disertasi, penelitian" />
+		<meta name="author" content="H, Bernadette Happy Liony" />
+		<link rel="Top" href="https://digilib.uns.ac.id/" />
+		<link rel="Search" href="https://digilib.uns.ac.id/dokumen/search" />
+		<link rel="icon" type="image/png" href="https://digilib.uns.ac.id/dist/img/logo-uns.png">
+		<link rel="stylesheet" href="https://digilib.uns.ac.id/dist/css/style.css">
+		<link rel="stylesheet" href="https://digilib.uns.ac.id/dist/css/bootstrap.css">
+		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
+		<link rel="stylesheet" href="https://digilib.uns.ac.id/dist/css/datepicker3.css">
+	<!--link rel="stylesheet" href="//cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js">
+	<link rel="stylesheet" href="//cdn.datatables.net/plug-ins/f2c75b7247b/integration/bootstrap/3/dataTables.bootstrap.js"-->
+		<script type="text/javascript" src="https://digilib.uns.ac.id/dist/js/jquery.js"></script>
+		<script type="text/javascript" src="https://digilib.uns.ac.id/dist/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://digilib.uns.ac.id/dist/js/bootstrap-datepicker3.js"></script>
+		<title>Analisis Yuridis Akta Jaminan Fidusia Perjanjian Kredit Bank ditinjau dari Undang - Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia</title>
+	
+		<meta name="DC.title" content="Analisis Yuridis Akta Jaminan Fidusia Perjanjian Kredit Bank ditinjau dari Undang - Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia" />
+		<meta name="DC.creator" content="H, Bernadette Happy Liony" />
+		<meta name="DC.subject" content="JAMINAN FIDUSIA " />
+		<meta name="DC.description" content="-" />
+		<meta name="DC.type" content="Undergraduate Thesis" />
+		<meta name="DC.type" content="NonPeerReviewed" />
+		<meta name="DC.format" content="application/pdf" />
+		<meta name="DC.identifier" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODUz/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-HALAMAN-DEPAN.pdf" />
+		<meta name="DC.format" content="application/pdf" />
+		<meta name="DC.identifier" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU0/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-I.pdf" />
+		<meta name="DC.format" content="application/pdf" />
+		<meta name="DC.identifier" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU1/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-II.pdf" />
+		<meta name="DC.format" content="application/pdf" />
+		<meta name="DC.identifier" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU4/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-III.pdf" />
+		<meta name="DC.format" content="application/pdf" />
+		<meta name="DC.identifier" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU5/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-IV.pdf" />
+		<meta name="DC.format" content="application/pdf" />
+		<meta name="DC.identifier" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODYw/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-DAFTAR-PUSTAKA.pdf" />
+		<meta name="DC.identifier" content="H, Bernadette Happy Liony (2011) Analisis Yuridis Akta Jaminan Fidusia Perjanjian Kredit Bank ditinjau dari Undang - Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia" />
+		<meta name="DC.relation" content="https://digilib.uns.ac.id/dokumen/79563/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia" />
+		
+		<meta name="citation_author" content="H, Bernadette Happy Liony">
+		<meta name="citation_abstract_html_url" content="https://digilib.uns.ac.id/dokumen/79563/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia">
+		<meta name="citation_date" content="2011">
+		<meta name="citation_publisher" content="UNS (Sebelas Maret University)">
+		<meta name="citation_language" content="id">
+			<meta name="citation_keywords" content="Undergraduate Theses" />
+		<meta name="citation_title" content="Analisis Yuridis Akta Jaminan Fidusia Perjanjian Kredit Bank ditinjau dari Undang - Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia">
+		<meta name="citation_pdf_url" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODUz/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-HALAMAN-DEPAN.pdf">
+		<meta name="citation_pdf_url" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU0/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-I.pdf">
+		<meta name="citation_pdf_url" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU1/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-II.pdf">
+		<meta name="citation_pdf_url" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU4/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-III.pdf">
+		<meta name="citation_pdf_url" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODU5/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-BAB-IV.pdf">
+		<meta name="citation_pdf_url" content="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODYw/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-DAFTAR-PUSTAKA.pdf">
+	</head>
+    <body>
+        <section id="header">
+            <div id="container" style="width: 100%; margin: 0px; padding: 0px;">
+                <div class="col-md-2 col-xs-2" style="background-color: #17365D; height: 130px; padding-left: 62px; padding-top: 15px;">
+                    <a href="https://digilib.uns.ac.id/"><img src="https://digilib.uns.ac.id/dist/img/uns-active.png" height="101px" width="141px"></a>
+				</div>
+				<div class="col-md-8 col-xs-8" style="background-color: #17365D; height: 130px; padding-left: 20px; padding-top: 20px; color:#FFF; font-size:32px;">
+                    UPT Perpustakaan<br>Universitas Sebelas Maret
+				</div>
+				<div class="col-md-2 col-xs-2" style="background-color: #17365D; height: 130px; padding-left: 40px; padding-top: 5px;">
+                    <a href="https://library.uns.ac.id"><img src="https://digilib.uns.ac.id/dist/img/logo-perpus.png" height="120px" width="100px"></a>
+				</div>
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px;">
+					
+                </div>
+            </div>
+        </section>
+        <section id="menu">
+            <div id="container" style="width: 100%;">
+                <div class="col-md-12 col-xs-18" style="background-color: #17365D; height: auto; color: #FFF;">
+                    <div class="row">
+                        <div class="col-md-4 col-xs-4" style="font-size: 32px;">
+                            <div style="padding: 10px;">Digital Library</div>
+                        </div>
+                        <div class="col-md-8 col-xs-8">
+                            <!--<div class="top-menu">-->
+    <nav class="navbar navbar-default navbar-right" role="navigation">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" 
+                    data-target="#example-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse" id="example-navbar-collapse">
+            <ul class="nav navbar-nav">
+                                        <li><a href="https://digilib.uns.ac.id/">Home</a></li>
+                				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        Dokumen <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/fakultas/">Fakultas</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/jenis">Jenis Dokumen</a></li>
+                        <li class="divider"></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/recent/">Dokumen Terbaru</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/most_viewed">Dokumen Terbanyak di baca</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/dokumen/tahun/">Dokumen Per Tahun</a></li>
+					</ul>
+                </li>
+				<li><a href="https://digilib.uns.ac.id/user/register">Register</a></li>
+                        <li><a href="https://digilib.uns.ac.id/auth/login">Login</a></li>
+        <!--                <li><a href="https://digilib.uns.ac.id/dokumen/cari">Search</a></li>-->
+                <li><a href="https://digilib.uns.ac.id/kontak">Kontak</a></li>
+				<li><a href="https://digilib.uns.ac.id/bebas">Bebas Perpus</a></li>
+				<!--li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        Bebas Perpus <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas">Bebas Peminjaman Perpustakaan dan Penyerahan TA/Skripsi/Tesis/Disertasi</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas/sumbangan_buku">Penyerahan Sumbangan Buku dari FKIP (S1)</a></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas/non_wisuda">Bebas Peminjaman Perpustakaan untuk Profesi / Pengunduran Diri</a></li>
+                        <li class="divider"></li>
+						<li style="text-align: right;"><a href="https://digilib.uns.ac.id/bebas/kerja_praktik">Penyerahan Laporan Kerja Praktik / Laporan Magang</a></li>
+					</ul>
+                </li-->
+                    </ul>
+        </div>
+    </nav>
+<!--</div>-->                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px;">
+                </div>  
+            </div>
+        </section>
+        <section id="search" style="background-color: #F9F8F5;">
+            <div id="container" style="width: 80%; margin: 0px auto;">
+                <div class="row" style="background-color: #FFF;">
+                    <div class="col-md-12 col-xs-18" style="padding: 25px 50px 0px 50px;;">
+                        <div id="simply-search">
+                            <form action="https://digilib.uns.ac.id/dokumen/search" method="post" accept-charset="utf-8">
+                            <input type="text" name="keyword" class="input-simple-search" placeholder="Keyword" required="required">
+                            <button type="submit" class="submit-simple-search">Search</button>
+                            </form>                        </div>
+                        
+                        <div id="advance-search" style="display:none;">
+                            <script language="JavaScript" type="text/JavaScript">
+function showProdi(){
+ if (document.adv.fakultas.value == "1"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+if (document.adv.fakultas.value == "2"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='F01'>Ekonomi  Pembangunan</option><option value='F02'>Manajemen</option><option value='F03'>Akuntansi</option><option value='F11'>S-1 Ekonomi Pembangunan NR</option><option value='F12'>S-1 Manajemen NR</option><option value='F13'>S-1 Akuntansi NR</option><option value='F23'>Pendidikan Profesi Akuntansi</option><option value='F31'>D3 Bisnis Internasional</option><option value='F32'>D3 Manajemen Pemasaran</option><option value='F33'>D3 Akuntansi</option><option value='F34'>D3 Perpajakan</option><option value='F35'>D3 Manajemen Industri</option><option value='F36'>D3 KEU PERBANKAN</option>"}
+if (document.adv.fakultas.value == "3"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='M01'>Matematika</option><option value='M02'>Fisika</option><option value='M03'>Kimia</option><option value='M04'>Biologi</option><option value='M05'>Informatika</option><option value='M06'>Farmasi</option><option value='M21'>Informatika PPD</option><option value='M31'>D3 Ilkom Teknik Informatika</option><option value='M32'>D3 Ilkom Manajemen Informatika</option><option value='M33'>D3 Ilkom Teknik Komputer</option><option value='M34'>D3 TEKNIK KOMPUTER JAR</option><option value='M35'>D3 Farmasi</option><option value='M07'>Statistika</option>"}
+if (document.adv.fakultas.value == "4"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='I01'>Teknik Sipil</option><option value='I02'>Arsitektur</option><option value='I03'>Teknik Industri</option><option value='I04'>Teknik Mesin</option><option value='I05'>Teknik Kimia</option><option value='I06'>Perencanaan Wilayah dan Kota</option><option value='I11'>Teknik Sipil Transfer</option><option value='I13'>Teknik Industri</option><option value='I14'>Teknik Mesin Transfer</option><option value='I15'>Teknik Kimia</option><option value='I81'>D3 Teknik Mesin Produksi</option><option value='I82'>D3 Teknik sipil Transportasi</option><option value='I83'>D3 Teknik Kimia Produksi</option><option value='I84'>D3 Teknik Mesin Industri</option><option value='I85'>D3 Teknik Sipil Bangunan Gedun</option><option value='I86'>D3 Teknik Mesin Otomotif</option><option value='I87'>D3 Teknik Sipil Infra Struktur</option><option value='I88'>D3 Teknik Kimia Lingkun</option><option value='I91'>D3 Pend. Ket. T. Sipil</option><option value='I92'>D2 Pend. Ket. T. Arsite</option><option value='I93'>D3 Pend. Ket. T. Mesin</option><option value='I94'>D3 Teknik Kimia</option><option value='I95'>D2 Pend. Ket. T. Inform</option><option value='I96'>D2 Pend. Ket. T. Indust</option><option value='I07'>Teknik Elektro</option>"}
+if (document.adv.fakultas.value == "5"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='G00'>Pendidikan Dokter</option><option value='G01'>Psikologi</option><option value='G99'>Kedokteran Koasistensi</option>"}
+if (document.adv.fakultas.value == "6"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='E00'>Ilmu Hukum</option><option value='E11'>Hukum NR</option>"}
+if (document.adv.fakultas.value == "7"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='K33'>Pend. Kimia</option><option value='K34'>PDU Tata Niaga</option><option value='K35'>Pendidikan Tek. informasi dan </option><option value='K36'>Pend. Kesehatan dan Rek</option><option value='K40'>Akta/IV</option><option value='K42'>Sastra Jawa</option><option value='K43'>Pend. Biologi</option><option value='K44'>Pend. Sejarah</option><option value='K46'>Pend. Jas. Kes. & Rekreasi</option><option value='K51'>Pend. Khusus/Luar Biasa</option><option value='K54'>Pend. Geografi</option><option value='K56'>Pend. Kepelatihan OR</option><option value='K61'>PGPLB</option><option value='K64'>Pend.Pancasila & Kewgn./PPKN</option><option value='K71'>Pend. Guru Sekolah Dasar (PGSD</option><option value='K72'>PGSD Kebumen</option><option value='K74'>Pend. Ekonomi</option><option value='K81'>S-1 Pendidikan Anak Usia Dini</option><option value='K84'>Pend. Sosiologi Antropologi</option><option value='K12'>Pend. Bhs. & Sastra Ind. & Dae</option><option value='K13'>Pend. Matematika</option><option value='K14'>PDU Akuntansi</option><option value='K15'>Pend. Teknik Bangunan</option><option value='K22'>Pend. Bhs. Inggris</option><option value='K23'>Pend. Fisika</option><option value='K24'>PDU Administrasi Perkantoran</option><option value='K25'>Pend. Teknik Mesin</option><option value='K30'>Akta/III</option><option value='K31'>Bimbingan Konseling</option><option value='K32'>Pend. Seni Rupa</option>"}
+if (document.adv.fakultas.value == "8"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='D01'>Ilmu Administrasi Negara</option><option value='D02'>Ilmu Komunikasi</option><option value='D03'>Sosiologi</option><option value='D04'>Hubungan Internasional</option><option value='D11'>S-1 Administrasi Negara NR</option><option value='D12'>S-1 Ilmu Komunikasi NR</option><option value='D13'>D3 Periklanan</option><option value='D14'>D3 Penyiaran</option><option value='D15'>D3 Manajemen administrasi</option><option value='D16'>D3 Public Relation</option><option value='D17'>D3 Riset dan Pemberdaya</option><option value='D18'>D3 Perpustakaan</option><option value='D32'>Sosiologi NR</option>"}
+if (document.adv.fakultas.value == "9"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='H01'>Agronomi</option><option value='H02'>Ilmu Tanah</option><option value='H03'>Sosial Ekonomi Pertanian</option><option value='H04'>Penyuluhan & Komunikasi Pertan</option><option value='H05'>Produksi Ternak</option><option value='H06'>Teknologi Hasil Pertanian</option><option value='H07'>S-1 Agroekoteknologi</option><option value='H08'>S-1 Agribisnis</option><option value='H09'>Ilmu Dan Teknologi Pangan</option><option value='H11'>Agronomi</option><option value='H12'>Ilmu Tanah</option><option value='H13'>Sosial Ekonomi Pertanian</option><option value='H14'>Teknologi Hasil Pertanian</option><option value='H18'>S-1 Agribisnis Transfer</option><option value='H19'>Ilmu Dan Teknologi Pang</option><option value='H21'>Pertanian PPD</option><option value='H31'>D3 Teknologi Hasil Pertanian</option><option value='H32'>D3 Agribisnis Tanaman Pangan</option><option value='H33'>D3 Agribisnis Hortikultura</option><option value='H34'>D3 Agribisnis Peternakan</option><option value='H35'>D3 Agribisnis Agrofarmaka</option>"}
+if (document.adv.fakultas.value == "11"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='A11'>S-2 Ilmu Lingkungan</option><option value='A12'>S-2 Ilmu Olahraga</option><option value='S94'>S-2 Teknik Sipil</option><option value='S95'>S-2 Teknik Mesin</option><option value='S99'>S-2 Pendidikan Ekonomi</option><option value='T11'>S-3 Linguistik (Linguistik</option><option value='T12'>Linguistik (Pengajaran</option><option value='T13'>S-3 LINGUISTIK PRAGMATIK</option><option value='T14'>S-3 LINGUISTIK PENERJEM</option><option value='T15'>S-3 KAJIAN BUDAYA</option><option value='T31'>S-3 ILMU HUKUM</option><option value='T40'>ILMU EKONOMI</option><option value='T50'>S-3 Ilmu Kedokteran</option><option value='T51'>S3 Ilmu Kesehatan Masyarakat</option><option value='T61'>PENYULUHAN PEMBANGUNAN</option><option value='T62'>S-3 PENYULUHAN PEMBANGUNAN</option><option value='T63'>S-3 PENYULUHAN PEMBANGUNAN</option><option value='T64'>S-3 PENYULUHAN PEMBANGUNAN</option><option value='T65'>S-3 Ilmu Pertanian</option><option value='T71'>ILMU LINGKUNGAN</option><option value='T72'>S-3 ILMU LINGKUNGAN</option><option value='T73'>S-3 ILMU LINGKUNGAN</option><option value='T74'>S-3 ILMU LINGKUNGAN</option><option value='T81'>S-3 ILMU PENDIDIKAN</option><option value='T84'>S-3 PENDIDIKAN BAHASA INDON</option><option value='S01'>S-2 Magister Seni</option><option value='S02'>S2 Ilmu Kesehatan Masyarakat</option><option value='S11'>S-2 Linguistik (Ling. Deskr</option><option value='S12'>Linguistik (Pengembanga</option><option value='S13'>S-2 Linguistik Penerjemahan</option><option value='S15'>S-2 Pendidikan Bahasa Indonesi</option><option value='S20'>Penyakit Kulit dan Kelamin</option><option value='S22'>S-2 Ilmu Komunikasi (Teori</option><option value='S23'>S-2 Ilmu Komunikasi  Manajemen</option><option value='S24'>S-2 Magister Administrasi Publ</option><option value='S25'>S-2 Sosiologi</option><option value='S31'>S-2 Ilmu Hukum (Hukum Kebij</option><option value='S32'>S-2 Ilmu Hukum (Konsentrasi</option><option value='S33'>S-2 Ilmu Hukum Pidana EK</option><option value='S34'>Hukum Islam</option><option value='S35'>S-2 Notariat</option><option value='S41'>S-2 Magister Manajemen</option><option value='S42'>S-2 EKONOMI PEMBANGUNAN</option><option value='S43'>S-2 AKUNTANSI</option><option value='S50'>BIOMEDIK</option><option value='S51'>Ilmu Pendidikan Jiwa PP</option><option value='S52'>S-2 Magister Kedokteran Kel</option><option value='S53'>S-2 Ilmu Gizi</option><option value='S54'>S-2 Magister Kedokteran Kel</option><option value='S55'>Obstetri Ginekologi PPD</option><option value='S56'>Ilmu Bedah</option><option value='S57'>Psikistri</option><option value='S58'>Obsgin PPDS-I</option><option value='S59'>Ilmu Kesehatan Anak PPD</option><option value='S61'>S-2 Agronomi</option><option value='S62'>S-2 Ilmu Peny. Pemb. (Penyu</option><option value='S63'>S-2 Ilmu Peny. Pemb. (Manaj</option><option value='S64'>S-2 Agribisnis</option><option value='S70'>S-2 Kajian Budaya</option><option value='S81'>S-2 Teknologi Pendidikan</option><option value='S82'>S-2 Pend.Kependudukan & Lin</option><option value='S83'>S-2 Pendidikan Sains</option><option value='S84'>S-2 Pendidikan Bahasa Indon</option><option value='S85'>S-2 Pendidikan Matematika</option><option value='S86'>S-2 Pendidikan Sejarah</option><option value='S87'>Med. Education</option><option value='S88'>S-2 Pend.Kependudukan & Lin</option><option value='S89'>S-2 Pendidikan Bhs. Inggris</option><option value='S90'>S-2 Biosains</option><option value='S91'>S-2 Ilmu Fisika</option><option value='S92'>PPDS THT</option><option value='A13'>S-2 Ilmu Lingkungan</option>"}
+if (document.adv.fakultas.value == "12"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+if (document.adv.fakultas.value == "13"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='C06'>Seni Rupa Murni</option><option value='C07'>Desain Komunikasi Visual</option><option value='C08'>Desain Interior</option><option value='C09'>Kriya Seni</option><option value='C95'>D3 Desain Komunikasi Visual</option>"}
+if (document.adv.fakultas.value == "14"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option><option value='C01'>Sastra Jawa</option><option value='C02'>Sastra Indonesia</option><option value='C03'>Sastra Inggris</option><option value='C05'>Ilmu Sejarah</option><option value='C10'>S-1 Sastra Arab</option><option value='C13'>S-1 Sastra Inggris NR</option><option value='C93'>D3 Sastra Inggris</option><option value='C94'>D3 Usaha Perjalanan wisata</option><option value='C96'>D3 Sastra Tionghwa</option><option value='B01'>S-1 Sastra Jawa</option><option value='B02'>S-1 Sastra Indonesia</option><option value='B03'>S-1 Sastra Inggris</option><option value='B04'>S-1 Ilmu Sejarah</option><option value='B05'>S-1 Sastra Arab</option><option value='B31'>D3 Bahasa Inggris</option>"}
+if (document.adv.fakultas.value == "15"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+if (document.adv.fakultas.value == "16"){document.getElementById('prodi').innerHTML = "<option value=''>Semua Prodi</option>"}
+ }
+</script>
+
+<form action="https://digilib.uns.ac.id/dokumen/advanced_search" name="adv" method="post" accept-charset="utf-8">
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    Jenis Dokumen : 
+</div>
+<div class="col-md-8 col-xs-8">
+    <select name="jenis" class="form-control">
+<!--        <option value="">-- Jenis Dokumen --</option>-->
+        <option value="semua">Semua Jenis Dokumen</option>
+                    <option value="10220">Artikel Jurnal Non UNS</option>
+                    <option value="10246">Artikel Jurnal UNS</option>
+                    <option value="10188">Artikel Populer</option>
+                    <option value="10247">Artikel Prosiding</option>
+                    <option value="10285">Book Chapter</option>
+                    <option value="10255">Buku Ajar</option>
+                    <option value="10189">Disertasi</option>
+                    <option value="10186">E-book</option>
+                    <option value="10281">Katalog</option>
+                    <option value="10286">Laporan Magang</option>
+                    <option value="10152">Laporan Penelitian Dosen</option>
+                    <option value="1">Laporan Tugas Akhir (D III)</option>
+                    <option value="1254">Laporan Tugas Akhir (D IV)</option>
+                    <option value="888">Makalah</option>
+                    <option value="10284">Paten</option>
+                    <option value="8472">Pengukuhan Guru Besar</option>
+                    <option value="10282">Poster</option>
+                    <option value="10136">Proposal Skripsi</option>
+                    <option value="10283">Prosiding</option>
+                    <option value="261">Skripsi</option>
+                    <option value="494">Tesis</option>
+            </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    Fakultas : 
+</div>
+<div class="col-md-8 col-xs-8">
+    <select name="fakultas" id="fakultas" onchange="showProdi()" class="form-control">
+<!--        <option value="">-- Fakultas --</option>-->
+        <option value="semua">Semua Fakultas</option>
+                    <option value="7">Fak. KIP</option>
+                    <option value="2">Fak. Ekonomi dan Bisnis</option>
+                    <option value="11">Pascasarjana</option>
+                    <option value="8">Fak. ISIP</option>
+                    <option value="4">Fak. Teknik</option>
+                    <option value="5">Fak. Kedokteran</option>
+                    <option value="1">Fak. Sastra dan Seni Rupa</option>
+                    <option value="6">Fak. Hukum</option>
+                    <option value="3">Fak. MIPA</option>
+                    <option value="9">Fak. Pertanian</option>
+                    <option value="14">Fak. Ilmu Budaya</option>
+                    <option value="13">Fak. Seni Rupa dan Desain</option>
+                    <option value="12">Staf</option>
+                    <option value="15">Non UNS</option>
+                    <option value="16">Fak. Keolahragaan</option>
+            </select>
+</div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    Prodi : 
+</div>
+<div class="col-md-8 col-xs-8">
+    <!--input type="text" name="prodi" class="form-control" /-->
+	<!--div id="prodi"></div-->
+	<select name="prodi" id="prodi" class="form-control">
+		<option value="">Semua Prodi</option>
+    </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    <select name="option1" class="form-control">
+        <option value="judul" selected="selected">Judul</option>
+        <option value="penulis">Penulis</option>
+        <!--option value="penulis_tmb">Penulis Tambahan</option-->
+        <option value="subyek">Subyek</option>
+    </select>
+</div>
+<div class="col-md-6 col-xs-6">
+    <input type="text" name="keyword1" class="form-control">
+</div>
+<div class="col-md-2 col-xs-2">
+    <select name="operator1" class="form-control">
+        <option value="and">AND</option>
+        <option value="or">OR</option>
+        <option value="not">NOT</option>
+    </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    <select name="option2" class="form-control">
+        <option value="judul">Judul</option>
+        <option value="penulis" selected="selected">Penulis</option>
+        <!--option value="penulis_tmb">Penulis Tambahan</option-->
+        <option value="subyek">Subyek</option>
+    </select>
+</div>
+<div class="col-md-6 col-xs-6">
+    <input type="text" name="keyword2" class="form-control">
+</div>
+<div class="col-md-2 col-xs-2">
+    <select name="operator2" class="form-control">
+        <option value="and">AND</option>
+        <option value="or">OR</option>
+        <option value="not">NOT</option>
+    </select>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+<div style="height: 10px;"></div>
+<div class="col-md-1 col-xs-1"></div>
+<div class="col-md-2 col-xs-2">
+    <select name="option3" class="form-control">
+        <option value="judul">Judul</option>
+        <option value="penulis">Penulis</option>
+        <!--option value="penulis_tmb">Penulis Tambahan</option-->
+        <option value="subyek" selected="selected">Subyek</option>
+    </select>
+</div>
+<div class="col-md-6 col-xs-6">
+    <input type="text" name="keyword3" class="form-control">
+</div>
+<div class="col-md-2 col-xs-2">
+    <button type="submit" class="submit-advanced-search">Search</button>
+</div>
+<div class="col-md-1 col-xs-1"></div>
+<div style="clear: both;"></div>
+</form>                        </div>
+                        
+                        <br>
+                        <div id="show_advance" align="center">
+                            <a href="#"><span style="font-size:16px;">Advanced Search</span></a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px; margin-top: 10px;">
+
+                    </div> 
+                </div> 
+            </div>
+        </section>
+        <section id="main" style="background-color: #F9F8F5;">
+            <div id="container" style="width: 80%; margin: 0px auto;">
+                <div class="row" style="padding: 0px 20px; background-color:#FFF;">
+
+                    <!--    ------------------------------ SIDE BAR  ---------------------------------------   -->
+                                            <div class="col-md-4 col-xs-6" style="width: 26%; margin-bottom: 30px;">
+                            <div style="height: 25px;"></div>
+<div class="row">
+    <div class="col-md-12 box-left" style="padding: 0px;">
+        <div class="head-left">
+            Informasi
+        </div>
+        <div class="body-left">
+            <a href="https://digilib.uns.ac.id/informasi/view/10/Legal-Warning">Legal Warning </a><br><a href="https://digilib.uns.ac.id/informasi/view/11/Cara-Menjadi-Anggota">Cara Menjadi Anggota</a><br><a href="https://digilib.uns.ac.id/informasi/view/12/Cara-Akses">Cara Akses</a><br><a href="https://digilib.uns.ac.id/informasi/view/13/Lupa-Password">Lupa Password</a><br><!--            <a href="">Accessibility</a><br>
+            <a href="">Cara Menjadi Anggota</a><br>
+            <a href="">Legal Warning</a>-->
+        </div>
+    </div>
+</div>
+<div style="height: 30px;"></div>
+    <div style="height: 30px;"></div><div class="row">
+    <div class="col-md-12 box-left" style="padding: 0px;">
+        <div class="head-left">
+            Jenis Dokumen
+        </div>
+        <div class="body-left">
+            					<a href="https://digilib.uns.ac.id/dokumen/jenis/10220/Artikel-Jurnal-Non-UNS" data-toggle="tooltip" class="tip-bottom" data-original-title="Artikel yang dipublish di jurnal terbitan kerjasama antara UNS dan luar UNS serta artikel yang dipublish di jurnal terbitan luar UNS.">Artikel Jurnal Non UNS (140)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10246/Artikel-Jurnal-UNS" data-toggle="tooltip" class="tip-bottom" data-original-title="Artikel yang dipublish di jurnal terbitan UNS">Artikel Jurnal UNS (132)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10188/Artikel-Populer" data-toggle="tooltip" class="tip-bottom" data-original-title="Hasil tulisan/artikel yang dipublish di surat kabar atau majalah populer">Artikel Populer (18)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10247/Artikel-Prosiding" data-toggle="tooltip" class="tip-bottom" data-original-title="Artikel yang diterbitkan di prosiding.">Artikel Prosiding (443)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10255/Buku-Ajar" data-toggle="tooltip" class="tip-bottom" data-original-title="Buku ajar karya dosen, disajikan fulltext.">Buku Ajar (28)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10189/Disertasi" data-toggle="tooltip" class="tip-bottom" data-original-title="">Disertasi (375)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10186/E-book" data-toggle="tooltip" class="tip-bottom" data-original-title="Karya ilmiah dosen, disajikan hanya bagian tertentu dari keseluruhan isi buku.">E-book (172)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10281/Katalog" data-toggle="tooltip" class="tip-bottom" data-original-title="Meta data dari karya ilmiah sivitas akademika UNS">Katalog (4)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10152/Laporan-Penelitian-Dosen" data-toggle="tooltip" class="tip-bottom" data-original-title="">Laporan Penelitian Dosen (66)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/1/Laporan-Tugas-Akhir-D-III" data-toggle="tooltip" class="tip-bottom" data-original-title="">Laporan Tugas Akhir (D III) (16865)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/1254/Laporan-Tugas-Akhir-D-IV" data-toggle="tooltip" class="tip-bottom" data-original-title="">Laporan Tugas Akhir (D IV) (917)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/888/Makalah" data-toggle="tooltip" class="tip-bottom" data-original-title="Karya ilmiah yang dipresentasikan dalam pertemuan ilmiah">Makalah (236)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10284/Paten" data-toggle="tooltip" class="tip-bottom" data-original-title="">Paten (3)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/8472/Pengukuhan-Guru-Besar" data-toggle="tooltip" class="tip-bottom" data-original-title="Naskah disampaikan dalam sidang senat terbuka UNS">Pengukuhan Guru Besar (68)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10282/Poster" data-toggle="tooltip" class="tip-bottom" data-original-title="">Poster (4)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10136/Proposal-Skripsi" data-toggle="tooltip" class="tip-bottom" data-original-title="">Proposal Skripsi (13)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/10283/Prosiding" data-toggle="tooltip" class="tip-bottom" data-original-title="">Prosiding (9)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/261/Skripsi" data-toggle="tooltip" class="tip-bottom" data-original-title="">Skripsi (46370)</a>
+					<br>					<a href="https://digilib.uns.ac.id/dokumen/jenis/494/Tesis" data-toggle="tooltip" class="tip-bottom" data-original-title="">Tesis (10877)</a>
+					<br>        </div>
+    </div>
+</div>
+<div style="height: 30px;"></div><div class="row">
+    <div class="col-md-12 box-left" style="padding: 0px;">
+        <div class="head-left">
+            Fakultas
+        </div>
+        <div class="body-left">
+            <a href="https://digilib.uns.ac.id/dokumen/fakultas/7/Fak-KIP">Fak. KIP (16204)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/2/Fak-Ekonomi-dan-Bisnis">Fak. Ekonomi dan Bisnis (11098)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/8/Fak-ISIP">Fak. ISIP (7556)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/4/Fak-Teknik">Fak. Teknik (5794)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/5/Fak-Kedokteran">Fak. Kedokteran (5579)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/1/Fak-Sastra-dan-Seni-Rupa">Fak. Sastra dan Seni Rupa (4722)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/6/Fak-Hukum">Fak. Hukum (4009)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/3/Fak-MIPA">Fak. MIPA (3859)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/9/Fak-Pertanian">Fak. Pertanian (3736)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/14/Fak-Ilmu-Budaya">Fak. Ilmu Budaya (1529)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/13/Fak-Seni-Rupa-dan-Desain">Fak. Seni Rupa dan Desain (745)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/15/Non-UNS">Non UNS (5)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/16/Fak-Keolahragaan">Fak. Keolahragaan ()</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/11/Pascasarjana">Pascasarjana (10645)</a><br><a href="https://digilib.uns.ac.id/dokumen/fakultas/12/Staf">Staf (58)</a><br>        </div>
+    </div>
+</div>
+                        </div>
+                           
+                    <!--    ------------------------------ END OF SIDE BAR  ---------------------------------   -->
+
+                    <!--    ------------------------------ MAIN PAGE  ---------------------------------------   -->
+                                            <div class="col-md-8 col-xs-12" style="width: 74%; margin-bottom: 20px;">
+                            <div class="body-main">
+                                <div class="page-header" align="center"><h1>Analisis Yuridis Akta Jaminan Fidusia Perjanjian Kredit Bank ditinjau dari Undang - Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia</h1></div>
+        <table class="table table-responsive" style="width: 90%;margin: 0px auto;">
+                        <tr>
+                <td><strong>Penulis Utama</strong></td>
+                <td> : </td>
+                <td>Bernadette Happy Liony H </td>
+            </tr>
+            <tr>
+                <td><strong>Penulis Tambahan</strong></td>
+                <td> : </td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td><strong>NIM / NIP</strong></td>
+                <td> : </td>
+                <td>E0007095</td>
+            </tr>
+            <tr>
+                <td><strong>Tahun</strong></td>
+                <td> : </td>
+                <td>2011</td>
+            </tr>
+            <!--tr>
+                <td>Badan Corporate</td>
+                <td> : </td>
+                <td></td>
+            </tr-->
+            <tr>
+                <td><strong>Judul</strong></td>
+                <td> : </td>
+                <td>Analisis Yuridis Akta Jaminan Fidusia Perjanjian Kredit Bank ditinjau dari Undang - Undang Nomor 42 Tahun 1999 tentang Jaminan Fidusia</td>
+            </tr>
+            <!--tr>
+                <td><strong>Judul Seragam</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Judul Seri</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr-->
+            <tr>
+                <td><strong>Edisi</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Imprint</strong></td>
+                <td> : </td>
+                <td>Surakarta - Fak. Hukum - 2011</td>
+            </tr>
+            <tr>
+                <td><strong>Kolasi</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Sumber</strong></td>
+                <td> : </td>
+                <td>UNS- Fak. HUKUM Jur. Ilmu Hukum-E0007095-2011</td>
+            </tr><tr>
+                <td><strong>Subyek</strong></td>
+                <td> : </td>
+                <td>JAMINAN FIDUSIA </td>
+            </tr>
+            <tr>
+                <td><strong>Jenis Dokumen</strong></td>
+                <td> : </td>
+                <td>Skripsi</td>
+            </tr>
+			<tr>
+                <td><strong>ISSN</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr>
+			<tr>
+                <td><strong>ISBN</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Abstrak</strong></td>
+                <td> : </td>
+                <td style="text-align: justify;"><span style="text-align: justify;"><p>-</p></span></td>
+            </tr>
+            <tr>
+                <td><strong>File Dokumen</strong></td>
+                <td> : </td>
+                <td> 
+                    <a href="https://digilib.uns.ac.id/dokumen/download/79563/NDI3ODUz/Analisis-Yuridis-Akta-Jaminan-Fidusia-Perjanjian-Kredit-Bank-ditinjau-dari-Undang-Undang-Nomor-42-Tahun-1999-tentang-Jaminan-Fidusia-abstrak.pdf">abstrak.pdf</a><br>Harus menjadi member dan login terlebih dahulu untuk bisa download.<br>HALAMAN DEPAN.pdf<br>BAB I.pdf<br>BAB II.pdf<br>BAB III.pdf<br>BAB IV.pdf<br>DAFTAR PUSTAKA.pdf<br>                </td>
+            </tr>
+			<tr>
+                <td><strong>File Dokumen</strong></td>
+                <td> : </td>
+                <td>
+                -                </td>
+            </tr>
+						<tr>
+                <td><strong>Status</strong></td>
+                <td> : </td>
+                <td>Public</td>
+            </tr>
+			<tr>
+                <td><strong>Pembimbing</strong></td>
+                <td> : </td>
+                <td>
+                    1. Suraji, S.H., M.Hum.<br>2. Anjar Sri, C.N,S.H.,M.Hum.<br>                </td>
+            </tr>
+			<tr>
+                <td><strong>Catatan Umum</strong></td>
+                <td> : </td>
+                <td></td>
+            </tr>
+			<tr>
+                <td><strong>Fakultas</strong></td>
+                <td> : </td>
+                <td>Fak. Hukum</td>
+            </tr>
+			        </table>
+<script>
+    function goBack() {
+        window.history.back()
+    }
+</script>                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+
+        <!--    ------------------------------ END OF MAIN PAGE  ---------------------------------------   -->
+
+        <!--    ----------------------------------- FOOTER  --------------------------------------------   -->
+
+        <section id="footer">
+            <div id="container" style="width: 100%; margin: 0px auto;">
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height:3px;">
+
+                </div>
+                <div class="col-md-12 col-xs-18" style="padding: 20px; color: #FFF;  background-color: #0F243E; height: 80px; font-size: 28px; text-align: center;">
+                    My World's <font color="#DA532C">Knowledge Here</font>
+                </div>
+                <div class="col-md-12 col-xs-18" style="background-color: #DA532C; height: 3px;">
+
+                </div>
+                <div class="col-md-12 col-xs-18" style="background-color: #0F243E; height: auto; color: #FFF; padding-bottom: 20px;">
+                    <div class="row" style="padding: 20px 0px;">
+                        <div class="col-md-4 col-xs-4">
+                            <div class="head-foot">
+                                Informasi
+                            </div>
+                            <div class="body-foot">
+                                <ul style="list-style: none; margin: 0px; padding: 5px 10px;">
+                                    <li><a href="https://digilib.uns.ac.id/informasi/view/10/Legal-Warning">Legal Warning </a></li><li><a href="https://digilib.uns.ac.id/informasi/view/11/Cara-Menjadi-Anggota">Cara Menjadi Anggota</a></li><li><a href="https://digilib.uns.ac.id/informasi/view/12/Cara-Akses">Cara Akses</a></li><li><a href="https://digilib.uns.ac.id/informasi/view/13/Lupa-Password">Lupa Password</a></li>                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-4">
+                            <div class="head-foot">
+                                Quick Link
+                            </div>
+                            <div class="body-foot">
+                                <ul style="list-style: none; margin: 0px; padding: 5px 10px;">
+                                    <li><a href="https://library.uns.ac.id/" target="_blank">Perpustakaan UNS</a></li>
+                                    <li><a href="https://unsla.uns.ac.id/" target="_blank">OPAC Online</a></li>
+                                    <li><a href="https://eprints.uns.ac.id/" target="_blank">EPRINTS UNS</a></li>
+                                    <li><a href="https://uns.ac.id" target="_blank">UNS</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-xs-4">
+                            <div class="head-foot">
+                                Statistik
+                            </div>
+                            <div class="body-foot">
+                                <ul style="list-style: none; margin: 0px; padding: 5px 10px;">
+                                    <li><a href="https://digilib.uns.ac.id/statistik/user_akses">User Sering Login</a></li>
+                                    <li><a href="https://digilib.uns.ac.id/statistik/dokumen_dibaca">Dokumen sering dibaca</a></li>
+                                    <li><a href="https://digilib.uns.ac.id/statistik/jumlah_dokumen">Jumlah dokumen per Fakultas</a></li>
+                                    <li><a href="https://digilib.uns.ac.id/statistik/dokumen_prodi">Jumlah Dokumen per Prodi</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 col-xs-18">
+                            <div class="" style="font-weight: normal; font-size: 14px; text-align: center; border-top: 1px solid #CCC; padding-top: 10px;">
+                                &copy; 2015 <a href="https://library.uns.ac.id/" target="_blank"><font color="#FFF">UPT Perpustakaan Universitas Sebelas Maret</font> </a>
+                                <br>
+                                Jl. Ir. Sutami 36 A Kentingan Jebres Surakarta (0271) 654311 | <span style="font-weight: normal"><a href="mailto:library@mail.uns.ac.id" style="color: #2D89EF;">library@mail.uns.ac.id</a></span>
+								 | <a href="https://digilib.uns.ac.id/feed" target="_blank" style="color:#DA532C;"><img src="https://digilib.uns.ac.id/dist/img/rss_ico.ico" height="15px" width="15px"> rss</a>
+							</div>
+                        </div>
+                    </div>
+                </div>
+            </div>        </section>
+
+        <!--    ------------------------------------- END OF FOOTER ---------------------------------------   -->
+		
+    </body>
+    <div align="center">
+        <noscript>
+            <div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+            <div style="font-family: Arial; font-size: 17px; color: #FFF; background-color:#17365D; padding: 11pt;">Mohon aktifkan javascript pada browser untuk mengakses halaman ini!</div></div>
+        </noscript>
+    </div>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$(".tip-top").tooltip({
+				placement : 'top'
+			});
+			$(".tip-right").tooltip({
+				placement : 'right'
+			});
+			$(".tip-bottom").tooltip({
+				placement : 'bottom'
+			});
+			$(".tip-left").tooltip({
+				placement : 'left'
+			});
+		});
+	
+        $('#show_advance').click(function() {
+            if ($("#advance-search").is(":hidden"))
+            {
+                $("#advance-search").slideDown('normal');
+                $('#simply-search').slideUp('normal');
+            } else {
+                $("#advance-search").slideUp('normal');
+                $('#simply-search').slideDown('normal');
+            }
+        });
+    
+    
+//    Kode untuk mematikan fungsi klik kanan di blog
+        //function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
+    
+//   Kode untuk mencegah shorcut keyboard, view source dll.
+        //window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+        //document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+    </script>
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-7535542-1");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-60616108-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-5979059-2', 'auto');
+		ga('send', 'pageview');
+	</script>
+</html>

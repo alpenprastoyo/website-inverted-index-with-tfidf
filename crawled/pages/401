@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Karya Ilmiah Pendidikan UNS</title>
+  <!-- plugins:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/mdi/css/materialdesignicons.min.css">
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.css">
+  <!-- endinject -->
+  <!-- plugin css for this page -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+  <!-- End plugin css for this page -->
+  <!-- inject:css -->
+  <link rel="stylesheet" href="https://karyaku.uns.ac.id/majestic-master/css/style.css">
+  <!-- endinject -->
+  <link rel="shortcut icon" href="https://karyaku.uns.ac.id/Logo_UNS.jpeg" />
+    
+</head>
+<body>
+
+<div class="container-scroller">
+<!-- partial:partials/_navbar.html -->
+ <nav class="navbar col-lg-12 col-12 p-0 fixed-top d-flex flex-row">
+            <div class="navbar-brand-wrapper d-flex justify-content-center">
+        <div class="navbar-brand-inner-wrapper d-flex justify-content-between align-items-center w-100">  
+        <a class="navbar-brand brand-logo" href="https://karyaku.uns.ac.id"><p>Karya Ilmiah Pendidikan</p></a>
+        <a class="navbar-brand brand-logo-mini" href="https://karyaku.uns.ac.id"><img src="https://karyaku.uns.ac.id/Logo_UNS.jpeg" alt="logo"/></a>
+          <button class="navbar-toggler navbar-toggler align-self-center" type="button" data-toggle="minimize">
+            <span class="mdi mdi-sort-variant"></span>
+          </button>
+        </div>  
+      </div>
+      <div class="navbar-menu-wrapper d-flex align-items-center justify-content-end">
+      <!-- search -->
+      <ul class="navbar-nav mr-lg-4 w-100">
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                  
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+              </form>
+            </div>
+          </li>
+          <li class="nav-item nav-search d-none d-lg-block w-100">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="search">
+                  <i class="mdi mdi-magnify"></i>
+                </span>
+              </div>
+              <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+              
+                <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+              </form>
+            </div>
+          </li>
+        </ul>
+        <ul class="navbar-nav navbar-nav-right">
+            <!-- message -->
+          <!-- <li class="nav-item dropdown mr-4">
+            <a class="nav-link count-indicator dropdown-toggle d-flex align-items-center justify-content-center notification-dropdown" id="notificationDropdown" href="#" data-toggle="dropdown">
+              <i class="mdi mdi-bell mx-0"></i>
+              <span class="count"></span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="notificationDropdown">
+              <p class="mb-0 font-weight-normal float-left dropdown-header">Notifications</p>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-success">
+                    <i class="mdi mdi-information mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Application Error</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Just now
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-warning">
+                    <i class="mdi mdi-settings mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">Settings</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    Private message
+                  </p>
+                </div>
+              </a>
+              <a class="dropdown-item">
+                <div class="item-thumbnail">
+                  <div class="item-icon bg-info">
+                    <i class="mdi mdi-account-box mx-0"></i>
+                  </div>
+                </div>
+                <div class="item-content">
+                  <h6 class="font-weight-normal">New user registration</h6>
+                  <p class="font-weight-light small-text mb-0 text-muted">
+                    2 days ago
+                  </p>
+                </div>
+              </a>
+            </div>
+          </li> -->
+         
+                    
+                        
+                  	
+          		
+                    <li class="nav-item nav-profile dropdown">
+               <!-- <a class="btn btn-inverse-primary" href="https://karyaku.uns.ac.id/karyaku-login"> Login </a> -->
+              <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" id="profileDropdown">
+              <!-- <img src="https://karyaku.uns.ac.id/profil.jpg" alt="profile"/> -->
+              <span class="nav-profile-name">Login</span>
+              </a>
+              <div class="dropdown-menu dropdown-menu-right navbar-dropdown" aria-labelledby="profileDropdown">
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/login-karyaku">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login Karyaku
+                </a>
+                <a class="dropdown-item" href="https://karyaku.uns.ac.id/karyaku-old/sso/saml-login.php">
+                  <i class="mdi mdi-login menu-icon"></i>
+                  Login SSO
+                </a> 
+              
+              </div>
+          </li>
+                  </ul>
+  	<button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="modal" data-target="#exampleModal1">
+          <span class="mdi mdi-magnify"></span>
+        </button>
+        <button class="navbar-toggler navbar-toggler-right d-lg-none align-self-center" type="button" data-toggle="offcanvas">
+          <span class="mdi mdi-menu"></span>
+        </button>
+      </div>
+    </nav>
+
+
+ <!-- Modal -->
+<div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Pencarian</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search">
+                
+                <input type="text" value="" name="dosen" class="form-control" placeholder="Cari Data Pendidik" aria-label="search" aria-describedby="search">
+          </form>
+          <form class="" method="GET" action="https://karyaku.uns.ac.id/search-bidang">
+            
+            <input type="text" name="ahli" value="" class="form-control" placeholder="Cari Bidang Keahlian" aria-label="search2" aria-describedby="search2">
+          </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+      </div>
+    </div>
+  </div>
+</div>    
+ <!-- partial -->
+ <div class="container-fluid page-body-wrapper">
+    <!-- partial:partials/_sidebar.html -->
+      <nav class="sidebar sidebar-offcanvas" id="sidebar">
+        <ul class="nav">
+                           
+                                  <li class="nav-item">
+                    <a class="nav-link" data-toggle="collapse" href="#sidebar13" aria-expanded="false" aria-controls="ui-basic">
+                      <i class="mdi mdi-account menu-icon"></i>
+                      <span class="menu-title">Data Dosen</span>
+                      <i class="menu-arrow"></i>
+                    </a>
+                    <div class="collapse" id="sidebar13">
+                      <ul class="nav flex-column sub-menu">
+                                                                        <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/guru-besar">Guru Besar</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/doktor">Doktor</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/magister">Magister</a></li>
+                                                                                                <li class="nav-item"> <a class="nav-link" href="https://karyaku.uns.ac.id/spesialis">Spesialis</a></li>
+                                                                      </ul>
+                    </div>
+                  </li>
+                
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/pohon-harapan">
+                          <i class="mdi mdi-pine-tree menu-icon"></i>
+                          <span class="menu-title">Pohon Harapan</span>
+                        </a>
+                      </li>
+               
+                
+                           
+                
+                    <li class="nav-item">
+                        <a class="nav-link home" href="https://karyaku.uns.ac.id/bantuan">
+                          <i class="mdi mdi-help-circle-outline menu-icon"></i>
+                          <span class="menu-title">Bantuan</span>
+                        </a>
+                      </li>
+               
+                
+                    
+         
+        
+        
+        </ul>
+      </nav>
+      <!-- partial -->
+    <div class="main-panel">
+    
+        <div class="content-wrapper">
+         
+          <div class="row">
+          <div class="col-md-12 stretch-card">
+              <div class="card">
+                <div class="card-body" style="overflow-y: scroll;">
+                  <!-- <p class="card-title">Home Karyaku</p> -->
+                  <p class="card-description">
+                                              </p>
+
+              
+                  <form method="GET" class="form-inline" action="https://karyaku.uns.ac.id/spesialis">
+                    <div class="form-group">
+                      <!-- <label for="exampleFormControlSelect3">Small select</label> -->
+                      <select class="form-control form-control-sm" id="exampleFormControlSelect3" name="fak" required>
+                                              <option value="FK,Fakultas Kedokteran"
+                                                        selected="selected"
+                                                  >Kedokteran</option>
+                                              <option value="FP,Fakultas Pertanian"
+                                                  >Pertanian</option>
+                                              <option value="FMIPA,Fakultas MIPA"
+                                                  >Matematika dan Ilmu Pengetahuan Alam</option>
+                                              <option value="PASCA,Pascasarjana"
+                                                  >Pascasarjana</option>
+                                              <option value="FISIP,Fakultas Ilmu Sosial dan Politik"
+                                                  >Ilmu Sosial dan Politik</option>
+                                              <option value="FH,Fakultas Hukum"
+                                                  >Hukum</option>
+                                              <option value="FEB,Fakultas Ekonomi dan Bisnis"
+                                                  >Ekonomi &amp; Bisnis</option>
+                                              <option value="FKIP,Fakultas KIP"
+                                                  >Keguruan dan Ilmu Pendidikan</option>
+                                              <option value="FIB,Fakultas Ilmu Budaya"
+                                                  >Ilmu Budaya</option>
+                                              <option value="FT,Fakultas Teknik"
+                                                  >Teknik</option>
+                                              <option value="FSRD,Fakultas Seni Rupa dan Desain"
+                                                  >Seni Rupa dan Desain</option>
+                                              <option value="FKOR,Fakultas Keolahragaan"
+                                                  >Keolahragaan</option>
+                                            </select>
+                    </div> 
+                  <button type="submit" class="btn btn-primary btn-sm">submit</button>
+                  </form>
+                                    
+                  <div class="table-responsive mt-3">
+                    <table id="dosen" class="table table-bordered table-striped">
+                      <tbody>
+                    
+                                                
+                          <tr>
+                            <td>1</td>
+                                                        <td> <img src="https://karyaku.uns.ac.id/noprofil.png" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>1540</td>
+                            <td>AGUS PRIYONO, dr.,Sp.BO(K)</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Bedah</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/1949081420171001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>2</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2025-Z3T7GymzOZOcnPrECFxXh5zFFFtDLf0H.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2025</td>
+                            <td>Marwoto, dr., Sp.MK., M.Sc.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>Profesi Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/195902031986011004">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>3</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2385-y67QQjknztv8s-LilzY4QjBxNdWNnNGm.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2385</td>
+                            <td>Adji Suwandono, dr., S.H., Sp.F.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>S-1 Pendidikan Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198012132009121004">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>4</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2017/03/ghHWErXK795VBPjqh2PLwkeK43db0WjB.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2394</td>
+                            <td>HANIS SETYONO, dr., Sp.BS</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Bedah</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/196809272006041001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>5</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/HSQH5EYP01uttqsozUttYPxy9CRWaNg-.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2395</td>
+                            <td>KRISNA YARSA PUTRA, dr.,Sp.B</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Bedah</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/197302022005011001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>6</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/GVYpBfx3iS7-Bc2WCVh34LCNA5MLw_dR.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2399</td>
+                            <td>WIBISONO, dr., Sp.U</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Bedah</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198001312012121002">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>7</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2418-5CGySjT7_ZB1T-qmtow8LJ4eUz-UVoUV.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2418</td>
+                            <td>NOVAN ADI SETYAWAN, dr.,Sp.PA</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>S-1 Pendidikan Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198311072009121005">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>8</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2424-cRWTEBLpB1yorONKE6xK8lzH7ZaOgpRx.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2424</td>
+                            <td>I GUSTI BAGUS INDRO NUGROHO, dr.,Sp.KJ</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Pendidikan Jiwa (Psikiatri)</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/197310032005011001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>9</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2425-TR1KfJvybwkb82H7vk5xbEd_5yz4IjpD.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2425</td>
+                            <td>DHANI REDHONO HARIOPUTRO, dr.,Sp.PD</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Penyakit Dalam</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/197508272006041002">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>10</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2426-vAtJEsIqEjANbXc5R9Krd3DU7plH2iZ9.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2426</td>
+                            <td>Nugrohoaji Dharmawan, dr., Sp.KK., M.Kes.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Kulit dan Kelamin</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/197510302008121001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>11</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/11/nY9MeGQ4_SjlvTm2v2fzCrWrSK19pp7e.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2549</td>
+                            <td>Novianto Adi Nugroho, dr., S.H., M.Sc, Sp.F</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>Profesi Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/1987112220130201">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>12</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/2620-NbN5-pjXmb24KFCp0P-6TOQF0Qe61ldU.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>2620</td>
+                            <td>Rohmaningtyas Hidayah Setyaningrum, dr., Sp.KJ., M.Kes.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Pendidikan Jiwa (Psikiatri)</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198102252014042001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>13</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/3316-X6fUEukTwwVB4B7yL8MCMzw_SRVD7Jel.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3316</td>
+                            <td>EVI ROKHAYATI, dr., Sp.A., M.Kes</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Kesehatan Anak</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/197612222003122014">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>14</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/piSzPYnJya5OjTpjot_uOLw1M-Y44j3w.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3354</td>
+                            <td>Agus Jati Sunggoro, dr., Sp.PD.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Penyakit Dalam</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198408112015041001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>15</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2017/02/zTWmZp3rMX5A3T4a6AZ7u4jkmbh2pCYs.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3355</td>
+                            <td>RATIH TRI KUSUMA DEWI, dr., Sp.PD</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Penyakit Dalam</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198204242015042003">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>16</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2019/12/3357--HOaK_QSYC3nKxk4SxEwdcx3U0Wu7EpR.jpg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3357</td>
+                            <td>PEPI BUDIANTO, dr., Sp.S.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>PPDS Ilmu Penyakit Saraf (Neurologi)</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198202192015041001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>17</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/5snuOFmhoSdMgJg1mXZ8MFHngBLuoD1p.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3367</td>
+                            <td>ASTRI TANTRI INDRIANI, dr.,Sp.A., M.Kes.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>Profesi Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/1985041120160101">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>18</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/GeZSiuQvxguQ252lfvBdxoIUQczzWopq.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3368</td>
+                            <td>DIMAS MARDIAWAN, dr.,Sp.OG., M.Kes.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>Profesi Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/1984042220160101">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>19</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/Uo61wMrtO6kTM3PrAsJo40rp36YllqPf.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3369</td>
+                            <td>ANDRY HARYANTO, dr.,Sp.U.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>S-1 Pendidikan Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/1979030520160101">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                        
+                          <tr>
+                            <td>20</td>
+                                                        <td> <img src="https://simpeg.uns.ac.id/uploads/foto/2016/09/-Vz4NlESjQxXXP3CjqiDbVXywgoOqCXc.jpeg" style="width: 50px;height:50px;" alt="image"/></td>
+                                                        <td>3370</td>
+                            <td>ANDY NUGROHO, dr.,Sp.An., M.Kes.</td>
+                            <td>Fakultas Kedokteran</td>
+                            <td>S-1 Pendidikan Dokter</td>
+                            <td>
+                              <a class="btn btn-primary btn-sm btn-xs" href="https://karyaku.uns.ac.id/detail/198307022018031001">
+                                Lihat Profil
+                              </a>
+                            </td>
+                          </tr>
+                                              </tbody>
+                    </table>
+                  </div>
+                  <nav aria-label="Page navigation example">
+                  <ul class="pagination">
+                                           <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=1">1</a></li>
+                    
+                                          <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=2">2</a></li>
+                    
+                                          <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=3">3</a></li>
+                    
+                                          <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=4">4</a></li>
+                    
+                                          <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=5">5</a></li>
+                    
+                                          <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=6">6</a></li>
+                    
+                                          <li class="page-item"><a class="page-link" href="https://karyaku.uns.ac.id/spesialis?page=7">7</a></li>
+                    
+                                      </ul>
+                  </nav>
+                </div>
+              </div>
+            </div>
+          </div>  <!-- row -->
+
+        </div>    <!-- content-wrapper ends -->
+
+         
+
+<footer class="footer">
+          <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © 2020 <a href="" target="_blank">Dokumentasi Karya Ilmiah Pendidik Universitas Sebelas Maret</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">email: karyailmiah@mail.uns.ac.id<i class="mdi mdi-heart text-danger"></i></span>
+          </div>
+        </footer>
+        <!-- partial -->
+      </div>
+      <!-- main-panel ends -->
+    </div>
+    <!-- page-body-wrapper ends -->
+  </div>
+  <!-- container-scroller -->
+
+  <!-- plugins:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/base/vendor.bundle.base.js"></script>
+  <!-- endinject -->
+  <!-- Plugin js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/chart.js/Chart.min.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+  <!-- End plugin js for this page-->
+  <!-- inject:js -->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/off-canvas.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/hoverable-collapse.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/templateku.js"></script>
+  <!-- endinject -->
+  <!-- Custom js for this page-->
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dashboard.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/data-table.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/jquery.dataTables.js"></script>
+  <script src="https://karyaku.uns.ac.id/majestic-master/js/dataTables.bootstrap4.js"></script>
+  <!-- End custom js for this page-->
+    
+   <script>
+
+ </script>
+</body>
+
+</html>
